@@ -13,7 +13,32 @@ import { RouterOutlet } from '@angular/router';
     </main>
     <app-footer></app-footer>
   `,
-  styles: ``,
+  styles: `
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      overflow-x: hidden;
+    }
+
+    main {
+      font-family: var(--font-main);
+      font-weight: 200;
+      background-color: var(--color-bg);
+      color: var(--color-text-light);
+      position: relative;
+      overflow-x: hidden;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+  `,
 })
 export class MainLayoutComponent {
 

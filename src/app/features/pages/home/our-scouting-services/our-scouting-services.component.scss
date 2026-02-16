@@ -1,0 +1,22 @@
+#services {
+  background-color: #181a1b;
+  padding: 80px 20px;
+  display: flex;
+  align-items: center;
+}
+#services .image-frame {
+  flex: 1 1 300px;
+  text-align: center;
+  width: 500px;
+}
+#services .image-frame .services-image {
+  width: 100%;
+  border-radius: 10px;
+}
+#services .text-frame {
+  flex: 1 1 300px;
+  max-width: 550px;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  padding: 60px;
+}

@@ -1,0 +1,41 @@
+#our-name {
+  height: 100vh;
+  background: var(--background-auras-america) center/cover no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+  position: relative;
+  z-index: 2;
+  box-sizing: border-box;
+}
+
+#our-name-logo {
+  width: clamp(400px, 70vw, 1000px);
+  animation: fadeIn 2s ease forwards;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#our-name-text {
+font-size: clamp(0.8rem, 1.3vw, 1.8rem);
+  margin-top: 30px;
+  animation: fadeIn 3s ease forwards;
+  max-width: 800px;
+  line-height: 1.6;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

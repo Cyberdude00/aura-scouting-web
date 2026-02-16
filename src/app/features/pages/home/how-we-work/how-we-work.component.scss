@@ -1,0 +1,39 @@
+#how {
+  background-color: #181a1b;
+  padding: 80px 20px;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+#services .image-frame,
+#how .image-frame {
+  flex: 1 1 300px;
+  text-align: center;
+}
+
+#services .image-frame {
+  width: 500px;
+}
+
+#services .image-frame .services-image,
+#how .image-frame .how-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+#services .text-frame,
+#how .text-frame {
+  flex: 1 1 300px;
+  max-width: 550px;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+#services .text-frame {
+  padding: 60px;
+}
+
+#how .text-frame {
+  padding-left: 60px;
+}

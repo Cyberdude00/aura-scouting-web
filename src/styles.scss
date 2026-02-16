@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --font-main: "IBM Plex Mono", monospace;
+  --color-bg: #fff;
+  --color-dark: #1c1e1f;
+  --color-light: #1c1e1f;
+  --color-accent: #ff0000;
+  --color-text-light: #ffffff;
+  --color-green: green;
+
+  --background-auras-america: url('/gifs/aura-scouting-video.gif');
+  --background-auras-europe: url('/images/aura-scouting-europa.webp');
+  --background-auras-argentina: url('/images/aura-scouting-argentina.webp');
+}

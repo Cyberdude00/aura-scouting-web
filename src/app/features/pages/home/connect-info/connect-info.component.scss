@@ -1,0 +1,17 @@
+#why {
+  background-image: var(--background-auras-argentina);
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+
+}
+
+#why .frame {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 40px;
+  line-height: 1.8;
+  max-width: 900px;
+}
