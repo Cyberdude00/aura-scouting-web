@@ -1,1 +1,32 @@
-<p>model-submission-form works!</p>
+<section id="model-submission">
+  <h2>Model Submission</h2>
+
+  <div class="contact-form-wrapper">
+    <form id="emailForm" novalidate (ngSubmit)="onSubmit(contactForm)" #contactForm="ngForm">
+      <div class="picture-to-upload" [class.previewing]="isPreviewing">
+        <input id="image_attachment" class="file-input" type="file" name="image_attachment" accept="image/*"
+          (change)="onFileSelected($event)">
+
+        <img [src]="imagePreviewSrc" id="img-preview" class="img-preview" alt="Preview" [style.display]="'block'" />
+
+        <div class="upload-main-text" *ngIf="!isPreviewing">
+          <!-- Placeholder text/icon could go here -->
+        </div>
+      </div>
+
+      <p class="text-xs text-gray-500 mt-1" style="font-size: 0.8rem; color: #888; margin-bottom: 10px;">
+        Max file size: 5MB. Allowed types: JPG, PNG, GIF.
+      </p>
+
+      <input type="text" name="name" placeholder="Name*" class="text" required [(ngModel)]="formData.name">
+      <input type="email" name="email" placeholder="Email*" class="text" required [(ngModel)]="formData.email">
+      <input type="text" name="height" placeholder="Height*" class="text" required [(ngModel)]="formData.height">
+      <input type="text" name="cellphone" placeholder="Cell Phone" class="text" [(ngModel)]="formData.cellphone">
+
+      <button type="submit" id="submitButton" [disabled]="isSubmitting || contactForm.invalid">
+        <span id="buttonText">{{ isSubmitting ? 'Sending...' : 'SUBMIT' }}</span>
+        <div id="loadingSpinner" class="spinner" [class.hidden]="!isSubmitting"></div>
+      </button>
+    </form>
+  </div>
+</section>
