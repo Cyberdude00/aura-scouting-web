@@ -20,6 +20,7 @@ import { Component } from '@angular/core';
       top: 0;
       width: 100%;
       background: var(--color-dark);
+      font-family: var(--font-main);
       padding: 10px 0;
       z-index: 1000;
       color: var(--color-accent);
