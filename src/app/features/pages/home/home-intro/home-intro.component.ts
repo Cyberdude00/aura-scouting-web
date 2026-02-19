@@ -7,7 +7,12 @@ import { Component } from '@angular/core';
     <section id="our-name">
       <img src="/images/aura-scouting-logo.png" alt="Aura Scouting Logo" id="our-name-logo" loading="eager">
       <h1 id="our-name-text">
-        We offer models and agencies the opportunity to shine<br>on the global stage.
+        <span class="intro-copy intro-copy-desktop">
+          We offer models and agencies the opportunity<br>to shine on the global stage.
+        </span>
+        <span class="intro-copy intro-copy-mobile">
+          We offer models and agencies<br>the opportunity to shine<br>on the global stage.
+        </span>
       </h1>
     </section>
   `,

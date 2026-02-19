@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
       <ul>
         <li><a (click)="scrollTo('about')" style="cursor: pointer;">Who we are</a></li>
         <li><a (click)="scrollTo('services')" style="cursor: pointer;">Our services</a></li>
-        <li><a (click)="scrollTo('model-submission')" style="cursor: pointer;">Model Submission</a></li>
+        <li><a (click)="scrollTo('model-submission')" style="cursor: pointer;">Submission</a></li>
         <li><a (click)="scrollTo('contact')" style="cursor: pointer;">Contact us</a></li>
       </ul>
     </nav>
@@ -30,16 +30,24 @@ import { Component } from '@angular/core';
     nav ul {
       list-style: none;
       text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px 24px;
+      margin: 0;
+      padding: 0 12px;
     }
 
     nav ul li {
-      display: inline;
+      display: inline-flex;
       margin: 0 4%;
     }
 
     nav ul li a {
       font-weight: normal;
       transition: color 0.3s ease;
+      white-space: nowrap;
     }
 
     nav ul li a:hover {
@@ -49,6 +57,22 @@ import { Component } from '@angular/core';
     nav a:focus {
       outline: 3px solid var(--color-accent);
       outline-offset: 2px;
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 8px 0;
+      }
+
+      nav ul {
+        gap: 6px 0;
+      }
+
+      nav ul li {
+        margin: 0;
+        flex: 0 0 50%;
+        justify-content: center;
+      }
     }
   `,
 })
