@@ -1,7 +1,7 @@
 #contact {
   background-color: var(--color-dark);
-  color: white;
-  padding-top: 40px;
+  color: var(--color-text-light);
+  padding-top: var(--space-8);
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -14,16 +14,16 @@
 }
 
 #contact h3 {
-  margin-top: 15px;
+  margin-top: var(--space-4);
 }
 
 #contact a {
   color: var(--color-accent);
   text-decoration: none;
   font-weight: 300;
-  font-size: 1.1rem;
+  font-size: var(--text-lg);
   line-height: 1.6;
-  margin: 5px 5px;
+  margin: var(--space-1) var(--space-1);
 }
 
 #contact a:hover {

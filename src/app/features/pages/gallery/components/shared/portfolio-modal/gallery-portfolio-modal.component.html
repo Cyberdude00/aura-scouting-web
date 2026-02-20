@@ -1,0 +1,36 @@
+<section class="portfolio-modal ui-fade-in" *ngIf="model" (click)="closeModal()">
+  <div class="portfolio-panel ui-rise-in" (click)="$event.stopPropagation()">
+    <button class="close-btn" type="button" (click)="closeModal()" aria-label="Close">&times;</button>
+
+    <div class="portfolio-header">
+      <h2>{{ model.name }}</h2>
+      <app-gallery-measurement-system [model]="model"></app-gallery-measurement-system>
+    </div>
+
+    <div class="portfolio-grid" *ngIf="model.portfolio.length">
+      <div
+        class="portfolio-item"
+        *ngFor="let media of model.portfolio; trackBy: trackByPortfolioItem; let i = index"
+        (click)="openMedia(i)"
+        (keydown.enter)="openMedia(i)"
+        tabindex="0"
+        role="button"
+        [attr.aria-label]="'Open media ' + (i + 1)"
+      >
+        <video *ngIf="isVideo(media); else imageTpl" [src]="media" muted playsinline preload="metadata"></video>
+        <ng-template #imageTpl>
+          <img [src]="media" [alt]="model.name + ' portfolio'" loading="lazy">
+          <button
+            type="button"
+            class="download-btn ui-smooth-transition"
+            (click)="downloadMedia($event, media, i)"
+            aria-label="Download photo"
+            title="Download photo"
+          >
+            ⬇
+          </button>
+        </ng-template>
+      </div>
+    </div>
+  </div>
+</section>

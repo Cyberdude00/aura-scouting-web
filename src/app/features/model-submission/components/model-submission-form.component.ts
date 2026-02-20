@@ -1,7 +1,6 @@
 import { CommonModule } from '@angular/common';
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { SeoService } from '../../core/services/seo.service';
 
 @Component({
   selector: 'app-model-submission-form',
@@ -9,7 +8,7 @@ import { SeoService } from '../../core/services/seo.service';
   templateUrl: './model-submission-form.component.html',
   styleUrl: './model-submission-form.component.scss',
 })
-export class ModelSubmissionFormComponent implements OnInit {
+export class ModelSubmissionFormComponent {
   imagePreviewSrc: string = 'images/aura-scouting-logo.png';
   isPreviewing: boolean = false;
   isSubmitting: boolean = false;
@@ -21,21 +20,6 @@ export class ModelSubmissionFormComponent implements OnInit {
     height: '',
     cellphone: ''
   };
-
-  constructor(
-    private seoService: SeoService
-  ) {}
-
-  ngOnInit(): void {
-    this.seoService.generateTags({
-      title: 'Aura Scouting | International Scouting Model Agency',
-      description: 'Aura Scouting is a modeling agency offering a scouting to connect agencies and promote talent from around the world. We connect Asia, America, and Europe.',
-      keywords: 'modeling agency, model scouting, international models, model promotion, talent agency',
-      image: 'https://www.aurascouting.com/assets/images/aura-scouting-logo.png',
-      slug: '' // Home page
-    });
-    this.seoService.setCanonical('https://www.aurascouting.com/');
-  }
 
   onFileSelected(event: Event): void {
     const input = event.target as HTMLInputElement;

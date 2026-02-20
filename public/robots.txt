@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /gallery/
+
+Sitemap: https://www.aurascouting.com/sitemap.xml

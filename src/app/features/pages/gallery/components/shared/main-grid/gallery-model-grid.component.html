@@ -1,0 +1,19 @@
+<main class="grid">
+  <article
+    class="card"
+    *ngFor="let model of models; trackBy: trackByModelId"
+    (click)="openModel(model)"
+    (keydown.enter)="openModel(model)"
+    tabindex="0"
+    role="button"
+    [attr.aria-label]="'Open portfolio for ' + model.name"
+  >
+    <div class="media-wrap">
+      <img [src]="model.cover" [alt]="model.name" loading="lazy">
+      <div class="badge" *ngIf="model.ongoingTrip">Ongoing Trip</div>
+    </div>
+    <div class="card-body">
+      <h2>{{ model.name }}</h2>
+    </div>
+  </article>
+</main>

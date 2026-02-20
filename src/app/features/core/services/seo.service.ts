@@ -42,6 +42,12 @@ export class SeoService {
     this.meta.updateTag({ name: 'twitter:image', content: config.image });
   }
 
+  setRobotsIndex(allowIndex: boolean): void {
+    const robotsContent = allowIndex ? 'index, follow' : 'noindex, nofollow';
+    this.meta.updateTag({ name: 'robots', content: robotsContent });
+    this.meta.updateTag({ name: 'googlebot', content: robotsContent });
+  }
+
   setCanonical(url: string): void {
     if (!isPlatformBrowser(this.platformId)) {
       return;

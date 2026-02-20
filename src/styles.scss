@@ -10,6 +10,32 @@
   --background-auras-america: url('/gifs/aura-scouting-video.gif');
   --background-auras-europe: url('/images/aura-scouting-europa.webp');
   --background-auras-argentina: url('/images/aura-scouting-argentina.webp');
+
+  --smooth-fast: 180ms;
+  --smooth-normal: 220ms;
+  --smooth-slow: 300ms;
+  --smooth-ease: ease;
+
+  --overlay-soft: rgba(0, 0, 0, 0.25);
+  --overlay-strong: rgba(0, 0, 0, 0.55);
+  --panel-dark: #1c1e1f;
+  --surface-dark: #232323;
+  --radius-pill: 999px;
+  --section-dark: #181a1b;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+
+  --text-xs: 0.82rem;
+  --text-sm: 0.92rem;
+  --text-md: 1rem;
+  --text-lg: 1.1rem;
+  --text-xl: clamp(1.4rem, 2.2vw, 2rem);
 }
 
 *,
@@ -22,6 +48,16 @@ html,
 body {
   margin: 0;
   overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+body.gallery-overlay-open {
+  overflow: hidden;
+  touch-action: none;
+}
+
+html.gallery-overlay-open {
+  overflow: hidden;
 }
 
 main {
@@ -40,4 +76,105 @@ main strong,
 main b,
 main label {
   font-weight: 300;
+}
+
+.ui-smooth-transition {
+  transition:
+    opacity var(--smooth-normal) var(--smooth-ease),
+    transform var(--smooth-normal) var(--smooth-ease),
+    background-color var(--smooth-fast) var(--smooth-ease),
+    color var(--smooth-fast) var(--smooth-ease),
+    box-shadow var(--smooth-fast) var(--smooth-ease);
+}
+
+.ui-fade-in {
+  animation: ui-fade-in var(--smooth-normal) var(--smooth-ease);
+}
+
+.ui-rise-in {
+  animation: ui-rise-in var(--smooth-normal) var(--smooth-ease);
+}
+
+.ui-swap {
+  animation: ui-swap var(--smooth-normal) var(--smooth-ease);
+}
+
+@keyframes ui-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes ui-rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes ui-swap {
+  from {
+    opacity: 0.5;
+    transform: translateY(3px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.home-split-section {
+  background-color: var(--section-dark);
+  padding: 80px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(20px, 4vw, 48px);
+  flex-wrap: wrap;
+}
+
+.home-split-image-frame {
+  flex: 1 1 300px;
+  text-align: center;
+  width: min(100%, 520px);
+}
+
+.home-split-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.home-split-text-frame {
+  flex: 1 1 300px;
+  max-width: 550px;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  box-sizing: border-box;
+}
+
+@media (max-width: 900px) {
+  .home-split-section {
+    padding: 56px 16px;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .home-split-image-frame,
+  .home-split-text-frame {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .home-split-text-frame {
+    padding: 0;
+    font-size: 1rem;
+    line-height: 1.65;
+  }
 }

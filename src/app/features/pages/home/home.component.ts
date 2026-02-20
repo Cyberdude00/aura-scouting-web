@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { HomeIntroComponent } from "./home-intro/home-intro.component";
 import { WhoWeAreComponent } from "./who-we-are/who-we-are.component";
 import { OurScoutingServicesComponent }
@@ -8,6 +8,7 @@ import { ConnectInfoComponent } from "./connect-info/connect-info.component";
 import { ModelSubmissionFormComponent }
   from "../../model-submission/components/model-submission-form.component";
 import { ContactUsComponent } from "./contact-us/contact-us.component";
+import { SeoService } from '../../core/services/seo.service';
 
 @Component({
   selector: 'app-home',
@@ -31,6 +32,20 @@ import { ContactUsComponent } from "./contact-us/contact-us.component";
   `,
   styles: ``,
 })
-export class HomeComponent {
+export class HomeComponent implements OnInit {
+  constructor(private readonly seoService: SeoService) {}
+
+  ngOnInit(): void {
+    this.seoService.generateTags({
+      title: 'Home',
+      description:
+        'Aura Scouting is an international scouting agency connecting models with agencies across America, Asia, and Europe.',
+      keywords: 'model scouting, international models, agencies, talent development, aura scouting',
+      image: 'https://www.aurascouting.com/images/aura-scouting-logo.png',
+      slug: '',
+    });
+    this.seoService.setCanonical('https://www.aurascouting.com/');
+    this.seoService.setRobotsIndex(true);
+  }
 
 }

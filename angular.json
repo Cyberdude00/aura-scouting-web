@@ -24,6 +24,11 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/app/features/pages/gallery/models",
+                "output": "/gallery-models"
               }
             ],
             "styles": [
@@ -83,6 +88,11 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/app/features/pages/gallery/models",
+                "output": "/gallery-models"
               }
             ],
             "styles": [

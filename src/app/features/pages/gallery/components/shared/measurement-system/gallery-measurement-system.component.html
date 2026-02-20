@@ -1,0 +1,14 @@
+<div class="measurements" *ngIf="model">
+  <div class="unit-switch" *ngIf="model.height || model.measurements">
+    <button type="button" [class.active]="unitSystem === 'metric'" (click)="useMetric()">cm / m</button>
+    <button type="button" [class.active]="unitSystem === 'imperial'" (click)="useImperial()">ft / in</button>
+  </div>
+
+  <div class="model-meta" [class.ui-swap]="isSwitching">
+    <span *ngIf="formattedHeight"><strong>Height:</strong> {{ formattedHeight }}</span>
+    <span *ngIf="formattedMeasurements"><strong>Measurements:</strong> {{ formattedMeasurements }}</span>
+    <span *ngIf="model.hair"><strong>Hair:</strong> {{ model.hair }}</span>
+    <span *ngIf="model.eyes"><strong>Eyes:</strong> {{ model.eyes }}</span>
+    <span *ngIf="model.shoe"><strong>Shoe:</strong> {{ model.shoe }}</span>
+  </div>
+</div>

@@ -1,67 +1,9 @@
-#how {
-  background-color: #181a1b;
-  padding: 80px 20px;
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: clamp(20px, 4vw, 48px);
-}
-
-#services .image-frame,
-#how .image-frame {
-  flex: 1 1 300px;
-  text-align: center;
-  width: min(100%, 520px);
-}
-
-#services .image-frame {
-  width: min(100%, 520px);
-}
-
-#services .image-frame .services-image,
-#how .image-frame .how-image {
-  width: 100%;
-  border-radius: 10px;
-}
-
-#services .text-frame,
-#how .text-frame {
-  flex: 1 1 300px;
-  max-width: 550px;
-  font-size: 1.1rem;
-  line-height: 1.8;
-  box-sizing: border-box;
-}
-
-#services .text-frame {
-  padding: 24px;
-}
-
 #how .text-frame {
   padding-left: 24px;
 }
 
 @media (max-width: 900px) {
-  #how,
-  #services {
-    padding: 56px 16px;
-    flex-direction: column;
-    gap: 24px;
-  }
-
-  #services .image-frame,
-  #how .image-frame,
-  #services .text-frame,
-  #how .text-frame {
-    width: 100%;
-    max-width: 100%;
-  }
-
-  #services .text-frame,
   #how .text-frame {
     padding: 0;
-    font-size: 1rem;
-    line-height: 1.65;
   }
 }

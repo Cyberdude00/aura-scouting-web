@@ -9,9 +9,16 @@ export const routes: Routes = [
     children: [
       {
         path: '',
+        pathMatch: 'full',
         loadComponent: () =>
           import('./features/pages/home/home.component')
             .then(m => m.HomeComponent)
+      },
+      {
+        path: 'gallery/:group',
+        loadComponent: () =>
+          import('./features/pages/gallery/components/group-page/gallery-group-page.component')
+            .then(m => m.GalleryGroupPageComponent)
       }
     ]
   }

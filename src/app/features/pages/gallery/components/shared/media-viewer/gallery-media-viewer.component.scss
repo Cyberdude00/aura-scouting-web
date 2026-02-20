@@ -1,0 +1,119 @@
+.media-viewer {
+  position: fixed;
+  inset: 0;
+  z-index: 6500;
+  display: grid;
+  place-items: center;
+  padding: 10px;
+  background: var(--overlay-strong);
+  backdrop-filter: blur(12px);
+  overflow: hidden;
+}
+
+.viewer-content {
+  position: relative;
+  width: min(94vw, 980px);
+  height: min(90vh, 760px);
+  max-height: calc(100vh - 20px);
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 10px;
+}
+
+.viewer-media-wrap {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  place-items: center;
+}
+
+.viewer-media-wrap img,
+.viewer-media-wrap video {
+  max-width: 100%;
+  max-height: min(78vh, 680px);
+  border-radius: 16px;
+  object-fit: contain;
+  background: var(--color-light);
+  transition: transform 220ms ease;
+}
+
+.viewer-close,
+.viewer-nav {
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.viewer-close {
+  position: absolute;
+  top: -2px;
+  right: 2px;
+  z-index: 2;
+  width: 40px;
+  height: 40px;
+  background: var(--panel-dark);
+  color: #fff;
+  font-size: 1.8rem;
+}
+
+.viewer-nav {
+  width: 48px;
+  height: 48px;
+  background: var(--overlay-strong);
+  color: var(--color-accent);
+  font-size: 2rem;
+  transition: transform 180ms ease, background 180ms ease;
+}
+
+.viewer-nav:hover {
+  transform: scale(1.05);
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.viewer-download {
+  border: 0;
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 0.9rem;
+  backdrop-filter: blur(4px);
+  cursor: pointer;
+}
+
+.viewer-download:hover {
+  background: rgba(0, 0, 0, 0.72);
+}
+
+@media (max-width: 900px) {
+  .viewer-content {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+    width: min(96vw, 640px);
+    height: min(88vh, 600px);
+  }
+
+  .viewer-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+  }
+
+  .viewer-prev {
+    left: 6px;
+  }
+
+  .viewer-next {
+    right: 6px;
+  }
+}
+

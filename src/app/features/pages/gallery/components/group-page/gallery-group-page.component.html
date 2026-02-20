@@ -1,0 +1,18 @@
+<section class="gallery-page" *ngIf="gallery">
+  <app-gallery-header [galleryName]="gallery.galleryName"></app-gallery-header>
+
+  <app-gallery-model-grid [models]="gallery.models" (modelSelected)="openModel($event)"></app-gallery-model-grid>
+
+  <app-gallery-portfolio-modal
+    [model]="selectedModel"
+    (closed)="closeModel()"
+    (mediaSelected)="openMedia($event)"
+  ></app-gallery-portfolio-modal>
+
+  <app-gallery-media-viewer
+    [mediaPath]="selectedMediaPath"
+    (closed)="closeMediaViewer()"
+    (next)="showNextMedia()"
+    (previous)="showPrevMedia()"
+  ></app-gallery-media-viewer>
+</section>

@@ -237,7 +237,6 @@ const models = [
     instagram: []
   }, // === End Model ===
 
-
   // === Model: Santiago Poggi - Ceres ===
   {
     name: "Santiago Poggi",
@@ -281,6 +280,7 @@ const models = [
   }, // === End Model ===
 
 
+
   // === Model: Maximo ===
   {
     name: "Maximo",
@@ -315,7 +315,6 @@ const models = [
     name: "Alan Marquez",
     gender: "Boys",
       photo: "../models/boys/alan marquez/polas/full/alan_marquez_polas (5).jpg",
-    height: "1.85m",
     measurements: "Suit 38L",
     hair: "Brown",
     eyes: "Green",
@@ -381,7 +380,6 @@ const models = [
     hair: "Brown",
     eyes: "Brown",
     shoe: "9.5/43",
-    availability: "on",
     portfolio: [
       "../models/boys/lucas tarrago/book/full/lucas_tarrago_book_01.jpg",
       "../models/boys/lucas tarrago/book/full/lucas_tarrago_book_02.jpg",
@@ -428,7 +426,8 @@ const models = [
     instagram: []
   }, // === End Model ===
 
-  // === Model: Belisario ===
+
+// === Model: Belisario ===
 
   {
 		name: "Belisario",
@@ -482,6 +481,7 @@ const models = [
     instagram: []
   }, // === End Model ===
 
+
   // === Model: Felicitas Ceres ===
   {
     name: "Felicitas",
@@ -530,7 +530,6 @@ const models = [
     ]
 
   }, // === End Model ===
-
 
 
   // === Model: eva - gh ===
@@ -616,7 +615,6 @@ const models = [
     hair: "blonde",
     eyes: "blue",
     shoe: "8/38",
-    availability: "on",
     portfolio: [
       "../models/girls/emilia bryan/book/full/emilia_bryan_book_01.jpg",
       "../models/girls/emilia bryan/book/full/emilia_bryan_book_02.jpg",
@@ -663,6 +661,7 @@ const models = [
     hair: "Ginger",
     eyes: "Brown",
     shoe: "40",
+    availability: "on",
     portfolio: [
       "../models/girls/chloe - new icon/book/full/chloe (1).jpg",
       "../models/girls/chloe - new icon/book/full/chloe (10).jpg",
@@ -885,10 +884,61 @@ const models = [
       "../models/girls/luciana imoberdof -arg/polas/mini/luciana 10.webp",
     ],
     instagram: []
-    // === End Model ===
+  }, // === End Model ===
 
+  // === Model: Mafer Bezanilla ===
+  {
+    name: "Mafer Bezanilla",
+    gender: "Girl",
+    photo: "../models/girls/mafer bezanilla/polas/mini/mafer_polas (8).jpg",
+    height: "1.70m",
+    measurements: "B 78cm W 60cm H 88cm",
+    hair: "Brown",
+    eyes: "Brown",
+    shoe: "6/36",
+    availability: "on",
+    portfolio: [
+      "../models/girls/mafer bezanilla/book/full/mafer_book_01.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_02.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_03.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_04.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_05.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_06.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_07.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_08.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_09.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_10.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_11.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_12.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_13.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_14.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_15.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_16.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_17.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_18.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_19.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_20.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_21.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_22.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_23.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_24.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_25.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_26.jpg",
+      "../models/girls/mafer bezanilla/book/full/mafer_book_27.jpg",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (1).JPG",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (2).JPG",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (3).JPG",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (4).JPG",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (5).JPG",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (6).jpg",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (7).jpg",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (8).jpg",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (9).jpg",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (10).jpg",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (11).jpg",
+      "../models/girls/mafer bezanilla/polas/full/mafer_polas (12).jpg",
+]
   },
-
   // === Isabel Deutsch - New Icon ===
   {
     name: "Isabel Deutsch",
@@ -899,6 +949,7 @@ const models = [
     hair: "Brown",
     eyes: "Green",
     shoe: "37",
+    availability: "on",
     portfolio: [
       // === Book ===
       "../models/girls/isabel deutsch/book/full/ISABEL-DEUTSCH-PHOTO-1.jpg",
@@ -927,7 +978,6 @@ const models = [
     ],
     instagram: []
     // === End Model ===
-
   },
 
   // === Model: Agostina Martinez ===
@@ -1042,7 +1092,7 @@ const models = [
     name: "Bernardo",
     gender: "Boys",
     photo: "../models/boys/bernardo romano/bernardo romano  book/mini/bernardo_romano_book_01.jpg",
-    height: "181m",
+    height: "5'11-1,81m",
     measurements: "W 31-77cm",
     hair: "Blonde",
     eyes: "Blue",
@@ -1090,10 +1140,10 @@ const models = [
     instagram: []
   }, // === End Model ===
 
-// === Model: Santiago Zezular ===
+ // === Model: Santiago Zezular ===
   {
     name: "Santiago Zezular",
-    gender: "Hombres",
+    gender: "Boys",
     photo: "../models/boys/santiago zezular - ceres/book/mini/15-santiago-zezular-main-book-ceres.webp",
     height: "1.87m",
     measurements: "W 75cm",
@@ -1135,10 +1185,10 @@ const models = [
     instagram: []
   }, // === End Model ===
 
-// === Model: Salih Topcouglu ===
+  // === Model: Salih Topcouglu ===
   {
     name: "Salih",
-    gender: "Hombres",
+    gender: "Boys",
     photo: "../models/boys/salih topcouglu/book/mini/salih book1.webp",
     height: "1.88m",
     measurements: "W 77cm",
@@ -1275,7 +1325,8 @@ const models = [
       //"../models/girls/genesis  - new icon/videos/GENESIS-VIDEO-1.mp4",
     ]
   },
-// === Model: Mariana Arias ===
+
+ // === Model: Mariana Arias ===
   {
     name: "Mariana Arias",
     gender: "Girl",
@@ -1327,4 +1378,3 @@ const models = [
     ]
   },
 ];
-
