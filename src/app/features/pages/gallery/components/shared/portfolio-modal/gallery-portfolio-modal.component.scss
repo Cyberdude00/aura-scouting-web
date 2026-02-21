@@ -1,12 +1,7 @@
 .portfolio-modal {
-  position: fixed;
-  inset: 0;
   z-index: 5000;
-  display: grid;
-  place-items: center;
   padding: 12px;
   background: var(--overlay-soft);
-  backdrop-filter: blur(12px);
 }
 
 .portfolio-panel {
@@ -27,12 +22,9 @@
   display: block;
   width: 40px;
   height: 40px;
-  border: 0;
-  border-radius: 50%;
   background: var(--panel-dark);
   color: #fff;
   font-size: 1.8rem;
-  cursor: pointer;
 }
 
 .portfolio-header {
@@ -45,18 +37,6 @@
   text-align: center;
   font-size: clamp(1.5rem, 2.3vw, 2rem);
   font-weight: 700;
-}
-
-.model-meta {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px 16px;
-  font-size: 0.92rem;
-}
-
-.model-meta strong {
-  color: var(--color-accent);
 }
 
 .portfolio-grid {
@@ -88,22 +68,9 @@
 }
 
 .download-btn {
-  border: 0;
-  position: absolute;
   right: 8px;
   bottom: 8px;
   width: 28px;
   height: 28px;
-  border-radius: 50%;
-  display: grid;
-  place-items: center;
-  background: rgba(0, 0, 0, 0.5);
-  color: #fff;
   font-size: 0.85rem;
-  backdrop-filter: blur(4px);
-  cursor: pointer;
-}
-
-.download-btn:hover {
-  background: rgba(0, 0, 0, 0.72);
 }

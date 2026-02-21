@@ -40,3 +40,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Gallery model media (ignore complete models folder)
+/src/app/features/pages/gallery/data/import/models/

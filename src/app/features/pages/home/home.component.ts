@@ -37,10 +37,10 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
     this.seoService.generateTags({
-      title: 'Home',
+      title: 'International Model Scouting Agency',
       description:
-        'Aura Scouting is an international scouting agency connecting models with agencies across America, Asia, and Europe.',
-      keywords: 'model scouting, international models, agencies, talent development, aura scouting',
+        'Aura Scouting is an international model scouting agency connecting new faces with leading agencies across America, Europe, and Asia.',
+      keywords: 'aura scouting, model scouting agency, international model agency, new faces, fashion scouting, talent development',
       image: 'https://www.aurascouting.com/images/aura-scouting-logo.png',
       slug: '',
     });

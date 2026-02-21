@@ -1,7 +1,7 @@
-<section class="media-viewer ui-fade-in" *ngIf="mediaPath" (click)="closeViewer()">
+<section class="media-viewer gallery-overlay ui-fade-in" *ngIf="mediaPath" (click)="closeViewer()">
   <div class="viewer-content" (click)="$event.stopPropagation()" (touchstart)="onTouchStart($event)" (touchend)="onTouchEnd($event)">
-    <button class="viewer-close" type="button" (click)="closeViewer()" aria-label="Close">&times;</button>
-    <button class="viewer-nav viewer-prev" type="button" (click)="showPrevious()" aria-label="Previous">&#10094;</button>
+    <button class="viewer-close gallery-round-btn" type="button" (click)="closeViewer()" aria-label="Close">&times;</button>
+    <button class="viewer-nav viewer-prev gallery-round-btn" type="button" (click)="showPrevious()" aria-label="Previous">&#10094;</button>
 
     <div class="viewer-media-wrap">
       <video *ngIf="isVideo(mediaPath); else imageTpl" [src]="mediaPath" controls playsinline autoplay></video>
@@ -12,7 +12,7 @@
       <button
         *ngIf="canDownloadImage"
         type="button"
-        class="viewer-download ui-smooth-transition"
+        class="viewer-download gallery-download-btn ui-smooth-transition"
         (click)="downloadCurrentMedia($event)"
         aria-label="Download photo"
         title="Download photo"
@@ -21,6 +21,6 @@
       </button>
     </div>
 
-    <button class="viewer-nav viewer-next" type="button" (click)="showNext()" aria-label="Next">&#10095;</button>
+    <button class="viewer-nav viewer-next gallery-round-btn" type="button" (click)="showNext()" aria-label="Next">&#10095;</button>
   </div>
 </section>

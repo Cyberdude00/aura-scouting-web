@@ -1,4 +1,8 @@
+# Aura Scouting SEO policy
+# Home and public content can be indexed.
+# Gallery is private (dynamic route /gallery/:group) and must not be indexed.
 User-agent: *
+Allow: /
 Disallow: /gallery/
 
 Sitemap: https://www.aurascouting.com/sitemap.xml

@@ -4,8 +4,6 @@
   --color-dark: #1c1e1f;
   --color-light: #1c1e1f;
   --color-accent: #ff0000;
-  --color-text-light: #ffffff;
-  --color-green: green;
 
   --background-auras-america: url('/gifs/aura-scouting-video.gif');
   --background-auras-europe: url('/images/aura-scouting-europa.webp');
@@ -13,7 +11,6 @@
 
   --smooth-fast: 180ms;
   --smooth-normal: 220ms;
-  --smooth-slow: 300ms;
   --smooth-ease: ease;
 
   --overlay-soft: rgba(0, 0, 0, 0.25);
@@ -28,12 +25,10 @@
   --space-3: 12px;
   --space-4: 16px;
   --space-5: 20px;
-  --space-6: 24px;
   --space-8: 32px;
 
   --text-xs: 0.82rem;
   --text-sm: 0.92rem;
-  --text-md: 1rem;
   --text-lg: 1.1rem;
   --text-xl: clamp(1.4rem, 2.2vw, 2rem);
 }
@@ -99,6 +94,79 @@ main label {
   animation: ui-swap var(--smooth-normal) var(--smooth-ease);
 }
 
+.gallery-overlay {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  backdrop-filter: blur(12px);
+}
+
+.gallery-round-btn {
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.btn-outline-accent {
+  border: 2px solid var(--color-accent);
+  background: transparent;
+  color: var(--color-accent);
+  font-family: var(--font-main);
+  font-weight: 300;
+  letter-spacing: 1.2px;
+  cursor: pointer;
+  transition:
+    background-color var(--smooth-fast) var(--smooth-ease),
+    color var(--smooth-fast) var(--smooth-ease),
+    border-color var(--smooth-fast) var(--smooth-ease),
+    opacity var(--smooth-fast) var(--smooth-ease);
+}
+
+.btn-outline-accent:hover:not(:disabled) {
+  background: var(--color-accent);
+  color: #fff;
+}
+
+.btn-outline-accent:disabled {
+  opacity: 0.75;
+  cursor: not-allowed;
+}
+
+.btn-icon-soft {
+  border: 0;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  backdrop-filter: blur(4px);
+  cursor: pointer;
+  transition:
+    transform var(--smooth-fast) var(--smooth-ease),
+    background-color var(--smooth-fast) var(--smooth-ease);
+}
+
+.btn-icon-soft:hover {
+  background: rgba(0, 0, 0, 0.72);
+}
+
+.gallery-download-btn {
+  border: 0;
+  position: absolute;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  backdrop-filter: blur(4px);
+  cursor: pointer;
+}
+
+.gallery-download-btn:hover {
+  background: rgba(0, 0, 0, 0.72);
+}
+
 @keyframes ui-fade-in {
   from {
     opacity: 0;
@@ -127,54 +195,5 @@ main label {
   to {
     opacity: 1;
     transform: translateY(0);
-  }
-}
-
-.home-split-section {
-  background-color: var(--section-dark);
-  padding: 80px 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: clamp(20px, 4vw, 48px);
-  flex-wrap: wrap;
-}
-
-.home-split-image-frame {
-  flex: 1 1 300px;
-  text-align: center;
-  width: min(100%, 520px);
-}
-
-.home-split-image {
-  width: 100%;
-  border-radius: 10px;
-}
-
-.home-split-text-frame {
-  flex: 1 1 300px;
-  max-width: 550px;
-  font-size: 1.1rem;
-  line-height: 1.8;
-  box-sizing: border-box;
-}
-
-@media (max-width: 900px) {
-  .home-split-section {
-    padding: 56px 16px;
-    flex-direction: column;
-    gap: 24px;
-  }
-
-  .home-split-image-frame,
-  .home-split-text-frame {
-    width: 100%;
-    max-width: 100%;
-  }
-
-  .home-split-text-frame {
-    padding: 0;
-    font-size: 1rem;
-    line-height: 1.65;
   }
 }

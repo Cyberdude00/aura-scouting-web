@@ -10,7 +10,6 @@
         <img [src]="imagePreviewSrc" id="img-preview" class="img-preview" alt="Preview" [style.display]="'block'" />
 
         <div class="upload-main-text" *ngIf="!isPreviewing">
-          <!-- Placeholder text/icon could go here -->
         </div>
       </div>
 
@@ -23,7 +22,7 @@
       <input type="text" name="height" placeholder="Height*" class="text" required [(ngModel)]="formData.height">
       <input type="text" name="cellphone" placeholder="Cell Phone" class="text" [(ngModel)]="formData.cellphone">
 
-      <button type="submit" id="submitButton" [disabled]="isSubmitting || contactForm.invalid">
+      <button type="submit" id="submitButton" class="btn-outline-accent" [disabled]="isSubmitting || contactForm.invalid">
         <span id="buttonText">{{ isSubmitting ? 'Sending...' : 'SUBMIT' }}</span>
         <div id="loadingSpinner" class="spinner" [class.hidden]="!isSubmitting"></div>
       </button>

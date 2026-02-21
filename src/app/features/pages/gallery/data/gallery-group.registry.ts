@@ -59,7 +59,17 @@ function createGalleryGroup(galleryKey: string, galleryName: string, models: Sco
 function resolveModels(modelIds: string[]): ScoutingModel[] {
   return modelIds
     .map((id) => modelCatalog[id])
-    .filter((model): model is ScoutingModel => Boolean(model));
+    .filter((model): model is ScoutingModel => {
+      if (!model) {
+        return false;
+      }
+
+      const hasPhoto = typeof model.photo === 'string' && model.photo.trim().length > 0;
+      const hasPortfolio = Array.isArray(model.portfolio)
+        && model.portfolio.some((item) => typeof item === 'string' && item.trim().length > 0);
+
+      return hasPhoto && hasPortfolio;
+    });
 }
 
 export const galleryGroupRegistry: Record<string, GalleryGroup> = agencyGalleriesConfig.reduce((acc, group) => {
@@ -68,5 +78,12 @@ export const galleryGroupRegistry: Record<string, GalleryGroup> = agencyGallerie
 }, {} as Record<string, GalleryGroup>);
 
 export function getGalleryGroup(galleryKey: string): GalleryGroup | null {
-  return galleryGroupRegistry[galleryKey.toLowerCase()] ?? null;
+  const normalizedKey = galleryKey.toLowerCase();
+  const legacyAliases: Record<string, string> = {
+    corea: 'korea',
+    japon: 'japan',
+  };
+
+  const resolvedKey = legacyAliases[normalizedKey] ?? normalizedKey;
+  return galleryGroupRegistry[resolvedKey] ?? null;
 }

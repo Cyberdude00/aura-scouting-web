@@ -1,6 +1,6 @@
-<section class="portfolio-modal ui-fade-in" *ngIf="model" (click)="closeModal()">
+<section class="portfolio-modal gallery-overlay ui-fade-in" *ngIf="model" (click)="closeModal()">
   <div class="portfolio-panel ui-rise-in" (click)="$event.stopPropagation()">
-    <button class="close-btn" type="button" (click)="closeModal()" aria-label="Close">&times;</button>
+    <button class="close-btn gallery-round-btn" type="button" (click)="closeModal()" aria-label="Close">&times;</button>
 
     <div class="portfolio-header">
       <h2>{{ model.name }}</h2>
@@ -22,7 +22,7 @@
           <img [src]="media" [alt]="model.name + ' portfolio'" loading="lazy">
           <button
             type="button"
-            class="download-btn ui-smooth-transition"
+            class="download-btn gallery-download-btn ui-smooth-transition"
             (click)="downloadMedia($event, media, i)"
             aria-label="Download photo"
             title="Download photo"

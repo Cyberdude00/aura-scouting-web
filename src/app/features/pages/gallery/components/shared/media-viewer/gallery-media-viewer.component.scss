@@ -1,12 +1,7 @@
 .media-viewer {
-  position: fixed;
-  inset: 0;
   z-index: 6500;
-  display: grid;
-  place-items: center;
   padding: 10px;
   background: var(--overlay-strong);
-  backdrop-filter: blur(12px);
   overflow: hidden;
 }
 
@@ -41,9 +36,6 @@
 
 .viewer-close,
 .viewer-nav {
-  border: 0;
-  border-radius: 50%;
-  cursor: pointer;
 }
 
 .viewer-close {
@@ -73,24 +65,11 @@
 }
 
 .viewer-download {
-  border: 0;
-  position: absolute;
   right: 12px;
   bottom: 12px;
   width: 32px;
   height: 32px;
-  border-radius: 50%;
-  display: grid;
-  place-items: center;
-  background: rgba(0, 0, 0, 0.5);
-  color: #fff;
   font-size: 0.9rem;
-  backdrop-filter: blur(4px);
-  cursor: pointer;
-}
-
-.viewer-download:hover {
-  background: rgba(0, 0, 0, 0.72);
 }
 
 @media (max-width: 900px) {

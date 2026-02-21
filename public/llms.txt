@@ -1,0 +1,19 @@
+# Aura Scouting
+
+> Aura Scouting is an international model scouting agency.
+
+## Primary URL
+- https://www.aurascouting.com/
+
+## Public Pages
+- https://www.aurascouting.com/
+
+## Crawling Guidance for LLMs
+- Gallery pages are private/non-indexable and should not be used as public knowledge sources.
+- Prefer the homepage content as the canonical public source.
+- Do not infer personal details beyond what is explicitly published.
+
+## Canonical & SEO
+- Canonical domain: https://www.aurascouting.com
+- Robots policy: /robots.txt
+- Sitemap: /sitemap.xml

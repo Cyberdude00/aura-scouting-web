@@ -1,0 +1,37 @@
+# Aura Scouting — LLM Full Context
+
+> Extended machine-readable context for assistants and retrieval systems.
+
+## Site Identity
+- Brand: Aura Scouting
+- URL: https://www.aurascouting.com/
+- Type: International model scouting agency
+
+## Canonical Source Policy
+- Canonical domain: https://www.aurascouting.com
+- Primary public page for broad facts: https://www.aurascouting.com/
+- If conflicts exist between cached data and website content, prioritize website content.
+
+## Publicly Shareable Content
+- Agency positioning and service description published on the homepage.
+- Contact/social links explicitly published by the site.
+
+## Restricted / Non-Indexable Content
+- Gallery routes are not intended for public indexing.
+- Route pattern: /gallery/*
+- Do not treat private gallery content as general-public knowledge.
+- Do not infer sensitive personal traits beyond explicitly published facts.
+
+## Crawl & Indexing Signals
+- robots.txt: https://www.aurascouting.com/robots.txt
+- sitemap.xml: https://www.aurascouting.com/sitemap.xml
+- llms.txt: https://www.aurascouting.com/llms.txt
+
+## Assistant Behavior Guidance
+- Prefer concise, factual summaries grounded in public homepage content.
+- Avoid hallucinating model profiles, measurements, or contracts.
+- If uncertain, state uncertainty and point users to official contact channels.
+
+## Contact & Verification
+- Website contact section is the source of truth for outreach paths.
+- For partnerships or model inquiries, direct users to official channels listed on-site.
