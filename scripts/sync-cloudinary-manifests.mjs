@@ -11,6 +11,7 @@ function parseArgs(argv) {
       'src/app/features/pages/gallery/data/import/models/models-china-feb.js',
     ],
     dryRun: false,
+    preserveCurrentOrder: true,
   };
 
   for (let i = 0; i < argv.length; i += 1) {
@@ -37,6 +38,14 @@ function parseArgs(argv) {
 
     if (current === '--dry-run') {
       args.dryRun = true;
+    }
+
+    if (current === '--preserve-current-order') {
+      args.preserveCurrentOrder = true;
+    }
+
+    if (current === '--legacy-order') {
+      args.preserveCurrentOrder = false;
     }
   }
 
@@ -177,6 +186,47 @@ function formatPortfolio(urls) {
   return `portfolio: [\n${lines.join('\n')}\n    ],`;
 }
 
+function extractPortfolioUrlsFromBlock(block) {
+  const match = block.match(/portfolio:\s*\[([\s\S]*?)\],/m);
+  if (!match) {
+    return [];
+  }
+
+  return [...match[1].matchAll(/"([^"]+)"/g)].map((entry) => entry[1]);
+}
+
+function reorderByCurrentBlockOrder(manifestUrls, currentBlockUrls) {
+  if (!currentBlockUrls.length) {
+    return manifestUrls;
+  }
+
+  const withKey = manifestUrls.map((url, index) => ({
+    url,
+    index,
+    key: basenameKey(url),
+  }));
+
+  const ordered = [];
+  const used = new Set();
+
+  for (const currentUrl of currentBlockUrls) {
+    const targetKey = basenameKey(currentUrl);
+    const foundIndex = withKey.findIndex((entry, idx) => !used.has(idx) && entry.key === targetKey);
+    if (foundIndex >= 0) {
+      used.add(foundIndex);
+      ordered.push(withKey[foundIndex].url);
+    }
+  }
+
+  for (let i = 0; i < withKey.length; i += 1) {
+    if (!used.has(i)) {
+      ordered.push(withKey[i].url);
+    }
+  }
+
+  return ordered;
+}
+
 function choosePhotoUrl(orderedItems, legacyOrderKeys, currentPhoto) {
   if (!orderedItems.length) {
     return currentPhoto;
@@ -305,8 +355,18 @@ async function run() {
 
     matchedManifestKeys.add(slugify(manifestEntry.modelName));
 
-    let nextBlock = block.replace(/photo:\s*"[^"]*",/, `photo: "${urls[0]}",`);
-    nextBlock = nextBlock.replace(/portfolio:\s*\[[\s\S]*?\],/, formatPortfolio(urls));
+    const currentBlockUrls = extractPortfolioUrlsFromBlock(block);
+    const finalUrls = args.preserveCurrentOrder
+      ? reorderByCurrentBlockOrder(urls, currentBlockUrls)
+      : urls;
+
+    if (!finalUrls.length) {
+      warnings.push(`No URLs to apply after ordering: ${manifestEntry.fileName}`);
+      return fullBlock;
+    }
+
+    let nextBlock = block.replace(/photo:\s*"[^"]*",/, `photo: "${finalUrls[0]}",`);
+    nextBlock = nextBlock.replace(/portfolio:\s*\[[\s\S]*?\],/, formatPortfolio(finalUrls));
 
     if (nextBlock !== block) {
       appliedCount += 1;
@@ -324,6 +384,7 @@ async function run() {
 
   if (args.dryRun) {
     console.log('Dry run complete. No file changes written.');
+    console.log(`Order mode: ${args.preserveCurrentOrder ? 'preserve-current-order' : 'legacy-order'}`);
     console.log(`Manifests processed: ${manifests.length}`);
     console.log(`Models updated: ${appliedCount}`);
     if (warnings.length > 0) {
@@ -338,6 +399,7 @@ async function run() {
   await fs.writeFile(modelsFileAbs, modelsContent, 'utf8');
 
   console.log('Cloudinary manifests synced to gallery models file.');
+  console.log(`Order mode: ${args.preserveCurrentOrder ? 'preserve-current-order' : 'legacy-order'}`);
   console.log(`Manifests processed: ${manifests.length}`);
   console.log(`Models updated: ${appliedCount}`);
   if (warnings.length > 0) {

@@ -7,7 +7,11 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:aura-scouting-web": "node dist/aura-scouting-web/server/server.mjs"
+    "serve:ssr:aura-scouting-web": "node dist/aura-scouting-web/server/server.mjs",
+    "gallery:optimize": "python scripts/optimize-models-images.py",
+    "gallery:upload": "node scripts/cloudinary-batch-models.mjs --upload",
+    "gallery:sync": "node scripts/sync-cloudinary-manifests.mjs",
+    "gallery:update": "npm run gallery:upload && npm run gallery:sync && npm run build"
   },
   "prettier": {
     "printWidth": 100,
