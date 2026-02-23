@@ -7,14 +7,13 @@ import { slugifyValue } from '../utils/gallery-string.utils';
 function resolveOngoingTrip(id: string, model: ScoutingModel): boolean {
   const configuredStatus = ongoingTripStatusByModelId[id];
 
-  if (configuredStatus === 'on') {
+  // Invertir la lógica: 'off' muestra el letrero (true), 'on' lo oculta (false)
+  if (configuredStatus === 'off') {
     return true;
   }
-
-  if (configuredStatus === 'off') {
+  if (configuredStatus === 'on') {
     return false;
   }
-
   return model.availability === 'off';
 }
 

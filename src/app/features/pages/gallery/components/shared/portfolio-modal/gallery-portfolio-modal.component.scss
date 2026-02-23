@@ -1,18 +1,33 @@
 .portfolio-modal {
   z-index: 5000;
   padding: 12px;
-  background: var(--overlay-soft);
+  background: var(--overlay-light);
 }
 
 .portfolio-panel {
   position: relative;
   width: min(970px, 100%);
   max-height: 92vh;
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
   padding: 24px 12px;
   border-radius: 18px;
   background: rgba(0, 0, 0, 0.23);
   box-shadow: 0 10px 60px #000a;
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: #232323 #181818; /* thumb, track */
+}
+.portfolio-panel::-webkit-scrollbar {
+  width: 10px;
+  background: #181818;
+}
+.portfolio-panel::-webkit-scrollbar-thumb {
+  background: #232323;
+  border-radius: 8px;
+  border: 2px solid #181818;
+}
+.portfolio-panel::-webkit-scrollbar-thumb:hover {
+  background: #333;
 }
 
 .close-btn {
@@ -22,7 +37,7 @@
   display: block;
   width: 40px;
   height: 40px;
-  background: var(--panel-dark);
+  background: var(--color-dark);
   color: #fff;
   font-size: 1.8rem;
 }
@@ -50,7 +65,7 @@
   aspect-ratio: 3 / 4;
   overflow: hidden;
   border-radius: 12px;
-  background: var(--surface-dark);
+  background: var(--color-dark);
   cursor: pointer;
   transition: transform 180ms ease;
 }

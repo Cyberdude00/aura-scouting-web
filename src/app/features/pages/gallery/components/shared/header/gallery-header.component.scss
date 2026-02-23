@@ -4,25 +4,79 @@
   padding: var(--space-8) 4vw var(--space-3);
 }
 
+
 .header-inner {
   display: grid;
-  grid-template-columns: minmax(220px, 340px) 1fr;
+  grid-template-columns: minmax(180px, 320px) 1fr minmax(180px, 320px);
   align-items: center;
   gap: var(--space-5);
 }
 
-.logo {
-  width: auto;
-  height: 108px;
-  max-width: 320px;
+.logo-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
 
-h1 {
+.logo {
+  width: auto;
+  height: 90px;
+  max-width: 220px;
+}
+
+.header-title-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-title-center h1 {
   margin: 0;
-  text-align: left;
+  text-align: center;
   font-size: var(--text-xl);
   font-weight: 700;
   letter-spacing: 2px;
+}
+
+
+.header-mails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: 1rem;
+  font-family: var(--font-main);
+  line-height: 1.2;
+}
+
+.mail-link {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 300;
+  font-size: var(--text-lg);
+  line-height: 1.6;
+  margin: var(--space-1) var(--space-1);
+  transition: color 0.18s;
+}
+.mail-link:hover {
+  color: #fff;
+}
+
+@media (max-width: 900px) {
+  .header-inner {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+  }
+  .logo-wrap {
+    justify-content: center;
+  }
+  .header-title-center h1 {
+    text-align: center;
+  }
+  .header-mails {
+    align-items: center;
+    margin-top: 8px;
+  }
 }
 
 @media (max-width: 900px) {

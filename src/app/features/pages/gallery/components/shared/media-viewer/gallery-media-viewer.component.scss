@@ -1,7 +1,7 @@
 .media-viewer {
   z-index: 6500;
   padding: 10px;
-  background: var(--overlay-strong);
+  background: var(--overlay-dark);
   overflow: hidden;
 }
 
@@ -45,7 +45,7 @@
   z-index: 2;
   width: 40px;
   height: 40px;
-  background: var(--panel-dark);
+  background: var(--color-dark);
   color: #fff;
   font-size: 1.8rem;
 }
@@ -53,10 +53,10 @@
 .viewer-nav {
   width: 48px;
   height: 48px;
-  background: var(--overlay-strong);
+  background: var(--overlay-dark);
   color: var(--color-accent);
   font-size: 2rem;
-  transition: transform 180ms ease, background 180ms ease;
+  transition: transform 180ms ease, background-color 180ms ease;
 }
 
 .viewer-nav:hover {

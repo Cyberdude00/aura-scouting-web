@@ -1,24 +1,21 @@
 :root {
   --font-main: "IBM Plex Mono", monospace;
   --color-bg: #fff;
-  --color-dark: #1c1e1f;
-  --color-light: #1c1e1f;
+  --color-dark: #181a1b;
+  --color-light: #fff;
   --color-accent: #ff0000;
 
   --background-auras-america: url('/gifs/aura-scouting-video.gif');
   --background-auras-europe: url('/images/aura-scouting-europa.webp');
   --background-auras-argentina: url('/images/aura-scouting-argentina.webp');
 
-  --smooth-fast: 180ms;
-  --smooth-normal: 220ms;
+  --smooth-fast: 220ms;
+  --smooth-normal: 440ms;
   --smooth-ease: ease;
 
-  --overlay-soft: rgba(0, 0, 0, 0.25);
-  --overlay-strong: rgba(0, 0, 0, 0.55);
-  --panel-dark: #1c1e1f;
-  --surface-dark: #232323;
+  --overlay-light: rgba(0, 0, 0, 0.25);
+  --overlay-dark: rgba(0, 0, 0, 0.55);
   --radius-pill: 999px;
-  --section-dark: #181a1b;
 
   --space-1: 4px;
   --space-2: 8px;
