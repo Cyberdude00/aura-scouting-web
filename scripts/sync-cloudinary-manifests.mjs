@@ -5,11 +5,7 @@ function parseArgs(argv) {
   const args = {
     manifestsDir: 'src/app/features/pages/gallery/data/import/models/_cloudinary-manifests',
     modelsFile: 'src/app/features/pages/gallery/data/gallery-models.data.ts',
-    legacyFiles: [
-      'public/assets/models/archives legacy/models-korea-feb.js',
-      'public/assets/models/archives legacy/models-japan.js',
-      'public/assets/models/archives legacy/models-china-feb.js',
-    ],
+    legacyFiles: [],
     dryRun: false,
     preserveCurrentOrder: true,
   };
