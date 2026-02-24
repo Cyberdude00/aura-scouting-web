@@ -6,9 +6,9 @@ function parseArgs(argv) {
     manifestsDir: 'src/app/features/pages/gallery/data/import/models/_cloudinary-manifests',
     modelsFile: 'src/app/features/pages/gallery/data/gallery-models.data.ts',
     legacyFiles: [
-      'src/app/features/pages/gallery/data/import/models/models-korea-feb.js',
-      'src/app/features/pages/gallery/data/import/models/models-japan.js',
-      'src/app/features/pages/gallery/data/import/models/models-china-feb.js',
+      'public/assets/models/archives legacy/models-korea-feb.js',
+      'public/assets/models/archives legacy/models-japan.js',
+      'public/assets/models/archives legacy/models-china-feb.js',
     ],
     dryRun: false,
     preserveCurrentOrder: true,
