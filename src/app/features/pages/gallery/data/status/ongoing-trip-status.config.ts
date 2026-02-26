@@ -15,7 +15,7 @@ export const ongoingTripStatusByModelId: Record<string, OngoingTripStatus> = {
   'alicia-vallecilla': 'on',
   'luciana-imoberdorf': 'on',
   'isabel-deutsch': 'on',
-  'agos-martinez': 'on',
+  'agos-martinez': 'off',
   'doga-bursali': 'on',
   'bernardo-romano': 'on',
   'santiago-zezular': 'off',

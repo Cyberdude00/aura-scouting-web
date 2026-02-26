@@ -23,10 +23,7 @@ export class SeoService {
   ) {}
 
   generateTags(config: SeoTag): void {
-    const normalizedTitle = config.title.trim();
-    const title = normalizedTitle.toLowerCase().includes('aura scouting')
-      ? normalizedTitle
-      : `${normalizedTitle} | Aura Scouting`;
+    const title = 'Aura Scouting';
     const url = `${this.baseUrl}${config.slug ? '/' + config.slug : ''}`;
 
     this.title.setTitle(title);

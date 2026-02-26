@@ -105,12 +105,11 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       'lautaro-rodriguez',
       'manu-llofrein',
       'victoria',
-      'zoe',
+      'pilar-sampaio',
       'agos-martinez',
       'lucas-tarrago',
       'santiago-zezular',
       'salih-topcouglu',
-      'pilar-sampaio',
     ],
   },
 ];
