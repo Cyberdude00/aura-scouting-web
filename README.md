@@ -59,6 +59,50 @@ $env:CLOUDINARY_API_SECRET="TU_SECRET"
 	- `py scripts/optimize-models-images.py`
 - La media local está ignorada por git para no subir galerías pesadas.
 
+## Configuración de status y fullbook (por país y por modelo)
+
+### 1) Dónde se configura
+
+- Estado y activación por modelo:
+	- `src/app/features/pages/gallery/data/groups/agency-galleries.config.ts`
+- Material extra fullbook:
+	- `src/app/features/pages/gallery/data/catalog/full-material-catalog.ts`
+
+### 2) Formato por modelo en cada galería
+
+```ts
+{ id: 'adan', status: 'on', fullbook: 'off' }
+```
+
+- `status: 'on' | 'off'`
+	- `'off'` muestra el badge `Ongoing Trip`
+	- `'on'` lo oculta
+- `fullbook: 'on' | 'off'`
+	- `'on'` habilita inserción de material fullbook para ese modelo
+	- `'off'` usa solo material base
+
+### 3) Orden del material en la galería
+
+- Sin fullbook: `book -> polas`
+- Con fullbook: `book -> fullbook -> polas`
+
+### 4) Cómo cargar nuevas fotos de fullbook
+
+En `full-material-catalog.ts`, por cada `id`:
+
+```ts
+export const fullMaterialCatalog: Record<string, FullMaterialMedia> = {
+	'adan': {
+		fullbook: [
+			'https://tu-cdn/models/adan/fullbook/adan_fullbook_01.jpg',
+			'https://tu-cdn/models/adan/fullbook/adan_fullbook_02.jpg',
+		],
+	},
+};
+```
+
+Si `fullbook: 'on'` y no hay entradas en catálogo, no rompe la app: simplemente no agrega extras.
+
 ## Checklist rápido antes de commit
 
 - `npm run build` en verde.

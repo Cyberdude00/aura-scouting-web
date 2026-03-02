@@ -30,6 +30,7 @@ export interface GalleryModel {
   eyes?: string;
   shoe?: string;
   ongoingTrip: boolean;
+  fullMaterial?: boolean;
   portfolio: string[];
   instagram: string[];
   download?: string;

@@ -1,7 +1,6 @@
 import { ScoutingModel } from './scouting-model.types';
 
 export const galleryModels: ScoutingModel[] = [
-  // === Model: Adan ===
   {
     name: "Adan",
     gender: "Boys",
@@ -43,9 +42,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771656132/aura/gallery/models/boys/adan/snaps/adan_polas_5.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Agos Martinez ===
   {
     name: "Agos Martinez",
     gender: "Girls",
@@ -91,9 +89,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659143/aura/gallery/models/girls/agos-martinez/polas/img_5981.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659144/aura/gallery/models/girls/agos-martinez/polas/img_6086.jpg",    ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Alan Marquez ===
   {
     name: "Alan Marquez",
     gender: "Boys",
@@ -142,9 +139,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660785/aura/gallery/models/boys/alan-marquez/polas/_r9a1805.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Alicia Vallecilla ===
   {
     name: "Alicia Vallecilla",
     gender: "Girls",
@@ -185,9 +181,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659165/aura/gallery/models/girls/alicia-vallecilla/polas/alicia_vallecilla_polas_4.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Angel Bret ===
   {
     name: "Angel Bret",
     gender: "Boys",
@@ -238,9 +233,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658777/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_6.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Belisario ===
   {
     name: "Belisario",
     gender: "Boys",
@@ -291,9 +285,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658808/aura/gallery/models/boys/belisario/polas/dscf5444.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Bernardo Romano ===
   {
     name: "Bernardo Romano",
     gender: "Boys",
@@ -344,9 +337,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658837/aura/gallery/models/boys/bernardo-romano/polas/img_9631.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Doga Bursali ===
   {
     name: "Doga Bursali",
     gender: "Girls",
@@ -399,9 +391,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659192/aura/gallery/models/girls/doga-bursali/doga-snaps/image00006.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Elina ===
   {
     name: "Elina",
     gender: "Girls",
@@ -459,9 +450,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659229/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_11.webp",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Emilia Bryan ===
   {
     name: "Emilia Bryan",
     gender: "Girls",
@@ -507,9 +497,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659258/aura/gallery/models/girls/emilia-bryan/polas/0c4a5153.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Emmanuel ===
   {
     name: "Emmanuel",
     gender: "Boys",
@@ -588,9 +577,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658887/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-9-.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Eugenia Lagrenade ===
   {
     name: "Eugenia Lagrenade",
     gender: "Girls",
@@ -631,9 +619,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659281/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_07.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Eva ===
   {
     name: "Eva",
     gender: "Girls",
@@ -700,9 +687,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659322/aura/gallery/models/girls/eva/polas/eva-digitals-07.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Felicitas ===
   {
     name: "Felicitas",
     gender: "Girls",
@@ -758,9 +744,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659368/aura/gallery/models/girls/felicitas/polas/acefd1bc-d3bc-489a-820f-72a2a7b2f2a7-2.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Genesis ===
   {
     name: "Genesis",
     gender: "Girls",
@@ -802,9 +787,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659389/aura/gallery/models/girls/genesis/polas/genesis_polas_7.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Isabel Deutsch ===
   {
     name: "Isabel Deutsch",
     gender: "Girls",
@@ -841,9 +825,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659405/aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-7.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Joaquin garcia ===
   {
     name: "Joaquin garcia",
     gender: "Boys",
@@ -880,9 +863,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771954292/joaquin_garcia_book_01_s1vcfk.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: juan toffalo ===
   {
     name: "Juan toffalo",
     gender: "Boys",
@@ -922,9 +904,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658919/aura/gallery/models/boys/juan-toffalo/polas/20-juan-toffalo-digitals-ceres.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Laurencio Leal ===
   {
     name: "Laurencio Leal",
     gender: "Boys",
@@ -965,9 +946,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658944/aura/gallery/models/boys/laurencio-leal/polas/22-laurencio-leal-polaroids-ceres.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Lautaro Rodriguez ===
   {
     name: "Lautaro Rodriguez",
     gender: "Boys",
@@ -1011,9 +991,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658972/aura/gallery/models/boys/lautaro-rodriguez/polas/img_0120.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Lucas Tarrago ===
   {
     name: "Lucas Tarrago",
     gender: "Boys",
@@ -1068,9 +1047,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659006/aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_07.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Luciana Imoberdorf ===
   {
     name: "Luciana Imoberdorf",
     gender: "Girls",
@@ -1105,9 +1083,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659419/aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_6.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Mafer ===
   {
     name: "Mafer",
     gender: "Girls",
@@ -1155,9 +1132,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659447/aura/gallery/models/girls/mafer/polas/_r9a6972.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Manu Llofrein ===
   {
     name: "Manu Llofrein",
     gender: "Boys",
@@ -1216,9 +1192,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659050/aura/gallery/models/boys/manu-llofrein/polas/0h6a5437.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Mariana Arias ===
   {
     name: "Mariana Arias",
     gender: "Girls",
@@ -1266,9 +1241,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659469/aura/gallery/models/girls/mariana-arias/polas/mariana_arias_polas_6.webp",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Moana Buezas ===
   {
     name: "Moana Buezas",
     gender: "Girls",
@@ -1304,9 +1278,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659486/aura/gallery/models/girls/moana-buezas/polas/img_2698.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Pilar Sampaio ===
   {
     name: "Pilar Sampaio",
     gender: "Girls",
@@ -1351,9 +1324,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659511/aura/gallery/models/girls/pilar-sampaio/polas/img_2507.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Salih topcouglu ===
   {
     name: "Salih topcouglu",
     gender: "Boys",
@@ -1401,9 +1373,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771877859/salih_polas_2_ccgxjq.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Santiago Poggi ===
   {
     name: "Santiago Poggi",
     gender: "Boys",
@@ -1449,9 +1420,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659097/aura/gallery/models/boys/santiago-poggi/polas/santiago_poggi_polas_9.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Santiago zezular ===
   {
     name: "Santiago zezular",
     gender: "Boys",
@@ -1494,9 +1464,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659115/aura/gallery/models/boys/santiago-zezular/book/27-santiago-zezular-main-book-ceres.webp",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Victoria ===
   {
     name: "Victoria",
     gender: "Girls",
@@ -1540,9 +1509,8 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659536/aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_07.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 
-  // === Model: Zoe ===
   {
     name: "Zoe",
     gender: "Girls",
@@ -1599,5 +1567,5 @@ export const galleryModels: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659579/aura/gallery/models/girls/zoe/polas/_r9a9999.jpg",
     ],
     instagram: []
-  }, // === End Model ===
+  },
 ];
