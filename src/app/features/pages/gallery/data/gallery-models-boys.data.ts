@@ -237,6 +237,7 @@ export const galleryModelsBoys: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658831/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_30.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658831/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_31.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658833/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_32.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771879856/IMG_9615_m9srbo.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658834/aura/gallery/models/boys/bernardo-romano/polas/img_9518.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658834/aura/gallery/models/boys/bernardo-romano/polas/img_9526.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658835/aura/gallery/models/boys/bernardo-romano/polas/img_9569.jpg",
@@ -316,7 +317,7 @@ export const galleryModelsBoys: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658888/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-10-.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658889/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-11-.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658890/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-12-.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658892/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-14-.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772495323/emmanuel-61_wd62rs.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658882/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-2-.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658885/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-6-.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658886/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-7-.jpg",
@@ -335,12 +336,6 @@ export const galleryModelsBoys: ScoutingModel[] = [
     "shoe": "45/11",
     "availability": "on",
     "portfolio": [
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658894/aura/gallery/models/boys/joaquin-garcia/polas/img_4720.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658895/aura/gallery/models/boys/joaquin-garcia/polas/img_4733.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658896/aura/gallery/models/boys/joaquin-garcia/polas/img_4737.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658896/aura/gallery/models/boys/joaquin-garcia/polas/img_4760.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658898/aura/gallery/models/boys/joaquin-garcia/polas/img_4799.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658898/aura/gallery/models/boys/joaquin-garcia/polas/img_4808.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771954306/joaquin_garcia_book_12_egbmqc.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771954306/joaquin_garcia_book_17_ewdim7.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771954305/joaquin_garcia_book_16_xc6s3l.jpg",
@@ -357,7 +352,13 @@ export const galleryModelsBoys: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771954295/joaquin_garcia_book_04_pcc6aj.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771954294/joaquin_garcia_book_03_wrmzho.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771954293/joaquin_garcia_book_02_lowvec.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771954292/joaquin_garcia_book_01_s1vcfk.jpg"
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771954292/joaquin_garcia_book_01_s1vcfk.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658894/aura/gallery/models/boys/joaquin-garcia/polas/img_4720.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658895/aura/gallery/models/boys/joaquin-garcia/polas/img_4733.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658896/aura/gallery/models/boys/joaquin-garcia/polas/img_4737.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658896/aura/gallery/models/boys/joaquin-garcia/polas/img_4760.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658898/aura/gallery/models/boys/joaquin-garcia/polas/img_4799.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658898/aura/gallery/models/boys/joaquin-garcia/polas/img_4808.jpg",
     ],
     "instagram": []
   },
@@ -536,7 +537,6 @@ export const galleryModelsBoys: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659003/aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_03.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659004/aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_04.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659005/aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_05.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659005/aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_06.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659006/aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_07.jpg"
     ],
     "instagram": []
@@ -728,12 +728,8 @@ export const galleryModelsBoys: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659111/aura/gallery/models/boys/santiago-zezular/book/21-santiago-zezular-main-book-ceres.webp",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659112/aura/gallery/models/boys/santiago-zezular/book/22-santiago-zezular-main-book-ceres.webp",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659113/aura/gallery/models/boys/santiago-zezular/book/23-santiago-zezular-main-book-ceres.webp",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659113/aura/gallery/models/boys/santiago-zezular/book/24-santiago-zezular-main-book-ceres.webp",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659115/aura/gallery/models/boys/santiago-zezular/polas/1-santiago-zezular-compolaroid-ceres.webp",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659116/aura/gallery/models/boys/santiago-zezular/polas/2-santiago-zezular-compolaroid-ceres.webp",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659114/aura/gallery/models/boys/santiago-zezular/book/25-santiago-zezular-main-book-ceres.webp",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659114/aura/gallery/models/boys/santiago-zezular/book/26-santiago-zezular-main-book-ceres.webp",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659115/aura/gallery/models/boys/santiago-zezular/book/27-santiago-zezular-main-book-ceres.webp"
     ],
     "instagram": []
   }
