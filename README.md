@@ -1,69 +1,190 @@
 # aura-scouting-web
 
-Guía rápida para operar la galería y Cloudinary.
+Guía simple para arrancar el proyecto, modificar la galería y administrar SEO.
 
-## Qué hace cada comando
+## 1) Cómo arrancar el proyecto
+
+### Requisitos
+
+- Node.js 20+
+- npm
+
+### Primer inicio
+
+```bash
+npm install
+npm run start
+```
+
+App local:
+
+- Home: `http://localhost:4200/`
+- Galería: `http://localhost:4200/gallery/korea`
+
+### Build de validación
+
+```bash
+npm run build -- --configuration development
+```
+
+---
+
+## 2) Qué archivo tocar según lo que quieras cambiar
+
+### Cambiar datos de un modelo (foto, portfolio, medidas)
+
+- `src/app/features/pages/gallery/data/gallery-models.data.ts`
+
+### Elegir en qué galerías aparece cada modelo
+
+- `src/app/features/pages/gallery/data/groups/agency-galleries.config.ts`
+
+Formato por modelo:
+
+```ts
+{ id: 'adan', status: 'on', fullbook: 'off' }
+```
+
+### Activar/desactivar estado y fullbook
+
+- `status: 'on' | 'off'`
+  - `'off'` muestra `Ongoing Trip`
+  - `'on'` lo oculta
+- `fullbook: 'on' | 'off'`
+  - `'on'` habilita botón/uso de fullbook
+  - `'off'` usa solo material base
+
+### Cargar material fullbook extra
+
+- `src/app/features/pages/gallery/data/catalog/full-material-catalog.ts`
+
+### Ejemplo rápido (caso real)
+
+"Quiero activar fullbook de `emmanuel` en `china`":
+
+1. En `agency-galleries.config.ts`, busca el bloque `galleryKey: 'china'`.
+2. Busca `{ id: 'emmanuel', ... }`.
+3. Cambia `fullbook: 'off'` a `fullbook: 'on'`.
+4. Verifica que exista contenido en `full-material-catalog.ts` para `emmanuel`.
+5. Ejecuta build y prueba en `/gallery/china`.
+
+---
+
+## 3) Crear una galería nueva
+
+No hace falta crear ruta nueva. Ya existe `gallery/:group`.
+
+Pasos:
+
+1. Agrega un bloque en:
+   - `src/app/features/pages/gallery/data/groups/agency-galleries.config.ts`
+2. Define:
+   - `galleryKey` (ej. `singapore`)
+   - `galleryName` (ej. `SINGAPORE`)
+   - `modelIds` con sus `id`, `status` y `fullbook`
+3. Abre:
+   - `http://localhost:4200/gallery/singapore`
+
+### Ejemplo mínimo de bloque
+
+```ts
+{
+   galleryKey: 'singapore',
+   galleryName: 'SINGAPORE',
+   modelIds: [
+      { id: 'adan', status: 'on', fullbook: 'off' },
+      { id: 'emmanuel', status: 'on', fullbook: 'on' },
+   ],
+}
+```
+
+---
+
+## 4) SEO: cómo se administra
+
+### Dónde se define el SEO de galería
+
+- `src/app/features/pages/gallery/components/group-page/services/gallery-page-seo.service.ts`
+
+Ahí se define por galería:
+
+- título
+- descripción
+- keywords
+- canonical
+- robots
+
+### Servicio base SEO
+
+- `src/app/features/core/services/seo.service.ts`
+
+### Ruta que dispara el SEO por galería
+
+- `src/app/app.routes.ts` → `gallery/:group`
+
+---
+
+## 5) Flujo recomendado para cambios de galería
+
+1. Edita modelo(s) en `gallery-models.data.ts`
+2. Ajusta aparición/status/fullbook en `agency-galleries.config.ts`
+3. Si aplica, agrega fullbook en `full-material-catalog.ts`
+4. Ejecuta:
+   - `npm run build -- --configuration development`
+5. Verifica en browser:
+   - `http://localhost:4200/gallery/korea` (o la galería que cambiaste)
+
+### Flujo diario sugerido (rápido)
+
+1. `npm run start`
+2. Edita modelos/config/fullbook
+3. Revisa visualmente la galería afectada
+4. `npm run build -- --configuration development`
+5. Commit
+
+---
+
+## 6) Scripts Cloudinary
+
+### Comandos
 
 - `npm run gallery:optimize`
-	- Optimiza imágenes locales (sin tocar originales, crea salida optimizada).
 - `npm run gallery:upload`
-	- Sube a Cloudinary con control anti-duplicados.
-	- Si algo ya existe, lo salta y no lo sube de nuevo.
 - `npm run gallery:sync`
-	- Toma manifests `.uploaded.json` y mete los links en el proyecto.
-	- Por defecto preserva el orden actual que ya tengas en cada modelo.
 - `npm run gallery:update`
-	- Corre todo en orden: upload -> sync -> build.
 
-## Flujo normal para agregar modelos a galerias
+### Cómo usarlos (flujo recomendado)
 
-1. Agregas nuevas carpetas/fotos de modelos.
-2. (Opcional) `npm run gallery:optimize`
-3. `npm run gallery:update`
-4. Revisas que build quede OK.
-5. Commit y push.
+1. (Opcional) Optimiza imágenes locales:
+   - `npm run gallery:optimize`
+2. Sube archivos a Cloudinary:
+   - `npm run gallery:upload`
+3. Sincroniza manifests al dataset de galería:
+   - `npm run gallery:sync`
+4. Valida build:
+   - `npm run build -- --configuration development`
 
-## Para ejecutar solo una parte y no todo
+Atajo (todo en uno):
 
-- Solo subir:
-	- `npm run gallery:upload`
-- Solo sincronizar links:
-	- `npm run gallery:sync`
-- Sincronizar usando orden legacy (si lo quieres forzar):
-	- `npm run gallery:sync -- --legacy-order`
-- Subir un modelo puntual:
-	- `npm run gallery:upload -- --model adan --limit 1`
-- Excluir modelos:
-	- `npm run gallery:upload -- --exclude adan,alan-marquez`
+- `npm run gallery:update`
 
-## Estructura clave de gallery (actual)
+### ¿Cuándo usar cada script?
 
-- Dataset principal de modelos:
-	- `src/app/features/pages/gallery/data/gallery-models.data.ts`
-- Config por galería / status / fullbook:
-	- `src/app/features/pages/gallery/data/groups/agency-galleries.config.ts`
-- Catálogos auxiliares (fullbook, etc.):
-	- `src/app/features/pages/gallery/data/catalog/`
-- Assets y manifests para carga Cloudinary:
-	- `src/app/features/pages/gallery/data/gallery-model-config/models/`
+- `gallery:optimize`: cuando agregas imágenes nuevas pesadas y quieres optimizar antes de subir.
+- `gallery:upload`: cuando ya tienes imágenes locales listas para Cloudinary.
+- `gallery:sync`: cuando ya existen manifests y quieres reflejar URLs en `gallery-models.data.ts`.
+- `gallery:update`: cuando quieres ejecutar upload + sync + build en una sola corrida.
 
-## Sobre `index.ts` en `data` y `utils`
+### Ejecuciones parciales útiles
 
-- `src/app/features/pages/gallery/data/index.ts`
-- `src/app/features/pages/gallery/utils/index.ts`
+- Solo subir un modelo:
+  - `npm run gallery:upload -- --model adan --limit 1`
+- Excluir modelos en upload:
+  - `npm run gallery:upload -- --exclude adan,alan-marquez`
+- Sincronizar con orden legacy:
+  - `npm run gallery:sync -- --legacy-order`
 
-Se usan como **barrels** para simplificar imports (`.../data`, `.../utils`) sin cambiar lógica.
-Regla práctica: crear barrel cuando la misma carpeta la consumen 3 o más archivos.
-
-## Variables de entorno (Cloudinary)
-
-Antes de subir, necesitas estas 3:
-
-- `CLOUDINARY_CLOUD_NAME`
-- `CLOUDINARY_API_KEY`
-- `CLOUDINARY_API_SECRET`
-
-PowerShell (ejemplo):
+### Variables de entorno
 
 ```powershell
 $env:CLOUDINARY_CLOUD_NAME="TU_CLOUD"
@@ -71,59 +192,28 @@ $env:CLOUDINARY_API_KEY="TU_KEY"
 $env:CLOUDINARY_API_SECRET="TU_SECRET"
 ```
 
-## Notas importantes
+### Rutas de assets/manifests
 
-- El script de upload compara para no duplicar.
-- Si no tienes `python` en terminal, prueba con:
-	- `py scripts/optimize-models-images.py`
-- La media local está ignorada por git para no subir galerías pesadas.
+- `src/app/features/pages/gallery/data/gallery-model-config/models/`
 
-## Configuración de status y fullbook (por país y por modelo)
+---
 
-### 1) Dónde se configura
+## 7) Checklist antes de commit
 
-- Estado y activación por modelo:
-	- `src/app/features/pages/gallery/data/groups/agency-galleries.config.ts`
-- Material extra fullbook:
-	- `src/app/features/pages/gallery/data/catalog/full-material-catalog.ts`
+- Build en verde
+- Galería abre sin errores
+- Modelo con `photo` + `portfolio` válido
+- Status/fullbook revisado en config
 
-### 2) Formato por modelo en cada galería
+---
 
-```ts
-{ id: 'adan', status: 'on', fullbook: 'off' }
-```
+## 8) Troubleshooting rápido
 
-- `status: 'on' | 'off'`
-	- `'off'` muestra el badge `Ongoing Trip`
-	- `'on'` lo oculta
-- `fullbook: 'on' | 'off'`
-	- `'on'` habilita inserción de material fullbook para ese modelo
-	- `'off'` usa solo material base
-
-### 3) Orden del material en la galería
-
-- Sin fullbook: `book -> polas`
-- Con fullbook: `book -> fullbook -> polas`
-
-### 4) Cómo cargar nuevas fotos de fullbook
-
-En `full-material-catalog.ts`, por cada `id`:
-
-```ts
-export const fullMaterialCatalog: Record<string, FullMaterialMedia> = {
-	'adan': {
-		fullbook: [
-			'https://tu-cdn/models/adan/fullbook/adan_fullbook_01.jpg',
-			'https://tu-cdn/models/adan/fullbook/adan_fullbook_02.jpg',
-		],
-	},
-};
-```
-
-Si `fullbook: 'on'` y no hay entradas en catálogo, no rompe la app: simplemente no agrega extras.
-
-## Checklist rápido antes de commit
-
-- `npm run build` en verde.
-- `gallery-models.data.ts` con links correctos.
-- Sin modelos rotos (sin `photo` o sin `portfolio`).
+- No aparece un modelo en la galería:
+   - Revisa que tenga `photo` y al menos un item en `portfolio`.
+   - Revisa que su `id` esté incluido en la galería correcta (`agency-galleries.config.ts`).
+- No aparece botón fullbook:
+   - Revisa `fullbook: 'on'` en la galería.
+   - Revisa que exista contenido en `full-material-catalog.ts` para ese `id`.
+- SEO no cambia:
+   - Revisa `gallery-page-seo.service.ts` y que estés entrando por `gallery/:group`.
