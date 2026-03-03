@@ -6,6 +6,7 @@ import { GalleryHeaderComponent } from '../shared/header/gallery-header.componen
 import { GalleryModelGridComponent } from '../shared/main-grid/gallery-model-grid.component';
 import { GalleryPortfolioModalComponent } from '../shared/portfolio-modal/gallery-portfolio-modal.component';
 import { GalleryMediaViewerComponent } from '../shared/media-viewer/gallery-media-viewer.component';
+import { GalleryCoverPreloadService } from './services/gallery-cover-preload.service';
 import { GalleryOverlayScrollService } from './services/gallery-overlay-scroll.service';
 import { GalleryPageSeoService } from './services/gallery-page-seo.service';
 import { GalleryPageStateService } from './services/gallery-page-state.service';
@@ -20,7 +21,7 @@ import { GalleryPageStateService } from './services/gallery-page-state.service';
     GalleryPortfolioModalComponent,
     GalleryMediaViewerComponent,
   ],
-  providers: [GalleryPageStateService, GalleryOverlayScrollService, GalleryPageSeoService],
+  providers: [GalleryPageStateService, GalleryOverlayScrollService, GalleryPageSeoService, GalleryCoverPreloadService],
   templateUrl: './gallery-group-page.component.html',
   styleUrl: './gallery-group-page.component.scss',
 })
@@ -32,6 +33,7 @@ export class GalleryGroupPageComponent implements OnDestroy {
     private readonly pageState: GalleryPageStateService,
     private readonly overlayScroll: GalleryOverlayScrollService,
     private readonly pageSeo: GalleryPageSeoService,
+    private readonly coverPreload: GalleryCoverPreloadService,
   ) {
     this.route.paramMap.subscribe((params) => {
       const galleryParam = params.get('group') ?? '';
@@ -41,12 +43,14 @@ export class GalleryGroupPageComponent implements OnDestroy {
 
       if (this.gallery) {
         this.pageSeo.applyGalleryTags(this.gallery);
+        this.coverPreload.preload(this.gallery.models);
       }
     });
   }
 
   ngOnDestroy(): void {
     this.overlayScroll.destroy();
+    this.coverPreload.destroy();
   }
 
   @HostListener('document:keydown', ['$event'])
