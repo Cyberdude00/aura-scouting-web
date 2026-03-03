@@ -1,98 +1,7 @@
-import { GalleryGroup, GalleryModel, ScoutingModel } from './scouting-model.types';
-import { fullMaterialCatalog } from './catalog/full-material-catalog';
+import { GalleryGroup, ScoutingModel } from './scouting-model.types';
 import { modelCatalog } from './catalog/model-catalog';
 import { agencyGalleriesConfig } from './groups/agency-galleries.config';
-import { slugifyValue } from '../utils';
-
-function resolveOngoingTrip(status: 'on' | 'off', model: ScoutingModel): boolean {
-  const configuredStatus = status;
-
-  if (configuredStatus === 'off') {
-    return true;
-  }
-  if (configuredStatus === 'on') {
-    return false;
-  }
-  return model.availability === 'off';
-}
-
-function splitPortfolioBySection(items: string[]): { book: string[]; polas: string[]; other: string[] } {
-  return items.reduce(
-    (acc, item) => {
-      if (item.includes('/book/')) {
-        acc.book.push(item);
-        return acc;
-      }
-
-      if (item.includes('/polas/')) {
-        acc.polas.push(item);
-        return acc;
-      }
-
-      acc.other.push(item);
-      return acc;
-    },
-    { book: [] as string[], polas: [] as string[], other: [] as string[] },
-  );
-}
-
-function buildOrderedPortfolio(
-  modelId: string,
-  basePortfolio: string[],
-  fullbookOn: boolean,
-): string[] {
-  const base = splitPortfolioBySection(basePortfolio);
-
-  if (!fullbookOn) {
-    return [...base.book, ...base.polas, ...base.other];
-  }
-
-  const full = fullMaterialCatalog[modelId] ?? { fullbook: [] };
-  return [
-    ...base.book,
-    ...full.fullbook,
-    ...base.polas,
-    ...base.other,
-  ];
-}
-
-function normalizeModel(
-  model: ScoutingModel,
-  status: 'on' | 'off',
-  fullbookStatus: 'on' | 'off' | undefined,
-): GalleryModel {
-  const id = slugifyValue(model.name);
-  const basePortfolio = (model.portfolio ?? []).filter(
-    (item): item is string => typeof item === 'string' && item.trim().length > 0,
-  );
-  const fullbookOn = fullbookStatus === 'on';
-  const fullMaterial = fullbookOn;
-  const portfolio = buildOrderedPortfolio(id, basePortfolio, fullbookOn);
-
-  const instagram = (model.instagram ?? []).filter(
-    (item): item is string => typeof item === 'string' && item.trim().length > 0,
-  );
-
-  return {
-    id,
-    name: model.name,
-    gender: model.gender,
-    cover: model.photo,
-    height: model.height,
-    measurements: model.measurements,
-    bust: model.bust,
-    waist: model.waist,
-    hips: model.hips,
-    hair: model.hair,
-    eyes: model.eyes,
-    shoe: model.shoe,
-    ongoingTrip: resolveOngoingTrip(status, model),
-    fullMaterial,
-    portfolio,
-    instagram,
-    download: model.download,
-  };
-}
+import { toGalleryModel } from './mappers/gallery-model.mapper';
 
 function createGalleryGroup(
   galleryKey: string,
@@ -106,7 +15,7 @@ function createGalleryGroup(
   return {
     galleryKey,
     galleryName,
-    models: models.map(({ model, status, fullbook }) => normalizeModel(model, status, fullbook)),
+    models: models.map(({ model, status, fullbook }) => toGalleryModel(model, status, fullbook)),
   };
 }
 
