@@ -13,7 +13,7 @@ export const fullMaterialCatalog: Record<string, FullMaterialMedia> = {
   'doga-bursali': { fullbook: [/* 'https://example.com/models/doga-bursali/fullbook_01.jpg' */] },
   'elina': { fullbook: [/* 'https://example.com/models/elina/fullbook_01.jpg' */] },
   'emilia-bryan': { fullbook: [/* 'https://example.com/models/emilia-bryan/fullbook_01.jpg' */] },
-  'emmanuel': { fullbook: ["https://res.cloudinary.com/dcxaitngm/image/upload/v1771658886/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-8-.jpg"] },
+  'emmanuel': { fullbook: [/*"https://res.cloudinary.com/dcxaitngm/image/upload/v1771658886/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-8-.jpg"*/] },
   'eugenia-lagrenade': { fullbook: [/* 'https://example.com/models/eugenia-lagrenade/fullbook_01.jpg' */] },
   'eva': { fullbook: [/* 'https://example.com/models/eva/fullbook_01.jpg' */] },
   'felicitas': { fullbook: [/* 'https://example.com/models/felicitas/fullbook_01.jpg' */] },
