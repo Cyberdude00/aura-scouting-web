@@ -41,5 +41,5 @@ testem.log
 .DS_Store
 Thumbs.db
 
-# Gallery model media (ignore complete models folder)
-/src/app/features/pages/gallery/data/import/models/
+# Gallery model config media
+/src/app/features/pages/gallery/data/gallery-model-config/

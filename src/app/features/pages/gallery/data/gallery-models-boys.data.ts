@@ -249,8 +249,7 @@ export const galleryModelsBoys: ScoutingModel[] = [
   {
     "name": "Emmanuel",
     "gender": "Boys",
-    "photo": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658886/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-8-.jpg",
-    "height": "1.83m",
+    "photo":  "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658889/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-11-.jpg",
     "measurements": "74cm",
     "hair": "Brown",
     "eyes": "hazel",
