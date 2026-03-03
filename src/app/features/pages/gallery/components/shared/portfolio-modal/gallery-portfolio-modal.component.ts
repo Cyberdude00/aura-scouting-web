@@ -1,14 +1,12 @@
-import { CommonModule } from '@angular/common';
 import { Component, EventEmitter, Input, Output } from '@angular/core';
-import { GalleryModel } from '../../../data/scouting-model.types';
+import { GalleryModel } from '../../../data';
 import { GalleryMeasurementSystemComponent } from '../measurement-system/gallery-measurement-system.component';
-import { isVideoMedia } from '../../../utils/gallery-media.utils';
-import { downloadMediaFile } from '../../../utils/gallery-download.utils';
+import { downloadMediaFile, isVideoMedia } from '../../../utils';
 
 @Component({
   selector: 'app-gallery-portfolio-modal',
   standalone: true,
-  imports: [CommonModule, GalleryMeasurementSystemComponent],
+  imports: [GalleryMeasurementSystemComponent],
   templateUrl: './gallery-portfolio-modal.component.html',
   styleUrl: './gallery-portfolio-modal.component.scss',
 })

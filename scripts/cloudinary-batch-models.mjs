@@ -7,8 +7,8 @@ const IGNORED_FILE_NAMES = new Set(['.ds_store', '.xnviewsort']);
 function parseArgs(argv) {
   const args = {
     genders: ['boys', 'girls'],
-    sourceRoot: 'src/app/features/pages/gallery/data/import/models',
-    manifestOut: 'src/app/features/pages/gallery/data/import/models/_cloudinary-manifests',
+    sourceRoot: 'src/app/features/pages/gallery/data/gallery-model-config/models',
+    manifestOut: 'src/app/features/pages/gallery/data/gallery-model-config/models/_cloudinary-manifests',
     cloudinaryBaseFolder: 'aura/gallery/models',
     exclude: [],
     model: '',

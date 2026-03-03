@@ -1,0 +1,270 @@
+{
+  "modelQuery": "Belisario",
+  "gender": "boys",
+  "modelFolderName": "Belisario",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario",
+  "totalImages": 37,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:26:18.401Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_01.jpg",
+      "relativePath": "book/belisario_book_01.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_01",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658779/aura/gallery/models/boys/belisario/book/belisario_book_01.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_02.jpg",
+      "relativePath": "book/belisario_book_02.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_02",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658779/aura/gallery/models/boys/belisario/book/belisario_book_02.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_03.jpg",
+      "relativePath": "book/belisario_book_03.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_03",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658780/aura/gallery/models/boys/belisario/book/belisario_book_03.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_04.jpg",
+      "relativePath": "book/belisario_book_04.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_04",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658781/aura/gallery/models/boys/belisario/book/belisario_book_04.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_05.jpg",
+      "relativePath": "book/belisario_book_05.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_05",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658782/aura/gallery/models/boys/belisario/book/belisario_book_05.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_06.jpg",
+      "relativePath": "book/belisario_book_06.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_06",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658783/aura/gallery/models/boys/belisario/book/belisario_book_06.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_07.jpg",
+      "relativePath": "book/belisario_book_07.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_07",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658784/aura/gallery/models/boys/belisario/book/belisario_book_07.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_08.jpg",
+      "relativePath": "book/belisario_book_08.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_08",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658785/aura/gallery/models/boys/belisario/book/belisario_book_08.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_09.jpg",
+      "relativePath": "book/belisario_book_09.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_09",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658786/aura/gallery/models/boys/belisario/book/belisario_book_09.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_10.jpg",
+      "relativePath": "book/belisario_book_10.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_10",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658786/aura/gallery/models/boys/belisario/book/belisario_book_10.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_11.jpg",
+      "relativePath": "book/belisario_book_11.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_11",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658788/aura/gallery/models/boys/belisario/book/belisario_book_11.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_12.jpg",
+      "relativePath": "book/belisario_book_12.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_12",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658788/aura/gallery/models/boys/belisario/book/belisario_book_12.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_13.jpg",
+      "relativePath": "book/belisario_book_13.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_13",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658789/aura/gallery/models/boys/belisario/book/belisario_book_13.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_14.jpg",
+      "relativePath": "book/belisario_book_14.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_14",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658790/aura/gallery/models/boys/belisario/book/belisario_book_14.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_15.jpg",
+      "relativePath": "book/belisario_book_15.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_15",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658791/aura/gallery/models/boys/belisario/book/belisario_book_15.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_16.jpg",
+      "relativePath": "book/belisario_book_16.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_16",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658792/aura/gallery/models/boys/belisario/book/belisario_book_16.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_17.jpg",
+      "relativePath": "book/belisario_book_17.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_17",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658792/aura/gallery/models/boys/belisario/book/belisario_book_17.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_18.jpg",
+      "relativePath": "book/belisario_book_18.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_18",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658793/aura/gallery/models/boys/belisario/book/belisario_book_18.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_19.jpg",
+      "relativePath": "book/belisario_book_19.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_19",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658794/aura/gallery/models/boys/belisario/book/belisario_book_19.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_20.jpg",
+      "relativePath": "book/belisario_book_20.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_20",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658794/aura/gallery/models/boys/belisario/book/belisario_book_20.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_21.jpg",
+      "relativePath": "book/belisario_book_21.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_21",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658795/aura/gallery/models/boys/belisario/book/belisario_book_21.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_22.jpg",
+      "relativePath": "book/belisario_book_22.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_22",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658796/aura/gallery/models/boys/belisario/book/belisario_book_22.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_23.jpg",
+      "relativePath": "book/belisario_book_23.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_23",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658797/aura/gallery/models/boys/belisario/book/belisario_book_23.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_24.jpg",
+      "relativePath": "book/belisario_book_24.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_24",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658798/aura/gallery/models/boys/belisario/book/belisario_book_24.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_25.jpg",
+      "relativePath": "book/belisario_book_25.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_25",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658798/aura/gallery/models/boys/belisario/book/belisario_book_25.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_26.jpg",
+      "relativePath": "book/belisario_book_26.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_26",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658799/aura/gallery/models/boys/belisario/book/belisario_book_26.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_27.jpg",
+      "relativePath": "book/belisario_book_27.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_27",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658800/aura/gallery/models/boys/belisario/book/belisario_book_27.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_28.jpg",
+      "relativePath": "book/belisario_book_28.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_28",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658800/aura/gallery/models/boys/belisario/book/belisario_book_28.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_29.jpg",
+      "relativePath": "book/belisario_book_29.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_29",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658801/aura/gallery/models/boys/belisario/book/belisario_book_29.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_30.jpg",
+      "relativePath": "book/belisario_book_30.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_30",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658802/aura/gallery/models/boys/belisario/book/belisario_book_30.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\book\\belisario_book_31.jpg",
+      "relativePath": "book/belisario_book_31.jpg",
+      "publicId": "aura/gallery/models/boys/belisario/book/belisario_book_31",
+      "assetFolder": "aura/gallery/models/boys/belisario/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658803/aura/gallery/models/boys/belisario/book/belisario_book_31.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\polas\\DSCF5402.jpeg",
+      "relativePath": "polas/DSCF5402.jpeg",
+      "publicId": "aura/gallery/models/boys/belisario/polas/dscf5402",
+      "assetFolder": "aura/gallery/models/boys/belisario/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658804/aura/gallery/models/boys/belisario/polas/dscf5402.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\polas\\DSCF5407.jpeg",
+      "relativePath": "polas/DSCF5407.jpeg",
+      "publicId": "aura/gallery/models/boys/belisario/polas/dscf5407",
+      "assetFolder": "aura/gallery/models/boys/belisario/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658804/aura/gallery/models/boys/belisario/polas/dscf5407.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\polas\\DSCF5409.jpeg",
+      "relativePath": "polas/DSCF5409.jpeg",
+      "publicId": "aura/gallery/models/boys/belisario/polas/dscf5409",
+      "assetFolder": "aura/gallery/models/boys/belisario/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658805/aura/gallery/models/boys/belisario/polas/dscf5409.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\polas\\DSCF5414.jpeg",
+      "relativePath": "polas/DSCF5414.jpeg",
+      "publicId": "aura/gallery/models/boys/belisario/polas/dscf5414",
+      "assetFolder": "aura/gallery/models/boys/belisario/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658806/aura/gallery/models/boys/belisario/polas/dscf5414.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\polas\\DSCF5443.jpeg",
+      "relativePath": "polas/DSCF5443.jpeg",
+      "publicId": "aura/gallery/models/boys/belisario/polas/dscf5443",
+      "assetFolder": "aura/gallery/models/boys/belisario/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658807/aura/gallery/models/boys/belisario/polas/dscf5443.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Belisario\\polas\\DSCF5444.jpeg",
+      "relativePath": "polas/DSCF5444.jpeg",
+      "publicId": "aura/gallery/models/boys/belisario/polas/dscf5444",
+      "assetFolder": "aura/gallery/models/boys/belisario/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658808/aura/gallery/models/boys/belisario/polas/dscf5444.jpg"
+    }
+  ]
+}

@@ -1,13 +1,11 @@
 import { Component, OnInit } from '@angular/core';
-import { HomeIntroComponent } from "./home-intro/home-intro.component";
-import { WhoWeAreComponent } from "./who-we-are/who-we-are.component";
-import { OurScoutingServicesComponent }
-  from "./our-scouting-services/our-scouting-services.component";
-import { HowWeWorkComponent } from "./how-we-work/how-we-work.component";
-import { ConnectInfoComponent } from "./connect-info/connect-info.component";
-import { ModelSubmissionFormComponent }
-  from "../../model-submission/components/model-submission-form.component";
-import { ContactUsComponent } from "./contact-us/contact-us.component";
+import { HomeIntroComponent } from './home-intro/home-intro.component';
+import { WhoWeAreComponent } from './who-we-are/who-we-are.component';
+import { OurScoutingServicesComponent } from './our-scouting-services/our-scouting-services.component';
+import { HowWeWorkComponent } from './how-we-work/how-we-work.component';
+import { ConnectInfoComponent } from './connect-info/connect-info.component';
+import { ModelSubmissionFormComponent } from '../../model-submission/components/model-submission-form.component';
+import { ContactUsComponent } from './contact-us/contact-us.component';
 import { SeoService } from '../../core/services/seo.service';
 
 @Component({
@@ -19,7 +17,7 @@ import { SeoService } from '../../core/services/seo.service';
     HowWeWorkComponent,
     ConnectInfoComponent,
     ModelSubmissionFormComponent,
-    ContactUsComponent
+    ContactUsComponent,
   ],
   template: `
     <app-home-intro />
@@ -30,7 +28,6 @@ import { SeoService } from '../../core/services/seo.service';
     <app-model-submission-form />
     <app-contact-us />
   `,
-  styles: ``,
 })
 export class HomeComponent implements OnInit {
   constructor(private readonly seoService: SeoService) {}
@@ -47,5 +44,4 @@ export class HomeComponent implements OnInit {
     this.seoService.setCanonical('https://www.aurascouting.com/');
     this.seoService.setRobotsIndex(true);
   }
-
 }

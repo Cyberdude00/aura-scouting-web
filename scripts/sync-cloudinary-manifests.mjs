@@ -3,7 +3,7 @@ import path from 'node:path';
 
 function parseArgs(argv) {
   const args = {
-    manifestsDir: 'src/app/features/pages/gallery/data/import/models/_cloudinary-manifests',
+    manifestsDir: 'src/app/features/pages/gallery/data/gallery-model-config/models/_cloudinary-manifests',
     modelsFile: 'src/app/features/pages/gallery/data/gallery-models.data.ts',
     legacyFiles: [],
     dryRun: false,

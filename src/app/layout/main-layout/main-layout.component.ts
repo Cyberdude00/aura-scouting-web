@@ -8,7 +8,6 @@ import { Router, RouterOutlet } from '@angular/router';
   selector: 'app-main-layout',
   imports: [CommonModule, HeaderComponent, FooterComponent, RouterOutlet],
   templateUrl: './main-layout.component.html',
-  styleUrl: './main-layout.component.scss',
 })
 export class MainLayoutComponent {
   constructor(private readonly router: Router) {}

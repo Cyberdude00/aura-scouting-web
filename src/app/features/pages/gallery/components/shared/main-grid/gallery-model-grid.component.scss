@@ -9,19 +9,12 @@
 }
 
 .card {
+  --gallery-card-radius: 16px;
+  --gallery-card-hover-y: -3px;
+  --gallery-card-shadow: 0 2px 12px #0002;
+  --gallery-card-shadow-hover: 0 8px 24px #0005;
   width: 100%;
   max-width: 280px;
-  overflow: hidden;
-  border-radius: 16px;
-  background: #323232;
-  box-shadow: 0 2px 12px #0002;
-  cursor: pointer;
-  transition: transform 180ms ease, box-shadow 180ms ease;
-}
-
-.card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 24px #0005;
 }
 
 .media-wrap {
@@ -29,11 +22,7 @@
 }
 
 .media-wrap img {
-  width: 100%;
   aspect-ratio: 3 / 4;
-  height: auto;
-  display: block;
-  object-fit: cover;
   background: var(--color-dark);
   transition: transform 220ms ease;
 }

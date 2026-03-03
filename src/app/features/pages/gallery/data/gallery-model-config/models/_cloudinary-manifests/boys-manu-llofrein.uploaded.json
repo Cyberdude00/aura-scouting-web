@@ -1,0 +1,326 @@
+{
+  "modelQuery": "Manu Llofrein",
+  "gender": "boys",
+  "modelFolderName": "Manu Llofrein",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein",
+  "totalImages": 45,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:30:07.158Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_01.jpg",
+      "relativePath": "book/manu_llofrein_book_01.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_01",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659007/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_01.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_02.jpg",
+      "relativePath": "book/manu_llofrein_book_02.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_02",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659008/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_02.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_03.jpg",
+      "relativePath": "book/manu_llofrein_book_03.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_03",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659009/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_03.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_04.jpg",
+      "relativePath": "book/manu_llofrein_book_04.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_04",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659010/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_04.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_05.jpg",
+      "relativePath": "book/manu_llofrein_book_05.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_05",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659011/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_05.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_06.jpg",
+      "relativePath": "book/manu_llofrein_book_06.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_06",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659011/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_06.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_07.jpg",
+      "relativePath": "book/manu_llofrein_book_07.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_07",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659012/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_07.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_08.jpg",
+      "relativePath": "book/manu_llofrein_book_08.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_08",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659013/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_08.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_09.jpg",
+      "relativePath": "book/manu_llofrein_book_09.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_09",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659013/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_09.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_10.jpg",
+      "relativePath": "book/manu_llofrein_book_10.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_10",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659014/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_10.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_11.jpg",
+      "relativePath": "book/manu_llofrein_book_11.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_11",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659014/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_11.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_12.jpg",
+      "relativePath": "book/manu_llofrein_book_12.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_12",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659015/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_12.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_13.jpg",
+      "relativePath": "book/manu_llofrein_book_13.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_13",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659016/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_13.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_14.jpg",
+      "relativePath": "book/manu_llofrein_book_14.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_14",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659017/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_14.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_15.jpg",
+      "relativePath": "book/manu_llofrein_book_15.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_15",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659017/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_15.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_16.jpg",
+      "relativePath": "book/manu_llofrein_book_16.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_16",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659018/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_16.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_17.jpg",
+      "relativePath": "book/manu_llofrein_book_17.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_17",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659019/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_17.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_18.jpg",
+      "relativePath": "book/manu_llofrein_book_18.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_18",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659019/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_18.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_19.jpg",
+      "relativePath": "book/manu_llofrein_book_19.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_19",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659020/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_19.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_20.jpg",
+      "relativePath": "book/manu_llofrein_book_20.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_20",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659021/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_20.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_21.jpg",
+      "relativePath": "book/manu_llofrein_book_21.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_21",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659021/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_21.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_22.jpg",
+      "relativePath": "book/manu_llofrein_book_22.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_22",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659022/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_22.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_23.jpg",
+      "relativePath": "book/manu_llofrein_book_23.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_23",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659022/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_23.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_24.jpg",
+      "relativePath": "book/manu_llofrein_book_24.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_24",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659023/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_24.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_25.jpg",
+      "relativePath": "book/manu_llofrein_book_25.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_25",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659024/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_25.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_26.jpg",
+      "relativePath": "book/manu_llofrein_book_26.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_26",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659024/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_26.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_27.jpg",
+      "relativePath": "book/manu_llofrein_book_27.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_27",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659025/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_27.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_28.jpg",
+      "relativePath": "book/manu_llofrein_book_28.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_28",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659026/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_28.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_29.jpg",
+      "relativePath": "book/manu_llofrein_book_29.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_29",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659027/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_29.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_30.jpg",
+      "relativePath": "book/manu_llofrein_book_30.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_30",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659028/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_30.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_31.jpg",
+      "relativePath": "book/manu_llofrein_book_31.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_31",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659029/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_31.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_32.jpg",
+      "relativePath": "book/manu_llofrein_book_32.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_32",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659030/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_32.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_33.jpg",
+      "relativePath": "book/manu_llofrein_book_33.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_33",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659031/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_33.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_34.jpg",
+      "relativePath": "book/manu_llofrein_book_34.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_34",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659031/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_34.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_35.jpg",
+      "relativePath": "book/manu_llofrein_book_35.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_35",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659032/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_35.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_36.jpg",
+      "relativePath": "book/manu_llofrein_book_36.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_36",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659033/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_36.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_37.jpg",
+      "relativePath": "book/manu_llofrein_book_37.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_37",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659034/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_37.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\manu_llofrein_book_38.jpg",
+      "relativePath": "book/manu_llofrein_book_38.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_38",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659035/aura/gallery/models/boys/manu-llofrein/book/manu_llofrein_book_38.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\book\\portada_3311210501_NEGRO_REMERA_OVER_PESADA_0430.webp",
+      "relativePath": "book/portada_3311210501_NEGRO_REMERA_OVER_PESADA_0430.webp",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/book/portada_3311210501_negro_remera_over_pesada_0430",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659035/aura/gallery/models/boys/manu-llofrein/book/portada_3311210501_negro_remera_over_pesada_0430.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\polas\\0H6A5343.jpg",
+      "relativePath": "polas/0H6A5343.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/polas/0h6a5343",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659036/aura/gallery/models/boys/manu-llofrein/polas/0h6a5343.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\polas\\0H6A5356.jpg",
+      "relativePath": "polas/0H6A5356.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/polas/0h6a5356",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659037/aura/gallery/models/boys/manu-llofrein/polas/0h6a5356.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\polas\\0H6A5367.jpg",
+      "relativePath": "polas/0H6A5367.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/polas/0h6a5367",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659038/aura/gallery/models/boys/manu-llofrein/polas/0h6a5367.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\polas\\0H6A5393.jpg",
+      "relativePath": "polas/0H6A5393.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/polas/0h6a5393",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659040/aura/gallery/models/boys/manu-llofrein/polas/0h6a5393.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\polas\\0H6A5416.jpg",
+      "relativePath": "polas/0H6A5416.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/polas/0h6a5416",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659042/aura/gallery/models/boys/manu-llofrein/polas/0h6a5416.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Manu Llofrein\\polas\\0H6A5437.jpg",
+      "relativePath": "polas/0H6A5437.jpg",
+      "publicId": "aura/gallery/models/boys/manu-llofrein/polas/0h6a5437",
+      "assetFolder": "aura/gallery/models/boys/manu-llofrein/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659050/aura/gallery/models/boys/manu-llofrein/polas/0h6a5437.jpg"
+    }
+  ]
+}

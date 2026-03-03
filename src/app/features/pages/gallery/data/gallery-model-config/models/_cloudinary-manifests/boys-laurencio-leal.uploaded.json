@@ -1,0 +1,200 @@
+{
+  "modelQuery": "Laurencio Leal",
+  "gender": "boys",
+  "modelFolderName": "Laurencio Leal",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal",
+  "totalImages": 27,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:28:41.029Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_01.jpg",
+      "relativePath": "book/laurencio_leal_book_01.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_01",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658921/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_01.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_02.jpg",
+      "relativePath": "book/laurencio_leal_book_02.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_02",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658922/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_02.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_03.jpg",
+      "relativePath": "book/laurencio_leal_book_03.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_03",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658923/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_03.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_04.jpg",
+      "relativePath": "book/laurencio_leal_book_04.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_04",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658924/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_04.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_05.jpg",
+      "relativePath": "book/laurencio_leal_book_05.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_05",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658925/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_05.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_06.jpg",
+      "relativePath": "book/laurencio_leal_book_06.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_06",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658926/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_06.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_07.jpg",
+      "relativePath": "book/laurencio_leal_book_07.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_07",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658927/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_07.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_08.jpg",
+      "relativePath": "book/laurencio_leal_book_08.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_08",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658928/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_08.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_09.jpg",
+      "relativePath": "book/laurencio_leal_book_09.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_09",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658929/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_09.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_10.jpg",
+      "relativePath": "book/laurencio_leal_book_10.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_10",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658930/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_10.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_11.jpg",
+      "relativePath": "book/laurencio_leal_book_11.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_11",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658930/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_11.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_12.jpg",
+      "relativePath": "book/laurencio_leal_book_12.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_12",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658931/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_12.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_13.jpg",
+      "relativePath": "book/laurencio_leal_book_13.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_13",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658932/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_13.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_14.jpg",
+      "relativePath": "book/laurencio_leal_book_14.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_14",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658932/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_14.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_15.jpg",
+      "relativePath": "book/laurencio_leal_book_15.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_15",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658933/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_15.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_16.jpg",
+      "relativePath": "book/laurencio_leal_book_16.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_16",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658934/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_16.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_17.jpg",
+      "relativePath": "book/laurencio_leal_book_17.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_17",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658935/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_17.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_18.jpg",
+      "relativePath": "book/laurencio_leal_book_18.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_18",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658935/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_18.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_19.jpg",
+      "relativePath": "book/laurencio_leal_book_19.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_19",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658936/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_19.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_20.jpg",
+      "relativePath": "book/laurencio_leal_book_20.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_20",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658937/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_20.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\book\\laurencio_leal_book_21.jpg",
+      "relativePath": "book/laurencio_leal_book_21.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_21",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658937/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_21.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\polas\\1-laurencio-leal-polaroids-ceres.jpg",
+      "relativePath": "polas/1-laurencio-leal-polaroids-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/polas/1-laurencio-leal-polaroids-ceres",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658939/aura/gallery/models/boys/laurencio-leal/polas/1-laurencio-leal-polaroids-ceres.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\polas\\2-laurencio-leal-polaroids-ceres.jpg",
+      "relativePath": "polas/2-laurencio-leal-polaroids-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/polas/2-laurencio-leal-polaroids-ceres",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658940/aura/gallery/models/boys/laurencio-leal/polas/2-laurencio-leal-polaroids-ceres.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\polas\\3-laurencio-leal-polaroids-ceres.jpg",
+      "relativePath": "polas/3-laurencio-leal-polaroids-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/polas/3-laurencio-leal-polaroids-ceres",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658941/aura/gallery/models/boys/laurencio-leal/polas/3-laurencio-leal-polaroids-ceres.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\polas\\7-laurencio-leal-polaroids-ceres.jpg",
+      "relativePath": "polas/7-laurencio-leal-polaroids-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/polas/7-laurencio-leal-polaroids-ceres",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658942/aura/gallery/models/boys/laurencio-leal/polas/7-laurencio-leal-polaroids-ceres.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\polas\\16-laurencio-leal-polaroids-ceres.jpg",
+      "relativePath": "polas/16-laurencio-leal-polaroids-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/polas/16-laurencio-leal-polaroids-ceres",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658943/aura/gallery/models/boys/laurencio-leal/polas/16-laurencio-leal-polaroids-ceres.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Laurencio Leal\\polas\\22-laurencio-leal-polaroids-ceres.jpg",
+      "relativePath": "polas/22-laurencio-leal-polaroids-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/laurencio-leal/polas/22-laurencio-leal-polaroids-ceres",
+      "assetFolder": "aura/gallery/models/boys/laurencio-leal/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658944/aura/gallery/models/boys/laurencio-leal/polas/22-laurencio-leal-polaroids-ceres.jpg"
+    }
+  ]
+}

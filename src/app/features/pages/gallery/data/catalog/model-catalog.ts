@@ -1,6 +1,6 @@
 import { galleryModels } from '../gallery-models.data';
 import { ScoutingModel } from '../scouting-model.types';
-import { slugifyValue } from '../../utils/gallery-string.utils';
+import { slugifyValue } from '../../utils';
 
 const sourceModels: ScoutingModel[] = [...galleryModels];
 

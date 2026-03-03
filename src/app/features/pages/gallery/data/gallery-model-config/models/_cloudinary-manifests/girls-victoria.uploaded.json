@@ -1,0 +1,221 @@
+{
+  "modelQuery": "Victoria",
+  "gender": "girls",
+  "modelFolderName": "Victoria",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria",
+  "totalImages": 30,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:38:32.499Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_01.jpg",
+      "relativePath": "book/victoria_parrado_book_01.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_01",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659513/aura/gallery/models/girls/victoria/book/victoria_parrado_book_01.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_02.jpg",
+      "relativePath": "book/victoria_parrado_book_02.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_02",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659513/aura/gallery/models/girls/victoria/book/victoria_parrado_book_02.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_03.jpg",
+      "relativePath": "book/victoria_parrado_book_03.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_03",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659514/aura/gallery/models/girls/victoria/book/victoria_parrado_book_03.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_04.jpg",
+      "relativePath": "book/victoria_parrado_book_04.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_04",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659515/aura/gallery/models/girls/victoria/book/victoria_parrado_book_04.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_05.jpg",
+      "relativePath": "book/victoria_parrado_book_05.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_05",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659515/aura/gallery/models/girls/victoria/book/victoria_parrado_book_05.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_06.jpg",
+      "relativePath": "book/victoria_parrado_book_06.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_06",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659516/aura/gallery/models/girls/victoria/book/victoria_parrado_book_06.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_07.jpg",
+      "relativePath": "book/victoria_parrado_book_07.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_07",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659517/aura/gallery/models/girls/victoria/book/victoria_parrado_book_07.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_08.jpg",
+      "relativePath": "book/victoria_parrado_book_08.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_08",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659518/aura/gallery/models/girls/victoria/book/victoria_parrado_book_08.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_09.jpg",
+      "relativePath": "book/victoria_parrado_book_09.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_09",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659519/aura/gallery/models/girls/victoria/book/victoria_parrado_book_09.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_10.jpg",
+      "relativePath": "book/victoria_parrado_book_10.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_10",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659520/aura/gallery/models/girls/victoria/book/victoria_parrado_book_10.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_11.jpg",
+      "relativePath": "book/victoria_parrado_book_11.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_11",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659520/aura/gallery/models/girls/victoria/book/victoria_parrado_book_11.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_12.jpg",
+      "relativePath": "book/victoria_parrado_book_12.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_12",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659521/aura/gallery/models/girls/victoria/book/victoria_parrado_book_12.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_13.jpg",
+      "relativePath": "book/victoria_parrado_book_13.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_13",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659522/aura/gallery/models/girls/victoria/book/victoria_parrado_book_13.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_14.jpg",
+      "relativePath": "book/victoria_parrado_book_14.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_14",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659523/aura/gallery/models/girls/victoria/book/victoria_parrado_book_14.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_15.jpg",
+      "relativePath": "book/victoria_parrado_book_15.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_15",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659523/aura/gallery/models/girls/victoria/book/victoria_parrado_book_15.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_16.jpg",
+      "relativePath": "book/victoria_parrado_book_16.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_16",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659524/aura/gallery/models/girls/victoria/book/victoria_parrado_book_16.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_17.jpg",
+      "relativePath": "book/victoria_parrado_book_17.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_17",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659525/aura/gallery/models/girls/victoria/book/victoria_parrado_book_17.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_18.jpg",
+      "relativePath": "book/victoria_parrado_book_18.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_18",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659526/aura/gallery/models/girls/victoria/book/victoria_parrado_book_18.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_19.jpg",
+      "relativePath": "book/victoria_parrado_book_19.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_19",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659526/aura/gallery/models/girls/victoria/book/victoria_parrado_book_19.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_20.jpg",
+      "relativePath": "book/victoria_parrado_book_20.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_20",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659527/aura/gallery/models/girls/victoria/book/victoria_parrado_book_20.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_21.jpg",
+      "relativePath": "book/victoria_parrado_book_21.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_21",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659528/aura/gallery/models/girls/victoria/book/victoria_parrado_book_21.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_22.jpg",
+      "relativePath": "book/victoria_parrado_book_22.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_22",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659528/aura/gallery/models/girls/victoria/book/victoria_parrado_book_22.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\book\\victoria_parrado_book_23.jpg",
+      "relativePath": "book/victoria_parrado_book_23.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/book/victoria_parrado_book_23",
+      "assetFolder": "aura/gallery/models/girls/victoria/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659529/aura/gallery/models/girls/victoria/book/victoria_parrado_book_23.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\polas\\victoria_parrado_snaps_01.jpg",
+      "relativePath": "polas/victoria_parrado_snaps_01.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_01",
+      "assetFolder": "aura/gallery/models/girls/victoria/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_01.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\polas\\victoria_parrado_snaps_02.jpg",
+      "relativePath": "polas/victoria_parrado_snaps_02.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_02",
+      "assetFolder": "aura/gallery/models/girls/victoria/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659531/aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_02.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\polas\\victoria_parrado_snaps_03.jpg",
+      "relativePath": "polas/victoria_parrado_snaps_03.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_03",
+      "assetFolder": "aura/gallery/models/girls/victoria/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659531/aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_03.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\polas\\victoria_parrado_snaps_04.jpg",
+      "relativePath": "polas/victoria_parrado_snaps_04.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_04",
+      "assetFolder": "aura/gallery/models/girls/victoria/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659532/aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_04.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\polas\\victoria_parrado_snaps_05.jpg",
+      "relativePath": "polas/victoria_parrado_snaps_05.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_05",
+      "assetFolder": "aura/gallery/models/girls/victoria/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659534/aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_05.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\polas\\victoria_parrado_snaps_06.jpg",
+      "relativePath": "polas/victoria_parrado_snaps_06.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_06",
+      "assetFolder": "aura/gallery/models/girls/victoria/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659535/aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_06.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Victoria\\polas\\victoria_parrado_snaps_07.jpg",
+      "relativePath": "polas/victoria_parrado_snaps_07.jpg",
+      "publicId": "aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_07",
+      "assetFolder": "aura/gallery/models/girls/victoria/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659536/aura/gallery/models/girls/victoria/polas/victoria_parrado_snaps_07.jpg"
+    }
+  ]
+}

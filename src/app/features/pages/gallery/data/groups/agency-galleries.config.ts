@@ -90,7 +90,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     modelIds: [
       { id: 'adan', status: 'on', fullbook: 'off' },
       { id: 'alan-marquez', status: 'on', fullbook: 'off' },
-      { id: 'emmanuel', status: 'on', fullbook: 'off' },
+      { id: 'emmanuel', status: 'on', fullbook: 'on' },
       { id: 'angel-bret', status: 'on', fullbook: 'off' },
       { id: 'santiago-poggi', status: 'on', fullbook: 'off' },
       { id: 'bernardo-romano', status: 'on', fullbook: 'off' },

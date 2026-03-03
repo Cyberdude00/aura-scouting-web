@@ -1,26 +1,30 @@
-<section class="media-viewer gallery-overlay ui-fade-in" *ngIf="mediaPath" (click)="closeViewer()">
-  <div class="viewer-content" (click)="$event.stopPropagation()" (touchstart)="onTouchStart($event)" (touchend)="onTouchEnd($event)">
-    <button class="viewer-close gallery-round-btn" type="button" (click)="closeViewer()" aria-label="Close">&times;</button>
-    <button class="viewer-nav viewer-prev gallery-round-btn" type="button" (click)="showPrevious()" aria-label="Previous">&#10094;</button>
+@if (mediaPath) {
+  <section class="media-viewer gallery-overlay overlay-shell overlay-shell--dark ui-fade-in" (click)="closeViewer()">
+    <div class="viewer-content" (click)="$event.stopPropagation()" (touchstart)="onTouchStart($event)" (touchend)="onTouchEnd($event)">
+      <button class="viewer-close overlay-close-btn gallery-round-btn" type="button" (click)="closeViewer()" aria-label="Close">&times;</button>
+      <button class="viewer-nav overlay-nav-btn viewer-prev gallery-round-btn" type="button" (click)="showPrevious()" aria-label="Previous">&#10094;</button>
 
-    <div class="viewer-media-wrap">
-      <video *ngIf="isVideo(mediaPath); else imageTpl" [src]="mediaPath" controls playsinline autoplay></video>
-      <ng-template #imageTpl>
-        <img [src]="mediaPath" alt="Large media view" loading="eager">
-      </ng-template>
+      <div class="viewer-media-wrap">
+        @if (isVideo(mediaPath)) {
+          <video [src]="mediaPath" controls playsinline autoplay></video>
+        } @else {
+          <img [src]="mediaPath" alt="Large media view" loading="eager">
+        }
 
-      <button
-        *ngIf="canDownloadImage"
-        type="button"
-        class="viewer-download gallery-download-btn ui-smooth-transition"
-        (click)="downloadCurrentMedia($event)"
-        aria-label="Download photo"
-        title="Download photo"
-      >
-        ⬇
-      </button>
+        @if (canDownloadImage) {
+          <button
+            type="button"
+            class="viewer-download gallery-download-btn ui-smooth-transition"
+            (click)="downloadCurrentMedia($event)"
+            aria-label="Download photo"
+            title="Download photo"
+          >
+            ⬇
+          </button>
+        }
+      </div>
+
+      <button class="viewer-nav overlay-nav-btn viewer-next gallery-round-btn" type="button" (click)="showNext()" aria-label="Next">&#10095;</button>
     </div>
-
-    <button class="viewer-nav viewer-next gallery-round-btn" type="button" (click)="showNext()" aria-label="Next">&#10095;</button>
-  </div>
-</section>
+  </section>
+}

@@ -1,0 +1,270 @@
+{
+  "modelQuery": "Bernardo Romano",
+  "gender": "boys",
+  "modelFolderName": "Bernardo Romano",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano",
+  "totalImages": 37,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:26:49.514Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_01.jpg",
+      "relativePath": "book/bernardo_romano_book_01.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_01",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658810/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_01.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_02.jpg",
+      "relativePath": "book/bernardo_romano_book_02.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_02",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658810/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_02.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_03.jpg",
+      "relativePath": "book/bernardo_romano_book_03.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_03",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658811/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_03.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_04.jpg",
+      "relativePath": "book/bernardo_romano_book_04.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_04",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658812/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_04.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_05.jpg",
+      "relativePath": "book/bernardo_romano_book_05.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_05",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658813/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_05.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_06.jpg",
+      "relativePath": "book/bernardo_romano_book_06.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_06",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658813/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_06.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_07.jpg",
+      "relativePath": "book/bernardo_romano_book_07.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_07",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658814/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_07.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_08.jpg",
+      "relativePath": "book/bernardo_romano_book_08.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_08",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658814/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_08.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_09.jpg",
+      "relativePath": "book/bernardo_romano_book_09.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_09",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658815/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_09.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_10.jpg",
+      "relativePath": "book/bernardo_romano_book_10.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_10",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658816/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_10.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_11.jpg",
+      "relativePath": "book/bernardo_romano_book_11.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_11",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658816/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_11.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_12.jpg",
+      "relativePath": "book/bernardo_romano_book_12.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_12",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658817/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_12.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_13.jpg",
+      "relativePath": "book/bernardo_romano_book_13.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_13",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658817/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_13.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_14.jpg",
+      "relativePath": "book/bernardo_romano_book_14.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_14",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658818/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_14.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_15.jpg",
+      "relativePath": "book/bernardo_romano_book_15.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_15",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658819/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_15.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_16.jpg",
+      "relativePath": "book/bernardo_romano_book_16.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_16",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658820/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_16.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_17.jpg",
+      "relativePath": "book/bernardo_romano_book_17.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_17",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658820/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_17.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_18.jpg",
+      "relativePath": "book/bernardo_romano_book_18.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_18",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658821/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_18.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_19.jpg",
+      "relativePath": "book/bernardo_romano_book_19.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_19",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658822/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_19.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_20.jpg",
+      "relativePath": "book/bernardo_romano_book_20.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_20",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658822/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_20.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_21.jpg",
+      "relativePath": "book/bernardo_romano_book_21.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_21",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658823/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_21.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_22.jpg",
+      "relativePath": "book/bernardo_romano_book_22.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_22",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658824/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_22.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_23.jpg",
+      "relativePath": "book/bernardo_romano_book_23.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_23",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658825/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_23.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_24.jpg",
+      "relativePath": "book/bernardo_romano_book_24.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_24",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658826/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_24.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_25.jpg",
+      "relativePath": "book/bernardo_romano_book_25.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_25",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658826/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_25.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_26.jpg",
+      "relativePath": "book/bernardo_romano_book_26.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_26",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658827/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_26.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_27.jpg",
+      "relativePath": "book/bernardo_romano_book_27.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_27",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658828/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_27.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_28.jpg",
+      "relativePath": "book/bernardo_romano_book_28.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_28",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658829/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_28.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_29.jpg",
+      "relativePath": "book/bernardo_romano_book_29.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_29",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658830/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_29.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_30.jpg",
+      "relativePath": "book/bernardo_romano_book_30.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_30",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658831/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_30.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_31.jpg",
+      "relativePath": "book/bernardo_romano_book_31.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_31",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658831/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_31.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\book\\bernardo_romano_book_32.jpg",
+      "relativePath": "book/bernardo_romano_book_32.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_32",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658833/aura/gallery/models/boys/bernardo-romano/book/bernardo_romano_book_32.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\polas\\IMG_9518.JPG",
+      "relativePath": "polas/IMG_9518.JPG",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/polas/img_9518",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658834/aura/gallery/models/boys/bernardo-romano/polas/img_9518.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\polas\\IMG_9526.jpg",
+      "relativePath": "polas/IMG_9526.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/polas/img_9526",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658834/aura/gallery/models/boys/bernardo-romano/polas/img_9526.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\polas\\IMG_9569.JPG",
+      "relativePath": "polas/IMG_9569.JPG",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/polas/img_9569",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658835/aura/gallery/models/boys/bernardo-romano/polas/img_9569.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\polas\\IMG_9587.jpg",
+      "relativePath": "polas/IMG_9587.jpg",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/polas/img_9587",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658836/aura/gallery/models/boys/bernardo-romano/polas/img_9587.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Bernardo Romano\\polas\\IMG_9631.JPG",
+      "relativePath": "polas/IMG_9631.JPG",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/polas/img_9631",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658837/aura/gallery/models/boys/bernardo-romano/polas/img_9631.jpg"
+    }
+  ]
+}

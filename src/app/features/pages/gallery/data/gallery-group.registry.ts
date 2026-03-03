@@ -2,7 +2,7 @@ import { GalleryGroup, GalleryModel, ScoutingModel } from './scouting-model.type
 import { fullMaterialCatalog } from './catalog/full-material-catalog';
 import { modelCatalog } from './catalog/model-catalog';
 import { agencyGalleriesConfig } from './groups/agency-galleries.config';
-import { slugifyValue } from '../utils/gallery-string.utils';
+import { slugifyValue } from '../utils';
 
 function resolveOngoingTrip(status: 'on' | 'off', model: ScoutingModel): boolean {
   const configuredStatus = status;

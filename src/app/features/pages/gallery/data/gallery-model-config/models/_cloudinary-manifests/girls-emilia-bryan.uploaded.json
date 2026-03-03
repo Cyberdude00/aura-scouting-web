@@ -1,0 +1,235 @@
+{
+  "modelQuery": "Emilia Bryan",
+  "gender": "girls",
+  "modelFolderName": "Emilia Bryan",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan",
+  "totalImages": 32,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:33:51.610Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_01.jpg",
+      "relativePath": "book/emilia_bryan_book_01.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_01",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659232/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_01.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_02.jpg",
+      "relativePath": "book/emilia_bryan_book_02.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_02",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659233/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_02.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_03.jpg",
+      "relativePath": "book/emilia_bryan_book_03.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_03",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659234/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_03.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_04.jpg",
+      "relativePath": "book/emilia_bryan_book_04.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_04",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659234/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_04.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_05.jpg",
+      "relativePath": "book/emilia_bryan_book_05.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_05",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659235/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_05.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_06.jpg",
+      "relativePath": "book/emilia_bryan_book_06.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_06",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659236/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_06.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_07.jpg",
+      "relativePath": "book/emilia_bryan_book_07.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_07",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659237/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_07.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_08.jpg",
+      "relativePath": "book/emilia_bryan_book_08.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_08",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659238/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_08.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_09.jpg",
+      "relativePath": "book/emilia_bryan_book_09.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_09",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659239/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_09.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_10.jpg",
+      "relativePath": "book/emilia_bryan_book_10.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_10",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659240/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_10.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_11.jpg",
+      "relativePath": "book/emilia_bryan_book_11.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_11",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659241/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_11.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_12.jpg",
+      "relativePath": "book/emilia_bryan_book_12.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_12",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659242/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_12.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_13.jpg",
+      "relativePath": "book/emilia_bryan_book_13.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_13",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659243/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_13.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_14.jpg",
+      "relativePath": "book/emilia_bryan_book_14.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_14",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659243/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_14.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_15.jpg",
+      "relativePath": "book/emilia_bryan_book_15.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_15",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659244/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_15.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_16.jpg",
+      "relativePath": "book/emilia_bryan_book_16.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_16",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659245/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_16.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_17.jpg",
+      "relativePath": "book/emilia_bryan_book_17.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_17",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659246/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_17.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_18.jpg",
+      "relativePath": "book/emilia_bryan_book_18.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_18",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659247/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_18.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_19.jpg",
+      "relativePath": "book/emilia_bryan_book_19.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_19",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659247/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_19.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_20.jpg",
+      "relativePath": "book/emilia_bryan_book_20.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_20",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659248/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_20.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_21.jpg",
+      "relativePath": "book/emilia_bryan_book_21.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_21",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659249/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_21.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_22.jpg",
+      "relativePath": "book/emilia_bryan_book_22.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_22",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659249/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_22.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_23.jpg",
+      "relativePath": "book/emilia_bryan_book_23.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_23",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659250/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_23.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_24.jpg",
+      "relativePath": "book/emilia_bryan_book_24.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_24",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659251/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_24.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_25.jpg",
+      "relativePath": "book/emilia_bryan_book_25.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_25",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659252/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_25.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\book\\emilia_bryan_book_26.jpg",
+      "relativePath": "book/emilia_bryan_book_26.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_26",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659252/aura/gallery/models/girls/emilia-bryan/book/emilia_bryan_book_26.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\polas\\0C4A4874.jpg",
+      "relativePath": "polas/0C4A4874.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/polas/0c4a4874",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659253/aura/gallery/models/girls/emilia-bryan/polas/0c4a4874.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\polas\\0C4A4900.jpg",
+      "relativePath": "polas/0C4A4900.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/polas/0c4a4900",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659254/aura/gallery/models/girls/emilia-bryan/polas/0c4a4900.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\polas\\0C4A4944.jpg",
+      "relativePath": "polas/0C4A4944.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/polas/0c4a4944",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659255/aura/gallery/models/girls/emilia-bryan/polas/0c4a4944.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\polas\\0C4A5039.jpg",
+      "relativePath": "polas/0C4A5039.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/polas/0c4a5039",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659256/aura/gallery/models/girls/emilia-bryan/polas/0c4a5039.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\polas\\0C4A5054.jpg",
+      "relativePath": "polas/0C4A5054.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/polas/0c4a5054",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659256/aura/gallery/models/girls/emilia-bryan/polas/0c4a5054.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Emilia Bryan\\polas\\0C4A5153.jpg",
+      "relativePath": "polas/0C4A5153.jpg",
+      "publicId": "aura/gallery/models/girls/emilia-bryan/polas/0c4a5153",
+      "assetFolder": "aura/gallery/models/girls/emilia-bryan/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659258/aura/gallery/models/girls/emilia-bryan/polas/0c4a5153.jpg"
+    }
+  ]
+}

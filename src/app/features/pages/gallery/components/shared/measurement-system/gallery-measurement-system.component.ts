@@ -1,13 +1,12 @@
-import { CommonModule } from '@angular/common';
 import { Component, Input, OnDestroy } from '@angular/core';
-import { GalleryModel } from '../../../data/scouting-model.types';
+import { fullMaterialCatalog, GalleryModel } from '../../../data';
+import { downloadFullbookZip } from '../../../utils';
 
 type UnitSystem = 'metric' | 'imperial';
 
 @Component({
   selector: 'app-gallery-measurement-system',
   standalone: true,
-  imports: [CommonModule],
   templateUrl: './gallery-measurement-system.component.html',
   styleUrl: './gallery-measurement-system.component.scss',
 })
@@ -16,6 +15,7 @@ export class GalleryMeasurementSystemComponent implements OnDestroy {
 
   unitSystem: UnitSystem = 'metric';
   isSwitching = false;
+  isDownloadingFullbook = false;
 
   private switchTimer: ReturnType<typeof setTimeout> | null = null;
   private switchFrame: number | null = null;
@@ -26,6 +26,36 @@ export class GalleryMeasurementSystemComponent implements OnDestroy {
 
   useImperial(): void {
     this.setUnitSystem('imperial');
+  }
+
+  get canDownloadFullbook(): boolean {
+    return this.getFullbookMedia().length > 0 && !this.isDownloadingFullbook;
+  }
+
+  get hasFullbookMedia(): boolean {
+    return this.getFullbookMedia().length > 0;
+  }
+
+  get showFullbookButton(): boolean {
+    return Boolean(this.model?.fullMaterial);
+  }
+
+  async downloadModelFullbook(): Promise<void> {
+    if (!this.model || this.isDownloadingFullbook) {
+      return;
+    }
+
+    const fullbookMedia = this.getFullbookMedia();
+    if (!fullbookMedia.length) {
+      return;
+    }
+
+    this.isDownloadingFullbook = true;
+    try {
+      await downloadFullbookZip(this.model.name, fullbookMedia);
+    } finally {
+      this.isDownloadingFullbook = false;
+    }
   }
 
   get formattedHeight(): string | null {
@@ -123,6 +153,16 @@ export class GalleryMeasurementSystemComponent implements OnDestroy {
 
     this.unitSystem = system;
     this.triggerSwitchAnimation();
+  }
+
+  private getFullbookMedia(): string[] {
+    if (!this.model) {
+      return [];
+    }
+
+    return (fullMaterialCatalog[this.model.id]?.fullbook ?? []).filter(
+      (media): media is string => typeof media === 'string' && media.trim().length > 0,
+    );
   }
 
   private triggerSwitchAnimation(): void {

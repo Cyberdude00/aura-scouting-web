@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 import { GalleryMeasurementSystemComponent } from './gallery-measurement-system.component';
-import { GalleryModel } from '../../../data/scouting-model.types';
+import { GalleryModel } from '../../../data';
 
 describe('GalleryMeasurementSystemComponent', () => {
   const model: GalleryModel = {

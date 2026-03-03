@@ -1,0 +1,158 @@
+{
+  "modelQuery": "Luciana Imoberdorf",
+  "gender": "girls",
+  "modelFolderName": "Luciana Imoberdorf",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf",
+  "totalImages": 21,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:36:46.599Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_1.jpeg",
+      "relativePath": "book/luciana_book_1.jpeg",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_1",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659406/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_1.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_2.JPG",
+      "relativePath": "book/luciana_book_2.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_2",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659407/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_2.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_3.JPG",
+      "relativePath": "book/luciana_book_3.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_3",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659408/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_3.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_4.JPG",
+      "relativePath": "book/luciana_book_4.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_4",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659409/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_4.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_5.JPG",
+      "relativePath": "book/luciana_book_5.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_5",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659409/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_5.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_6.JPG",
+      "relativePath": "book/luciana_book_6.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_6",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659410/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_6.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_7.jpeg",
+      "relativePath": "book/luciana_book_7.jpeg",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_7",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659411/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_7.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_8.jpeg",
+      "relativePath": "book/luciana_book_8.jpeg",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_8",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659411/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_8.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_9.JPG",
+      "relativePath": "book/luciana_book_9.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_9",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659412/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_9.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_10.jpeg",
+      "relativePath": "book/luciana_book_10.jpeg",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_10",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659413/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_10.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_11.jpeg",
+      "relativePath": "book/luciana_book_11.jpeg",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_11",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659413/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_11.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_12.jpeg",
+      "relativePath": "book/luciana_book_12.jpeg",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_12",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659414/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_12.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_13.jpeg",
+      "relativePath": "book/luciana_book_13.jpeg",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_13",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659414/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_13.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_14.jpg",
+      "relativePath": "book/luciana_book_14.jpg",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_14",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659415/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_14.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\book\\luciana_book_15.jpeg",
+      "relativePath": "book/luciana_book_15.jpeg",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_15",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659416/aura/gallery/models/girls/luciana-imoberdorf/book/luciana_book_15.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\polas\\luciana_polas_1.JPG",
+      "relativePath": "polas/luciana_polas_1.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_1",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659416/aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_1.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\polas\\luciana_polas_2.JPG",
+      "relativePath": "polas/luciana_polas_2.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_2",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659417/aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_2.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\polas\\luciana_polas_3.JPG",
+      "relativePath": "polas/luciana_polas_3.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_3",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659417/aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_3.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\polas\\luciana_polas_4.JPG",
+      "relativePath": "polas/luciana_polas_4.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_4",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659418/aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_4.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\polas\\luciana_polas_5.JPG",
+      "relativePath": "polas/luciana_polas_5.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_5",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659418/aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_5.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Luciana Imoberdorf\\polas\\luciana_polas_6.JPG",
+      "relativePath": "polas/luciana_polas_6.JPG",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_6",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659419/aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_6.jpg"
+    }
+  ]
+}

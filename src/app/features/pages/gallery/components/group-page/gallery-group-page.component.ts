@@ -1,8 +1,7 @@
 import { CommonModule, DOCUMENT } from '@angular/common';
 import { Component, HostListener, Inject, OnDestroy } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { GalleryGroup, GalleryModel } from '../../data/scouting-model.types';
-import { getGalleryGroup } from '../../data/gallery-group.registry';
+import { GalleryGroup, GalleryModel, getGalleryGroup } from '../../data';
 import { GalleryHeaderComponent } from '../shared/header/gallery-header.component';
 import { GalleryModelGridComponent } from '../shared/main-grid/gallery-model-grid.component';
 import { GalleryPortfolioModalComponent } from '../shared/portfolio-modal/gallery-portfolio-modal.component';

@@ -1,0 +1,60 @@
+{
+  "modelQuery": "Joaquin garcia",
+  "gender": "boys",
+  "modelFolderName": "Joaquin garcia",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Joaquin garcia",
+  "totalImages": 7,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:28:14.022Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Joaquin garcia\\polas\\IMG_4720.jpg",
+      "relativePath": "polas/IMG_4720.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4720",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658894/aura/gallery/models/boys/joaquin-garcia/polas/img_4720.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Joaquin garcia\\polas\\IMG_4733.jpg",
+      "relativePath": "polas/IMG_4733.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4733",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658895/aura/gallery/models/boys/joaquin-garcia/polas/img_4733.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Joaquin garcia\\polas\\IMG_4737.jpg",
+      "relativePath": "polas/IMG_4737.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4737",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658896/aura/gallery/models/boys/joaquin-garcia/polas/img_4737.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Joaquin garcia\\polas\\IMG_4760.jpg",
+      "relativePath": "polas/IMG_4760.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4760",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658896/aura/gallery/models/boys/joaquin-garcia/polas/img_4760.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Joaquin garcia\\polas\\IMG_4798.jpg",
+      "relativePath": "polas/IMG_4798.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4798",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658897/aura/gallery/models/boys/joaquin-garcia/polas/img_4798.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Joaquin garcia\\polas\\IMG_4799.jpg",
+      "relativePath": "polas/IMG_4799.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4799",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658898/aura/gallery/models/boys/joaquin-garcia/polas/img_4799.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Joaquin garcia\\polas\\IMG_4808.jpg",
+      "relativePath": "polas/IMG_4808.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4808",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658898/aura/gallery/models/boys/joaquin-garcia/polas/img_4808.jpg"
+    }
+  ]
+}

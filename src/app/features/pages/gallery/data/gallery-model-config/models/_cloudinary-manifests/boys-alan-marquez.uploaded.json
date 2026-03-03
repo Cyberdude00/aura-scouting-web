@@ -1,0 +1,263 @@
+{
+  "modelQuery": "Alan Marquez",
+  "gender": "boys",
+  "modelFolderName": "Alan Marquez",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez",
+  "totalImages": 36,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:59:12.643Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_01.jpg",
+      "relativePath": "book/alan_marquez_book_01.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_01",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660753/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_01.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_02.jpg",
+      "relativePath": "book/alan_marquez_book_02.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_02",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660755/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_02.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_03.jpg",
+      "relativePath": "book/alan_marquez_book_03.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_03",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660756/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_03.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_04.jpg",
+      "relativePath": "book/alan_marquez_book_04.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_04",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660757/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_04.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_05.jpg",
+      "relativePath": "book/alan_marquez_book_05.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_05",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660758/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_05.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_06.jpg",
+      "relativePath": "book/alan_marquez_book_06.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_06",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660759/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_06.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_07.jpg",
+      "relativePath": "book/alan_marquez_book_07.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_07",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660760/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_07.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_08.jpg",
+      "relativePath": "book/alan_marquez_book_08.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_08",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660761/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_08.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_09.jpg",
+      "relativePath": "book/alan_marquez_book_09.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_09",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660762/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_09.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_010.jpg",
+      "relativePath": "book/alan_marquez_book_010.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_010",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660763/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_010.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_011.jpg",
+      "relativePath": "book/alan_marquez_book_011.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_011",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660764/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_011.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_012.jpg",
+      "relativePath": "book/alan_marquez_book_012.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_012",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660765/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_012.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_013.jpg",
+      "relativePath": "book/alan_marquez_book_013.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_013",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660765/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_013.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_014.jpg",
+      "relativePath": "book/alan_marquez_book_014.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_014",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660766/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_014.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_015.jpg",
+      "relativePath": "book/alan_marquez_book_015.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_015",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660767/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_015.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_016.jpg",
+      "relativePath": "book/alan_marquez_book_016.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_016",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660768/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_016.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_017.jpg",
+      "relativePath": "book/alan_marquez_book_017.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_017",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660768/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_017.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_018.jpg",
+      "relativePath": "book/alan_marquez_book_018.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_018",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660769/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_018.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_019.jpg",
+      "relativePath": "book/alan_marquez_book_019.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_019",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660770/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_019.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_020.jpg",
+      "relativePath": "book/alan_marquez_book_020.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_020",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660770/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_020.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_021.jpg",
+      "relativePath": "book/alan_marquez_book_021.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_021",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660771/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_021.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_022.jpg",
+      "relativePath": "book/alan_marquez_book_022.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_022",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660772/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_022.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_023.jpg",
+      "relativePath": "book/alan_marquez_book_023.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_023",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660773/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_023.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_024.jpg",
+      "relativePath": "book/alan_marquez_book_024.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_024",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660774/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_024.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_025.jpg",
+      "relativePath": "book/alan_marquez_book_025.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_025",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660775/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_025.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_026.jpg",
+      "relativePath": "book/alan_marquez_book_026.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_026",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660776/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_026.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_027.jpg",
+      "relativePath": "book/alan_marquez_book_027.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_027",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660777/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_027.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_028.jpg",
+      "relativePath": "book/alan_marquez_book_028.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_028",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660777/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_028.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_029.jpg",
+      "relativePath": "book/alan_marquez_book_029.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_029",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660778/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_029.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\book\\alan_marquez_book_030.jpg",
+      "relativePath": "book/alan_marquez_book_030.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_030",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660779/aura/gallery/models/boys/alan-marquez/book/alan_marquez_book_030.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\polas\\_R9A1647.jpg",
+      "relativePath": "polas/_R9A1647.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/polas/_r9a1647",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660780/aura/gallery/models/boys/alan-marquez/polas/_r9a1647.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\polas\\_R9A1723.jpg",
+      "relativePath": "polas/_R9A1723.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/polas/_r9a1723",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660781/aura/gallery/models/boys/alan-marquez/polas/_r9a1723.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\polas\\_R9A1729.jpg",
+      "relativePath": "polas/_R9A1729.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/polas/_r9a1729",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660782/aura/gallery/models/boys/alan-marquez/polas/_r9a1729.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\polas\\_R9A1764.jpg",
+      "relativePath": "polas/_R9A1764.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/polas/_r9a1764",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660783/aura/gallery/models/boys/alan-marquez/polas/_r9a1764.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\polas\\_R9A1801.jpg",
+      "relativePath": "polas/_R9A1801.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/polas/_r9a1801",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660783/aura/gallery/models/boys/alan-marquez/polas/_r9a1801.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Alan Marquez\\polas\\_R9A1805.jpg",
+      "relativePath": "polas/_R9A1805.jpg",
+      "publicId": "aura/gallery/models/boys/alan-marquez/polas/_r9a1805",
+      "assetFolder": "aura/gallery/models/boys/alan-marquez/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660785/aura/gallery/models/boys/alan-marquez/polas/_r9a1805.jpg"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "modelQuery": "Salih topcouglu",
+  "gender": "boys",
+  "modelFolderName": "Salih topcouglu",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu",
+  "totalImages": 31,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:30:51.836Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book1.webp",
+      "relativePath": "book/salih book1.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book1",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659052/aura/gallery/models/boys/salih-topcouglu/book/salih-book1.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book2.webp",
+      "relativePath": "book/salih book2.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book2",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659052/aura/gallery/models/boys/salih-topcouglu/book/salih-book2.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book3.webp",
+      "relativePath": "book/salih book3.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book3",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659053/aura/gallery/models/boys/salih-topcouglu/book/salih-book3.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book4.webp",
+      "relativePath": "book/salih book4.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book4",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659053/aura/gallery/models/boys/salih-topcouglu/book/salih-book4.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book5.webp",
+      "relativePath": "book/salih book5.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book5",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659054/aura/gallery/models/boys/salih-topcouglu/book/salih-book5.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book6.webp",
+      "relativePath": "book/salih book6.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book6",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659055/aura/gallery/models/boys/salih-topcouglu/book/salih-book6.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book7.webp",
+      "relativePath": "book/salih book7.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book7",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659055/aura/gallery/models/boys/salih-topcouglu/book/salih-book7.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book8.webp",
+      "relativePath": "book/salih book8.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book8",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659056/aura/gallery/models/boys/salih-topcouglu/book/salih-book8.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book9.webp",
+      "relativePath": "book/salih book9.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book9",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659056/aura/gallery/models/boys/salih-topcouglu/book/salih-book9.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book10.webp",
+      "relativePath": "book/salih book10.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book10",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659057/aura/gallery/models/boys/salih-topcouglu/book/salih-book10.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book11.webp",
+      "relativePath": "book/salih book11.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book11",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659057/aura/gallery/models/boys/salih-topcouglu/book/salih-book11.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book12.webp",
+      "relativePath": "book/salih book12.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book12",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659058/aura/gallery/models/boys/salih-topcouglu/book/salih-book12.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book13.webp",
+      "relativePath": "book/salih book13.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book13",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659059/aura/gallery/models/boys/salih-topcouglu/book/salih-book13.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book14.webp",
+      "relativePath": "book/salih book14.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book14",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659059/aura/gallery/models/boys/salih-topcouglu/book/salih-book14.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book15.webp",
+      "relativePath": "book/salih book15.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book15",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659060/aura/gallery/models/boys/salih-topcouglu/book/salih-book15.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book16.webp",
+      "relativePath": "book/salih book16.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book16",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659061/aura/gallery/models/boys/salih-topcouglu/book/salih-book16.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book17.webp",
+      "relativePath": "book/salih book17.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book17",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659061/aura/gallery/models/boys/salih-topcouglu/book/salih-book17.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book18.webp",
+      "relativePath": "book/salih book18.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book18",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659062/aura/gallery/models/boys/salih-topcouglu/book/salih-book18.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book19.webp",
+      "relativePath": "book/salih book19.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book19",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659063/aura/gallery/models/boys/salih-topcouglu/book/salih-book19.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book20.webp",
+      "relativePath": "book/salih book20.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book20",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659063/aura/gallery/models/boys/salih-topcouglu/book/salih-book20.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book21.webp",
+      "relativePath": "book/salih book21.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book21",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659064/aura/gallery/models/boys/salih-topcouglu/book/salih-book21.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book22.webp",
+      "relativePath": "book/salih book22.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book22",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659065/aura/gallery/models/boys/salih-topcouglu/book/salih-book22.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book23.webp",
+      "relativePath": "book/salih book23.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book23",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659065/aura/gallery/models/boys/salih-topcouglu/book/salih-book23.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book24.webp",
+      "relativePath": "book/salih book24.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book24",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659066/aura/gallery/models/boys/salih-topcouglu/book/salih-book24.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book25.webp",
+      "relativePath": "book/salih book25.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book25",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659067/aura/gallery/models/boys/salih-topcouglu/book/salih-book25.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book26.webp",
+      "relativePath": "book/salih book26.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book26",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659067/aura/gallery/models/boys/salih-topcouglu/book/salih-book26.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book27.webp",
+      "relativePath": "book/salih book27.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book27",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659068/aura/gallery/models/boys/salih-topcouglu/book/salih-book27.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book28.webp",
+      "relativePath": "book/salih book28.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book28",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659069/aura/gallery/models/boys/salih-topcouglu/book/salih-book28.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book29.webp",
+      "relativePath": "book/salih book29.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book29",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659069/aura/gallery/models/boys/salih-topcouglu/book/salih-book29.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\book\\salih book30.webp",
+      "relativePath": "book/salih book30.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/book/salih-book30",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659070/aura/gallery/models/boys/salih-topcouglu/book/salih-book30.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Salih topcouglu\\polas\\salih polas.webp",
+      "relativePath": "polas/salih polas.webp",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/polas/salih-polas",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659070/aura/gallery/models/boys/salih-topcouglu/polas/salih-polas.webp"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "modelQuery": "Santiago zezular",
+  "gender": "boys",
+  "modelFolderName": "Santiago zezular",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular",
+  "totalImages": 29,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:31:38.185Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\1-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/1-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/1-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659098/aura/gallery/models/boys/santiago-zezular/book/1-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\2-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/2-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/2-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659099/aura/gallery/models/boys/santiago-zezular/book/2-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\3-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/3-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/3-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659100/aura/gallery/models/boys/santiago-zezular/book/3-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\4-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/4-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/4-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659100/aura/gallery/models/boys/santiago-zezular/book/4-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\5-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/5-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/5-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659101/aura/gallery/models/boys/santiago-zezular/book/5-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\6-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/6-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/6-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659101/aura/gallery/models/boys/santiago-zezular/book/6-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\7-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/7-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/7-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659102/aura/gallery/models/boys/santiago-zezular/book/7-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\8-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/8-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/8-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659102/aura/gallery/models/boys/santiago-zezular/book/8-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\9-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/9-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/9-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659103/aura/gallery/models/boys/santiago-zezular/book/9-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\10-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/10-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/10-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659104/aura/gallery/models/boys/santiago-zezular/book/10-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\11-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/11-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/11-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659105/aura/gallery/models/boys/santiago-zezular/book/11-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\12-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/12-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/12-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659105/aura/gallery/models/boys/santiago-zezular/book/12-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\13-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/13-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/13-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659106/aura/gallery/models/boys/santiago-zezular/book/13-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\14-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/14-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/14-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659106/aura/gallery/models/boys/santiago-zezular/book/14-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\15-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/15-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/15-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659107/aura/gallery/models/boys/santiago-zezular/book/15-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\16-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/16-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/16-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659108/aura/gallery/models/boys/santiago-zezular/book/16-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\17-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/17-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/17-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659109/aura/gallery/models/boys/santiago-zezular/book/17-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\18-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/18-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/18-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659109/aura/gallery/models/boys/santiago-zezular/book/18-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\19-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/19-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/19-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659110/aura/gallery/models/boys/santiago-zezular/book/19-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\20-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/20-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/20-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659111/aura/gallery/models/boys/santiago-zezular/book/20-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\21-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/21-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/21-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659111/aura/gallery/models/boys/santiago-zezular/book/21-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\22-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/22-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/22-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659112/aura/gallery/models/boys/santiago-zezular/book/22-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\23-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/23-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/23-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659113/aura/gallery/models/boys/santiago-zezular/book/23-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\24-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/24-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/24-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659113/aura/gallery/models/boys/santiago-zezular/book/24-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\25-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/25-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/25-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659114/aura/gallery/models/boys/santiago-zezular/book/25-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\26-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/26-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/26-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659114/aura/gallery/models/boys/santiago-zezular/book/26-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\book\\27-santiago-zezular-main-book-ceres.webp",
+      "relativePath": "book/27-santiago-zezular-main-book-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/book/27-santiago-zezular-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659115/aura/gallery/models/boys/santiago-zezular/book/27-santiago-zezular-main-book-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\polas\\1-santiago-zezular-compolaroid-ceres.webp",
+      "relativePath": "polas/1-santiago-zezular-compolaroid-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/polas/1-santiago-zezular-compolaroid-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659115/aura/gallery/models/boys/santiago-zezular/polas/1-santiago-zezular-compolaroid-ceres.webp"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Santiago zezular\\polas\\2-santiago-zezular-compolaroid-ceres.webp",
+      "relativePath": "polas/2-santiago-zezular-compolaroid-ceres.webp",
+      "publicId": "aura/gallery/models/boys/santiago-zezular/polas/2-santiago-zezular-compolaroid-ceres",
+      "assetFolder": "aura/gallery/models/boys/santiago-zezular/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659116/aura/gallery/models/boys/santiago-zezular/polas/2-santiago-zezular-compolaroid-ceres.webp"
+    }
+  ]
+}

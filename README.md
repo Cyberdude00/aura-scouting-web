@@ -1,6 +1,6 @@
 # aura-scouting-web
 
-Guía rápida para no operar la galería y Cloudinary.
+Guía rápida para operar la galería y Cloudinary.
 
 ## Qué hace cada comando
 
@@ -35,6 +35,25 @@ Guía rápida para no operar la galería y Cloudinary.
 	- `npm run gallery:upload -- --model adan --limit 1`
 - Excluir modelos:
 	- `npm run gallery:upload -- --exclude adan,alan-marquez`
+
+## Estructura clave de gallery (actual)
+
+- Dataset principal de modelos:
+	- `src/app/features/pages/gallery/data/gallery-models.data.ts`
+- Config por galería / status / fullbook:
+	- `src/app/features/pages/gallery/data/groups/agency-galleries.config.ts`
+- Catálogos auxiliares (fullbook, etc.):
+	- `src/app/features/pages/gallery/data/catalog/`
+- Assets y manifests para carga Cloudinary:
+	- `src/app/features/pages/gallery/data/gallery-model-config/models/`
+
+## Sobre `index.ts` en `data` y `utils`
+
+- `src/app/features/pages/gallery/data/index.ts`
+- `src/app/features/pages/gallery/utils/index.ts`
+
+Se usan como **barrels** para simplificar imports (`.../data`, `.../utils`) sin cambiar lógica.
+Regla práctica: crear barrel cuando la misma carpeta la consumen 3 o más archivos.
 
 ## Variables de entorno (Cloudinary)
 

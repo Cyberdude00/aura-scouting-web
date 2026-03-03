@@ -1,12 +1,9 @@
-import { CommonModule } from '@angular/common';
 import { Component, EventEmitter, Input, Output } from '@angular/core';
-import { isVideoMedia } from '../../../utils/gallery-media.utils';
-import { downloadMediaFile } from '../../../utils/gallery-download.utils';
+import { downloadMediaFile, isVideoMedia } from '../../../utils';
 
 @Component({
   selector: 'app-gallery-media-viewer',
   standalone: true,
-  imports: [CommonModule],
   templateUrl: './gallery-media-viewer.component.html',
   styleUrl: './gallery-media-viewer.component.scss',
 })
@@ -25,10 +22,6 @@ export class GalleryMediaViewerComponent {
 
   get canDownloadImage(): boolean {
     return Boolean(this.mediaPath && !this.isVideo(this.mediaPath));
-  }
-
-  stopDownloadPropagation(event: Event): void {
-    event.stopPropagation();
   }
 
   async downloadCurrentMedia(event: Event): Promise<void> {

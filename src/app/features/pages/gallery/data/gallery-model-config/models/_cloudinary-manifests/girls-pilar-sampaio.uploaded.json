@@ -1,0 +1,228 @@
+{
+  "modelQuery": "Pilar Sampaio",
+  "gender": "girls",
+  "modelFolderName": "Pilar Sampaio",
+  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio",
+  "totalImages": 31,
+  "uploaded": true,
+  "generatedAt": "2026-02-21T07:38:07.544Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_01.jpg",
+      "relativePath": "book/pilar_sampaio_book_01.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_01",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659488/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_01.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_02.jpg",
+      "relativePath": "book/pilar_sampaio_book_02.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_02",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659489/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_02.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_03.jpg",
+      "relativePath": "book/pilar_sampaio_book_03.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_03",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659489/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_03.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_04.jpg",
+      "relativePath": "book/pilar_sampaio_book_04.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_04",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659490/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_04.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_05.jpg",
+      "relativePath": "book/pilar_sampaio_book_05.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_05",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659491/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_05.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_06.jpg",
+      "relativePath": "book/pilar_sampaio_book_06.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_06",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659492/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_06.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_07.jpg",
+      "relativePath": "book/pilar_sampaio_book_07.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_07",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659492/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_07.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_08.jpg",
+      "relativePath": "book/pilar_sampaio_book_08.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_08",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659493/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_08.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_09.jpg",
+      "relativePath": "book/pilar_sampaio_book_09.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_09",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659494/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_09.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_10.jpg",
+      "relativePath": "book/pilar_sampaio_book_10.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_10",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659494/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_10.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_11.jpg",
+      "relativePath": "book/pilar_sampaio_book_11.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_11",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659495/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_11.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_12.jpg",
+      "relativePath": "book/pilar_sampaio_book_12.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_12",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659496/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_12.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_13.jpg",
+      "relativePath": "book/pilar_sampaio_book_13.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_13",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659497/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_13.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_14.jpg",
+      "relativePath": "book/pilar_sampaio_book_14.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_14",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659497/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_14.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_15.jpg",
+      "relativePath": "book/pilar_sampaio_book_15.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_15",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659498/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_15.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_16.jpg",
+      "relativePath": "book/pilar_sampaio_book_16.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_16",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659499/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_16.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_17.jpg",
+      "relativePath": "book/pilar_sampaio_book_17.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_17",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659500/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_17.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_18.jpg",
+      "relativePath": "book/pilar_sampaio_book_18.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_18",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659501/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_18.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_19.jpg",
+      "relativePath": "book/pilar_sampaio_book_19.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_19",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659501/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_19.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_20.jpg",
+      "relativePath": "book/pilar_sampaio_book_20.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_20",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659502/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_20.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_21.jpg",
+      "relativePath": "book/pilar_sampaio_book_21.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_21",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659503/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_21.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_22.jpg",
+      "relativePath": "book/pilar_sampaio_book_22.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_22",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659504/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_22.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_23.jpg",
+      "relativePath": "book/pilar_sampaio_book_23.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_23",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659505/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_23.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_24.jpg",
+      "relativePath": "book/pilar_sampaio_book_24.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_24",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659506/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_24.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\book\\pilar_sampaio_book_25.jpg",
+      "relativePath": "book/pilar_sampaio_book_25.jpg",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_25",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/book",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659506/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_25.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\polas\\IMG_2456.JPG",
+      "relativePath": "polas/IMG_2456.JPG",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/polas/img_2456",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659507/aura/gallery/models/girls/pilar-sampaio/polas/img_2456.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\polas\\IMG_2462.JPG",
+      "relativePath": "polas/IMG_2462.JPG",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/polas/img_2462",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659508/aura/gallery/models/girls/pilar-sampaio/polas/img_2462.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\polas\\IMG_2483.JPG",
+      "relativePath": "polas/IMG_2483.JPG",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/polas/img_2483",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659508/aura/gallery/models/girls/pilar-sampaio/polas/img_2483.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\polas\\IMG_2487.JPG",
+      "relativePath": "polas/IMG_2487.JPG",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/polas/img_2487",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659509/aura/gallery/models/girls/pilar-sampaio/polas/img_2487.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\polas\\IMG_2503.JPG",
+      "relativePath": "polas/IMG_2503.JPG",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/polas/img_2503",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659510/aura/gallery/models/girls/pilar-sampaio/polas/img_2503.jpg"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Pilar Sampaio\\polas\\IMG_2507.JPG",
+      "relativePath": "polas/IMG_2507.JPG",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/polas/img_2507",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659511/aura/gallery/models/girls/pilar-sampaio/polas/img_2507.jpg"
+    }
+  ]
+}
