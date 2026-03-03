@@ -468,7 +468,7 @@ export const galleryModelsGirls: ScoutingModel[] = [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1772497534/isabel_deutsch_book_12_xooedb.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1772497537/isabel_deutsch_book_13_lhcabc.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1772497541/isabel_deutsch_book_14_xm46ri.jpg",
-      "https:/res.cloudinary.com/dcxaitngm/image/upload/v1772497542/isabel_deutsch_book_15_nlwazk.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772497542/isabel_deutsch_book_15_nlwazk.jpg",      
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1772497548/isabel_deutsch_book_16_eukqyf.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1772497548/isabel_deutsch_book_17_yvnbk9.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1772497552/isabel_deutsch_book_18_huvgwc.jpg",

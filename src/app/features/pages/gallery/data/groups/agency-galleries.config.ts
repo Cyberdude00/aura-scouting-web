@@ -90,7 +90,6 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     modelIds: [
       { id: 'adan', status: 'on', fullbook: 'off' },
       { id: 'alan-marquez', status: 'on', fullbook: 'off' },
-      { id: 'emmanuel', status: 'off', fullbook: 'on' },
       { id: 'angel-bret', status: 'on', fullbook: 'off' },
       { id: 'santiago-poggi', status: 'on', fullbook: 'off' },
       { id: 'bernardo-romano', status: 'on', fullbook: 'off' },
@@ -111,6 +110,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'victoria', status: 'on', fullbook: 'off' },
       { id: 'pilar-sampaio', status: 'off', fullbook: 'off' },
       { id: 'agos-martinez', status: 'off', fullbook: 'off' },
+      { id: 'emmanuel', status: 'off', fullbook: 'off' },
       { id: 'lucas-tarrago', status: 'off', fullbook: 'off' },
       { id: 'santiago-zezular', status: 'off', fullbook: 'off' },
       { id: 'salih-topcouglu', status: 'off', fullbook: 'off' },
