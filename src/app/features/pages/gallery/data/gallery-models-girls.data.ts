@@ -92,7 +92,7 @@ export const galleryModelsGirls: ScoutingModel[] = [
   {
     "name": "Doga Bursali",
     "gender": "Girls",
-    "photo": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772518561/image00007_kacixg.jpg,
+    "photo": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772518561/image00007_kacixg.jpg",
     "height": "1.78m",
     "measurements": "B 75cm W 62cm H 90cm",
     "hair": "Brown",
