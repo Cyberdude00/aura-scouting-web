@@ -2,6 +2,28 @@ import { fullMaterialCatalog } from '../catalog/full-material-catalog';
 import { GalleryModel, ScoutingModel } from '../scouting-model.types';
 import { slugifyValue } from '../../utils';
 
+function resolveCacheBuster(): string {
+  const meta = import.meta as ImportMeta & {
+    env?: Record<string, string | undefined>;
+  };
+
+  return String(meta.env?.['NG_APP_CACHE_BUSTER'] ?? '').trim();
+}
+
+function applyCacheBuster(url: string, cacheBuster: string): string {
+  if (!cacheBuster || !url) {
+    return url;
+  }
+
+  try {
+    const parsed = new URL(url);
+    parsed.searchParams.set('v', cacheBuster);
+    return parsed.toString();
+  } catch {
+    return url;
+  }
+}
+
 export function resolveOngoingTrip(status: 'on' | 'off', model: ScoutingModel): boolean {
   if (status === 'off') {
     return true;
@@ -55,7 +77,9 @@ export function toGalleryModel(
     (item): item is string => typeof item === 'string' && item.trim().length > 0,
   );
   const fullbookOn = fullbookStatus === 'on';
-  const portfolio = buildOrderedPortfolio(id, basePortfolio, fullbookOn);
+  const cacheBuster = resolveCacheBuster();
+  const portfolio = buildOrderedPortfolio(id, basePortfolio, fullbookOn)
+    .map((media) => applyCacheBuster(media, cacheBuster));
 
   const instagram = (model.instagram ?? []).filter(
     (item): item is string => typeof item === 'string' && item.trim().length > 0,
@@ -65,7 +89,7 @@ export function toGalleryModel(
     id,
     name: model.name,
     gender: model.gender,
-    cover: model.photo,
+    cover: applyCacheBuster(model.photo, cacheBuster),
     height: model.height,
     measurements: model.measurements,
     bust: model.bust,
