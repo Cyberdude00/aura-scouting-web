@@ -1,0 +1,221 @@
+{
+  "modelQuery": "Mafer",
+  "gender": "girls",
+  "modelFolderName": "Mafer",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer",
+  "totalImages": 34,
+  "uploaded": false,
+  "generatedAt": "2026-03-03T23:55:43.917Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_01.jpg",
+      "relativePath": "book/mafer_book_01.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_01",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_02.jpg",
+      "relativePath": "book/mafer_book_02.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_02",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_03.jpg",
+      "relativePath": "book/mafer_book_03.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_03",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_04.jpg",
+      "relativePath": "book/mafer_book_04.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_04",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_05.jpg",
+      "relativePath": "book/mafer_book_05.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_05",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_06.jpg",
+      "relativePath": "book/mafer_book_06.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_06",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_07.jpg",
+      "relativePath": "book/mafer_book_07.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_07",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_08.jpg",
+      "relativePath": "book/mafer_book_08.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_08",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_09.jpg",
+      "relativePath": "book/mafer_book_09.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_09",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_10.jpg",
+      "relativePath": "book/mafer_book_10.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_10",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_11.jpg",
+      "relativePath": "book/mafer_book_11.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_11",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_12.jpg",
+      "relativePath": "book/mafer_book_12.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_12",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_13.jpg",
+      "relativePath": "book/mafer_book_13.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_13",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_14.jpg",
+      "relativePath": "book/mafer_book_14.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_14",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_15.jpg",
+      "relativePath": "book/mafer_book_15.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_15",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_16.jpg",
+      "relativePath": "book/mafer_book_16.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_16",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_17.jpg",
+      "relativePath": "book/mafer_book_17.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_17",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_18.jpg",
+      "relativePath": "book/mafer_book_18.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_18",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_19.jpg",
+      "relativePath": "book/mafer_book_19.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_19",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_20.jpg",
+      "relativePath": "book/mafer_book_20.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_20",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_21.jpg",
+      "relativePath": "book/mafer_book_21.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_21",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_22.jpg",
+      "relativePath": "book/mafer_book_22.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_22",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_23.jpg",
+      "relativePath": "book/mafer_book_23.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_23",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_24.jpg",
+      "relativePath": "book/mafer_book_24.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_24",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_25.jpg",
+      "relativePath": "book/mafer_book_25.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_25",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_26.jpg",
+      "relativePath": "book/mafer_book_26.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_26",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\book\\mafer_book_27.jpg",
+      "relativePath": "book/mafer_book_27.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/book/mafer_book_27",
+      "assetFolder": "aura/gallery/models/girls/mafer/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\polas\\_R9A6309.jpg",
+      "relativePath": "polas/_R9A6309.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/polas/_r9a6309",
+      "assetFolder": "aura/gallery/models/girls/mafer/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\polas\\_R9A6403.jpg",
+      "relativePath": "polas/_R9A6403.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/polas/_r9a6403",
+      "assetFolder": "aura/gallery/models/girls/mafer/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\polas\\_R9A6650.jpg",
+      "relativePath": "polas/_R9A6650.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/polas/_r9a6650",
+      "assetFolder": "aura/gallery/models/girls/mafer/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\polas\\_R9A6688.jpg",
+      "relativePath": "polas/_R9A6688.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/polas/_r9a6688",
+      "assetFolder": "aura/gallery/models/girls/mafer/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\polas\\_R9A6902.jpg",
+      "relativePath": "polas/_R9A6902.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/polas/_r9a6902",
+      "assetFolder": "aura/gallery/models/girls/mafer/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\polas\\_R9A6965.jpg",
+      "relativePath": "polas/_R9A6965.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/polas/_r9a6965",
+      "assetFolder": "aura/gallery/models/girls/mafer/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Mafer\\polas\\_R9A6972.jpg",
+      "relativePath": "polas/_R9A6972.jpg",
+      "publicId": "aura/gallery/models/girls/mafer/polas/_r9a6972",
+      "assetFolder": "aura/gallery/models/girls/mafer/polas"
+    }
+  ],
+  "prune": {
+    "enabled": true,
+    "applied": false,
+    "candidates": 0,
+    "deleted": 0
+  }
+}

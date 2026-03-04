@@ -1,0 +1,149 @@
+{
+  "modelQuery": "Moana Buezas",
+  "gender": "girls",
+  "modelFolderName": "Moana Buezas",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas",
+  "totalImages": 22,
+  "uploaded": false,
+  "generatedAt": "2026-03-03T23:55:44.276Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_01.jpg",
+      "relativePath": "book/moana_buezas_book_01.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_01",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_02.jpg",
+      "relativePath": "book/moana_buezas_book_02.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_02",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_03.jpg",
+      "relativePath": "book/moana_buezas_book_03.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_03",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_04.jpg",
+      "relativePath": "book/moana_buezas_book_04.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_04",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_05.jpg",
+      "relativePath": "book/moana_buezas_book_05.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_05",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_06.jpg",
+      "relativePath": "book/moana_buezas_book_06.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_06",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_07.jpg",
+      "relativePath": "book/moana_buezas_book_07.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_07",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_08.jpg",
+      "relativePath": "book/moana_buezas_book_08.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_08",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_09.jpg",
+      "relativePath": "book/moana_buezas_book_09.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_09",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_10.jpg",
+      "relativePath": "book/moana_buezas_book_10.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_10",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_11.jpg",
+      "relativePath": "book/moana_buezas_book_11.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_11",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_12.jpg",
+      "relativePath": "book/moana_buezas_book_12.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_12",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_13.jpg",
+      "relativePath": "book/moana_buezas_book_13.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_13",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_14.jpg",
+      "relativePath": "book/moana_buezas_book_14.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_14",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_15.jpg",
+      "relativePath": "book/moana_buezas_book_15.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_15",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_16.jpg",
+      "relativePath": "book/moana_buezas_book_16.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_16",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\book\\moana_buezas_book_17.jpg",
+      "relativePath": "book/moana_buezas_book_17.jpg",
+      "publicId": "aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_17",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\polas\\IMG_2622.JPG",
+      "relativePath": "polas/IMG_2622.JPG",
+      "publicId": "aura/gallery/models/girls/moana-buezas/polas/img_2622",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\polas\\IMG_2632.JPG",
+      "relativePath": "polas/IMG_2632.JPG",
+      "publicId": "aura/gallery/models/girls/moana-buezas/polas/img_2632",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\polas\\IMG_2653.JPG",
+      "relativePath": "polas/IMG_2653.JPG",
+      "publicId": "aura/gallery/models/girls/moana-buezas/polas/img_2653",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\polas\\IMG_2686.JPG",
+      "relativePath": "polas/IMG_2686.JPG",
+      "publicId": "aura/gallery/models/girls/moana-buezas/polas/img_2686",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Moana Buezas\\polas\\IMG_2698.JPG",
+      "relativePath": "polas/IMG_2698.JPG",
+      "publicId": "aura/gallery/models/girls/moana-buezas/polas/img_2698",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/polas"
+    }
+  ],
+  "prune": {
+    "enabled": true,
+    "applied": false,
+    "candidates": 0,
+    "deleted": 0
+  }
+}

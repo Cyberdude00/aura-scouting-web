@@ -1,0 +1,263 @@
+{
+  "modelQuery": "Lucas Tarrago",
+  "gender": "boys",
+  "modelFolderName": "Lucas Tarrago",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago",
+  "totalImages": 41,
+  "uploaded": false,
+  "generatedAt": "2026-03-03T23:55:41.412Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_01.jpg",
+      "relativePath": "book/lucas_tarrago_book_01.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_01",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_02.jpg",
+      "relativePath": "book/lucas_tarrago_book_02.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_02",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_03.jpg",
+      "relativePath": "book/lucas_tarrago_book_03.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_03",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_04.jpg",
+      "relativePath": "book/lucas_tarrago_book_04.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_04",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_05.jpg",
+      "relativePath": "book/lucas_tarrago_book_05.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_05",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_06.jpg",
+      "relativePath": "book/lucas_tarrago_book_06.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_06",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_07.jpg",
+      "relativePath": "book/lucas_tarrago_book_07.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_07",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_08.jpg",
+      "relativePath": "book/lucas_tarrago_book_08.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_08",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_09.jpg",
+      "relativePath": "book/lucas_tarrago_book_09.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_09",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_10.jpg",
+      "relativePath": "book/lucas_tarrago_book_10.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_10",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_11.jpg",
+      "relativePath": "book/lucas_tarrago_book_11.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_11",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_12.jpg",
+      "relativePath": "book/lucas_tarrago_book_12.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_12",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_13.jpg",
+      "relativePath": "book/lucas_tarrago_book_13.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_13",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_14.jpg",
+      "relativePath": "book/lucas_tarrago_book_14.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_14",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_15.jpg",
+      "relativePath": "book/lucas_tarrago_book_15.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_15",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_16.jpg",
+      "relativePath": "book/lucas_tarrago_book_16.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_16",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_17.jpg",
+      "relativePath": "book/lucas_tarrago_book_17.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_17",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_18.jpg",
+      "relativePath": "book/lucas_tarrago_book_18.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_18",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_19.jpg",
+      "relativePath": "book/lucas_tarrago_book_19.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_19",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_20.jpg",
+      "relativePath": "book/lucas_tarrago_book_20.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_20",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_21.jpg",
+      "relativePath": "book/lucas_tarrago_book_21.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_21",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_22.jpg",
+      "relativePath": "book/lucas_tarrago_book_22.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_22",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_23.jpg",
+      "relativePath": "book/lucas_tarrago_book_23.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_23",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_24.jpg",
+      "relativePath": "book/lucas_tarrago_book_24.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_24",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_25.jpg",
+      "relativePath": "book/lucas_tarrago_book_25.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_25",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_26.jpg",
+      "relativePath": "book/lucas_tarrago_book_26.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_26",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_27.jpg",
+      "relativePath": "book/lucas_tarrago_book_27.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_27",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_28.jpg",
+      "relativePath": "book/lucas_tarrago_book_28.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_28",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_29.jpg",
+      "relativePath": "book/lucas_tarrago_book_29.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_29",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_30.jpg",
+      "relativePath": "book/lucas_tarrago_book_30.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_30",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_31.jpg",
+      "relativePath": "book/lucas_tarrago_book_31.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_31",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_32.jpg",
+      "relativePath": "book/lucas_tarrago_book_32.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_32",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_33.jpg",
+      "relativePath": "book/lucas_tarrago_book_33.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_33",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\book\\lucas_tarrago_book_34.jpg",
+      "relativePath": "book/lucas_tarrago_book_34.jpg",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/book/lucas_tarrago_book_34",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\polas\\lucas_tarrago_polas_01.JPG",
+      "relativePath": "polas/lucas_tarrago_polas_01.JPG",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_01",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\polas\\lucas_tarrago_polas_02.JPG",
+      "relativePath": "polas/lucas_tarrago_polas_02.JPG",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_02",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\polas\\lucas_tarrago_polas_03.JPG",
+      "relativePath": "polas/lucas_tarrago_polas_03.JPG",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_03",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\polas\\lucas_tarrago_polas_04.JPG",
+      "relativePath": "polas/lucas_tarrago_polas_04.JPG",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_04",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\polas\\lucas_tarrago_polas_05.JPG",
+      "relativePath": "polas/lucas_tarrago_polas_05.JPG",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_05",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\polas\\lucas_tarrago_polas_06.JPG",
+      "relativePath": "polas/lucas_tarrago_polas_06.JPG",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_06",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lucas Tarrago\\polas\\lucas_tarrago_polas_07.JPG",
+      "relativePath": "polas/lucas_tarrago_polas_07.JPG",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/polas/lucas_tarrago_polas_07",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/polas"
+    }
+  ],
+  "prune": {
+    "enabled": true,
+    "applied": false,
+    "candidates": 0,
+    "deleted": 0
+  }
+}

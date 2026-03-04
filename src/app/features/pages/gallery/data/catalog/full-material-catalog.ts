@@ -2,37 +2,10 @@ export interface FullMaterialMedia {
   fullbook: string[];
 }
 
+import { fullMaterialCatalogBoys } from './full-material-boys.catalog';
+import { fullMaterialCatalogGirls } from './full-material-girls.catalog';
+
 export const fullMaterialCatalog: Record<string, FullMaterialMedia> = {
-  'adan': { fullbook: [/* 'https://example.com/models/adan/fullbook_01.jpg' */] },
-  'agos-martinez': { fullbook: [/* 'https://example.com/models/agos-martinez/fullbook_01.jpg' */] },
-  'alan-marquez': { fullbook: [/* 'https://example.com/models/alan-marquez/fullbook_01.jpg' */] },
-  'alicia-vallecilla': { fullbook: [/* 'https://example.com/models/alicia-vallecilla/fullbook_01.jpg' */] },
-  'angel-bret': { fullbook: [/* 'https://example.com/models/angel-bret/fullbook_01.jpg' */] },
-  'belisario': { fullbook: [/* 'https://example.com/models/belisario/fullbook_01.jpg' */] },
-  'bernardo-romano': { fullbook: [/* 'https://example.com/models/bernardo-romano/fullbook_01.jpg' */] },
-  'doga-bursali': { fullbook: [/* 'https://example.com/models/doga-bursali/fullbook_01.jpg' */] },
-  'elina': { fullbook: [/* 'https://example.com/models/elina/fullbook_01.jpg' */] },
-  'emilia-bryan': { fullbook: [/* 'https://example.com/models/emilia-bryan/fullbook_01.jpg' */] },
-  'emmanuel': { fullbook: [/*"https://res.cloudinary.com/dcxaitngm/image/upload/v1771658886/aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-8-.jpg"*/] },
-  'eugenia-lagrenade': { fullbook: [/* 'https://example.com/models/eugenia-lagrenade/fullbook_01.jpg' */] },
-  'eva': { fullbook: [/* 'https://example.com/models/eva/fullbook_01.jpg' */] },
-  'felicitas': { fullbook: [/* 'https://example.com/models/felicitas/fullbook_01.jpg' */] },
-  'genesis': { fullbook: [/* 'https://example.com/models/genesis/fullbook_01.jpg' */] },
-  'isabel-deutsch': { fullbook: [/* 'https://example.com/models/isabel-deutsch/fullbook_01.jpg' */] },
-  'joaquin-garcia': { fullbook: [/* 'https://example.com/models/joaquin-garcia/fullbook_01.jpg' */] },
-  'juan-toffalo': { fullbook: [/* 'https://example.com/models/juan-toffalo/fullbook_01.jpg' */] },
-  'laurencio-leal': { fullbook: [/* 'https://example.com/models/laurencio-leal/fullbook_01.jpg' */] },
-  'lautaro-rodriguez': { fullbook: [/* 'https://example.com/models/lautaro-rodriguez/fullbook_01.jpg' */] },
-  'lucas-tarrago': { fullbook: [/* 'https://example.com/models/lucas-tarrago/fullbook_01.jpg' */] },
-  'luciana-imoberdorf': { fullbook: [/* 'https://example.com/models/luciana-imoberdorf/fullbook_01.jpg' */] },
-  'mafer': { fullbook: [/* 'https://example.com/models/mafer/fullbook_01.jpg' */] },
-  'manu-llofrein': { fullbook: [/* 'https://example.com/models/manu-llofrein/fullbook_01.jpg' */] },
-  'mariana-arias': { fullbook: [/* 'https://example.com/models/mariana-arias/fullbook_01.jpg' */] },
-  'moana-buezas': { fullbook: [/* 'https://example.com/models/moana-buezas/fullbook_01.jpg' */] },
-  'pilar-sampaio': { fullbook: [/* 'https://example.com/models/pilar-sampaio/fullbook_01.jpg' */] },
-  'salih-topcouglu': { fullbook: [/* 'https://example.com/models/salih-topcouglu/fullbook_01.jpg' */] },
-  'santiago-poggi': { fullbook: [/* 'https://example.com/models/santiago-poggi/fullbook_01.jpg' */] },
-  'santiago-zezular': { fullbook: [/* 'https://example.com/models/santiago-zezular/fullbook_01.jpg' */] },
-  'victoria': { fullbook: [/* 'https://example.com/models/victoria/fullbook_01.jpg' */] },
-  'zoe': { fullbook: [/* 'https://example.com/models/zoe/fullbook_01.jpg' */] },
+  ...fullMaterialCatalogBoys,
+  ...fullMaterialCatalogGirls,
 };

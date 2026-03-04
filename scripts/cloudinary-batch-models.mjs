@@ -13,6 +13,8 @@ function parseArgs(argv) {
     exclude: [],
     model: '',
     upload: false,
+    pruneRemote: false,
+    applyPrune: false,
     limit: 0,
   };
 
@@ -66,9 +68,66 @@ function parseArgs(argv) {
     if (current === '--upload') {
       args.upload = true;
     }
+
+    if (current === '--prune-remote') {
+      args.pruneRemote = true;
+    }
+
+    if (current === '--apply-prune') {
+      args.applyPrune = true;
+    }
   }
 
   return args;
+}
+
+async function listRemotePublicIdsByPrefix(cloudinary, prefix) {
+  const ids = [];
+  let nextCursor;
+
+  do {
+    const response = await cloudinary.api.resources({
+      type: 'upload',
+      resource_type: 'image',
+      prefix,
+      max_results: 500,
+      next_cursor: nextCursor,
+    });
+
+    for (const resource of response?.resources || []) {
+      if (typeof resource?.public_id === 'string' && resource.public_id.length > 0) {
+        ids.push(resource.public_id);
+      }
+    }
+
+    nextCursor = response?.next_cursor;
+  } while (nextCursor);
+
+  return ids;
+}
+
+async function deleteRemotePublicIds(cloudinary, publicIds) {
+  if (!publicIds.length) {
+    return { deleted: 0 };
+  }
+
+  let deleted = 0;
+  for (let i = 0; i < publicIds.length; i += 100) {
+    const chunk = publicIds.slice(i, i + 100);
+    const response = await cloudinary.api.delete_resources(chunk, {
+      resource_type: 'image',
+      type: 'upload',
+      invalidate: false,
+    });
+
+    for (const value of Object.values(response?.deleted || {})) {
+      if (value === 'deleted') {
+        deleted += 1;
+      }
+    }
+  }
+
+  return { deleted };
 }
 
 function slugify(value) {
@@ -259,6 +318,10 @@ async function processModel({ gender, modelFolderName, args, manifestIndex, clou
 
   let uploadedCount = 0;
   let skippedCount = 0;
+  let pruneCandidatesCount = 0;
+  let prunedCount = 0;
+
+  const expectedPublicIds = new Set();
 
   for (let index = 0; index < imageFiles.length; index += 1) {
     const absFile = imageFiles[index];
@@ -271,6 +334,7 @@ async function processModel({ gender, modelFolderName, args, manifestIndex, clou
       publicId,
       assetFolder,
     };
+    expectedPublicIds.add(publicId);
 
     if (!args.upload) {
       manifest.items.push(item);
@@ -308,7 +372,34 @@ async function processModel({ gender, modelFolderName, args, manifestIndex, clou
     console.log(`[${index + 1}/${imageFiles.length}] uploaded ${gender}/${modelFolderName}/${item.relativePath}`);
   }
 
-  return { manifest, uploadedCount, skippedCount };
+  if (args.pruneRemote) {
+    const modelPrefix = `${args.cloudinaryBaseFolder}/${gender}/${slugify(modelFolderName)}/`
+      .replace(/\/+/g, '/')
+      .toLowerCase();
+
+    const remotePublicIds = await listRemotePublicIdsByPrefix(cloudinary, modelPrefix);
+    const stalePublicIds = remotePublicIds.filter((publicId) => !expectedPublicIds.has(publicId));
+
+    pruneCandidatesCount = stalePublicIds.length;
+
+    if (stalePublicIds.length > 0) {
+      if (args.applyPrune) {
+        const result = await deleteRemotePublicIds(cloudinary, stalePublicIds);
+        prunedCount = result.deleted;
+      } else {
+        console.log(`Prune preview ${gender}/${modelFolderName}: ${stalePublicIds.length} remote files would be deleted.`);
+      }
+    }
+
+    manifest.prune = {
+      enabled: true,
+      applied: args.applyPrune,
+      candidates: pruneCandidatesCount,
+      deleted: prunedCount,
+    };
+  }
+
+  return { manifest, uploadedCount, skippedCount, pruneCandidatesCount, prunedCount };
 }
 
 async function run() {
@@ -324,18 +415,27 @@ async function run() {
   const queue = args.limit > 0 ? models.slice(0, args.limit) : models;
   const manifestIndex = await loadUploadedManifestIndex(manifestOutAbs);
 
+  if (args.applyPrune && !args.pruneRemote) {
+    throw new Error('Invalid flags: --apply-prune requires --prune-remote');
+  }
+
   let cloudinary = null;
-  if (args.upload) {
+  if (args.upload || args.pruneRemote) {
     cloudinary = await resolveCloudinaryCredentials();
   }
 
   await ensureManifestDirectory(manifestOutAbs);
 
   console.log(`Mode: ${args.upload ? 'UPLOAD' : 'DRY RUN'}`);
+  if (args.pruneRemote) {
+    console.log(`Prune mode: ${args.applyPrune ? 'APPLY' : 'PREVIEW'}`);
+  }
   console.log(`Models to process: ${queue.length}`);
 
   let totalUploaded = 0;
   let totalSkipped = 0;
+  let totalPruneCandidates = 0;
+  let totalPruned = 0;
 
   for (let i = 0; i < queue.length; i += 1) {
     const item = queue[i];
@@ -355,10 +455,17 @@ async function run() {
 
     totalUploaded += result.uploadedCount;
     totalSkipped += result.skippedCount;
+    totalPruneCandidates += result.pruneCandidatesCount;
+    totalPruned += result.prunedCount;
 
     console.log(`Saved manifest: ${manifestFileName}`);
     if (args.upload) {
       console.log(`Uploaded: ${result.uploadedCount} | Skipped(existing): ${result.skippedCount}`);
+    }
+    if (args.pruneRemote) {
+      console.log(
+        `${args.applyPrune ? 'Deleted remote' : 'Prune candidates'}: ${args.applyPrune ? result.prunedCount : result.pruneCandidatesCount}`,
+      );
     }
   }
 
@@ -367,10 +474,26 @@ async function run() {
     console.log(`- Uploaded: ${totalUploaded}`);
     console.log(`- Skipped existing: ${totalSkipped}`);
   }
+  if (args.pruneRemote) {
+    console.log(`- Prune candidates: ${totalPruneCandidates}`);
+    if (args.applyPrune) {
+      console.log(`- Deleted remote: ${totalPruned}`);
+    }
+  }
   console.log(`- Models processed: ${queue.length}`);
 }
 
 run().catch((error) => {
-  console.error(error.message || error);
+  const safeMessage =
+    (typeof error?.message === 'string' && error.message)
+      || (typeof error?.error?.message === 'string' && error.error.message)
+      || 'Unexpected error while running Cloudinary batch script.';
+
+  const statusCode = error?.http_code || error?.statusCode || error?.error?.http_code;
+  if (statusCode) {
+    console.error(`${safeMessage} (HTTP ${statusCode})`);
+  } else {
+    console.error(safeMessage);
+  }
   process.exit(1);
 });

@@ -1,0 +1,413 @@
+{
+  "modelQuery": "Emmanuel",
+  "gender": "boys",
+  "modelFolderName": "Emmanuel",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel",
+  "totalImages": 66,
+  "uploaded": false,
+  "generatedAt": "2026-03-03T23:55:40.530Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_01.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_01.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_01",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_02.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_02.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_02",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_03.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_03.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_03",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_04.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_04.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_04",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_05.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_05.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_05",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_06.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_06.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_06",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_07.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_07.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_07",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_08.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_08.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_08",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_09.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_09.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_09",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_10.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_10.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_10",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_11.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_11.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_11",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_12.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_12.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_12",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_13.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_13.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_13",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_14.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_14.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_14",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_15.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_15.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_15",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_16.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_16.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_16",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_17.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_17.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_17",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_18.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_18.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_18",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_19.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_19.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_19",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_20.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_20.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_20",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_21.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_21.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_21",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_22.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_22.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_22",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_23.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_23.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_23",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_24.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_24.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_24",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_25.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_25.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_25",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_26.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_26.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_26",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_27.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_27.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_27",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_28.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_28.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_28",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_29.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_29.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_29",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_30.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_30.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_30",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_31.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_31.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_31",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_32.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_32.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_32",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_33.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_33.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_33",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_34.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_34.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_34",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_35.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_35.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_35",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_36.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_36.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_36",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_37.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_37.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_37",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_38.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_38.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_38",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_39.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_39.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_39",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_40.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_40.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_40",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_41.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_41.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_41",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_42.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_42.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_42",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_43.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_43.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_43",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_44.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_44.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_44",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_45.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_45.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_45",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_46.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_46.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_46",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_47.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_47.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_47",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_48.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_48.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_48",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_49.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_49.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_49",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_50.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_50.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_50",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_51.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_51.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_51",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_52.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_52.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_52",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_53.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_53.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_53",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_54.png",
+      "relativePath": "book/emmanuel_echavarria_book_54.png",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_54",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_55.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_55.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_55",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_56.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_56.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_56",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\book\\emmanuel_echavarria_book_57.jpg",
+      "relativePath": "book/emmanuel_echavarria_book_57.jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/book/emmanuel_echavarria_book_57",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\polas\\emmanuel_polas (2).jpg",
+      "relativePath": "polas/emmanuel_polas (2).jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-2-",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\polas\\emmanuel_polas (6).jpg",
+      "relativePath": "polas/emmanuel_polas (6).jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-6-",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\polas\\emmanuel_polas (7).jpg",
+      "relativePath": "polas/emmanuel_polas (7).jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-7-",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\polas\\emmanuel_polas (9).jpg",
+      "relativePath": "polas/emmanuel_polas (9).jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-9-",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\polas\\emmanuel_polas (10).jpg",
+      "relativePath": "polas/emmanuel_polas (10).jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-10-",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\polas\\emmanuel_polas (11).jpg",
+      "relativePath": "polas/emmanuel_polas (11).jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-11-",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\polas\\emmanuel_polas (12).jpg",
+      "relativePath": "polas/emmanuel_polas (12).jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-12-",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\polas\\emmanuel_polas (14).jpg",
+      "relativePath": "polas/emmanuel_polas (14).jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-14-",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Emmanuel\\polas\\emmanuel_polas (15).jpg",
+      "relativePath": "polas/emmanuel_polas (15).jpg",
+      "publicId": "aura/gallery/models/boys/emmanuel/polas/emmanuel_polas-15-",
+      "assetFolder": "aura/gallery/models/boys/emmanuel/polas"
+    }
+  ],
+  "prune": {
+    "enabled": true,
+    "applied": false,
+    "candidates": 0,
+    "deleted": 0
+  }
+}

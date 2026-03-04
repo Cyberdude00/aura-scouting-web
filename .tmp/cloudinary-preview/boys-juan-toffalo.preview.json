@@ -1,0 +1,191 @@
+{
+  "modelQuery": "juan toffalo",
+  "gender": "boys",
+  "modelFolderName": "juan toffalo",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo",
+  "totalImages": 29,
+  "uploaded": false,
+  "generatedAt": "2026-03-03T23:55:40.811Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\1-juan-toffalo-alessandro-palma-ceres.jpg",
+      "relativePath": "book/1-juan-toffalo-alessandro-palma-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/1-juan-toffalo-alessandro-palma-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\1-juan-toffalo-gianmarco-ceres.jpg",
+      "relativePath": "book/1-juan-toffalo-gianmarco-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/1-juan-toffalo-gianmarco-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\2-juan-toffalo-batuk-ceres.jpg",
+      "relativePath": "book/2-juan-toffalo-batuk-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/2-juan-toffalo-batuk-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\2-juan-toffalo-revolver-ceres.jpg",
+      "relativePath": "book/2-juan-toffalo-revolver-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/2-juan-toffalo-revolver-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\3-juan-toffalo-cleiton-ceres.jpg",
+      "relativePath": "book/3-juan-toffalo-cleiton-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/3-juan-toffalo-cleiton-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\3-juan-toffalo-revolver-ceres.jpg",
+      "relativePath": "book/3-juan-toffalo-revolver-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/3-juan-toffalo-revolver-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\4-juan-toffalo-alessandro-palma-ceres.jpg",
+      "relativePath": "book/4-juan-toffalo-alessandro-palma-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/4-juan-toffalo-alessandro-palma-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\4-juan-toffalo-main-book-ceres.jpg",
+      "relativePath": "book/4-juan-toffalo-main-book-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/4-juan-toffalo-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\4-juan-toffalo-revolver-ceres.jpg",
+      "relativePath": "book/4-juan-toffalo-revolver-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/4-juan-toffalo-revolver-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\5-juan-toffalo-alessandro-palma-ceres.jpg",
+      "relativePath": "book/5-juan-toffalo-alessandro-palma-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/5-juan-toffalo-alessandro-palma-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\5-juan-toffalo-nik-voropaiev-ceres.jpg",
+      "relativePath": "book/5-juan-toffalo-nik-voropaiev-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/5-juan-toffalo-nik-voropaiev-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\7-juan-toffalo-alessandro-palma-ceres.jpg",
+      "relativePath": "book/7-juan-toffalo-alessandro-palma-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/7-juan-toffalo-alessandro-palma-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\7-juan-toffalo-main-book-ceres.jpg",
+      "relativePath": "book/7-juan-toffalo-main-book-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/7-juan-toffalo-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\8-juan-toffalo-gianmarco-ceres.jpg",
+      "relativePath": "book/8-juan-toffalo-gianmarco-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/8-juan-toffalo-gianmarco-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\9-juan-toffalo-main-book-ceres.jpg",
+      "relativePath": "book/9-juan-toffalo-main-book-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/9-juan-toffalo-main-book-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\10-juan-toffalo-batuk-ceres.jpg",
+      "relativePath": "book/10-juan-toffalo-batuk-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/10-juan-toffalo-batuk-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\10-juan-toffalo-gianmarco-ceres.jpg",
+      "relativePath": "book/10-juan-toffalo-gianmarco-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/10-juan-toffalo-gianmarco-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\12-juan-toffalo-batuk-ceres.jpg",
+      "relativePath": "book/12-juan-toffalo-batuk-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/12-juan-toffalo-batuk-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\16-juan-toffalo-alessandro-palma-ceres.jpg",
+      "relativePath": "book/16-juan-toffalo-alessandro-palma-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/16-juan-toffalo-alessandro-palma-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\24-juan-toffalo-gian-carassai-ceres.jpg",
+      "relativePath": "book/24-juan-toffalo-gian-carassai-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/24-juan-toffalo-gian-carassai-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\30-juan-toffalo-gian-carassai-ceres.jpg",
+      "relativePath": "book/30-juan-toffalo-gian-carassai-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/30-juan-toffalo-gian-carassai-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\book\\36-juan-toffalo-gian-carassai-ceres.jpg",
+      "relativePath": "book/36-juan-toffalo-gian-carassai-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/book/36-juan-toffalo-gian-carassai-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\polas\\9-juan-toffalo-digitals-ceres.jpg",
+      "relativePath": "polas/9-juan-toffalo-digitals-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/polas/9-juan-toffalo-digitals-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\polas\\14-juan-toffalo-digitals-ceres.jpg",
+      "relativePath": "polas/14-juan-toffalo-digitals-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/polas/14-juan-toffalo-digitals-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\polas\\16-juan-toffalo-digitals-ceres.jpg",
+      "relativePath": "polas/16-juan-toffalo-digitals-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/polas/16-juan-toffalo-digitals-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\polas\\18-juan-toffalo-digitals-ceres.jpg",
+      "relativePath": "polas/18-juan-toffalo-digitals-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/polas/18-juan-toffalo-digitals-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\polas\\19-juan-toffalo-digitals-ceres.jpg",
+      "relativePath": "polas/19-juan-toffalo-digitals-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/polas/19-juan-toffalo-digitals-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\polas\\20-juan-toffalo-digitals-ceres.jpg",
+      "relativePath": "polas/20-juan-toffalo-digitals-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/polas/20-juan-toffalo-digitals-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\juan toffalo\\polas\\25-juan-toffalo-digitals-ceres.jpg",
+      "relativePath": "polas/25-juan-toffalo-digitals-ceres.jpg",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/polas/25-juan-toffalo-digitals-ceres",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/polas"
+    }
+  ],
+  "prune": {
+    "enabled": true,
+    "applied": false,
+    "candidates": 0,
+    "deleted": 0
+  }
+}

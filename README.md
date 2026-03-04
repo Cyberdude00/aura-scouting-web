@@ -150,6 +150,8 @@ Ahí se define por galería:
 
 - `npm run gallery:optimize`
 - `npm run gallery:upload`
+- `npm run gallery:prune:preview`
+- `npm run gallery:prune:apply`
 - `npm run gallery:sync`
 - `npm run gallery:update`
 
@@ -171,14 +173,39 @@ Atajo (todo en uno):
 ### ¿Cuándo usar cada script?
 
 - `gallery:optimize`: cuando agregas imágenes nuevas pesadas y quieres optimizar antes de subir.
-- `gallery:upload`: cuando ya tienes imágenes locales listas para Cloudinary.
+- `gallery:upload`: sube solo nuevas (no resube ni reemplaza existentes).
+- `gallery:prune:preview`: detecta qué se borraría en Cloudinary comparando con tus carpetas locales (sin borrar).
+- `gallery:prune:apply`: borra en Cloudinary lo que ya no existe localmente (usar después de revisar preview).
 - `gallery:sync`: cuando ya existen manifests y quieres reflejar URLs en `gallery-models.data.ts`.
 - `gallery:update`: cuando quieres ejecutar upload + sync + build en una sola corrida.
+
+### Flujo seguro para "agregar más fotos" (sin duplicar ni reemplazar)
+
+1. Copia nuevas imágenes en las mismas carpetas/modelos.
+2. Ejecuta:
+   - `npm run gallery:upload`
+3. Sincroniza dataset:
+   - `npm run gallery:sync`
+4. Valida build:
+   - `npm run build -- --configuration development`
+
+### Flujo seguro para "si borro fotos locales"
+
+1. Preview de borrados remotos:
+   - `npm run gallery:prune:preview`
+2. Si el preview está correcto, aplica borrado remoto:
+   - `npm run gallery:prune:apply`
+3. Luego sincroniza para que también se quite del portfolio en código:
+   - `npm run gallery:sync`
 
 ### Ejecuciones parciales útiles
 
 - Solo subir un modelo:
   - `npm run gallery:upload -- --model adan --limit 1`
+- Preview de prune solo para un modelo:
+   - `npm run gallery:prune:preview -- --model emmanuel --limit 1`
+- Aplicar prune solo para un modelo:
+   - `npm run gallery:prune:apply -- --model emmanuel --limit 1`
 - Excluir modelos en upload:
   - `npm run gallery:upload -- --exclude adan,alan-marquez`
 - Sincronizar con orden legacy:

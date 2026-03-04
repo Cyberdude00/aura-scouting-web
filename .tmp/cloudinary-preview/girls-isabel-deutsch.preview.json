@@ -1,0 +1,275 @@
+{
+  "modelQuery": "Isabel Deutsch",
+  "gender": "girls",
+  "modelFolderName": "Isabel Deutsch",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch",
+  "totalImages": 43,
+  "uploaded": false,
+  "generatedAt": "2026-03-03T23:55:43.515Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_01_b2hxsd.jpg",
+      "relativePath": "book/isabel_deutsch_book_01_b2hxsd.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_01_b2hxsd",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_02_jctop1.jpg",
+      "relativePath": "book/isabel_deutsch_book_02_jctop1.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_02_jctop1",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_03_yvbrxd.jpg",
+      "relativePath": "book/isabel_deutsch_book_03_yvbrxd.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_03_yvbrxd",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_04_p6vdvf.jpg",
+      "relativePath": "book/isabel_deutsch_book_04_p6vdvf.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_04_p6vdvf",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_05_ne8bi3.jpg",
+      "relativePath": "book/isabel_deutsch_book_05_ne8bi3.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_05_ne8bi3",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_06_kyr6pf.jpg",
+      "relativePath": "book/isabel_deutsch_book_06_kyr6pf.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_06_kyr6pf",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_07_edgagm.jpg",
+      "relativePath": "book/isabel_deutsch_book_07_edgagm.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_07_edgagm",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_08.jpg",
+      "relativePath": "book/isabel_deutsch_book_08.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_08",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_09.jpg",
+      "relativePath": "book/isabel_deutsch_book_09.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_09",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_10_ryghcj.jpg",
+      "relativePath": "book/isabel_deutsch_book_10_ryghcj.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_10_ryghcj",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_11_ihqgzu.jpg",
+      "relativePath": "book/isabel_deutsch_book_11_ihqgzu.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_11_ihqgzu",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_12_xooedb.jpg",
+      "relativePath": "book/isabel_deutsch_book_12_xooedb.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_12_xooedb",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_13_lhcabc.jpg",
+      "relativePath": "book/isabel_deutsch_book_13_lhcabc.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_13_lhcabc",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_14_xm46ri.jpg",
+      "relativePath": "book/isabel_deutsch_book_14_xm46ri.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_14_xm46ri",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_15_nlwazk.jpg",
+      "relativePath": "book/isabel_deutsch_book_15_nlwazk.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_15_nlwazk",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_16_eukqyf.jpg",
+      "relativePath": "book/isabel_deutsch_book_16_eukqyf.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_16_eukqyf",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_17_yvnbk9.jpg",
+      "relativePath": "book/isabel_deutsch_book_17_yvnbk9.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_17_yvnbk9",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\isabel_deutsch_book_18_huvgwc.jpg",
+      "relativePath": "book/isabel_deutsch_book_18_huvgwc.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel_deutsch_book_18_huvgwc",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-1.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-1.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-1",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-2.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-2.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-2",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-3.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-3.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-3",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-4.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-4.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-4",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-5.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-5.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-5",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-6.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-6.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-6",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-7.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-7.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-7",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-8.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-8.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-8",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-9.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-9.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-9",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-14.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-14.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-14",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-15.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-15.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-15",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-16.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-16.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-16",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-17.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-17.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-17",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-18.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-18.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-18",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-19.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-19.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-19",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-20.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-20.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-20",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-21.jpg",
+      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-21.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-21",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-1.jpg",
+      "relativePath": "polas/ISABEL-DEUTSCH-POLA-1.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-1",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-2.jpg",
+      "relativePath": "polas/ISABEL-DEUTSCH-POLA-2.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-2",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-3.jpg",
+      "relativePath": "polas/ISABEL-DEUTSCH-POLA-3.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-3",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-4.jpg",
+      "relativePath": "polas/ISABEL-DEUTSCH-POLA-4.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-4",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-5.jpg",
+      "relativePath": "polas/ISABEL-DEUTSCH-POLA-5.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-5",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-6.jpg",
+      "relativePath": "polas/ISABEL-DEUTSCH-POLA-6.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-6",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-7.jpg",
+      "relativePath": "polas/ISABEL-DEUTSCH-POLA-7.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-7",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-8.jpg",
+      "relativePath": "polas/ISABEL-DEUTSCH-POLA-8.jpg",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-8",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas"
+    }
+  ],
+  "prune": {
+    "enabled": true,
+    "applied": false,
+    "candidates": 0,
+    "deleted": 0
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "modelQuery": "Joaquin garcia",
+  "gender": "boys",
+  "modelFolderName": "Joaquin garcia",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia",
+  "totalImages": 24,
+  "uploaded": false,
+  "generatedAt": "2026-03-03T23:55:40.704Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_01.jpg",
+      "relativePath": "book/joaquin_garcia_book_01.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_01",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_02.jpg",
+      "relativePath": "book/joaquin_garcia_book_02.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_02",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_03.jpg",
+      "relativePath": "book/joaquin_garcia_book_03.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_03",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_04.jpg",
+      "relativePath": "book/joaquin_garcia_book_04.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_04",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_05.jpg",
+      "relativePath": "book/joaquin_garcia_book_05.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_05",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_06.jpg",
+      "relativePath": "book/joaquin_garcia_book_06.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_06",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_07.jpg",
+      "relativePath": "book/joaquin_garcia_book_07.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_07",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_08.jpg",
+      "relativePath": "book/joaquin_garcia_book_08.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_08",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_09.jpg",
+      "relativePath": "book/joaquin_garcia_book_09.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_09",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_10.jpg",
+      "relativePath": "book/joaquin_garcia_book_10.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_10",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_11.jpg",
+      "relativePath": "book/joaquin_garcia_book_11.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_11",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_12.jpg",
+      "relativePath": "book/joaquin_garcia_book_12.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_12",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_13.jpg",
+      "relativePath": "book/joaquin_garcia_book_13.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_13",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_14.jpg",
+      "relativePath": "book/joaquin_garcia_book_14.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_14",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_15.jpg",
+      "relativePath": "book/joaquin_garcia_book_15.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_15",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_16.jpg",
+      "relativePath": "book/joaquin_garcia_book_16.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_16",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\book\\joaquin_garcia_book_17.jpg",
+      "relativePath": "book/joaquin_garcia_book_17.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_17",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\polas\\IMG_4720.jpg",
+      "relativePath": "polas/IMG_4720.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4720",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\polas\\IMG_4733.jpg",
+      "relativePath": "polas/IMG_4733.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4733",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\polas\\IMG_4737.jpg",
+      "relativePath": "polas/IMG_4737.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4737",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\polas\\IMG_4760.jpg",
+      "relativePath": "polas/IMG_4760.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4760",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\polas\\IMG_4798.jpg",
+      "relativePath": "polas/IMG_4798.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4798",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\polas\\IMG_4799.jpg",
+      "relativePath": "polas/IMG_4799.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4799",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Joaquin garcia\\polas\\IMG_4808.jpg",
+      "relativePath": "polas/IMG_4808.jpg",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/polas/img_4808",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/polas"
+    }
+  ],
+  "prune": {
+    "enabled": true,
+    "applied": false,
+    "candidates": 0,
+    "deleted": 0
+  }
+}

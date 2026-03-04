@@ -1,0 +1,197 @@
+{
+  "modelQuery": "Lautaro Rodriguez",
+  "gender": "boys",
+  "modelFolderName": "Lautaro Rodriguez",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez",
+  "totalImages": 30,
+  "uploaded": false,
+  "generatedAt": "2026-03-03T23:55:41.272Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\0460-copyweb.jpg",
+      "relativePath": "book/0460-copyweb.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/0460-copyweb",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\0484-copy2.jpg",
+      "relativePath": "book/0484-copy2.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/0484-copy2",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\0497-copy-2eb.jpg",
+      "relativePath": "book/0497-copy-2eb.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/0497-copy-2eb",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\0715-copy-22.jpg",
+      "relativePath": "book/0715-copy-22.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/0715-copy-22",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\0871-copy-2web.jpg",
+      "relativePath": "book/0871-copy-2web.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/0871-copy-2web",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\BAFW2024_0906_162751_0416_@MR (1).jpg",
+      "relativePath": "book/BAFW2024_0906_162751_0416_@MR (1).jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/bafw2024_0906_162751_0416_-mr-1-",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\IMG_0378.jpg",
+      "relativePath": "book/IMG_0378.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/img_0378",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\IMG_6134EDIT.jpg",
+      "relativePath": "book/IMG_6134EDIT.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/img_6134edit",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\IMG_6156edit.jpg",
+      "relativePath": "book/IMG_6156edit.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/img_6156edit",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\IMG_6183edit.jpg",
+      "relativePath": "book/IMG_6183edit.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/img_6183edit",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\IMG_6286edit.jpg",
+      "relativePath": "book/IMG_6286edit.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/img_6286edit",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\IMG_E2801.JPG",
+      "relativePath": "book/IMG_E2801.JPG",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/img_e2801",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\Lautaro by Karen Mortenson TEST - January 2025 1.jpg",
+      "relativePath": "book/Lautaro by Karen Mortenson TEST - January 2025 1.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/lautaro-by-karen-mortenson-test---january-2025-1",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\Lautaro by Karen Mortenson TEST - January 2025 2.jpg",
+      "relativePath": "book/Lautaro by Karen Mortenson TEST - January 2025 2.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/lautaro-by-karen-mortenson-test---january-2025-2",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\Lautaro by Karen Mortenson TEST - January 2025 9.jpg",
+      "relativePath": "book/Lautaro by Karen Mortenson TEST - January 2025 9.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/lautaro-by-karen-mortenson-test---january-2025-9",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\lautaro_rodriguez_book_03.jpg",
+      "relativePath": "book/lautaro_rodriguez_book_03.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/lautaro_rodriguez_book_03",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\lautaro_rodriguez_book_08.jpg",
+      "relativePath": "book/lautaro_rodriguez_book_08.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/lautaro_rodriguez_book_08",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\lautaro_rodriguez_book_14.jpg",
+      "relativePath": "book/lautaro_rodriguez_book_14.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/lautaro_rodriguez_book_14",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\MAR_5947.JPG",
+      "relativePath": "book/MAR_5947.JPG",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/mar_5947",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\MAR_6191.JPG",
+      "relativePath": "book/MAR_6191.JPG",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/mar_6191",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\MAR_6229.JPG",
+      "relativePath": "book/MAR_6229.JPG",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/mar_6229",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\MAR_6907.jpg",
+      "relativePath": "book/MAR_6907.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/mar_6907",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\WhatsApp Image 2026-01-27 at 11.13.48 (1).jpeg",
+      "relativePath": "book/WhatsApp Image 2026-01-27 at 11.13.48 (1).jpeg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/whatsapp-image-2026-01-27-at-11-13-48-1-",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\WhatsApp Image 2026-01-27 at 11.13.48 (2).jpeg",
+      "relativePath": "book/WhatsApp Image 2026-01-27 at 11.13.48 (2).jpeg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/whatsapp-image-2026-01-27-at-11-13-48-2-",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\book\\WhatsApp Image 2026-01-27 at 11.13.48.jpeg",
+      "relativePath": "book/WhatsApp Image 2026-01-27 at 11.13.48.jpeg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/book/whatsapp-image-2026-01-27-at-11-13-48",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\polas\\IMG_0050.jpg",
+      "relativePath": "polas/IMG_0050.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/polas/img_0050",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\polas\\IMG_0071.jpg",
+      "relativePath": "polas/IMG_0071.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/polas/img_0071",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\polas\\IMG_0091.jpg",
+      "relativePath": "polas/IMG_0091.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/polas/img_0091",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\polas\\IMG_0103.jpg",
+      "relativePath": "polas/IMG_0103.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/polas/img_0103",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\boys\\Lautaro Rodriguez\\polas\\IMG_0120.jpg",
+      "relativePath": "polas/IMG_0120.jpg",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/polas/img_0120",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/polas"
+    }
+  ],
+  "prune": {
+    "enabled": true,
+    "applied": false,
+    "candidates": 0,
+    "deleted": 0
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "modelQuery": "Agos Martinez",
+  "gender": "girls",
+  "modelFolderName": "Agos Martinez",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez",
+  "totalImages": 33,
+  "uploaded": false,
+  "generatedAt": "2026-03-03T23:55:42.164Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_01.jpg",
+      "relativePath": "book/agostina_book_01.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_01",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_02.jpg",
+      "relativePath": "book/agostina_book_02.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_02",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_03.jpg",
+      "relativePath": "book/agostina_book_03.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_03",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_04.jpg",
+      "relativePath": "book/agostina_book_04.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_04",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_05.jpg",
+      "relativePath": "book/agostina_book_05.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_05",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_06.jpg",
+      "relativePath": "book/agostina_book_06.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_06",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_07.jpg",
+      "relativePath": "book/agostina_book_07.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_07",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_08.jpg",
+      "relativePath": "book/agostina_book_08.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_08",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_09.jpg",
+      "relativePath": "book/agostina_book_09.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_09",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_10.jpg",
+      "relativePath": "book/agostina_book_10.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_10",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_11.jpg",
+      "relativePath": "book/agostina_book_11.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_11",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_12.jpg",
+      "relativePath": "book/agostina_book_12.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_12",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_13.jpg",
+      "relativePath": "book/agostina_book_13.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_13",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_14.jpg",
+      "relativePath": "book/agostina_book_14.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_14",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_15.jpg",
+      "relativePath": "book/agostina_book_15.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_15",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_16.jpg",
+      "relativePath": "book/agostina_book_16.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_16",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_17.jpg",
+      "relativePath": "book/agostina_book_17.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_17",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_18.jpg",
+      "relativePath": "book/agostina_book_18.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_18",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_19.jpg",
+      "relativePath": "book/agostina_book_19.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_19",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_20.jpg",
+      "relativePath": "book/agostina_book_20.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_20",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_21.jpg",
+      "relativePath": "book/agostina_book_21.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_21",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_22.jpg",
+      "relativePath": "book/agostina_book_22.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_22",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_23.jpg",
+      "relativePath": "book/agostina_book_23.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_23",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_24.jpg",
+      "relativePath": "book/agostina_book_24.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_24",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_25.jpg",
+      "relativePath": "book/agostina_book_25.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_25",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_26.jpg",
+      "relativePath": "book/agostina_book_26.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_26",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_27.jpg",
+      "relativePath": "book/agostina_book_27.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_27",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\book\\agostina_book_28.jpg",
+      "relativePath": "book/agostina_book_28.jpg",
+      "publicId": "aura/gallery/models/girls/agos-martinez/book/agostina_book_28",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/book"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\polas\\IMG_5709.JPG",
+      "relativePath": "polas/IMG_5709.JPG",
+      "publicId": "aura/gallery/models/girls/agos-martinez/polas/img_5709",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\polas\\IMG_5783.JPG",
+      "relativePath": "polas/IMG_5783.JPG",
+      "publicId": "aura/gallery/models/girls/agos-martinez/polas/img_5783",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\polas\\IMG_5819.JPG",
+      "relativePath": "polas/IMG_5819.JPG",
+      "publicId": "aura/gallery/models/girls/agos-martinez/polas/img_5819",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\polas\\IMG_5981.JPG",
+      "relativePath": "polas/IMG_5981.JPG",
+      "publicId": "aura/gallery/models/girls/agos-martinez/polas/img_5981",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/polas"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\girls\\Agos Martinez\\polas\\IMG_6086.JPG",
+      "relativePath": "polas/IMG_6086.JPG",
+      "publicId": "aura/gallery/models/girls/agos-martinez/polas/img_6086",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/polas"
+    }
+  ],
+  "prune": {
+    "enabled": true,
+    "applied": false,
+    "candidates": 0,
+    "deleted": 0
+  }
+}
