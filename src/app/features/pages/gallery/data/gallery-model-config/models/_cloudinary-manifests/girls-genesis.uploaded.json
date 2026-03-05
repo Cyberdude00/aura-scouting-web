@@ -2,206 +2,28 @@
   "modelQuery": "Genesis",
   "gender": "girls",
   "modelFolderName": "Genesis",
-  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis",
-  "totalImages": 28,
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Genesis",
+  "totalImages": 2,
   "uploaded": true,
-  "generatedAt": "2026-02-21T07:36:10.359Z",
+  "generatedAt": "2026-03-05T08:15:52.029Z",
   "items": [
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_1.jpg",
-      "relativePath": "book/genesis_book_1.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_1",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659371/aura/gallery/models/girls/genesis/book/genesis_book_1.jpg"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Genesis\\videos\\20231013_181542565.mp4",
+      "relativePath": "videos/20231013_181542565.mp4",
+      "publicId": "aura/gallery/models/girls/genesis/videos/20231013_181542565",
+      "assetFolder": "aura/gallery/models/girls/genesis/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698548/aura/gallery/models/girls/genesis/videos/20231013_181542565.mp4",
+      "skipped": false
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_2.jpg",
-      "relativePath": "book/genesis_book_2.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_2",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659371/aura/gallery/models/girls/genesis/book/genesis_book_2.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_3.jpg",
-      "relativePath": "book/genesis_book_3.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_3",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659372/aura/gallery/models/girls/genesis/book/genesis_book_3.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_4.jpg",
-      "relativePath": "book/genesis_book_4.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_4",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659373/aura/gallery/models/girls/genesis/book/genesis_book_4.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_5.jpg",
-      "relativePath": "book/genesis_book_5.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_5",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659373/aura/gallery/models/girls/genesis/book/genesis_book_5.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_6.jpg",
-      "relativePath": "book/genesis_book_6.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_6",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659374/aura/gallery/models/girls/genesis/book/genesis_book_6.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_7.jpg",
-      "relativePath": "book/genesis_book_7.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_7",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659375/aura/gallery/models/girls/genesis/book/genesis_book_7.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_8.jpg",
-      "relativePath": "book/genesis_book_8.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_8",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659376/aura/gallery/models/girls/genesis/book/genesis_book_8.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_9.jpg",
-      "relativePath": "book/genesis_book_9.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_9",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659376/aura/gallery/models/girls/genesis/book/genesis_book_9.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_10.jpg",
-      "relativePath": "book/genesis_book_10.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_10",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659377/aura/gallery/models/girls/genesis/book/genesis_book_10.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_11.jpg",
-      "relativePath": "book/genesis_book_11.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_11",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659378/aura/gallery/models/girls/genesis/book/genesis_book_11.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_12.jpg",
-      "relativePath": "book/genesis_book_12.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_12",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659378/aura/gallery/models/girls/genesis/book/genesis_book_12.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_13.jpg",
-      "relativePath": "book/genesis_book_13.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_13",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659379/aura/gallery/models/girls/genesis/book/genesis_book_13.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_14.jpg",
-      "relativePath": "book/genesis_book_14.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_14",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659379/aura/gallery/models/girls/genesis/book/genesis_book_14.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_15.jpg",
-      "relativePath": "book/genesis_book_15.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_15",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659380/aura/gallery/models/girls/genesis/book/genesis_book_15.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_16.jpg",
-      "relativePath": "book/genesis_book_16.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_16",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659381/aura/gallery/models/girls/genesis/book/genesis_book_16.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_17.jpg",
-      "relativePath": "book/genesis_book_17.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_17",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659382/aura/gallery/models/girls/genesis/book/genesis_book_17.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_18.jpg",
-      "relativePath": "book/genesis_book_18.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_18",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659382/aura/gallery/models/girls/genesis/book/genesis_book_18.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_19.jpg",
-      "relativePath": "book/genesis_book_19.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_19",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659383/aura/gallery/models/girls/genesis/book/genesis_book_19.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_20.jpg",
-      "relativePath": "book/genesis_book_20.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_20",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659384/aura/gallery/models/girls/genesis/book/genesis_book_20.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\book\\genesis_book_21.jpg",
-      "relativePath": "book/genesis_book_21.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/book/genesis_book_21",
-      "assetFolder": "aura/gallery/models/girls/genesis/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659384/aura/gallery/models/girls/genesis/book/genesis_book_21.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\polas\\genesis polas1.jpg",
-      "relativePath": "polas/genesis polas1.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/polas/genesis-polas1",
-      "assetFolder": "aura/gallery/models/girls/genesis/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659385/aura/gallery/models/girls/genesis/polas/genesis-polas1.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\polas\\genesis polas2.jpg",
-      "relativePath": "polas/genesis polas2.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/polas/genesis-polas2",
-      "assetFolder": "aura/gallery/models/girls/genesis/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659385/aura/gallery/models/girls/genesis/polas/genesis-polas2.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\polas\\genesis polas3.jpg",
-      "relativePath": "polas/genesis polas3.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/polas/genesis-polas3",
-      "assetFolder": "aura/gallery/models/girls/genesis/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659386/aura/gallery/models/girls/genesis/polas/genesis-polas3.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\polas\\genesis polas4.jpg",
-      "relativePath": "polas/genesis polas4.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/polas/genesis-polas4",
-      "assetFolder": "aura/gallery/models/girls/genesis/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659387/aura/gallery/models/girls/genesis/polas/genesis-polas4.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\polas\\genesis_polas_5.jpg",
-      "relativePath": "polas/genesis_polas_5.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/polas/genesis_polas_5",
-      "assetFolder": "aura/gallery/models/girls/genesis/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659387/aura/gallery/models/girls/genesis/polas/genesis_polas_5.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\polas\\genesis_polas_6.jpg",
-      "relativePath": "polas/genesis_polas_6.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/polas/genesis_polas_6",
-      "assetFolder": "aura/gallery/models/girls/genesis/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659388/aura/gallery/models/girls/genesis/polas/genesis_polas_6.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Genesis\\polas\\genesis_polas_7.jpg",
-      "relativePath": "polas/genesis_polas_7.jpg",
-      "publicId": "aura/gallery/models/girls/genesis/polas/genesis_polas_7",
-      "assetFolder": "aura/gallery/models/girls/genesis/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659389/aura/gallery/models/girls/genesis/polas/genesis_polas_7.jpg"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Genesis\\videos\\20231013_181549235.mp4",
+      "relativePath": "videos/20231013_181549235.mp4",
+      "publicId": "aura/gallery/models/girls/genesis/videos/20231013_181549235",
+      "assetFolder": "aura/gallery/models/girls/genesis/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698550/aura/gallery/models/girls/genesis/videos/20231013_181549235.mp4",
+      "skipped": false
     }
-  ]
+  ],
+  "completed": true,
+  "checkpointEvery": 1
 }

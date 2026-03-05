@@ -11,9 +11,22 @@ export interface ScoutingModel {
   eyes?: string;
   shoe?: string;
   availability?: 'on' | 'off' | string;
+  book?: string[];
+  extraMaterial?: string[];
+  polas?: string[];
+  extraSnaps?: string[];
+  videos?: string[];
+  fullMaterialData?: FullMaterialMedia;
   portfolio?: string[];
   instagram?: string[];
   download?: string;
+}
+
+export interface FullMaterialMedia {
+  extraMaterial?: string[];
+  polas?: string[];
+  extraSnaps?: string[];
+  videos?: string[];
 }
 
 export interface GalleryModel {
@@ -31,6 +44,7 @@ export interface GalleryModel {
   shoe?: string;
   ongoingTrip: boolean;
   fullMaterial?: boolean;
+  fullMaterialMedia?: string[];
   portfolio: string[];
   instagram: string[];
   download?: string;

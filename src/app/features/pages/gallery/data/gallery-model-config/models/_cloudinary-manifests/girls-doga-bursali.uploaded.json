@@ -2,283 +2,597 @@
   "modelQuery": "Doga Bursali",
   "gender": "girls",
   "modelFolderName": "Doga Bursali",
-  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali",
-  "totalImages": 39,
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali",
+  "totalImages": 65,
   "uploaded": true,
-  "generatedAt": "2026-02-21T07:32:46.784Z",
+  "generatedAt": "2026-03-05T07:20:47.675Z",
   "items": [
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_01.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_01.jpg",
       "relativePath": "Doga book aura/doga_book_01.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_01",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659167/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_01.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659167/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_01.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_02.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_02.jpg",
       "relativePath": "Doga book aura/doga_book_02.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_02",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659167/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_02.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659167/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_02.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_03.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_03.jpg",
       "relativePath": "Doga book aura/doga_book_03.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_03",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659168/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_03.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659168/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_03.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_04.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_04.jpg",
       "relativePath": "Doga book aura/doga_book_04.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_04",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659169/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_04.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659169/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_04.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_05.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_05.jpg",
       "relativePath": "Doga book aura/doga_book_05.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_05",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659170/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_05.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659170/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_05.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_06.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_06.jpg",
       "relativePath": "Doga book aura/doga_book_06.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_06",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659171/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_06.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659171/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_06.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_07.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_07.jpg",
       "relativePath": "Doga book aura/doga_book_07.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_07",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659171/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_07.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659171/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_07.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_08.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_08.jpg",
       "relativePath": "Doga book aura/doga_book_08.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_08",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659172/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_08.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659172/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_08.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_09.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_09.jpg",
       "relativePath": "Doga book aura/doga_book_09.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_09",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659173/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_09.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659173/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_09.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_10.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_10.jpg",
       "relativePath": "Doga book aura/doga_book_10.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_10",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659173/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_10.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659173/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_10.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_11.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_11.jpg",
       "relativePath": "Doga book aura/doga_book_11.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_11",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659174/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_11.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659174/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_11.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_12.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_12.jpg",
       "relativePath": "Doga book aura/doga_book_12.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_12",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659174/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_12.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659174/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_12.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_13.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_13.jpg",
       "relativePath": "Doga book aura/doga_book_13.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_13",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659175/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_13.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659175/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_13.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_14.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_14.jpg",
       "relativePath": "Doga book aura/doga_book_14.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_14",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659175/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_14.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659175/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_14.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_15.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_15.jpg",
       "relativePath": "Doga book aura/doga_book_15.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_15",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659176/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_15.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659176/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_15.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_16.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_16.jpg",
       "relativePath": "Doga book aura/doga_book_16.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_16",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659176/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_16.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659176/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_16.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_17.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_17.jpg",
       "relativePath": "Doga book aura/doga_book_17.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_17",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659176/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_17.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659176/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_17.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_18.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_18.jpg",
       "relativePath": "Doga book aura/doga_book_18.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_18",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659177/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_18.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659177/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_18.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_19.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_19.jpg",
       "relativePath": "Doga book aura/doga_book_19.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_19",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659178/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_19.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659178/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_19.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_20.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_20.jpg",
       "relativePath": "Doga book aura/doga_book_20.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_20",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659179/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_20.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659179/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_20.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_21.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_21.jpg",
       "relativePath": "Doga book aura/doga_book_21.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_21",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659179/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_21.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659179/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_21.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_22.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_22.jpg",
       "relativePath": "Doga book aura/doga_book_22.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_22",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659180/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_22.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659180/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_22.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_23.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_23.jpg",
       "relativePath": "Doga book aura/doga_book_23.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_23",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659181/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_23.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659181/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_23.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_24.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_24.jpg",
       "relativePath": "Doga book aura/doga_book_24.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_24",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659181/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_24.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659181/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_24.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_25.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_25.jpg",
       "relativePath": "Doga book aura/doga_book_25.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_25",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659182/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_25.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659182/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_25.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_26.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_26.jpg",
       "relativePath": "Doga book aura/doga_book_26.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_26",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659182/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_26.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659182/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_26.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_27.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_27.jpg",
       "relativePath": "Doga book aura/doga_book_27.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_27",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659183/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_27.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659183/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_27.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_28.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_28.jpg",
       "relativePath": "Doga book aura/doga_book_28.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_28",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659184/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_28.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659184/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_28.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_29.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_29.jpg",
       "relativePath": "Doga book aura/doga_book_29.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_29",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659185/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_29.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659185/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_29.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_30.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_30.jpg",
       "relativePath": "Doga book aura/doga_book_30.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_30",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659185/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_30.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659185/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_30.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_31.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_31.jpg",
       "relativePath": "Doga book aura/doga_book_31.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_31",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659186/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_31.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659186/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_31.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_32.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_32.jpg",
       "relativePath": "Doga book aura/doga_book_32.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_32",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659187/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_32.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659187/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_32.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga book aura\\doga_book_33.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga book aura\\doga_book_33.jpg",
       "relativePath": "Doga book aura/doga_book_33.jpg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_33",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-book-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659187/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_33.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659187/aura/gallery/models/girls/doga-bursali/doga-book-aura/doga_book_33.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga snaps\\image00001.jpeg",
-      "relativePath": "Doga snaps/image00001.jpeg",
-      "publicId": "aura/gallery/models/girls/doga-bursali/doga-snaps/image00001",
-      "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-snaps",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659188/aura/gallery/models/girls/doga-bursali/doga-snaps/image00001.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga snaps\\image00002.jpeg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga snaps\\image00002.jpeg",
       "relativePath": "Doga snaps/image00002.jpeg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-snaps/image00002",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-snaps",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659189/aura/gallery/models/girls/doga-bursali/doga-snaps/image00002.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659189/aura/gallery/models/girls/doga-bursali/doga-snaps/image00002.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga snaps\\image00003.jpeg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga snaps\\image00003.jpeg",
       "relativePath": "Doga snaps/image00003.jpeg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-snaps/image00003",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-snaps",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659190/aura/gallery/models/girls/doga-bursali/doga-snaps/image00003.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659190/aura/gallery/models/girls/doga-bursali/doga-snaps/image00003.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga snaps\\image00004.jpeg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga snaps\\image00004.jpeg",
       "relativePath": "Doga snaps/image00004.jpeg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-snaps/image00004",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-snaps",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659191/aura/gallery/models/girls/doga-bursali/doga-snaps/image00004.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659191/aura/gallery/models/girls/doga-bursali/doga-snaps/image00004.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga snaps\\image00005.jpeg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga snaps\\image00005.jpeg",
       "relativePath": "Doga snaps/image00005.jpeg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-snaps/image00005",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-snaps",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659191/aura/gallery/models/girls/doga-bursali/doga-snaps/image00005.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659191/aura/gallery/models/girls/doga-bursali/doga-snaps/image00005.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Doga Bursali\\Doga snaps\\image00006.jpeg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga snaps\\image00006.jpeg",
       "relativePath": "Doga snaps/image00006.jpeg",
       "publicId": "aura/gallery/models/girls/doga-bursali/doga-snaps/image00006",
       "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-snaps",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659192/aura/gallery/models/girls/doga-bursali/doga-snaps/image00006.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659192/aura/gallery/models/girls/doga-bursali/doga-snaps/image00006.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\Doga snaps\\image00007.jpeg",
+      "relativePath": "Doga snaps/image00007.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/doga-snaps/image00007",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/doga-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683984/aura/gallery/models/girls/doga-bursali/doga-snaps/image00007.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_1.jpg",
+      "relativePath": "extra material/doga_bursali_book_extras_1.jpg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_1",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683986/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_1.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_2.jpg",
+      "relativePath": "extra material/doga_bursali_book_extras_2.jpg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_2",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683987/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_2.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_3.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_3.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_3",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683988/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_3.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_4.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_4.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_4",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683988/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_4.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_5.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_5.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_5",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683990/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_5.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_6.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_6.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_6",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683991/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_6.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_7.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_7.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_7",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683992/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_7.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_8.png",
+      "relativePath": "extra material/doga_bursali_book_extras_8.png",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_8",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683993/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_8.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_9.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_9.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_9",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683995/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_9.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_10.png",
+      "relativePath": "extra material/doga_bursali_book_extras_10.png",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_10",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683996/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_10.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_11.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_11.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_11",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683997/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_11.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_12.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_12.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_12",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683998/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_12.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_13.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_13.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_13",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683999/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_13.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_14.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_14.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_14",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684000/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_14.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_15.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_15.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_15",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684002/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_15.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_16.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_16.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_16",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684003/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_16.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_17.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_17.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_17",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684003/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_17.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_18.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_18.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_18",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684004/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_18.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_19.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_19.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_19",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684005/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_19.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_20.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_20.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_20",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684006/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_20.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_21.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_21.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_21",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684007/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_21.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_22.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_22.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_22",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684008/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_22.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_23.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_23.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_23",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684009/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_23.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_24.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_24.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_24",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684010/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_24.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_25.jpeg",
+      "relativePath": "extra material/doga_bursali_book_extras_25.jpeg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_25",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684011/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_25.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Doga Bursali\\extra material\\doga_bursali_book_extras_26.jpg",
+      "relativePath": "extra material/doga_bursali_book_extras_26.jpg",
+      "publicId": "aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_26",
+      "assetFolder": "aura/gallery/models/girls/doga-bursali/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684011/aura/gallery/models/girls/doga-bursali/extra-material/doga_bursali_book_extras_26.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     }
-  ]
+  ],
+  "completed": true,
+  "checkpointEvery": 1
 }

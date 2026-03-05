@@ -2,213 +2,1092 @@
   "modelQuery": "Eugenia Lagrenade",
   "gender": "girls",
   "modelFolderName": "Eugenia Lagrenade",
-  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade",
-  "totalImages": 29,
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade",
+  "totalImages": 120,
   "uploaded": true,
-  "generatedAt": "2026-02-21T07:34:19.324Z",
+  "generatedAt": "2026-03-05T07:20:47.794Z",
   "items": [
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_01.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_01.jpg",
       "relativePath": "book/eugenia_lagrenade_book_01.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_01",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659260/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_01.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659260/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_01.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_02.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_02.jpg",
       "relativePath": "book/eugenia_lagrenade_book_02.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_02",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659260/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_02.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659260/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_02.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_03.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_03.jpg",
       "relativePath": "book/eugenia_lagrenade_book_03.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_03",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659261/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_03.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659261/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_03.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_04.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_04.jpg",
       "relativePath": "book/eugenia_lagrenade_book_04.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_04",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659262/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_04.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659262/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_04.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_05.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_05.jpg",
       "relativePath": "book/eugenia_lagrenade_book_05.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_05",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659263/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_05.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659263/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_05.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_06.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_06.jpg",
       "relativePath": "book/eugenia_lagrenade_book_06.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_06",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659263/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_06.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659263/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_06.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_07.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_07.jpg",
       "relativePath": "book/eugenia_lagrenade_book_07.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_07",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659264/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_07.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659264/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_07.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_08.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_08.jpg",
       "relativePath": "book/eugenia_lagrenade_book_08.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_08",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659264/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_08.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659264/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_08.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_09.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_09.jpg",
       "relativePath": "book/eugenia_lagrenade_book_09.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_09",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659265/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_09.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659265/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_09.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_10.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_10.jpg",
       "relativePath": "book/eugenia_lagrenade_book_10.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_10",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659266/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_10.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659266/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_10.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_11.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_11.jpg",
       "relativePath": "book/eugenia_lagrenade_book_11.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_11",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659267/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_11.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659267/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_11.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_12.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_12.jpg",
       "relativePath": "book/eugenia_lagrenade_book_12.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_12",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659267/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_12.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659267/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_12.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_13.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_13.jpg",
       "relativePath": "book/eugenia_lagrenade_book_13.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_13",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659268/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_13.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659268/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_13.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_14.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_14.jpg",
       "relativePath": "book/eugenia_lagrenade_book_14.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_14",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659269/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_14.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659269/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_14.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_15.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_15.jpg",
       "relativePath": "book/eugenia_lagrenade_book_15.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_15",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659270/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_15.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659270/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_15.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_16.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_16.jpg",
       "relativePath": "book/eugenia_lagrenade_book_16.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_16",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659270/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_16.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659270/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_16.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_17.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_17.jpg",
       "relativePath": "book/eugenia_lagrenade_book_17.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_17",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659271/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_17.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659271/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_17.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_18.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_18.jpg",
       "relativePath": "book/eugenia_lagrenade_book_18.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_18",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659272/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_18.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659272/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_18.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_19.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_19.jpg",
       "relativePath": "book/eugenia_lagrenade_book_19.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_19",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659273/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_19.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659273/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_19.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_20.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_20.jpg",
       "relativePath": "book/eugenia_lagrenade_book_20.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_20",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659274/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_20.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659274/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_20.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_21.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_21.jpg",
       "relativePath": "book/eugenia_lagrenade_book_21.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_21",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659274/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_21.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659274/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_21.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_22.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\book\\eugenia_lagrenade_book_22.jpg",
       "relativePath": "book/eugenia_lagrenade_book_22.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_22",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659275/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_22.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659275/aura/gallery/models/girls/eugenia-lagrenade/book/eugenia_lagrenade_book_22.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_01.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_1.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_1.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_1",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684144/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_1.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_2.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_2.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_2",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684145/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_2.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_3.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_3.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_3",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684146/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_3.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_4.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_4.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_4",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684147/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_4.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_5.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_5.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_5",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691696/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_5.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_6.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_6.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_6",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691696/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_6.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_7.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_7.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_7",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691699/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_7.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_8.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_8.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_8",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691703/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_8.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_9.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_9.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_9",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691705/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_9.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_10.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_10.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_10",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691708/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_10.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_11.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_11.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_11",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691718/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_11.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_12.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_12.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_12",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691720/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_12.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_13.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_13.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_13",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691721/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_13.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_14.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_14.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_14",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691722/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_14.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_15.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_15.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_15",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691724/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_15.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_16.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_16.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_16",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691724/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_16.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_17.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_17.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_17",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691725/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_17.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_18.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_18.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_18",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691726/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_18.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_19.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_19.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_19",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691728/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_19.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_20.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_20.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_20",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691730/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_20.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_21.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_21.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_21",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691731/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_21.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_22.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_22.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_22",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691733/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_22.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_23.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_23.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_23",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691734/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_23.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_24.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_24.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_24",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691737/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_24.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_25.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_25.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_25",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691738/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_25.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_26.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_26.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_26",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691740/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_26.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_27.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_27.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_27",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691742/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_27.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_28.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_28.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_28",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691743/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_28.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_29.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_29.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_29",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691743/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_29.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_30.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_30.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_30",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691744/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_30.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_31.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_31.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_31",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691745/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_31.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_32.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_32.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_32",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691746/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_32.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_33.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_33.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_33",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691747/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_33.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_34.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_34.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_34",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691748/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_34.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_35.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_35.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_35",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691758/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_35.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_36.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_36.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_36",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691764/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_36.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_37.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_37.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_37",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691770/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_37.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_38.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_38.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_38",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691772/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_38.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_39.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_39.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_39",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691775/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_39.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_40.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_40.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_40",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691783/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_40.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_41.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_41.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_41",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691789/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_41.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_42.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_42.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_42",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691793/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_42.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_43.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_43.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_43",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691798/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_43.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_44.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_44.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_44",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691801/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_44.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_45.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_45.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_45",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691804/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_45.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_46.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_46.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_46",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691808/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_46.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_47.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_47.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_47",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691810/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_47.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_48.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_48.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_48",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691812/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_48.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_49.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_49.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_49",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691814/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_49.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_50.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_50.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_50",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691820/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_50.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_51.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_51.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_51",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691824/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_51.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_52.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_52.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_52",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691828/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_52.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_53.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_53.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_53",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691830/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_53.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_54.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_54.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_54",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691831/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_54.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_55.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_55.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_55",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691835/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_55.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_56.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_56.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_56",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691840/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_56.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_57.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_57.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_57",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691843/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_57.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_58.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_58.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_58",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691846/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_58.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_59.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_59.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_59",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691851/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_59.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_60.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_60.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_60",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691855/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_60.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_61.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_61.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_61",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691859/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_61.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_62.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_62.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_62",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691864/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_62.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_63.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_63.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_63",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691866/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_63.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_64.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_64.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_64",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691868/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_64.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_65.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_65.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_65",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691871/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_65.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_66.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_66.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_66",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691873/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_66.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_67.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_67.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_67",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691878/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_67.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_68.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_68.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_68",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691881/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_68.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_69.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_69.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_69",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691886/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_69.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_70.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_70.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_70",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691894/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_70.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_71.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_71.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_71",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691898/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_71.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_72.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_72.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_72",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691901/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_72.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_73.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_73.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_73",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691905/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_73.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_74.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_74.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_74",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691909/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_74.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_75.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_75.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_75",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691912/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_75.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_76.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_76.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_76",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691915/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_76.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_77.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_77.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_77",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691919/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_77.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra material\\eugenia_legranade_book_extras_78.jpg",
+      "relativePath": "extra material/eugenia_legranade_book_extras_78.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_78",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691921/aura/gallery/models/girls/eugenia-lagrenade/extra-material/eugenia_legranade_book_extras_78.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_1.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_1.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_1",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691924/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_1.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_2.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_2.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_2",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691926/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_2.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_3.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_3.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_3",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691927/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_3.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_4.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_4.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_4",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691930/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_4.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_5.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_5.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_5",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691935/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_5.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_6.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_6.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_6",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691938/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_6.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_7.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_7.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_7",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691939/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_7.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_8.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_8.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_8",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691941/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_8.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_9.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_9.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_9",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691944/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_9.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_10.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_10.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_10",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691947/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_10.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_12.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_12.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_12",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691949/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_12.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\extra snaps\\eugenia_legranade_snaps_extras_13.jpg",
+      "relativePath": "extra snaps/eugenia_legranade_snaps_extras_13.jpg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_13",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691952/aura/gallery/models/girls/eugenia-lagrenade/extra-snaps/eugenia_legranade_snaps_extras_13.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_01.jpg",
       "relativePath": "polas/eugenia_lagrenade_snaps_01.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_01",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659276/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_01.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691955/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_01.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_02.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_02.jpg",
       "relativePath": "polas/eugenia_lagrenade_snaps_02.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_02",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659277/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_02.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659277/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_02.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_03.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_03.jpg",
       "relativePath": "polas/eugenia_lagrenade_snaps_03.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_03",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659278/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_03.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691956/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_03.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_04.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_04.jpg",
       "relativePath": "polas/eugenia_lagrenade_snaps_04.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_04",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659279/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_04.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691958/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_04.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_05.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_05.jpg",
       "relativePath": "polas/eugenia_lagrenade_snaps_05.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_05",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659280/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_05.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659280/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_05.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_06.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_06.jpg",
       "relativePath": "polas/eugenia_lagrenade_snaps_06.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_06",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659280/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_06.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659280/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_06.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_07.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_07.jpg",
       "relativePath": "polas/eugenia_lagrenade_snaps_07.jpg",
       "publicId": "aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_07",
       "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659281/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_07.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659281/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_07.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eugenia Lagrenade\\polas\\eugenia_lagrenade_snaps_08.jpeg",
+      "relativePath": "polas/eugenia_lagrenade_snaps_08.jpeg",
+      "publicId": "aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_08",
+      "assetFolder": "aura/gallery/models/girls/eugenia-lagrenade/polas",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772691960/aura/gallery/models/girls/eugenia-lagrenade/polas/eugenia_lagrenade_snaps_08.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     }
-  ]
+  ],
+  "completed": true,
+  "checkpointEvery": 1
 }

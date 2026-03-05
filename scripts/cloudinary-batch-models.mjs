@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 
 const IMAGE_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp', '.avif', '.gif']);
+const VIDEO_EXTENSIONS = new Set(['.mp4', '.mov', '.m4v', '.avi', '.webm', '.mkv']);
 const IGNORED_FILE_NAMES = new Set(['.ds_store', '.xnviewsort']);
 
 function parseArgs(argv) {
@@ -16,6 +17,9 @@ function parseArgs(argv) {
     pruneRemote: false,
     applyPrune: false,
     limit: 0,
+    checkpointEvery: 1,
+    resumeLast: false,
+    media: 'images',
   };
 
   for (let i = 0; i < argv.length; i += 1) {
@@ -65,6 +69,22 @@ function parseArgs(argv) {
       continue;
     }
 
+    if (current === '--checkpoint-every' && next) {
+      const value = Number(next);
+      args.checkpointEvery = Number.isFinite(value) && value > 0 ? Math.floor(value) : 1;
+      i += 1;
+      continue;
+    }
+
+    if (current === '--media' && next) {
+      const value = String(next).trim().toLowerCase();
+      if (value === 'images' || value === 'videos' || value === 'all') {
+        args.media = value;
+      }
+      i += 1;
+      continue;
+    }
+
     if (current === '--upload') {
       args.upload = true;
     }
@@ -76,19 +96,23 @@ function parseArgs(argv) {
     if (current === '--apply-prune') {
       args.applyPrune = true;
     }
+
+    if (current === '--resume-last') {
+      args.resumeLast = true;
+    }
   }
 
   return args;
 }
 
-async function listRemotePublicIdsByPrefix(cloudinary, prefix) {
+async function listRemotePublicIdsByPrefix(cloudinary, prefix, resourceType = 'image') {
   const ids = [];
   let nextCursor;
 
   do {
     const response = await cloudinary.api.resources({
       type: 'upload',
-      resource_type: 'image',
+      resource_type: resourceType,
       prefix,
       max_results: 500,
       next_cursor: nextCursor,
@@ -106,7 +130,7 @@ async function listRemotePublicIdsByPrefix(cloudinary, prefix) {
   return ids;
 }
 
-async function deleteRemotePublicIds(cloudinary, publicIds) {
+async function deleteRemotePublicIds(cloudinary, publicIds, resourceType = 'image') {
   if (!publicIds.length) {
     return { deleted: 0 };
   }
@@ -115,7 +139,7 @@ async function deleteRemotePublicIds(cloudinary, publicIds) {
   for (let i = 0; i < publicIds.length; i += 100) {
     const chunk = publicIds.slice(i, i + 100);
     const response = await cloudinary.api.delete_resources(chunk, {
-      resource_type: 'image',
+      resource_type: resourceType,
       type: 'upload',
       invalidate: false,
     });
@@ -159,8 +183,18 @@ function toCloudinaryAssetFolder(publicId) {
   return idx <= 0 ? normalized : normalized.slice(0, idx);
 }
 
-async function walkImageFiles(dirPath) {
+async function walkImageFiles(dirPath, mediaMode = 'images') {
   const output = [];
+
+  function acceptsExtension(extension, mediaMode) {
+    if (mediaMode === 'videos') {
+      return VIDEO_EXTENSIONS.has(extension);
+    }
+    if (mediaMode === 'all') {
+      return IMAGE_EXTENSIONS.has(extension) || VIDEO_EXTENSIONS.has(extension);
+    }
+    return IMAGE_EXTENSIONS.has(extension);
+  }
 
   async function walk(currentPath) {
     const entries = await fs.readdir(currentPath, { withFileTypes: true });
@@ -179,7 +213,7 @@ async function walkImageFiles(dirPath) {
       }
 
       const extension = path.extname(lowerName);
-      if (!IMAGE_EXTENSIONS.has(extension)) {
+      if (!acceptsExtension(extension, mediaMode)) {
         continue;
       }
 
@@ -190,6 +224,14 @@ async function walkImageFiles(dirPath) {
   await walk(dirPath);
   output.sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' }));
   return output;
+}
+
+function getResourceTypeForPath(filePath) {
+  const extension = path.extname(String(filePath || '').toLowerCase());
+  if (VIDEO_EXTENSIONS.has(extension)) {
+    return 'video';
+  }
+  return 'image';
 }
 
 async function getModelDirectories(sourceRoot, genders, excludedSlugs, modelFilter) {
@@ -284,13 +326,20 @@ async function resolveCloudinaryCredentials() {
   return cloudinary;
 }
 
-async function tryGetExistingResource(cloudinary, publicId) {
+async function tryGetExistingResource(cloudinary, publicId, resourceType = 'image') {
   try {
-    const resource = await cloudinary.api.resource(publicId, { resource_type: 'image' });
+    const resource = await cloudinary.api.resource(publicId, { resource_type: resourceType });
     return resource?.secure_url || null;
   } catch (error) {
-    const statusCode = error?.http_code || error?.statusCode;
-    if (statusCode === 404) {
+    const statusCodeRaw = error?.http_code || error?.statusCode || error?.error?.http_code;
+    const statusCode = Number(statusCodeRaw);
+    const message = String(error?.message || error?.error?.message || '').toLowerCase();
+
+    if (
+      statusCode === 404
+      || message.includes('resource not found')
+      || message.includes('http 404')
+    ) {
       return null;
     }
     throw error;
@@ -299,10 +348,28 @@ async function tryGetExistingResource(cloudinary, publicId) {
 
 async function processModel({ gender, modelFolderName, args, manifestIndex, cloudinary }) {
   const modelFolderAbs = path.resolve(args.sourceRoot, gender, modelFolderName);
-  const imageFiles = await walkImageFiles(modelFolderAbs);
+  const imageFiles = await walkImageFiles(modelFolderAbs, args.media);
 
   if (imageFiles.length === 0) {
-    throw new Error(`No images found in ${gender}/${modelFolderName}`);
+    console.log(`No matching ${args.media} files found in ${gender}/${modelFolderName}; skipping.`);
+    return {
+      manifest: {
+        modelQuery: modelFolderName,
+        gender,
+        modelFolderName,
+        sourceFolder: modelFolderAbs,
+        totalImages: 0,
+        uploaded: args.upload,
+        generatedAt: new Date().toISOString(),
+        items: [],
+        completed: true,
+        checkpointEvery: args.checkpointEvery,
+      },
+      uploadedCount: 0,
+      skippedCount: 0,
+      pruneCandidatesCount: 0,
+      prunedCount: 0,
+    };
   }
 
   const manifest = {
@@ -314,12 +381,30 @@ async function processModel({ gender, modelFolderName, args, manifestIndex, clou
     uploaded: args.upload,
     generatedAt: new Date().toISOString(),
     items: [],
+    completed: false,
+    checkpointEvery: args.checkpointEvery,
   };
 
   let uploadedCount = 0;
   let skippedCount = 0;
   let pruneCandidatesCount = 0;
   let prunedCount = 0;
+  let processedCount = 0;
+
+  async function checkpoint(force = false) {
+    if (typeof args.onManifestCheckpoint !== 'function') {
+      return;
+    }
+
+    if (!force && args.checkpointEvery > 1 && processedCount % args.checkpointEvery !== 0) {
+      return;
+    }
+
+    manifest.generatedAt = new Date().toISOString();
+    await args.onManifestCheckpoint(manifest);
+  }
+
+  await checkpoint(true);
 
   const expectedPublicIds = new Set();
 
@@ -334,10 +419,13 @@ async function processModel({ gender, modelFolderName, args, manifestIndex, clou
       publicId,
       assetFolder,
     };
+    const resourceType = getResourceTypeForPath(absFile);
     expectedPublicIds.add(publicId);
 
     if (!args.upload) {
       manifest.items.push(item);
+      processedCount += 1;
+      await checkpoint();
       continue;
     }
 
@@ -345,19 +433,23 @@ async function processModel({ gender, modelFolderName, args, manifestIndex, clou
     if (fromManifest) {
       manifest.items.push({ ...item, secureUrl: fromManifest, skipped: true, reason: 'existing-manifest' });
       skippedCount += 1;
+      processedCount += 1;
+      await checkpoint();
       continue;
     }
 
-    const fromCloudinary = await tryGetExistingResource(cloudinary, publicId);
+    const fromCloudinary = await tryGetExistingResource(cloudinary, publicId, resourceType);
     if (fromCloudinary) {
       manifest.items.push({ ...item, secureUrl: fromCloudinary, skipped: true, reason: 'already-on-cloudinary' });
       manifestIndex.set(publicId, fromCloudinary);
       skippedCount += 1;
+      processedCount += 1;
+      await checkpoint();
       continue;
     }
 
     const result = await cloudinary.uploader.upload(absFile, {
-      resource_type: 'image',
+      resource_type: resourceType,
       public_id: publicId,
       asset_folder: assetFolder,
       overwrite: false,
@@ -369,6 +461,8 @@ async function processModel({ gender, modelFolderName, args, manifestIndex, clou
     manifest.items.push({ ...item, secureUrl: result.secure_url, skipped: false });
     manifestIndex.set(publicId, result.secure_url);
     uploadedCount += 1;
+    processedCount += 1;
+    await checkpoint();
     console.log(`[${index + 1}/${imageFiles.length}] uploaded ${gender}/${modelFolderName}/${item.relativePath}`);
   }
 
@@ -377,15 +471,33 @@ async function processModel({ gender, modelFolderName, args, manifestIndex, clou
       .replace(/\/+/g, '/')
       .toLowerCase();
 
-    const remotePublicIds = await listRemotePublicIdsByPrefix(cloudinary, modelPrefix);
-    const stalePublicIds = remotePublicIds.filter((publicId) => !expectedPublicIds.has(publicId));
+    const pruneResourceTypes = args.media === 'videos'
+      ? ['video']
+      : args.media === 'all'
+        ? ['image', 'video']
+        : ['image'];
+
+    const stalePublicIds = [];
+    for (const resourceType of pruneResourceTypes) {
+      const remotePublicIds = await listRemotePublicIdsByPrefix(cloudinary, modelPrefix, resourceType);
+      const staleForType = remotePublicIds.filter((publicId) => !expectedPublicIds.has(publicId));
+      stalePublicIds.push(...staleForType.map((publicId) => ({ publicId, resourceType })));
+    }
 
     pruneCandidatesCount = stalePublicIds.length;
 
     if (stalePublicIds.length > 0) {
       if (args.applyPrune) {
-        const result = await deleteRemotePublicIds(cloudinary, stalePublicIds);
-        prunedCount = result.deleted;
+        let deleted = 0;
+        for (const resourceType of ['image', 'video']) {
+          const ids = stalePublicIds.filter((entry) => entry.resourceType === resourceType).map((entry) => entry.publicId);
+          if (ids.length === 0) {
+            continue;
+          }
+          const result = await deleteRemotePublicIds(cloudinary, ids, resourceType);
+          deleted += result.deleted;
+        }
+        prunedCount = deleted;
       } else {
         console.log(`Prune preview ${gender}/${modelFolderName}: ${stalePublicIds.length} remote files would be deleted.`);
       }
@@ -399,6 +511,9 @@ async function processModel({ gender, modelFolderName, args, manifestIndex, clou
     };
   }
 
+  manifest.completed = true;
+  await checkpoint(true);
+
   return { manifest, uploadedCount, skippedCount, pruneCandidatesCount, prunedCount };
 }
 
@@ -406,6 +521,27 @@ async function run() {
   const args = parseArgs(process.argv.slice(2));
   const excludedSlugs = new Set(args.exclude.map((value) => slugify(value)));
   const manifestOutAbs = path.resolve(args.manifestOut);
+  const uploadProgressFileAbs = path.join(manifestOutAbs, '_upload-progress.json');
+  const progressFileAbs = path.join(
+    manifestOutAbs,
+    args.upload ? '_upload-progress.json' : '_dryrun-progress.json',
+  );
+
+  if (args.resumeLast && !args.model) {
+    try {
+      const rawProgress = await fs.readFile(uploadProgressFileAbs, 'utf8');
+      const progress = JSON.parse(rawProgress);
+      const failedGender = progress?.failedModel?.gender;
+      const failedModel = progress?.failedModel?.model;
+      if (failedGender && failedModel) {
+        args.genders = [String(failedGender).toLowerCase()];
+        args.model = String(failedModel);
+        console.log(`Resuming from progress file: ${failedGender}/${failedModel}`);
+      }
+    } catch {
+      // no progress file yet
+    }
+  }
 
   const models = await getModelDirectories(args.sourceRoot, args.genders, excludedSlugs, args.model);
   if (models.length === 0) {
@@ -426,6 +562,10 @@ async function run() {
 
   await ensureManifestDirectory(manifestOutAbs);
 
+  async function saveProgress(payload) {
+    await fs.writeFile(progressFileAbs, JSON.stringify(payload, null, 2), 'utf8');
+  }
+
   console.log(`Mode: ${args.upload ? 'UPLOAD' : 'DRY RUN'}`);
   if (args.pruneRemote) {
     console.log(`Prune mode: ${args.applyPrune ? 'APPLY' : 'PREVIEW'}`);
@@ -437,21 +577,84 @@ async function run() {
   let totalPruneCandidates = 0;
   let totalPruned = 0;
 
+  await saveProgress({
+    status: 'running',
+    mode: args.upload ? 'upload' : 'dry-run',
+    sourceRoot: path.resolve(args.sourceRoot),
+    startedAt: new Date().toISOString(),
+    queueLength: queue.length,
+    queue: queue.map((entry) => ({ gender: entry.gender, model: entry.model })),
+    currentIndex: -1,
+    currentModel: null,
+    completedModels: 0,
+    totals: {
+      uploaded: totalUploaded,
+      skipped: totalSkipped,
+      pruneCandidates: totalPruneCandidates,
+      pruned: totalPruned,
+    },
+  });
+
   for (let i = 0; i < queue.length; i += 1) {
     const item = queue[i];
     console.log(`\n[${i + 1}/${queue.length}] ${item.gender}/${item.model}`);
 
-    const result = await processModel({
-      gender: item.gender,
-      modelFolderName: item.model,
-      args,
-      manifestIndex,
-      cloudinary,
+    await saveProgress({
+      status: 'running',
+      mode: args.upload ? 'upload' : 'dry-run',
+      sourceRoot: path.resolve(args.sourceRoot),
+      startedAt: new Date().toISOString(),
+      queueLength: queue.length,
+      queue: queue.map((entry) => ({ gender: entry.gender, model: entry.model })),
+      currentIndex: i,
+      currentModel: { gender: item.gender, model: item.model },
+      completedModels: i,
+      totals: {
+        uploaded: totalUploaded,
+        skipped: totalSkipped,
+        pruneCandidates: totalPruneCandidates,
+        pruned: totalPruned,
+      },
     });
 
     const manifestFileName = `${slugify(item.gender)}-${slugify(item.model)}${args.upload ? '.uploaded' : '.preview'}.json`;
     const manifestPath = path.join(manifestOutAbs, manifestFileName);
-    await fs.writeFile(manifestPath, JSON.stringify(result.manifest, null, 2), 'utf8');
+
+    let result;
+    try {
+      result = await processModel({
+        gender: item.gender,
+        modelFolderName: item.model,
+        args: {
+          ...args,
+          onManifestCheckpoint: async (manifest) => {
+            await fs.writeFile(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
+          },
+        },
+        manifestIndex,
+        cloudinary,
+      });
+    } catch (error) {
+      await saveProgress({
+        status: 'paused',
+        mode: args.upload ? 'upload' : 'dry-run',
+        sourceRoot: path.resolve(args.sourceRoot),
+        pausedAt: new Date().toISOString(),
+        queueLength: queue.length,
+        queue: queue.map((entry) => ({ gender: entry.gender, model: entry.model })),
+        currentIndex: i,
+        currentModel: { gender: item.gender, model: item.model },
+        completedModels: i,
+        failedModel: { gender: item.gender, model: item.model },
+        totals: {
+          uploaded: totalUploaded,
+          skipped: totalSkipped,
+          pruneCandidates: totalPruneCandidates,
+          pruned: totalPruned,
+        },
+      });
+      throw error;
+    }
 
     totalUploaded += result.uploadedCount;
     totalSkipped += result.skippedCount;
@@ -467,6 +670,24 @@ async function run() {
         `${args.applyPrune ? 'Deleted remote' : 'Prune candidates'}: ${args.applyPrune ? result.prunedCount : result.pruneCandidatesCount}`,
       );
     }
+
+    await saveProgress({
+      status: 'running',
+      mode: args.upload ? 'upload' : 'dry-run',
+      sourceRoot: path.resolve(args.sourceRoot),
+      updatedAt: new Date().toISOString(),
+      queueLength: queue.length,
+      queue: queue.map((entry) => ({ gender: entry.gender, model: entry.model })),
+      currentIndex: i,
+      currentModel: { gender: item.gender, model: item.model },
+      completedModels: i + 1,
+      totals: {
+        uploaded: totalUploaded,
+        skipped: totalSkipped,
+        pruneCandidates: totalPruneCandidates,
+        pruned: totalPruned,
+      },
+    });
   }
 
   console.log('\nSummary:');
@@ -481,6 +702,22 @@ async function run() {
     }
   }
   console.log(`- Models processed: ${queue.length}`);
+
+  await saveProgress({
+    status: 'done',
+    mode: args.upload ? 'upload' : 'dry-run',
+    sourceRoot: path.resolve(args.sourceRoot),
+    finishedAt: new Date().toISOString(),
+    queueLength: queue.length,
+    queue: queue.map((entry) => ({ gender: entry.gender, model: entry.model })),
+    completedModels: queue.length,
+    totals: {
+      uploaded: totalUploaded,
+      skipped: totalSkipped,
+      pruneCandidates: totalPruneCandidates,
+      pruned: totalPruned,
+    },
+  });
 }
 
 run().catch((error) => {

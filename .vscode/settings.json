@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^\\$env:CLOUDINARY_CLOUD_NAME=\"dcxaitngm\"; \\$env:CLOUDINARY_API_KEY=\"694715675724921\"; \\$env:CLOUDINARY_API_SECRET=\"Y00V_8NC7FNUOALLUkj2jEmZxfc\"; node scripts/cloudinary-batch-models\\.mjs --upload --media videos --source-root \"C:\\\\Users\\\\emman\\\\Desktop\\\\Aura\\\\Models media\\\\optimized\" --manifest-out \"src/app/features/pages/gallery/data/gallery-model-config/models/_cloudinary-manifests\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

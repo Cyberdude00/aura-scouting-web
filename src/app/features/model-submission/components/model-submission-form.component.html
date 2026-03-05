@@ -14,13 +14,24 @@
       </div>
 
       <p class="text-xs text-gray-500 mt-1" style="font-size: 0.8rem; color: #888; margin-bottom: 10px;">
-        Max file size: 5MB. Allowed types: JPG, PNG, GIF.
+        Max file size: 10MB. Allowed types: JPG, PNG, HEIC, HEIF.
       </p>
 
       <input type="text" name="name" placeholder="Name*" class="text" required [(ngModel)]="formData.name">
+      <input type="number" name="age" placeholder="Age*" class="text" min="12" max="100" required [(ngModel)]="formData.age">
       <input type="email" name="email" placeholder="Email*" class="text" required [(ngModel)]="formData.email">
-      <input type="text" name="height" placeholder="Height*" class="text" required [(ngModel)]="formData.height">
-      <input type="text" name="cellphone" placeholder="Cell Phone" class="text" [(ngModel)]="formData.cellphone">
+      <input type="number" name="height" placeholder="Height (cm)*" class="text" min="100" max="250" required [(ngModel)]="formData.height">
+      <input type="text" name="social_network" placeholder="Social Network*" class="text" maxlength="150" required [(ngModel)]="formData.social_network">
+      <textarea name="about_me" placeholder="About me*" class="text" minlength="10" maxlength="1000" required [(ngModel)]="formData.about_me"></textarea>
+      <input type="tel" name="cellphone" placeholder="Cell Phone*" class="text" required pattern="^[0-9+\-\s()]{7,20}$" [(ngModel)]="formData.cellphone">
+
+      <p *ngIf="successMessage" class="text-xs text-gray-500 mt-1" style="font-size: 0.8rem; color: #2d7a39; margin-bottom: 10px;">
+        {{ successMessage }}
+      </p>
+
+      <p *ngIf="errorMessage" class="text-xs text-gray-500 mt-1" style="font-size: 0.8rem; color: #b02a37; margin-bottom: 10px;">
+        {{ errorMessage }}
+      </p>
 
       <button type="submit" id="submitButton" class="btn-outline-accent" [disabled]="isSubmitting || contactForm.invalid">
         <span id="buttonText">{{ isSubmitting ? 'Sending...' : 'SUBMIT' }}</span>

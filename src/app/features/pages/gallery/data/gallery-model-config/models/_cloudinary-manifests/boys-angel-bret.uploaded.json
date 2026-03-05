@@ -2,269 +2,44 @@
   "modelQuery": "Angel Bret",
   "gender": "boys",
   "modelFolderName": "Angel Bret",
-  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret",
-  "totalImages": 37,
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret",
+  "totalImages": 4,
   "uploaded": true,
-  "generatedAt": "2026-02-21T07:25:51.193Z",
+  "generatedAt": "2026-03-05T08:14:02.563Z",
   "items": [
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_1.jpg",
-      "relativePath": "book/angel_bret_book_1.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_1",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658751/aura/gallery/models/boys/angel-bret/book/angel_bret_book_1.jpg"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret\\videos\\ANGEL-BRETT-VIDEO-1.mp4",
+      "relativePath": "videos/ANGEL-BRETT-VIDEO-1.mp4",
+      "publicId": "aura/gallery/models/boys/angel-bret/videos/angel-brett-video-1",
+      "assetFolder": "aura/gallery/models/boys/angel-bret/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698437/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-1.mp4",
+      "skipped": false
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_2.jpg",
-      "relativePath": "book/angel_bret_book_2.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_2",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658752/aura/gallery/models/boys/angel-bret/book/angel_bret_book_2.jpg"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret\\videos\\ANGEL-BRETT-VIDEO-2.mp4",
+      "relativePath": "videos/ANGEL-BRETT-VIDEO-2.mp4",
+      "publicId": "aura/gallery/models/boys/angel-bret/videos/angel-brett-video-2",
+      "assetFolder": "aura/gallery/models/boys/angel-bret/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698438/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-2.mp4",
+      "skipped": false
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_3.jpg",
-      "relativePath": "book/angel_bret_book_3.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_3",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658753/aura/gallery/models/boys/angel-bret/book/angel_bret_book_3.jpg"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret\\videos\\ANGEL-BRETT-VIDEO-3.mp4",
+      "relativePath": "videos/ANGEL-BRETT-VIDEO-3.mp4",
+      "publicId": "aura/gallery/models/boys/angel-bret/videos/angel-brett-video-3",
+      "assetFolder": "aura/gallery/models/boys/angel-bret/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698440/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-3.mp4",
+      "skipped": false
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_4.jpg",
-      "relativePath": "book/angel_bret_book_4.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_4",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658753/aura/gallery/models/boys/angel-bret/book/angel_bret_book_4.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_5.jpg",
-      "relativePath": "book/angel_bret_book_5.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_5",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658754/aura/gallery/models/boys/angel-bret/book/angel_bret_book_5.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_6.jpg",
-      "relativePath": "book/angel_bret_book_6.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_6",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658755/aura/gallery/models/boys/angel-bret/book/angel_bret_book_6.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_7.jpg",
-      "relativePath": "book/angel_bret_book_7.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_7",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658755/aura/gallery/models/boys/angel-bret/book/angel_bret_book_7.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_8.jpg",
-      "relativePath": "book/angel_bret_book_8.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_8",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658756/aura/gallery/models/boys/angel-bret/book/angel_bret_book_8.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_9.jpg",
-      "relativePath": "book/angel_bret_book_9.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_9",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658757/aura/gallery/models/boys/angel-bret/book/angel_bret_book_9.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_10.jpg",
-      "relativePath": "book/angel_bret_book_10.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_10",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658758/aura/gallery/models/boys/angel-bret/book/angel_bret_book_10.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_11.jpg",
-      "relativePath": "book/angel_bret_book_11.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_11",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658758/aura/gallery/models/boys/angel-bret/book/angel_bret_book_11.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_12.jpg",
-      "relativePath": "book/angel_bret_book_12.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_12",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658759/aura/gallery/models/boys/angel-bret/book/angel_bret_book_12.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_13.jpg",
-      "relativePath": "book/angel_bret_book_13.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_13",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658760/aura/gallery/models/boys/angel-bret/book/angel_bret_book_13.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_14.jpg",
-      "relativePath": "book/angel_bret_book_14.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_14",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658761/aura/gallery/models/boys/angel-bret/book/angel_bret_book_14.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_15.jpg",
-      "relativePath": "book/angel_bret_book_15.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_15",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658762/aura/gallery/models/boys/angel-bret/book/angel_bret_book_15.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_16.jpg",
-      "relativePath": "book/angel_bret_book_16.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_16",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658762/aura/gallery/models/boys/angel-bret/book/angel_bret_book_16.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_17.jpg",
-      "relativePath": "book/angel_bret_book_17.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_17",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658763/aura/gallery/models/boys/angel-bret/book/angel_bret_book_17.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_18.jpg",
-      "relativePath": "book/angel_bret_book_18.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_18",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658764/aura/gallery/models/boys/angel-bret/book/angel_bret_book_18.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_19.jpg",
-      "relativePath": "book/angel_bret_book_19.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_19",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658764/aura/gallery/models/boys/angel-bret/book/angel_bret_book_19.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_20.jpg",
-      "relativePath": "book/angel_bret_book_20.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_20",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658765/aura/gallery/models/boys/angel-bret/book/angel_bret_book_20.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_21.jpg",
-      "relativePath": "book/angel_bret_book_21.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_21",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658766/aura/gallery/models/boys/angel-bret/book/angel_bret_book_21.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_22.jpg",
-      "relativePath": "book/angel_bret_book_22.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_22",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658766/aura/gallery/models/boys/angel-bret/book/angel_bret_book_22.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_23.jpg",
-      "relativePath": "book/angel_bret_book_23.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_23",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658767/aura/gallery/models/boys/angel-bret/book/angel_bret_book_23.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_24.jpg",
-      "relativePath": "book/angel_bret_book_24.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_24",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658768/aura/gallery/models/boys/angel-bret/book/angel_bret_book_24.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_25.jpg",
-      "relativePath": "book/angel_bret_book_25.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_25",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658769/aura/gallery/models/boys/angel-bret/book/angel_bret_book_25.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_26.jpg",
-      "relativePath": "book/angel_bret_book_26.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_26",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658770/aura/gallery/models/boys/angel-bret/book/angel_bret_book_26.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_27.jpg",
-      "relativePath": "book/angel_bret_book_27.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_27",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658770/aura/gallery/models/boys/angel-bret/book/angel_bret_book_27.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_28.jpg",
-      "relativePath": "book/angel_bret_book_28.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_28",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658771/aura/gallery/models/boys/angel-bret/book/angel_bret_book_28.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_29.jpg",
-      "relativePath": "book/angel_bret_book_29.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_29",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658772/aura/gallery/models/boys/angel-bret/book/angel_bret_book_29.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_30.jpg",
-      "relativePath": "book/angel_bret_book_30.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_30",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658772/aura/gallery/models/boys/angel-bret/book/angel_bret_book_30.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\book\\angel_bret_book_31.jpg",
-      "relativePath": "book/angel_bret_book_31.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/book/angel_bret_book_31",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658773/aura/gallery/models/boys/angel-bret/book/angel_bret_book_31.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\polas\\angel_bret_polas_1.jpg",
-      "relativePath": "polas/angel_bret_polas_1.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_1",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658774/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_1.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\polas\\angel_bret_polas_2.jpg",
-      "relativePath": "polas/angel_bret_polas_2.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_2",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658774/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_2.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\polas\\angel_bret_polas_3.jpg",
-      "relativePath": "polas/angel_bret_polas_3.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_3",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658775/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_3.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\polas\\angel_bret_polas_4.jpg",
-      "relativePath": "polas/angel_bret_polas_4.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_4",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658776/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_4.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\polas\\angel_bret_polas_5.jpg",
-      "relativePath": "polas/angel_bret_polas_5.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_5",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658777/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_5.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Angel Bret\\polas\\angel_bret_polas_6.jpg",
-      "relativePath": "polas/angel_bret_polas_6.jpg",
-      "publicId": "aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_6",
-      "assetFolder": "aura/gallery/models/boys/angel-bret/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658777/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_6.jpg"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret\\videos\\ANGEL-BRETT-VIDEO-4.mp4",
+      "relativePath": "videos/ANGEL-BRETT-VIDEO-4.mp4",
+      "publicId": "aura/gallery/models/boys/angel-bret/videos/angel-brett-video-4",
+      "assetFolder": "aura/gallery/models/boys/angel-bret/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698441/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-4.mp4",
+      "skipped": false
     }
-  ]
+  ],
+  "completed": true,
+  "checkpointEvery": 1
 }

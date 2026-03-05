@@ -2,367 +2,1281 @@
   "modelQuery": "Elina",
   "gender": "girls",
   "modelFolderName": "Elina",
-  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina",
-  "totalImages": 51,
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina",
+  "totalImages": 141,
   "uploaded": true,
-  "generatedAt": "2026-02-21T07:33:13.559Z",
+  "generatedAt": "2026-03-05T07:20:47.731Z",
   "items": [
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_1.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_1.jpg",
       "relativePath": "book/elina_book_1.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_1",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659194/aura/gallery/models/girls/elina/book/elina_book_1.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659194/aura/gallery/models/girls/elina/book/elina_book_1.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_2.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_2.jpg",
       "relativePath": "book/elina_book_2.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_2",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659195/aura/gallery/models/girls/elina/book/elina_book_2.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659195/aura/gallery/models/girls/elina/book/elina_book_2.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_3.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_3.jpg",
       "relativePath": "book/elina_book_3.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_3",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659195/aura/gallery/models/girls/elina/book/elina_book_3.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659195/aura/gallery/models/girls/elina/book/elina_book_3.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_4.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_4.jpg",
       "relativePath": "book/elina_book_4.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_4",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659196/aura/gallery/models/girls/elina/book/elina_book_4.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659196/aura/gallery/models/girls/elina/book/elina_book_4.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_5.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_5.jpg",
       "relativePath": "book/elina_book_5.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_5",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659197/aura/gallery/models/girls/elina/book/elina_book_5.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659197/aura/gallery/models/girls/elina/book/elina_book_5.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_6.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_6.jpg",
       "relativePath": "book/elina_book_6.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_6",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659198/aura/gallery/models/girls/elina/book/elina_book_6.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659198/aura/gallery/models/girls/elina/book/elina_book_6.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_7.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_7.jpg",
       "relativePath": "book/elina_book_7.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_7",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659198/aura/gallery/models/girls/elina/book/elina_book_7.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659198/aura/gallery/models/girls/elina/book/elina_book_7.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_8.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_8.jpg",
       "relativePath": "book/elina_book_8.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_8",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659199/aura/gallery/models/girls/elina/book/elina_book_8.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659199/aura/gallery/models/girls/elina/book/elina_book_8.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_9.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_9.jpg",
       "relativePath": "book/elina_book_9.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_9",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659200/aura/gallery/models/girls/elina/book/elina_book_9.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659200/aura/gallery/models/girls/elina/book/elina_book_9.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_10.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_10.jpg",
       "relativePath": "book/elina_book_10.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_10",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659200/aura/gallery/models/girls/elina/book/elina_book_10.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659200/aura/gallery/models/girls/elina/book/elina_book_10.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_11.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_11.jpg",
       "relativePath": "book/elina_book_11.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_11",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659201/aura/gallery/models/girls/elina/book/elina_book_11.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659201/aura/gallery/models/girls/elina/book/elina_book_11.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_12.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_12.jpg",
       "relativePath": "book/elina_book_12.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_12",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659201/aura/gallery/models/girls/elina/book/elina_book_12.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659201/aura/gallery/models/girls/elina/book/elina_book_12.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_13.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_13.jpg",
       "relativePath": "book/elina_book_13.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_13",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659202/aura/gallery/models/girls/elina/book/elina_book_13.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659202/aura/gallery/models/girls/elina/book/elina_book_13.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_14.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_14.jpg",
       "relativePath": "book/elina_book_14.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_14",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659202/aura/gallery/models/girls/elina/book/elina_book_14.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659202/aura/gallery/models/girls/elina/book/elina_book_14.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_15.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_15.jpg",
       "relativePath": "book/elina_book_15.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_15",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659203/aura/gallery/models/girls/elina/book/elina_book_15.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659203/aura/gallery/models/girls/elina/book/elina_book_15.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_16.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_16.jpg",
       "relativePath": "book/elina_book_16.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_16",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659204/aura/gallery/models/girls/elina/book/elina_book_16.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659204/aura/gallery/models/girls/elina/book/elina_book_16.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_17.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_17.jpg",
       "relativePath": "book/elina_book_17.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_17",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659205/aura/gallery/models/girls/elina/book/elina_book_17.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659205/aura/gallery/models/girls/elina/book/elina_book_17.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_18.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_18.jpg",
       "relativePath": "book/elina_book_18.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_18",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659206/aura/gallery/models/girls/elina/book/elina_book_18.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659206/aura/gallery/models/girls/elina/book/elina_book_18.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_19.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_19.jpg",
       "relativePath": "book/elina_book_19.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_19",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659207/aura/gallery/models/girls/elina/book/elina_book_19.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659207/aura/gallery/models/girls/elina/book/elina_book_19.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_20.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_20.jpg",
       "relativePath": "book/elina_book_20.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_20",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659208/aura/gallery/models/girls/elina/book/elina_book_20.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659208/aura/gallery/models/girls/elina/book/elina_book_20.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_21.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_21.jpg",
       "relativePath": "book/elina_book_21.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_21",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659208/aura/gallery/models/girls/elina/book/elina_book_21.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659208/aura/gallery/models/girls/elina/book/elina_book_21.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_22.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_22.jpg",
       "relativePath": "book/elina_book_22.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_22",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659209/aura/gallery/models/girls/elina/book/elina_book_22.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659209/aura/gallery/models/girls/elina/book/elina_book_22.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_23.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_23.jpg",
       "relativePath": "book/elina_book_23.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_23",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659210/aura/gallery/models/girls/elina/book/elina_book_23.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659210/aura/gallery/models/girls/elina/book/elina_book_23.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_24.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_24.jpg",
       "relativePath": "book/elina_book_24.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_24",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659211/aura/gallery/models/girls/elina/book/elina_book_24.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659211/aura/gallery/models/girls/elina/book/elina_book_24.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_25.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_25.jpg",
       "relativePath": "book/elina_book_25.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_25",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659212/aura/gallery/models/girls/elina/book/elina_book_25.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659212/aura/gallery/models/girls/elina/book/elina_book_25.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_26.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_26.jpg",
       "relativePath": "book/elina_book_26.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_26",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659213/aura/gallery/models/girls/elina/book/elina_book_26.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659213/aura/gallery/models/girls/elina/book/elina_book_26.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_27.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_27.jpg",
       "relativePath": "book/elina_book_27.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_27",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659214/aura/gallery/models/girls/elina/book/elina_book_27.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659214/aura/gallery/models/girls/elina/book/elina_book_27.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_28.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_28.jpg",
       "relativePath": "book/elina_book_28.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_28",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659215/aura/gallery/models/girls/elina/book/elina_book_28.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659215/aura/gallery/models/girls/elina/book/elina_book_28.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_29.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_29.jpg",
       "relativePath": "book/elina_book_29.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_29",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659215/aura/gallery/models/girls/elina/book/elina_book_29.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659215/aura/gallery/models/girls/elina/book/elina_book_29.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_30.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_30.jpg",
       "relativePath": "book/elina_book_30.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_30",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659216/aura/gallery/models/girls/elina/book/elina_book_30.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659216/aura/gallery/models/girls/elina/book/elina_book_30.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_31.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_31.jpg",
       "relativePath": "book/elina_book_31.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_31",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659217/aura/gallery/models/girls/elina/book/elina_book_31.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659217/aura/gallery/models/girls/elina/book/elina_book_31.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_32.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_32.jpg",
       "relativePath": "book/elina_book_32.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_32",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659218/aura/gallery/models/girls/elina/book/elina_book_32.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659218/aura/gallery/models/girls/elina/book/elina_book_32.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_33.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_33.jpg",
       "relativePath": "book/elina_book_33.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_33",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659218/aura/gallery/models/girls/elina/book/elina_book_33.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659218/aura/gallery/models/girls/elina/book/elina_book_33.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_34.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_34.jpg",
       "relativePath": "book/elina_book_34.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_34",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659220/aura/gallery/models/girls/elina/book/elina_book_34.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659220/aura/gallery/models/girls/elina/book/elina_book_34.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_35.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_35.jpg",
       "relativePath": "book/elina_book_35.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_35",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659221/aura/gallery/models/girls/elina/book/elina_book_35.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659221/aura/gallery/models/girls/elina/book/elina_book_35.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_36.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_36.jpg",
       "relativePath": "book/elina_book_36.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_36",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659221/aura/gallery/models/girls/elina/book/elina_book_36.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659221/aura/gallery/models/girls/elina/book/elina_book_36.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_37.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_37.jpg",
       "relativePath": "book/elina_book_37.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_37",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659222/aura/gallery/models/girls/elina/book/elina_book_37.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659222/aura/gallery/models/girls/elina/book/elina_book_37.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\book\\elina_book_38.jpg",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\book\\elina_book_38.jpg",
       "relativePath": "book/elina_book_38.jpg",
       "publicId": "aura/gallery/models/girls/elina/book/elina_book_38",
       "assetFolder": "aura/gallery/models/girls/elina/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659223/aura/gallery/models/girls/elina/book/elina_book_38.jpg"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659223/aura/gallery/models/girls/elina/book/elina_book_38.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_1.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_1.WEBP",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_1.jpg",
+      "relativePath": "extra material/elina_book_extras_1.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_1",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684013/aura/gallery/models/girls/elina/extra-material/elina_book_extras_1.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_2.jpg",
+      "relativePath": "extra material/elina_book_extras_2.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_2",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684014/aura/gallery/models/girls/elina/extra-material/elina_book_extras_2.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_3.jpg",
+      "relativePath": "extra material/elina_book_extras_3.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_3",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684015/aura/gallery/models/girls/elina/extra-material/elina_book_extras_3.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_4.jpg",
+      "relativePath": "extra material/elina_book_extras_4.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_4",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684017/aura/gallery/models/girls/elina/extra-material/elina_book_extras_4.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_5.jpg",
+      "relativePath": "extra material/elina_book_extras_5.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_5",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684018/aura/gallery/models/girls/elina/extra-material/elina_book_extras_5.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_6.jpg",
+      "relativePath": "extra material/elina_book_extras_6.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_6",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684019/aura/gallery/models/girls/elina/extra-material/elina_book_extras_6.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_7.jpg",
+      "relativePath": "extra material/elina_book_extras_7.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_7",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684019/aura/gallery/models/girls/elina/extra-material/elina_book_extras_7.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_8.jpg",
+      "relativePath": "extra material/elina_book_extras_8.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_8",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684021/aura/gallery/models/girls/elina/extra-material/elina_book_extras_8.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_9.jpg",
+      "relativePath": "extra material/elina_book_extras_9.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_9",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684022/aura/gallery/models/girls/elina/extra-material/elina_book_extras_9.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_10.jpg",
+      "relativePath": "extra material/elina_book_extras_10.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_10",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684023/aura/gallery/models/girls/elina/extra-material/elina_book_extras_10.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_11.jpg",
+      "relativePath": "extra material/elina_book_extras_11.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_11",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684024/aura/gallery/models/girls/elina/extra-material/elina_book_extras_11.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_12.jpg",
+      "relativePath": "extra material/elina_book_extras_12.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_12",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684026/aura/gallery/models/girls/elina/extra-material/elina_book_extras_12.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_13.jpg",
+      "relativePath": "extra material/elina_book_extras_13.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_13",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684027/aura/gallery/models/girls/elina/extra-material/elina_book_extras_13.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_14.jpg",
+      "relativePath": "extra material/elina_book_extras_14.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_14",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684028/aura/gallery/models/girls/elina/extra-material/elina_book_extras_14.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_15.jpg",
+      "relativePath": "extra material/elina_book_extras_15.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_15",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684029/aura/gallery/models/girls/elina/extra-material/elina_book_extras_15.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_16.jpg",
+      "relativePath": "extra material/elina_book_extras_16.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_16",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684031/aura/gallery/models/girls/elina/extra-material/elina_book_extras_16.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_17.jpg",
+      "relativePath": "extra material/elina_book_extras_17.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_17",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684032/aura/gallery/models/girls/elina/extra-material/elina_book_extras_17.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_18.jpeg",
+      "relativePath": "extra material/elina_book_extras_18.jpeg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_18",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684034/aura/gallery/models/girls/elina/extra-material/elina_book_extras_18.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_19.jpeg",
+      "relativePath": "extra material/elina_book_extras_19.jpeg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_19",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684036/aura/gallery/models/girls/elina/extra-material/elina_book_extras_19.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_20.JPG",
+      "relativePath": "extra material/elina_book_extras_20.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_20",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684037/aura/gallery/models/girls/elina/extra-material/elina_book_extras_20.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_21.JPG",
+      "relativePath": "extra material/elina_book_extras_21.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_21",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684038/aura/gallery/models/girls/elina/extra-material/elina_book_extras_21.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_22.JPG",
+      "relativePath": "extra material/elina_book_extras_22.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_22",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684039/aura/gallery/models/girls/elina/extra-material/elina_book_extras_22.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_23.JPG",
+      "relativePath": "extra material/elina_book_extras_23.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_23",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684039/aura/gallery/models/girls/elina/extra-material/elina_book_extras_23.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_24.JPG",
+      "relativePath": "extra material/elina_book_extras_24.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_24",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684040/aura/gallery/models/girls/elina/extra-material/elina_book_extras_24.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_25.WEBP",
+      "relativePath": "extra material/elina_book_extras_25.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_25",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684041/aura/gallery/models/girls/elina/extra-material/elina_book_extras_25.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_26.WEBP",
+      "relativePath": "extra material/elina_book_extras_26.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_26",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684043/aura/gallery/models/girls/elina/extra-material/elina_book_extras_26.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_27.JPG",
+      "relativePath": "extra material/elina_book_extras_27.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_27",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684044/aura/gallery/models/girls/elina/extra-material/elina_book_extras_27.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_28.WEBP",
+      "relativePath": "extra material/elina_book_extras_28.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_28",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684045/aura/gallery/models/girls/elina/extra-material/elina_book_extras_28.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_29.JPG",
+      "relativePath": "extra material/elina_book_extras_29.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_29",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684046/aura/gallery/models/girls/elina/extra-material/elina_book_extras_29.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_30.JPG",
+      "relativePath": "extra material/elina_book_extras_30.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_30",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684047/aura/gallery/models/girls/elina/extra-material/elina_book_extras_30.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_31.JPG",
+      "relativePath": "extra material/elina_book_extras_31.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_31",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684047/aura/gallery/models/girls/elina/extra-material/elina_book_extras_31.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_32.JPG",
+      "relativePath": "extra material/elina_book_extras_32.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_32",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684048/aura/gallery/models/girls/elina/extra-material/elina_book_extras_32.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_33.JPG",
+      "relativePath": "extra material/elina_book_extras_33.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_33",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684048/aura/gallery/models/girls/elina/extra-material/elina_book_extras_33.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_34.JPG",
+      "relativePath": "extra material/elina_book_extras_34.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_34",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684049/aura/gallery/models/girls/elina/extra-material/elina_book_extras_34.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_35.JPG",
+      "relativePath": "extra material/elina_book_extras_35.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_35",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684050/aura/gallery/models/girls/elina/extra-material/elina_book_extras_35.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_36.JPG",
+      "relativePath": "extra material/elina_book_extras_36.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_36",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684052/aura/gallery/models/girls/elina/extra-material/elina_book_extras_36.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_37.JPG",
+      "relativePath": "extra material/elina_book_extras_37.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_37",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684053/aura/gallery/models/girls/elina/extra-material/elina_book_extras_37.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_38.JPG",
+      "relativePath": "extra material/elina_book_extras_38.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_38",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684053/aura/gallery/models/girls/elina/extra-material/elina_book_extras_38.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_39.JPG",
+      "relativePath": "extra material/elina_book_extras_39.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_39",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684054/aura/gallery/models/girls/elina/extra-material/elina_book_extras_39.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_40.JPG",
+      "relativePath": "extra material/elina_book_extras_40.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_40",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684055/aura/gallery/models/girls/elina/extra-material/elina_book_extras_40.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_41.JPG",
+      "relativePath": "extra material/elina_book_extras_41.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_41",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684055/aura/gallery/models/girls/elina/extra-material/elina_book_extras_41.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_42.JPG",
+      "relativePath": "extra material/elina_book_extras_42.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_42",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684056/aura/gallery/models/girls/elina/extra-material/elina_book_extras_42.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_43.JPG",
+      "relativePath": "extra material/elina_book_extras_43.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_43",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684057/aura/gallery/models/girls/elina/extra-material/elina_book_extras_43.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_44.JPG",
+      "relativePath": "extra material/elina_book_extras_44.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_44",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684059/aura/gallery/models/girls/elina/extra-material/elina_book_extras_44.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_45.JPG",
+      "relativePath": "extra material/elina_book_extras_45.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_45",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684062/aura/gallery/models/girls/elina/extra-material/elina_book_extras_45.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_46.JPG",
+      "relativePath": "extra material/elina_book_extras_46.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_46",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684064/aura/gallery/models/girls/elina/extra-material/elina_book_extras_46.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_47.JPG",
+      "relativePath": "extra material/elina_book_extras_47.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_47",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684066/aura/gallery/models/girls/elina/extra-material/elina_book_extras_47.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_48.JPG",
+      "relativePath": "extra material/elina_book_extras_48.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_48",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684069/aura/gallery/models/girls/elina/extra-material/elina_book_extras_48.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_49.jpg",
+      "relativePath": "extra material/elina_book_extras_49.jpg",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_49",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684071/aura/gallery/models/girls/elina/extra-material/elina_book_extras_49.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_50.JPG",
+      "relativePath": "extra material/elina_book_extras_50.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_50",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684071/aura/gallery/models/girls/elina/extra-material/elina_book_extras_50.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_51.JPG",
+      "relativePath": "extra material/elina_book_extras_51.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_51",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684072/aura/gallery/models/girls/elina/extra-material/elina_book_extras_51.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_52.JPG",
+      "relativePath": "extra material/elina_book_extras_52.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_52",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684073/aura/gallery/models/girls/elina/extra-material/elina_book_extras_52.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_53.JPG",
+      "relativePath": "extra material/elina_book_extras_53.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_53",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684074/aura/gallery/models/girls/elina/extra-material/elina_book_extras_53.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_54.JPG",
+      "relativePath": "extra material/elina_book_extras_54.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_54",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684075/aura/gallery/models/girls/elina/extra-material/elina_book_extras_54.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_55.JPG",
+      "relativePath": "extra material/elina_book_extras_55.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_55",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684077/aura/gallery/models/girls/elina/extra-material/elina_book_extras_55.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_56.JPG",
+      "relativePath": "extra material/elina_book_extras_56.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_56",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684078/aura/gallery/models/girls/elina/extra-material/elina_book_extras_56.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_57.JPG",
+      "relativePath": "extra material/elina_book_extras_57.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_57",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684079/aura/gallery/models/girls/elina/extra-material/elina_book_extras_57.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_58.WEBP",
+      "relativePath": "extra material/elina_book_extras_58.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_58",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684080/aura/gallery/models/girls/elina/extra-material/elina_book_extras_58.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_59.WEBP",
+      "relativePath": "extra material/elina_book_extras_59.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_59",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684080/aura/gallery/models/girls/elina/extra-material/elina_book_extras_59.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_60.WEBP",
+      "relativePath": "extra material/elina_book_extras_60.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_60",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684081/aura/gallery/models/girls/elina/extra-material/elina_book_extras_60.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_61.WEBP",
+      "relativePath": "extra material/elina_book_extras_61.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_61",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684081/aura/gallery/models/girls/elina/extra-material/elina_book_extras_61.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_62.WEBP",
+      "relativePath": "extra material/elina_book_extras_62.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_62",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684082/aura/gallery/models/girls/elina/extra-material/elina_book_extras_62.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_63.WEBP",
+      "relativePath": "extra material/elina_book_extras_63.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_63",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684083/aura/gallery/models/girls/elina/extra-material/elina_book_extras_63.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_64.WEBP",
+      "relativePath": "extra material/elina_book_extras_64.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_64",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684083/aura/gallery/models/girls/elina/extra-material/elina_book_extras_64.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_65.WEBP",
+      "relativePath": "extra material/elina_book_extras_65.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_65",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684084/aura/gallery/models/girls/elina/extra-material/elina_book_extras_65.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_66.WEBP",
+      "relativePath": "extra material/elina_book_extras_66.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_66",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684085/aura/gallery/models/girls/elina/extra-material/elina_book_extras_66.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_67.WEBP",
+      "relativePath": "extra material/elina_book_extras_67.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_67",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684085/aura/gallery/models/girls/elina/extra-material/elina_book_extras_67.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_68.WEBP",
+      "relativePath": "extra material/elina_book_extras_68.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_68",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684086/aura/gallery/models/girls/elina/extra-material/elina_book_extras_68.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_69.WEBP",
+      "relativePath": "extra material/elina_book_extras_69.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_69",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684088/aura/gallery/models/girls/elina/extra-material/elina_book_extras_69.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_70.WEBP",
+      "relativePath": "extra material/elina_book_extras_70.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_70",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684089/aura/gallery/models/girls/elina/extra-material/elina_book_extras_70.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_71.JPG",
+      "relativePath": "extra material/elina_book_extras_71.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_71",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684089/aura/gallery/models/girls/elina/extra-material/elina_book_extras_71.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_72.JPG",
+      "relativePath": "extra material/elina_book_extras_72.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_72",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684090/aura/gallery/models/girls/elina/extra-material/elina_book_extras_72.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_73.JPG",
+      "relativePath": "extra material/elina_book_extras_73.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_73",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684091/aura/gallery/models/girls/elina/extra-material/elina_book_extras_73.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_74.JPG",
+      "relativePath": "extra material/elina_book_extras_74.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_74",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684092/aura/gallery/models/girls/elina/extra-material/elina_book_extras_74.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_75.JPG",
+      "relativePath": "extra material/elina_book_extras_75.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_75",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684093/aura/gallery/models/girls/elina/extra-material/elina_book_extras_75.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_76.JPG",
+      "relativePath": "extra material/elina_book_extras_76.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_76",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684094/aura/gallery/models/girls/elina/extra-material/elina_book_extras_76.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_77.WEBP",
+      "relativePath": "extra material/elina_book_extras_77.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_77",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684095/aura/gallery/models/girls/elina/extra-material/elina_book_extras_77.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_78.WEBP",
+      "relativePath": "extra material/elina_book_extras_78.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_78",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684096/aura/gallery/models/girls/elina/extra-material/elina_book_extras_78.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_79.WEBP",
+      "relativePath": "extra material/elina_book_extras_79.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_79",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684097/aura/gallery/models/girls/elina/extra-material/elina_book_extras_79.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_80.JPG",
+      "relativePath": "extra material/elina_book_extras_80.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_80",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684098/aura/gallery/models/girls/elina/extra-material/elina_book_extras_80.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_81.JPG",
+      "relativePath": "extra material/elina_book_extras_81.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_81",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684100/aura/gallery/models/girls/elina/extra-material/elina_book_extras_81.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra material\\elina_book_extras_82.JPG",
+      "relativePath": "extra material/elina_book_extras_82.JPG",
+      "publicId": "aura/gallery/models/girls/elina/extra-material/elina_book_extras_82",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-material",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684101/aura/gallery/models/girls/elina/extra-material/elina_book_extras_82.jpg",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_1.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_1.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_1",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684102/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_1.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_2.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_2.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_2",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684102/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_2.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_3.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_3.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_3",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684103/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_3.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_4.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_4.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_4",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684104/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_4.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_5.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_5.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_5",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684104/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_5.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_6.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_6.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_6",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684105/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_6.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_7.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_7.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_7",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684106/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_7.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_8.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_8.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_8",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684106/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_8.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_9.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_9.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_9",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684107/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_9.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_10.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_10.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_10",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684107/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_10.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_11.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_11.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_11",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684108/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_11.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_12.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_12.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_12",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684109/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_12.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_13.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_13.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_13",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684109/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_13.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_14.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_14.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_14",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684111/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_14.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\extra snaps\\elina_snaps_extras_15.WEBP",
+      "relativePath": "extra snaps/elina_snaps_extras_15.WEBP",
+      "publicId": "aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_15",
+      "assetFolder": "aura/gallery/models/girls/elina/extra-snaps",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1772684111/aura/gallery/models/girls/elina/extra-snaps/elina_snaps_extras_15.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\polas\\seleccion-aura\\lina_polas_1.WEBP",
+      "relativePath": "polas/seleccion-aura/lina_polas_1.WEBP",
       "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_1",
       "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659224/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_1.webp"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659224/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_1.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_2.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_2.WEBP",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\polas\\seleccion-aura\\lina_polas_2.WEBP",
+      "relativePath": "polas/seleccion-aura/lina_polas_2.WEBP",
       "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_2",
       "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659224/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_2.webp"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659224/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_2.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_3.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_3.WEBP",
-      "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_3",
-      "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659224/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_3.webp"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_4.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_4.WEBP",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\polas\\seleccion-aura\\lina_polas_4.WEBP",
+      "relativePath": "polas/seleccion-aura/lina_polas_4.WEBP",
       "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_4",
       "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659225/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_4.webp"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659225/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_4.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_5.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_5.WEBP",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\polas\\seleccion-aura\\lina_polas_5.WEBP",
+      "relativePath": "polas/seleccion-aura/lina_polas_5.WEBP",
       "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_5",
       "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659225/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_5.webp"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659225/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_5.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_6.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_6.WEBP",
-      "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_6",
-      "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659226/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_6.webp"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_7.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_7.WEBP",
-      "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_7",
-      "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659227/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_7.webp"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_8.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_8.WEBP",
-      "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_8",
-      "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659228/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_8.webp"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_9.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_9.WEBP",
-      "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_9",
-      "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659228/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_9.webp"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_10.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_10.WEBP",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\polas\\seleccion-aura\\lina_polas_10.WEBP",
+      "relativePath": "polas/seleccion-aura/lina_polas_10.WEBP",
       "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_10",
       "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659229/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_10.webp"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659229/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_10.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_11.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_11.WEBP",
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Elina\\polas\\seleccion-aura\\lina_polas_11.WEBP",
+      "relativePath": "polas/seleccion-aura/lina_polas_11.WEBP",
       "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_11",
       "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659229/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_11.webp"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_12.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_12.WEBP",
-      "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_12",
-      "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659230/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_12.webp"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Elina\\polas\\seleccion aura\\lina_polas_13.WEBP",
-      "relativePath": "polas/seleccion aura/lina_polas_13.WEBP",
-      "publicId": "aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_13",
-      "assetFolder": "aura/gallery/models/girls/elina/polas/seleccion-aura",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659230/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_13.webp"
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659229/aura/gallery/models/girls/elina/polas/seleccion-aura/lina_polas_11.webp",
+      "skipped": true,
+      "reason": "existing-manifest"
     }
-  ]
+  ],
+  "completed": true,
+  "checkpointEvery": 1
 }

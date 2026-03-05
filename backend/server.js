@@ -15,7 +15,7 @@ const allowedMimeTypes = process.env.ALLOWED_IMAGE_TYPES
   ? process.env.ALLOWED_IMAGE_TYPES.split(',')
   : [];
 const allowedExtensions = ['.jpg', '.jpeg', '.png', '.heif', '.heic'];
-const maxFileSize = process.env.MAX_UPLOAD_FILE_SIZE
+const maxFileSize = process.env.MAX_UPLOAD_FILE_SIZE_MB
   ? Number(process.env.MAX_UPLOAD_FILE_SIZE_MB) * 1024 * 1024
   : 10 * 1024 * 1024;
 

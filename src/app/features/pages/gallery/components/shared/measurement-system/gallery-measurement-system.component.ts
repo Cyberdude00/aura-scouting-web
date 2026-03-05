@@ -1,5 +1,5 @@
 import { Component, Input, OnDestroy } from '@angular/core';
-import { fullMaterialCatalog, GalleryModel } from '../../../data';
+import { GalleryModel } from '../../../data';
 import { downloadFullbookZip } from '../../../utils';
 
 type UnitSystem = 'metric' | 'imperial';
@@ -160,7 +160,7 @@ export class GalleryMeasurementSystemComponent implements OnDestroy {
       return [];
     }
 
-    return (fullMaterialCatalog[this.model.id]?.fullbook ?? []).filter(
+    return (this.model.fullMaterialMedia ?? []).filter(
       (media): media is string => typeof media === 'string' && media.trim().length > 0,
     );
   }

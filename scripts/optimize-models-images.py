@@ -23,12 +23,12 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--input",
-        default=".",
+        default=r"C:\Users\emman\Desktop\Modelos Full Material",
         help="Carpeta raíz de entrada (default: carpeta actual)",
     )
     parser.add_argument(
         "--output",
-        default="./optimized",
+        default=r"C:\Users\emman\Desktop\Modelos Full Material Optimized",
         help="Carpeta raíz de salida optimizada (default: ./optimized)",
     )
     parser.add_argument("--max-kb", type=int, default=450, help="Tamaño máximo por imagen en KB")

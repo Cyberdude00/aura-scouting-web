@@ -2,185 +2,20 @@
   "modelQuery": "Isabel Deutsch",
   "gender": "girls",
   "modelFolderName": "Isabel Deutsch",
-  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch",
-  "totalImages": 25,
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Isabel Deutsch",
+  "totalImages": 1,
   "uploaded": true,
-  "generatedAt": "2026-02-21T07:36:29.908Z",
+  "generatedAt": "2026-03-05T08:15:53.244Z",
   "items": [
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-1.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-1.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-1",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659390/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-1.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-2.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-2.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-2",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659390/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-2.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-3.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-3.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-3",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659391/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-3.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-4.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-4.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-4",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659391/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-4.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-5.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-5.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-5",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659392/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-5.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-6.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-6.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-6",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659393/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-6.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-7.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-7.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-7",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659394/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-7.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-8.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-8.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-8",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659394/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-8.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-9.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-9.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-9",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659395/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-9.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-14.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-14.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-14",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659396/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-14.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-15.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-15.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-15",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659397/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-15.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-16.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-16.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-16",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659397/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-16.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-17.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-17.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-17",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659398/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-17.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-18.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-18.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-18",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659399/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-18.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-19.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-19.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-19",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659399/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-19.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-20.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-20.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-20",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659400/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-20.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\book\\ISABEL-DEUTSCH-PHOTO-21.jpg",
-      "relativePath": "book/ISABEL-DEUTSCH-PHOTO-21.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-21",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/book",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659400/aura/gallery/models/girls/isabel-deutsch/book/isabel-deutsch-photo-21.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-1.jpg",
-      "relativePath": "polas/ISABEL-DEUTSCH-POLA-1.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-1",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659401/aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-1.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-2.jpg",
-      "relativePath": "polas/ISABEL-DEUTSCH-POLA-2.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-2",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659402/aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-2.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-3.jpg",
-      "relativePath": "polas/ISABEL-DEUTSCH-POLA-3.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-3",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659402/aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-3.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-4.jpg",
-      "relativePath": "polas/ISABEL-DEUTSCH-POLA-4.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-4",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659403/aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-4.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-5.jpg",
-      "relativePath": "polas/ISABEL-DEUTSCH-POLA-5.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-5",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659404/aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-5.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-6.jpg",
-      "relativePath": "polas/ISABEL-DEUTSCH-POLA-6.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-6",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659404/aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-6.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-7.jpg",
-      "relativePath": "polas/ISABEL-DEUTSCH-POLA-7.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-7",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659405/aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-7.jpg"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\girls\\Isabel Deutsch\\polas\\ISABEL-DEUTSCH-POLA-8.jpg",
-      "relativePath": "polas/ISABEL-DEUTSCH-POLA-8.jpg",
-      "publicId": "aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-8",
-      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/polas",
-      "secureUrl": "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659405/aura/gallery/models/girls/isabel-deutsch/polas/isabel-deutsch-pola-8.jpg"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Isabel Deutsch\\videos\\ISABEL-DEUTSCH-VIDEO-2.mp4",
+      "relativePath": "videos/ISABEL-DEUTSCH-VIDEO-2.mp4",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/videos/isabel-deutsch-video-2",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698552/aura/gallery/models/girls/isabel-deutsch/videos/isabel-deutsch-video-2.mp4",
+      "skipped": false
     }
-  ]
+  ],
+  "completed": true,
+  "checkpointEvery": 1
 }

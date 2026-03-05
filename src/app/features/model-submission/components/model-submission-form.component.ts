@@ -1,6 +1,10 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
+import {
+  ModelSubmissionPayload,
+  ModelSubmissionService,
+} from '../services/model-submission.service';
 
 @Component({
   selector: 'app-model-submission-form',
@@ -9,23 +13,46 @@ import { FormsModule } from '@angular/forms';
   styleUrl: './model-submission-form.component.scss',
 })
 export class ModelSubmissionFormComponent {
-  imagePreviewSrc: string = 'images/aura-scouting-logo.png';
-  isPreviewing: boolean = false;
-  isSubmitting: boolean = false;
+  imagePreviewSrc = 'images/aura-scouting-logo.png';
+  isPreviewing = false;
+  isSubmitting = false;
   selectedFile: File | null = null;
+  successMessage = '';
+  errorMessage = '';
 
   formData = {
     name: '',
+    age: '',
     email: '',
     height: '',
-    cellphone: ''
+    social_network: '',
+    about_me: '',
+    cellphone: '',
   };
+
+  constructor(private readonly modelSubmissionService: ModelSubmissionService) {}
 
   onFileSelected(event: Event): void {
     const input = event.target as HTMLInputElement;
     if (input.files && input.files.length > 0) {
       const file = input.files[0];
+
+      const allowedTypes = ['image/jpeg', 'image/png', 'image/heic', 'image/heif'];
+      if (!allowedTypes.includes(file.type)) {
+        this.errorMessage = 'Invalid file type. Only JPG, PNG, HEIC, and HEIF are allowed.';
+        this.resetImagePreview();
+        return;
+      }
+
+      const maxSize = 10 * 1024 * 1024;
+      if (file.size > maxSize) {
+        this.errorMessage = 'File must be less than 10MB.';
+        this.resetImagePreview();
+        return;
+      }
+
       this.selectedFile = file;
+      this.errorMessage = '';
 
       if (file.type.startsWith('image/')) {
         const reader = new FileReader();
@@ -37,7 +64,7 @@ export class ModelSubmissionFormComponent {
         };
         reader.readAsDataURL(file);
       } else {
-        alert('Invalid file type. Only JPG, PNG, and GIF images are allowed.');
+        this.errorMessage = 'Invalid file type. Only image files are allowed.';
         this.resetImagePreview();
       }
     } else {
@@ -52,22 +79,56 @@ export class ModelSubmissionFormComponent {
   }
 
   onSubmit(form: any): void {
-    console.log('Submit fired', form);
+    this.successMessage = '';
+    this.errorMessage = '';
 
     if (!this.selectedFile) {
-      alert('Please attach an image.');
+      this.errorMessage = 'Please attach a photo.';
       return;
     }
 
     if (form.valid) {
       this.isSubmitting = true;
 
-      const formDataToSend = new FormData();
-      formDataToSend.append('name', this.formData.name);
-      formDataToSend.append('email', this.formData.email);
-      formDataToSend.append('height', this.formData.height);
-      formDataToSend.append('cellphone', this.formData.cellphone);
-      formDataToSend.append('image', this.selectedFile);
+      const payload: ModelSubmissionPayload = {
+        name: this.formData.name,
+        age: Number(this.formData.age),
+        email: this.formData.email,
+        height: Number(this.formData.height),
+        social_network: this.formData.social_network,
+        about_me: this.formData.about_me,
+        cellphone: this.formData.cellphone,
+        photo: this.selectedFile,
+      };
+
+      this.modelSubmissionService.submitModel(payload).subscribe({
+        next: (response) => {
+          this.successMessage = response.message || 'Application submitted successfully!';
+          this.isSubmitting = false;
+          this.formData = {
+            name: '',
+            age: '',
+            email: '',
+            height: '',
+            social_network: '',
+            about_me: '',
+            cellphone: '',
+          };
+          form.resetForm(this.formData);
+          this.resetImagePreview();
+        },
+        error: (error: { error?: { errors?: Array<{ msg: string }>; message?: string } }) => {
+          this.isSubmitting = false;
+          if (error.error?.errors?.length) {
+            this.errorMessage = error.error.errors.map((item) => item.msg).join(', ');
+            return;
+          }
+          this.errorMessage = error.error?.message || 'Submission failed.';
+        },
+      });
+      return;
     }
+
+    this.errorMessage = 'Please complete all required fields correctly.';
   }
 }

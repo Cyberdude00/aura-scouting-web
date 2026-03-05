@@ -2,310 +2,36 @@
   "modelQuery": "Adan",
   "gender": "boys",
   "modelFolderName": "Adan",
-  "sourceFolder": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan",
-  "totalImages": 50,
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Adan",
+  "totalImages": 4,
   "uploaded": false,
-  "generatedAt": "2026-02-21T08:44:20.912Z",
+  "generatedAt": "2026-03-05T08:13:16.804Z",
   "items": [
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_1.jpg",
-      "relativePath": "Book/adan_book_1.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_1",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Adan\\Videos\\1f4502e4-0f74-46d5-bda5-47a02f378bd6.mp4",
+      "relativePath": "Videos/1f4502e4-0f74-46d5-bda5-47a02f378bd6.mp4",
+      "publicId": "aura/gallery/models/boys/adan/videos/1f4502e4-0f74-46d5-bda5-47a02f378bd6",
+      "assetFolder": "aura/gallery/models/boys/adan/videos"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_2.jpg",
-      "relativePath": "Book/adan_book_2.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_2",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Adan\\Videos\\02a7766c-e93e-4445-8dc2-a0e17fd7406a.mp4",
+      "relativePath": "Videos/02a7766c-e93e-4445-8dc2-a0e17fd7406a.mp4",
+      "publicId": "aura/gallery/models/boys/adan/videos/02a7766c-e93e-4445-8dc2-a0e17fd7406a",
+      "assetFolder": "aura/gallery/models/boys/adan/videos"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_3.jpg",
-      "relativePath": "Book/adan_book_3.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_3",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Adan\\Videos\\f685629e-8d9a-4f96-bb66-7969d3c527b0.mp4",
+      "relativePath": "Videos/f685629e-8d9a-4f96-bb66-7969d3c527b0.mp4",
+      "publicId": "aura/gallery/models/boys/adan/videos/f685629e-8d9a-4f96-bb66-7969d3c527b0",
+      "assetFolder": "aura/gallery/models/boys/adan/videos"
     },
     {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_4.jpg",
-      "relativePath": "Book/adan_book_4.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_4",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_5.png",
-      "relativePath": "Book/adan_book_5.png",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_5",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_6.jpg",
-      "relativePath": "Book/adan_book_6.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_6",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_7.jpg",
-      "relativePath": "Book/adan_book_7.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_7",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_8.jpg",
-      "relativePath": "Book/adan_book_8.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_8",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_9.jpg",
-      "relativePath": "Book/adan_book_9.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_9",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_10.jpg",
-      "relativePath": "Book/adan_book_10.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_10",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_11.jpg",
-      "relativePath": "Book/adan_book_11.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_11",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_12.png",
-      "relativePath": "Book/adan_book_12.png",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_12",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_13.JPG",
-      "relativePath": "Book/adan_book_13.JPG",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_13",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_14.jpg",
-      "relativePath": "Book/adan_book_14.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_14",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_15.jpg",
-      "relativePath": "Book/adan_book_15.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_15",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_16.jpg",
-      "relativePath": "Book/adan_book_16.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_16",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_17.jpg",
-      "relativePath": "Book/adan_book_17.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_17",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_18.png",
-      "relativePath": "Book/adan_book_18.png",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_18",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_19.jpg",
-      "relativePath": "Book/adan_book_19.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_19",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_20.jpg",
-      "relativePath": "Book/adan_book_20.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_20",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_21.jpg",
-      "relativePath": "Book/adan_book_21.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_21",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_22.jpg",
-      "relativePath": "Book/adan_book_22.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_22",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_23.jpg",
-      "relativePath": "Book/adan_book_23.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_23",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_24.jpeg",
-      "relativePath": "Book/adan_book_24.jpeg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_24",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_25.jpg",
-      "relativePath": "Book/adan_book_25.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_25",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_26.jpg",
-      "relativePath": "Book/adan_book_26.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_26",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_27.jpg",
-      "relativePath": "Book/adan_book_27.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_27",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_28.jpg",
-      "relativePath": "Book/adan_book_28.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_28",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_29.jpg",
-      "relativePath": "Book/adan_book_29.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_29",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_30.png",
-      "relativePath": "Book/adan_book_30.png",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_30",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_31.png",
-      "relativePath": "Book/adan_book_31.png",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_31",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_32.jpg",
-      "relativePath": "Book/adan_book_32.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_32",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_33.jpg",
-      "relativePath": "Book/adan_book_33.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_33",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_34.jpg",
-      "relativePath": "Book/adan_book_34.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_34",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_35.jpg",
-      "relativePath": "Book/adan_book_35.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_35",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_36.jpg",
-      "relativePath": "Book/adan_book_36.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_36",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_37.jpg",
-      "relativePath": "Book/adan_book_37.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_37",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Book\\adan_book_38.jpg",
-      "relativePath": "Book/adan_book_38.jpg",
-      "publicId": "aura/gallery/models/boys/adan/book/adan_book_38",
-      "assetFolder": "aura/gallery/models/boys/adan/book"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_1.JPG",
-      "relativePath": "Snaps/adan_polas_1.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_1",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_2.JPG",
-      "relativePath": "Snaps/adan_polas_2.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_2",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_3.JPG",
-      "relativePath": "Snaps/adan_polas_3.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_3",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_4.JPG",
-      "relativePath": "Snaps/adan_polas_4.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_4",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_5.JPG",
-      "relativePath": "Snaps/adan_polas_5.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_5",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_6.JPG",
-      "relativePath": "Snaps/adan_polas_6.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_6",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_7.JPG",
-      "relativePath": "Snaps/adan_polas_7.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_7",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_8.JPG",
-      "relativePath": "Snaps/adan_polas_8.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_8",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_9.JPG",
-      "relativePath": "Snaps/adan_polas_9.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_9",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_10.JPG",
-      "relativePath": "Snaps/adan_polas_10.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_10",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_11.JPG",
-      "relativePath": "Snaps/adan_polas_11.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_11",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
-    },
-    {
-      "localPath": "C:\\Users\\emman\\Downloads\\aura\\aura-scouting-web\\src\\app\\features\\pages\\gallery\\data\\import\\models\\boys\\Adan\\Snaps\\adan_polas_12.JPG",
-      "relativePath": "Snaps/adan_polas_12.JPG",
-      "publicId": "aura/gallery/models/boys/adan/snaps/adan_polas_12",
-      "assetFolder": "aura/gallery/models/boys/adan/snaps"
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Adan\\Videos\\Video de WhatsApp 2025-06-10 a las 17.59.20_8807e79c.mp4",
+      "relativePath": "Videos/Video de WhatsApp 2025-06-10 a las 17.59.20_8807e79c.mp4",
+      "publicId": "aura/gallery/models/boys/adan/videos/video-de-whatsapp-2025-06-10-a-las-17-59-20_8807e79c",
+      "assetFolder": "aura/gallery/models/boys/adan/videos"
     }
-  ]
+  ],
+  "completed": true,
+  "checkpointEvery": 1
 }
