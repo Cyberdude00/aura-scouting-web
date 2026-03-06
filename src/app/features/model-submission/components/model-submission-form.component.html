@@ -22,10 +22,10 @@
       <input type="email" name="email" placeholder="Email" class="text unified-text-field" required [(ngModel)]="formData.email" appTypingPlaceholder="Email">
       <input type="text" name="height" placeholder="Height (cm)" class="text unified-text-field" required [(ngModel)]="formData.height" appTypingPlaceholder="Height (cm)">
       <input type="text" name="social_network" placeholder="Social Network" class="text unified-text-field" maxlength="150" required [(ngModel)]="formData.social_network" appTypingPlaceholder="Social Network">
-      <input type="text" name="location" placeholder="Location" class="text unified-text-field" required [(ngModel)]="formData.location" appTypingPlaceholder="Location">
-      <textarea name="about_me" placeholder="About me" class="text unified-text-field" minlength="10" maxlength="1000" required [(ngModel)]="formData.about_me" appTypingPlaceholder="About me"></textarea>
+      <input type="text" name="location" placeholder="Mother Agency (if you have)" class="text unified-text-field" required [(ngModel)]="formData.location" appTypingPlaceholder="Mother Agency (if you have)">
+      <textarea name="about_me" placeholder="About me" class="text unif|ied-text-field" minlength="10" maxlength="1000" required [(ngModel)]="formData.about_me" appTypingPlaceholder="About me"></textarea>
 
-      <p *ngIf="successMessage" class="text-xs text-gray-500 mt-1" style="font-size: 0.8rem; color: #2d7a39; margin-bottom: 10px;">
+      <p *ngIf="successMessage" class="text-xs text-gray-500 mt-1" style="font-size: 0.8rem; margin-bottom: 10px;">
         {{ successMessage }}
       </p>
 
