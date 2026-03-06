@@ -1,4 +1,5 @@
 import { CommonModule } from '@angular/common';
+import { TypingPlaceholderDirective } from './typing-placeholder.directive';
 import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import {
@@ -8,7 +9,7 @@ import {
 
 @Component({
   selector: 'app-model-submission-form',
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, TypingPlaceholderDirective],
   templateUrl: './model-submission-form.component.html',
   styleUrl: './model-submission-form.component.scss',
 })
@@ -26,8 +27,8 @@ export class ModelSubmissionFormComponent {
     email: '',
     height: '',
     social_network: '',
+    location: '',
     about_me: '',
-    cellphone: '',
   };
 
   constructor(private readonly modelSubmissionService: ModelSubmissionService) {}
@@ -97,7 +98,7 @@ export class ModelSubmissionFormComponent {
         height: Number(this.formData.height),
         social_network: this.formData.social_network,
         about_me: this.formData.about_me,
-        cellphone: this.formData.cellphone,
+        location: this.formData.location,
         photo: this.selectedFile,
       };
 
@@ -111,8 +112,8 @@ export class ModelSubmissionFormComponent {
             email: '',
             height: '',
             social_network: '',
+            location: '',
             about_me: '',
-            cellphone: '',
           };
           form.resetForm(this.formData);
           this.resetImagePreview();

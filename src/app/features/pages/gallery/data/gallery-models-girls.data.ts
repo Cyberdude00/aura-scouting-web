@@ -10,9 +10,44 @@ export const galleryModelsGirls: ScoutingModel[] = [
     "hair": "Brown",
     "eyes": "Brown",
     "shoe": "40",
-    "book": ["https://res.cloudinary.com/dcxaitngm/image/upload/v1771659117/aura/gallery/models/girls/agos-martinez/book/agostina_book_01.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659118/aura/gallery/models/girls/agos-martinez/book/agostina_book_02.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659119/aura/gallery/models/girls/agos-martinez/book/agostina_book_03.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659120/aura/gallery/models/girls/agos-martinez/book/agostina_book_04.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659121/aura/gallery/models/girls/agos-martinez/book/agostina_book_05.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659122/aura/gallery/models/girls/agos-martinez/book/agostina_book_06.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659123/aura/gallery/models/girls/agos-martinez/book/agostina_book_07.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659124/aura/gallery/models/girls/agos-martinez/book/agostina_book_08.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659125/aura/gallery/models/girls/agos-martinez/book/agostina_book_09.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659125/aura/gallery/models/girls/agos-martinez/book/agostina_book_10.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659126/aura/gallery/models/girls/agos-martinez/book/agostina_book_11.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659127/aura/gallery/models/girls/agos-martinez/book/agostina_book_12.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659127/aura/gallery/models/girls/agos-martinez/book/agostina_book_13.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659128/aura/gallery/models/girls/agos-martinez/book/agostina_book_14.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659129/aura/gallery/models/girls/agos-martinez/book/agostina_book_15.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659130/aura/gallery/models/girls/agos-martinez/book/agostina_book_16.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659131/aura/gallery/models/girls/agos-martinez/book/agostina_book_17.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659131/aura/gallery/models/girls/agos-martinez/book/agostina_book_18.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659132/aura/gallery/models/girls/agos-martinez/book/agostina_book_19.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659133/aura/gallery/models/girls/agos-martinez/book/agostina_book_20.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659134/aura/gallery/models/girls/agos-martinez/book/agostina_book_21.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659134/aura/gallery/models/girls/agos-martinez/book/agostina_book_22.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659135/aura/gallery/models/girls/agos-martinez/book/agostina_book_23.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659136/aura/gallery/models/girls/agos-martinez/book/agostina_book_24.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659136/aura/gallery/models/girls/agos-martinez/book/agostina_book_25.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659137/aura/gallery/models/girls/agos-martinez/book/agostina_book_26.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659137/aura/gallery/models/girls/agos-martinez/book/agostina_book_27.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659138/aura/gallery/models/girls/agos-martinez/book/agostina_book_28.jpg"],
+    "book": [
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659117/aura/gallery/models/girls/agos-martinez/book/agostina_book_01.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659118/aura/gallery/models/girls/agos-martinez/book/agostina_book_02.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659119/aura/gallery/models/girls/agos-martinez/book/agostina_book_03.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659120/aura/gallery/models/girls/agos-martinez/book/agostina_book_04.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659121/aura/gallery/models/girls/agos-martinez/book/agostina_book_05.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659122/aura/gallery/models/girls/agos-martinez/book/agostina_book_06.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659123/aura/gallery/models/girls/agos-martinez/book/agostina_book_07.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659124/aura/gallery/models/girls/agos-martinez/book/agostina_book_08.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659125/aura/gallery/models/girls/agos-martinez/book/agostina_book_09.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659125/aura/gallery/models/girls/agos-martinez/book/agostina_book_10.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659126/aura/gallery/models/girls/agos-martinez/book/agostina_book_11.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659127/aura/gallery/models/girls/agos-martinez/book/agostina_book_12.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659127/aura/gallery/models/girls/agos-martinez/book/agostina_book_13.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659128/aura/gallery/models/girls/agos-martinez/book/agostina_book_14.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659129/aura/gallery/models/girls/agos-martinez/book/agostina_book_15.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659130/aura/gallery/models/girls/agos-martinez/book/agostina_book_16.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659131/aura/gallery/models/girls/agos-martinez/book/agostina_book_17.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659131/aura/gallery/models/girls/agos-martinez/book/agostina_book_18.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659132/aura/gallery/models/girls/agos-martinez/book/agostina_book_19.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659133/aura/gallery/models/girls/agos-martinez/book/agostina_book_20.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659134/aura/gallery/models/girls/agos-martinez/book/agostina_book_21.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659134/aura/gallery/models/girls/agos-martinez/book/agostina_book_22.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659135/aura/gallery/models/girls/agos-martinez/book/agostina_book_23.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659136/aura/gallery/models/girls/agos-martinez/book/agostina_book_24.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659136/aura/gallery/models/girls/agos-martinez/book/agostina_book_25.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659137/aura/gallery/models/girls/agos-martinez/book/agostina_book_26.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659137/aura/gallery/models/girls/agos-martinez/book/agostina_book_27.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659138/aura/gallery/models/girls/agos-martinez/book/agostina_book_28.jpg"
+      ],
     "extraMaterial": [],
-    "polas": ["https://res.cloudinary.com/dcxaitngm/image/upload/v1771659139/aura/gallery/models/girls/agos-martinez/polas/img_5709.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659141/aura/gallery/models/girls/agos-martinez/polas/img_5783.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659142/aura/gallery/models/girls/agos-martinez/polas/img_5819.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659143/aura/gallery/models/girls/agos-martinez/polas/img_5981.jpg","https://res.cloudinary.com/dcxaitngm/image/upload/v1771659144/aura/gallery/models/girls/agos-martinez/polas/img_6086.jpg"],
+    "polas": [
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659139/aura/gallery/models/girls/agos-martinez/polas/img_5709.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659141/aura/gallery/models/girls/agos-martinez/polas/img_5783.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659142/aura/gallery/models/girls/agos-martinez/polas/img_5819.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659143/aura/gallery/models/girls/agos-martinez/polas/img_5981.jpg",
+        "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659144/aura/gallery/models/girls/agos-martinez/polas/img_6086.jpg"
+      ],
     "extraSnaps": [],
     "videos": [],
 
@@ -24,7 +59,15 @@ export const galleryModelsGirls: ScoutingModel[] = [
 
       "extraSnaps": [],
 
-      "videos": ["https://res.cloudinary.com/dcxaitngm/video/upload/v1772698507/aura/gallery/models/girls/agos-martinez/videos/intro.mp4","https://res.cloudinary.com/dcxaitngm/video/upload/v1772698510/aura/gallery/models/girls/agos-martinez/videos/walk.mp4"]
+      "videos": 
+
+        [
+
+          "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698507/aura/gallery/models/girls/agos-martinez/videos/intro.mp4",
+
+          "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698510/aura/gallery/models/girls/agos-martinez/videos/walk.mp4"
+
+        ]
 
     },
     "instagram": []

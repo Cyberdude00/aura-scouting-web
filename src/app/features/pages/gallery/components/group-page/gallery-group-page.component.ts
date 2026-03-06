@@ -1,4 +1,4 @@
-import { CommonModule } from '@angular/common';
+import { CommonModule, NgIf } from '@angular/common';
 import { Component, HostListener, OnDestroy } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { GalleryGroup, GalleryModel, getGalleryGroup } from '../../data';
@@ -16,6 +16,7 @@ import { GalleryPageStateService } from './services/gallery-page-state.service';
   standalone: true,
   imports: [
     CommonModule,
+    NgIf,
     GalleryHeaderComponent,
     GalleryModelGridComponent,
     GalleryPortfolioModalComponent,

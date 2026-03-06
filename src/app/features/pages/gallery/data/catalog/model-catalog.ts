@@ -8,5 +8,3 @@ export const modelCatalog: Record<string, ScoutingModel> = sourceModels.reduce((
   acc[slugifyValue(model.name)] = model;
   return acc;
 }, {} as Record<string, ScoutingModel>);
-
-export const allModelIds = Object.keys(modelCatalog);

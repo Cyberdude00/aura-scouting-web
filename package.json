@@ -12,6 +12,8 @@
     "gallery:upload": "node scripts/cloudinary-batch-models.mjs --upload",
     "gallery:prune:preview": "node scripts/cloudinary-batch-models.mjs --upload --prune-remote",
     "gallery:prune:apply": "node scripts/cloudinary-batch-models.mjs --upload --prune-remote --apply-prune",
+    "gallery:hygiene": "node scripts/check-gallery-data-hygiene.mjs",
+    "gallery:manifest:trace": "node scripts/build-cloudinary-traceability-manifest.mjs",
     "gallery:sync": "node scripts/sync-cloudinary-manifests.mjs",
     "gallery:update": "npm run gallery:upload && npm run gallery:sync && npm run build"
   },

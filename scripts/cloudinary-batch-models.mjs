@@ -273,33 +273,41 @@ async function getModelDirectories(sourceRoot, genders, excludedSlugs, modelFilt
 
 async function ensureManifestDirectory(manifestOut) {
   await fs.mkdir(manifestOut, { recursive: true });
+  await fs.mkdir(path.join(manifestOut, 'uploaded'), { recursive: true });
+  await fs.mkdir(path.join(manifestOut, 'preview'), { recursive: true });
+  await fs.mkdir(path.join(manifestOut, 'progress'), { recursive: true });
+  await fs.mkdir(path.join(manifestOut, 'traceability'), { recursive: true });
 }
 
 async function loadUploadedManifestIndex(manifestOutAbs) {
   const index = new Map();
-  let entries = [];
+  const candidateDirs = [path.join(manifestOutAbs, 'uploaded'), manifestOutAbs];
 
-  try {
-    entries = await fs.readdir(manifestOutAbs, { withFileTypes: true });
-  } catch {
-    return index;
-  }
+  for (const dirPath of candidateDirs) {
+    let entries = [];
 
-  const files = entries
-    .filter((entry) => entry.isFile() && entry.name.endsWith('.uploaded.json'))
-    .map((entry) => entry.name);
-
-  for (const fileName of files) {
     try {
-      const raw = await fs.readFile(path.join(manifestOutAbs, fileName), 'utf8');
+      entries = await fs.readdir(dirPath, { withFileTypes: true });
+    } catch {
+      continue;
+    }
+
+    const files = entries
+      .filter((entry) => entry.isFile() && entry.name.endsWith('.uploaded.json'))
+      .map((entry) => entry.name);
+
+    for (const fileName of files) {
+      try {
+        const raw = await fs.readFile(path.join(dirPath, fileName), 'utf8');
       const json = JSON.parse(raw);
       for (const item of json?.items || []) {
         if (typeof item?.publicId === 'string' && typeof item?.secureUrl === 'string') {
           index.set(item.publicId, item.secureUrl);
         }
       }
-    } catch {
-      // ignore broken manifests
+      } catch {
+        // ignore broken manifests
+      }
     }
   }
 
@@ -521,11 +529,11 @@ async function run() {
   const args = parseArgs(process.argv.slice(2));
   const excludedSlugs = new Set(args.exclude.map((value) => slugify(value)));
   const manifestOutAbs = path.resolve(args.manifestOut);
-  const uploadProgressFileAbs = path.join(manifestOutAbs, '_upload-progress.json');
-  const progressFileAbs = path.join(
-    manifestOutAbs,
-    args.upload ? '_upload-progress.json' : '_dryrun-progress.json',
-  );
+  const uploadedManifestDirAbs = path.join(manifestOutAbs, 'uploaded');
+  const previewManifestDirAbs = path.join(manifestOutAbs, 'preview');
+  const progressDirAbs = path.join(manifestOutAbs, 'progress');
+  const uploadProgressFileAbs = path.join(progressDirAbs, '_upload-progress.json');
+  const progressFileAbs = path.join(progressDirAbs, args.upload ? '_upload-progress.json' : '_dryrun-progress.json');
 
   if (args.resumeLast && !args.model) {
     try {
@@ -618,7 +626,7 @@ async function run() {
     });
 
     const manifestFileName = `${slugify(item.gender)}-${slugify(item.model)}${args.upload ? '.uploaded' : '.preview'}.json`;
-    const manifestPath = path.join(manifestOutAbs, manifestFileName);
+    const manifestPath = path.join(args.upload ? uploadedManifestDirAbs : previewManifestDirAbs, manifestFileName);
 
     let result;
     try {

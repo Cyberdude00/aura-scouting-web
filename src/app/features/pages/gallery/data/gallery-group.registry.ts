@@ -32,17 +32,7 @@ function resolveModels(
       model: ScoutingModel;
       status: 'on' | 'off';
       fullbook: 'on' | 'off' | undefined;
-    } => {
-      if (!item.model) {
-        return false;
-      }
-
-      const hasPhoto = typeof item.model.photo === 'string' && item.model.photo.trim().length > 0;
-      const hasPortfolio = Array.isArray(item.model.portfolio)
-        && item.model.portfolio.some((media) => typeof media === 'string' && media.trim().length > 0);
-
-      return hasPhoto && hasPortfolio;
-    });
+    } => !!item.model);
 }
 
 export const galleryGroupRegistry: Record<string, GalleryGroup> = agencyGalleriesConfig.reduce((acc, group) => {

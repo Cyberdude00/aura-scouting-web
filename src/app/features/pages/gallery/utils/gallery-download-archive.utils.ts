@@ -1,3 +1,4 @@
+
 import JSZip from 'jszip';
 
 function sanitize(value: string): string {
@@ -14,13 +15,29 @@ function extensionFromUrl(url: string): string {
   if (dot < 0) {
     return 'jpg';
   }
-
   const ext = clean.slice(dot + 1).toLowerCase();
   return ext || 'jpg';
 }
 
-export async function downloadFullbookZip(modelName: string, mediaUrls: string[]): Promise<void> {
-  if (!mediaUrls.length) {
+export interface ModelMaterialSections {
+  book: string[];
+  extraMaterial: string[];
+  polas: string[];
+  extraSnaps: string[];
+  videos: string[];
+}
+
+export async function downloadFullMaterialZip(modelName: string, material: ModelMaterialSections): Promise<void> {
+  // Unir todas las secciones en una sola lista
+  const allMedia: string[] = [
+    ...material.book,
+    ...material.extraMaterial,
+    ...material.polas,
+    ...material.extraSnaps,
+    ...material.videos,
+  ].filter((url) => typeof url === 'string' && url.trim().length > 0);
+
+  if (!allMedia.length) {
     return;
   }
 
@@ -28,7 +45,7 @@ export async function downloadFullbookZip(modelName: string, mediaUrls: string[]
   const baseName = sanitize(modelName);
 
   await Promise.all(
-    mediaUrls.map(async (url, index) => {
+    allMedia.map(async (url, index) => {
       const response = await fetch(url, { mode: 'cors' });
       if (!response.ok) {
         throw new Error(`Download failed with status ${response.status}`);
@@ -36,13 +53,14 @@ export async function downloadFullbookZip(modelName: string, mediaUrls: string[]
 
       const blob = await response.blob();
       const ext = extensionFromUrl(url);
-      const fileName = `${baseName}_fullbook_${String(index + 1).padStart(2, '0')}.${ext}`;
-      zip.file(fileName, blob);
+      // Nombre de archivo original (última parte de la URL)
+      const originalName = url.split('/').pop()?.split('?')[0] || `${baseName}_${String(index + 1).padStart(2, '0')}.${ext}`;
+      zip.file(originalName, blob);
     }),
   );
 
   const archiveBlob = await zip.generateAsync({ type: 'blob' });
-  const archiveName = `${baseName}_fullbook.zip`;
+  const archiveName = `${baseName}_material.zip`;
   const url = URL.createObjectURL(archiveBlob);
 
   const anchor = document.createElement('a');

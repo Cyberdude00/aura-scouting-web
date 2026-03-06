@@ -9,7 +9,7 @@ export interface ModelSubmissionPayload {
   height: number;
   social_network: string;
   about_me: string;
-  cellphone: string;
+  location: string;
   photo: File;
 }
 
@@ -32,7 +32,7 @@ export class ModelSubmissionService {
     formData.append('height', data.height.toString());
     formData.append('social_network', data.social_network);
     formData.append('about_me', data.about_me);
-    formData.append('cellphone', data.cellphone);
+    formData.append('location', data.location);
     formData.append('photo', data.photo);
 
     return this.http.post<{ message: string }>(this.apiUrl, formData);

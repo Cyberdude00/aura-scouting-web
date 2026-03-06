@@ -1,6 +1,6 @@
 import { Component, Input, OnDestroy } from '@angular/core';
 import { GalleryModel } from '../../../data';
-import { downloadFullbookZip } from '../../../utils';
+import { downloadFullMaterialZip, ModelMaterialSections } from '../../../utils';
 
 type UnitSystem = 'metric' | 'imperial';
 
@@ -45,14 +45,24 @@ export class GalleryMeasurementSystemComponent implements OnDestroy {
       return;
     }
 
-    const fullbookMedia = this.getFullbookMedia();
-    if (!fullbookMedia.length) {
+    // Construir objeto con todas las secciones
+    const material: ModelMaterialSections = {
+      book: this.model.portfolio ?? [],
+      extraMaterial: (this.model.fullMaterialMedia ?? []).filter((url) => url.includes('extraMaterial')),
+      polas: (this.model.fullMaterialMedia ?? []).filter((url) => url.includes('polas')),
+      extraSnaps: (this.model.fullMaterialMedia ?? []).filter((url) => url.includes('extraSnaps')),
+      videos: (this.model.fullMaterialMedia ?? []).filter((url) => url.match(/\.(mp4|webm|mov)$/)),
+    };
+
+    // Si no hay material, no descargar
+    const totalMedia = Object.values(material).reduce((acc, arr) => acc + arr.length, 0);
+    if (totalMedia === 0) {
       return;
     }
 
     this.isDownloadingFullbook = true;
     try {
-      await downloadFullbookZip(this.model.name, fullbookMedia);
+      await downloadFullMaterialZip(this.model.name, material);
     } finally {
       this.isDownloadingFullbook = false;
     }

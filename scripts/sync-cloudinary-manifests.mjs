@@ -246,24 +246,34 @@ function choosePhotoUrl(orderedItems, legacyOrderKeys, currentPhoto) {
 }
 
 async function loadUploadedManifests(manifestsDirAbs) {
-  const entries = await fs.readdir(manifestsDirAbs, { withFileTypes: true });
-  const files = entries
-    .filter((entry) => entry.isFile() && entry.name.endsWith('.uploaded.json'))
-    .map((entry) => entry.name)
-    .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
-
   const output = [];
-  for (const fileName of files) {
-    const absPath = path.join(manifestsDirAbs, fileName);
-    const raw = await fs.readFile(absPath, 'utf8');
-    const json = JSON.parse(raw);
+  const candidateDirs = [path.join(manifestsDirAbs, 'uploaded'), manifestsDirAbs];
 
-    if (json?.uploaded && json?.modelFolderName) {
-      output.push({
-        fileName,
-        absPath,
-        manifest: json,
-      });
+  for (const dirPath of candidateDirs) {
+    let entries = [];
+    try {
+      entries = await fs.readdir(dirPath, { withFileTypes: true });
+    } catch {
+      continue;
+    }
+
+    const files = entries
+      .filter((entry) => entry.isFile() && entry.name.endsWith('.uploaded.json'))
+      .map((entry) => entry.name)
+      .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
+
+    for (const fileName of files) {
+      const absPath = path.join(dirPath, fileName);
+      const raw = await fs.readFile(absPath, 'utf8');
+      const json = JSON.parse(raw);
+
+      if (json?.uploaded && json?.modelFolderName) {
+        output.push({
+          fileName,
+          absPath,
+          manifest: json,
+        });
+      }
     }
   }
 

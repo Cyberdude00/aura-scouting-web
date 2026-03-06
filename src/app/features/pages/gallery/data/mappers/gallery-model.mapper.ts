@@ -1,12 +1,19 @@
+
+declare global {
+  interface ImportMeta {
+    env: {
+      NG_APP_CACHE_BUSTER?: string;
+      [key: string]: any;
+    };
+  }
+}
+
 import { GalleryModel, ScoutingModel } from '../scouting-model.types';
 import { slugifyValue } from '../../utils';
 
 function resolveCacheBuster(): string {
-  const meta = import.meta as ImportMeta & {
-    env?: Record<string, string | undefined>;
-  };
-
-  return String(meta.env?.['NG_APP_CACHE_BUSTER'] ?? '').trim();
+  // Acceso directo para SSR/Vite
+  return String((import.meta.env?.NG_APP_CACHE_BUSTER ?? '')).trim();
 }
 
 function applyCacheBuster(url: string, cacheBuster: string): string {

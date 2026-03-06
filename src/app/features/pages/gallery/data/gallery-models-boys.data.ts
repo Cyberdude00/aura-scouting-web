@@ -10,7 +10,6 @@ export const galleryModelsBoys: ScoutingModel[] = [
     "hair": "Brown",
     "eyes": "Brown",
     "shoe": "8/42",
-    "availability": "on",
     "book": [
         "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660306/aura/gallery/models/boys/adan/book/adan_book_1.jpg",
         "https://res.cloudinary.com/dcxaitngm/image/upload/v1771660306/aura/gallery/models/boys/adan/book/adan_book_2.jpg",
