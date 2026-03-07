@@ -4,8 +4,8 @@ export const routes: Routes = [
   {
     path: '',
     loadComponent: () =>
-      import('./layout/main-layout/main-layout.component')
-        .then(m => m.MainLayoutComponent),
+      import('./layout/main-layout/main-layout.component') // Path remains for file, but class is MainLayout
+        .then(m => m.MainLayout),
     children: [
       {
         path: '',
@@ -18,7 +18,7 @@ export const routes: Routes = [
         path: 'gallery/:group',
         loadComponent: () =>
           import('./features/pages/gallery/components/group-page/gallery-group-page.component')
-            .then(m => m.GalleryGroupPageComponent)
+            .then(m => m.GalleryGroupPage)
       }
     ]
   }

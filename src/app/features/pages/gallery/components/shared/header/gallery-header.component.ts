@@ -6,6 +6,6 @@ import { Component, Input } from '@angular/core';
   templateUrl: './gallery-header.component.html',
   styleUrl: './gallery-header.component.scss',
 })
-export class GalleryHeaderComponent {
+export class GalleryHeader {
   @Input({ required: true }) galleryName!: string;
 }

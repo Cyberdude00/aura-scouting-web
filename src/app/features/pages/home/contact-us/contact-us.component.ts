@@ -41,6 +41,6 @@ import { Component } from '@angular/core';
     }
   `],
 })
-export class ContactUsComponent {
+export class Contact {
 
 }

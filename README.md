@@ -1,7 +1,105 @@
+# Project Components
+- MainLayout
+- Navigation
+- Footer
+- AboutUs
+- ScoutingServices
+- HowWeWork
+- Home
+- HomeIntro
+- Contact
+- ConnectInfo
+- GalleryGroup
+- PortfolioModal
+- ModelGrid
+- MediaViewer
+- GalleryHeader
+- Measurements
+- ModelSubmissionForm
+---
+## Descripción breve de cada componente
+- **MainLayout**: Estructura principal de la app, incluye navegación y footer.
+- **Navigation**: Barra superior con enlaces a secciones.
+- **Footer**: Pie de página con info legal y mensaje extra.
+- **AboutUs**: Presentación y misión de la agencia.
+- **ScoutingServices**: Lista y descripción de servicios de scouting.
+- **HowWeWork**: Explica el proceso de scouting y soporte.
+- **Home**: Página principal, incluye intro, servicios, contacto, etc.
+- **HomeIntro**: Sección de bienvenida y logo.
+- **Contact**: Información y enlaces de contacto.
+- **ConnectInfo**: Explica la red de agencias y conexiones.
+- **GalleryGroup**: Página de galería, lista todos los modelos.
+- **PortfolioModal**: Modal para ver/descargar el portfolio de un modelo.
+- **ModelGrid**: Grid de modelos, muestra fotos y permite selección.
+- **MediaViewer**: Visualizador de imágenes/videos en grande.
+- **GalleryHeader**: Encabezado de galería, muestra el nombre del grupo.
+- **Measurements**: Permite cambiar sistema métrico/imperial y descargar fullbook.
+- **ModelSubmissionForm**: Formulario para enviar datos de nuevos modelos.
+
+## Inicio rápido
+
+1. Requisitos: Node.js 20+, npm
+2. Instala dependencias:
+   ```bash
+   npm install
+   ```
+3. Arranca el proyecto:
+   ```bash
+   npm run start
+   ```
+   - Home: `http://localhost:4200/`
+   - Galería: `http://localhost:4200/gallery/korea`
+4. Build de validación:
+   ```bash
+   npm run build -- --configuration development
+   ```
+
+## Edición de datos
+
+- Modelos: `src/app/features/pages/gallery/data/gallery-models.data.ts`
+- Configuración de galerías: `src/app/features/pages/gallery/data/groups/agency-galleries.config.ts`
+- Material extra: `src/app/features/pages/gallery/data/catalog/full-material-catalog.ts`
+
+## Crear nueva galería
+
+1. Agrega bloque en `agency-galleries.config.ts` con `galleryKey`, `galleryName`, y modelos.
+2. Accede en `/gallery/<nombre>`.
+
+## SEO
+
+- Edita SEO en `gallery-page-seo.service.ts` y `seo.service.ts`.
+- Ruta SEO: `gallery/:group` en `app.routes.ts`.
+
+## Flujo de cambios
+
+1. Edita datos/modelos/config.
+2. Ejecuta build.
+3. Verifica en navegador.
+4. Commit.
+
+## Scripts útiles
+
+- Optimizar imágenes: `npm run gallery:optimize`
+- Subir a Cloudinary: `npm run gallery:upload`
+- Sincronizar: `npm run gallery:sync`
+- Actualizar todo: `npm run gallery:update`
+- Prune preview/aplicar: `npm run gallery:prune:preview` / `npm run gallery:prune:apply`
+
+## Checklist antes de commit
+
+- Build sin errores
+- Galería funcional
+- Modelos con foto y portfolio
+- Config revisada
+
+## Troubleshooting
+
+- Si un modelo no aparece: revisa foto, portfolio y config.
+- Si no aparece botón fullbook: revisa config y material extra.
+- Si SEO no cambia: revisa servicios y rutas.
+
+---
 # aura-scouting-web
-
-Guía simple para arrancar el proyecto, modificar la galería y administrar SEO.
-
 ## 1) Cómo arrancar el proyecto
 
 ### Requisitos

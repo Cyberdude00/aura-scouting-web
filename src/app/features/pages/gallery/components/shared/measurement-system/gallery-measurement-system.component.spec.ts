@@ -1,8 +1,8 @@
 import { TestBed } from '@angular/core/testing';
-import { GalleryMeasurementSystemComponent } from './gallery-measurement-system.component';
+import { Measurements } from './gallery-measurement-system.component';
 import { GalleryModel } from '../../../data';
 
-describe('GalleryMeasurementSystemComponent', () => {
+describe('Measurements', () => {
   const model: GalleryModel = {
     id: 'test-model',
     name: 'Test Model',
@@ -16,12 +16,12 @@ describe('GalleryMeasurementSystemComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [GalleryMeasurementSystemComponent],
+      imports: [Measurements],
     }).compileComponents();
   });
 
   it('switches from metric to imperial values', () => {
-    const fixture = TestBed.createComponent(GalleryMeasurementSystemComponent);
+    const fixture = TestBed.createComponent(Measurements);
     const component = fixture.componentInstance;
     component.model = model;
 

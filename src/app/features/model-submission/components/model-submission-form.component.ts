@@ -13,7 +13,7 @@ import {
   templateUrl: './model-submission-form.component.html',
   styleUrl: './model-submission-form.component.scss',
 })
-export class ModelSubmissionFormComponent {
+export class ModelSubmissionForm {
   imagePreviewSrc = 'images/aura-scouting-logo.png';
   isPreviewing = false;
   isSubmitting = false;

@@ -18,6 +18,6 @@ import { Component } from '@angular/core';
   `,
   styleUrl: './home-intro.component.scss',
 })
-export class HomeIntroComponent {
+export class HomeIntro {
 
 }

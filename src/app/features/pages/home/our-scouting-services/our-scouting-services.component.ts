@@ -18,6 +18,6 @@ import { Component } from '@angular/core';
     </section>
   `,
 })
-export class OurScoutingServicesComponent {
+export class ScoutingServices {
 
 }

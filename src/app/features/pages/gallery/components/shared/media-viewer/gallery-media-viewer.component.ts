@@ -7,7 +7,7 @@ import { downloadMediaFile, isVideoMedia } from '../../../utils';
   templateUrl: './gallery-media-viewer.component.html',
   styleUrl: './gallery-media-viewer.component.scss',
 })
-export class GalleryMediaViewerComponent {
+export class MediaViewer {
   @Input() mediaPath: string | null = null;
   @Output() closed = new EventEmitter<void>();
   @Output() next = new EventEmitter<void>();

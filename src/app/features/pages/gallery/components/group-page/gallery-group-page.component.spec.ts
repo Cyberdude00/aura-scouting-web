@@ -1,14 +1,14 @@
 import { TestBed } from '@angular/core/testing';
 import { convertToParamMap, ActivatedRoute } from '@angular/router';
 import { BehaviorSubject } from 'rxjs';
-import { GalleryGroupPageComponent } from './gallery-group-page.component';
+import { GalleryGroupPage } from './gallery-group-page.component';
 
-describe('GalleryGroupPageComponent', () => {
+describe('GalleryGroupPage', () => {
   const paramMap$ = new BehaviorSubject(convertToParamMap({ group: 'korea' }));
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [GalleryGroupPageComponent],
+      imports: [GalleryGroupPage],
       providers: [
         {
           provide: ActivatedRoute,
@@ -19,7 +19,7 @@ describe('GalleryGroupPageComponent', () => {
   });
 
   it('loads gallery from route param', () => {
-    const fixture = TestBed.createComponent(GalleryGroupPageComponent);
+    const fixture = TestBed.createComponent(GalleryGroupPage);
     fixture.detectChanges();
 
     expect(fixture.componentInstance.gallery).toBeTruthy();
@@ -27,9 +27,9 @@ describe('GalleryGroupPageComponent', () => {
   });
 
   it('opens and closes portfolio modal state', () => {
-    const fixture = TestBed.createComponent(GalleryGroupPageComponent);
+    const fixture = TestBed.createComponent(GalleryGroupPage);
     fixture.detectChanges();
-    const component = fixture.componentInstance;
+    const component = fixture.componentInstance as GalleryGroupPage;
 
     const model = component.gallery?.models[0];
     expect(model).toBeTruthy();

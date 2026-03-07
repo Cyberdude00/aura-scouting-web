@@ -1,16 +1,16 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 import { GalleryModel } from '../../../data';
-import { GalleryMeasurementSystemComponent } from '../measurement-system/gallery-measurement-system.component';
+import { Measurements } from '../measurement-system/gallery-measurement-system.component';
 import { downloadMediaFile, isVideoMedia } from '../../../utils';
 
 @Component({
   selector: 'app-gallery-portfolio-modal',
   standalone: true,
-  imports: [GalleryMeasurementSystemComponent],
+  imports: [Measurements],
   templateUrl: './gallery-portfolio-modal.component.html',
   styleUrl: './gallery-portfolio-modal.component.scss',
 })
-export class GalleryPortfolioModalComponent {
+export class PortfolioModal {
   @Input() model: GalleryModel | null = null;
   @Output() closed = new EventEmitter<void>();
   @Output() mediaSelected = new EventEmitter<number>();

@@ -2,10 +2,10 @@ import { CommonModule, NgIf } from '@angular/common';
 import { Component, HostListener, OnDestroy } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { GalleryGroup, GalleryModel, getGalleryGroup } from '../../data';
-import { GalleryHeaderComponent } from '../shared/header/gallery-header.component';
-import { GalleryModelGridComponent } from '../shared/main-grid/gallery-model-grid.component';
-import { GalleryPortfolioModalComponent } from '../shared/portfolio-modal/gallery-portfolio-modal.component';
-import { GalleryMediaViewerComponent } from '../shared/media-viewer/gallery-media-viewer.component';
+import { GalleryHeader } from '../shared/header/gallery-header.component';
+import { ModelGrid } from '../shared/main-grid/gallery-model-grid.component';
+import { PortfolioModal } from '../shared/portfolio-modal/gallery-portfolio-modal.component';
+import { MediaViewer } from '../shared/media-viewer/gallery-media-viewer.component';
 import { GalleryCoverPreloadService } from './services/gallery-cover-preload.service';
 import { GalleryOverlayScrollService } from './services/gallery-overlay-scroll.service';
 import { GalleryPageSeoService } from './services/gallery-page-seo.service';
@@ -17,16 +17,16 @@ import { GalleryPageStateService } from './services/gallery-page-state.service';
   imports: [
     CommonModule,
     NgIf,
-    GalleryHeaderComponent,
-    GalleryModelGridComponent,
-    GalleryPortfolioModalComponent,
-    GalleryMediaViewerComponent,
+    GalleryHeader,
+    ModelGrid,
+    PortfolioModal,
+    MediaViewer,
   ],
   providers: [GalleryPageStateService, GalleryOverlayScrollService, GalleryPageSeoService, GalleryCoverPreloadService],
   templateUrl: './gallery-group-page.component.html',
   styleUrl: './gallery-group-page.component.scss',
 })
-export class GalleryGroupPageComponent implements OnDestroy {
+export class GalleryGroupPage implements OnDestroy {
   gallery: GalleryGroup | null = null;
 
   constructor(

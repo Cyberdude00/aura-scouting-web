@@ -1,23 +1,23 @@
 import { Component, OnInit } from '@angular/core';
-import { HomeIntroComponent } from './home-intro/home-intro.component';
-import { WhoWeAreComponent } from './who-we-are/who-we-are.component';
-import { OurScoutingServicesComponent } from './our-scouting-services/our-scouting-services.component';
-import { HowWeWorkComponent } from './how-we-work/how-we-work.component';
-import { ConnectInfoComponent } from './connect-info/connect-info.component';
-import { ModelSubmissionFormComponent } from '../../model-submission/components/model-submission-form.component';
-import { ContactUsComponent } from './contact-us/contact-us.component';
+import { HomeIntro } from './home-intro/home-intro.component';
+import { AboutUs } from './who-we-are/who-we-are.component';
+import { ScoutingServices } from './our-scouting-services/our-scouting-services.component';
+import { HowWeWork } from './how-we-work/how-we-work.component';
+import { ConnectInfo } from './connect-info/connect-info.component';
+import { ModelSubmissionForm } from '../../model-submission/components/model-submission-form.component';
+import { Contact } from './contact-us/contact-us.component';
 import { SeoService } from '../../core/services/seo.service';
 
 @Component({
   selector: 'app-home',
   imports: [
-    HomeIntroComponent,
-    WhoWeAreComponent,
-    OurScoutingServicesComponent,
-    HowWeWorkComponent,
-    ConnectInfoComponent,
-    ModelSubmissionFormComponent,
-    ContactUsComponent,
+    HomeIntro,
+    AboutUs,
+    ScoutingServices,
+    HowWeWork,
+    ConnectInfo,
+    ModelSubmissionForm,
+    Contact,
   ],
   template: `
     <app-home-intro />

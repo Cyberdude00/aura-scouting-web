@@ -41,6 +41,6 @@ import { Component } from '@angular/core';
     }
   `],
 })
-export class WhoWeAreComponent {
+export class AboutUs {
 
 }

@@ -8,7 +8,7 @@ import { isVideoMedia } from '../../../utils';
   templateUrl: './gallery-model-grid.component.html',
   styleUrl: './gallery-model-grid.component.scss',
 })
-export class GalleryModelGridComponent {
+export class ModelGrid {
   private readonly defaultCover = '/images/aura-scouting-logo.png';
 
   @Input() models: GalleryModel[] = [];

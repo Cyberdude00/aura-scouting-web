@@ -2,7 +2,7 @@ import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-header',
+  selector: 'app-navigation',
   imports: [CommonModule],
   template: `
     <nav>
@@ -76,7 +76,7 @@ import { Component } from '@angular/core';
     }
   `,
 })
-export class HeaderComponent {
+export class Navigation {
     scrollTo(id: string) {
     const element = document.getElementById(id);
     if (element) {

@@ -10,7 +10,7 @@ type UnitSystem = 'metric' | 'imperial';
   templateUrl: './gallery-measurement-system.component.html',
   styleUrl: './gallery-measurement-system.component.scss',
 })
-export class GalleryMeasurementSystemComponent implements OnDestroy {
+export class Measurements implements OnDestroy {
   @Input() model: GalleryModel | null = null;
 
   unitSystem: UnitSystem = 'metric';
