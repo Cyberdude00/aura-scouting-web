@@ -1,0 +1,25 @@
+{
+  "modelQuery": "Joaquin garcia",
+  "gender": "boys",
+  "modelFolderName": "Joaquin garcia",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Joaquin garcia",
+  "totalImages": 2,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.832Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Joaquin garcia\\videos\\intro joaco garcia.mp4",
+      "relativePath": "videos/intro joaco garcia.mp4",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/videos/intro-joaco-garcia",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Joaquin garcia\\videos\\intro JOAQUIN GARCIA IMG_2736.mp4",
+      "relativePath": "videos/intro JOAQUIN GARCIA IMG_2736.mp4",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/videos/intro-joaquin-garcia-img_2736",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

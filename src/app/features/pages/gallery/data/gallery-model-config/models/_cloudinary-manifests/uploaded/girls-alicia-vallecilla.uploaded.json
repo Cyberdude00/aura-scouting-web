@@ -1,0 +1,29 @@
+{
+  "modelQuery": "Alicia Vallecilla",
+  "gender": "girls",
+  "modelFolderName": "Alicia Vallecilla",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Alicia Vallecilla",
+  "totalImages": 2,
+  "uploaded": true,
+  "generatedAt": "2026-03-05T08:15:15.720Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Alicia Vallecilla\\videos\\20231116_181941446.mp4",
+      "relativePath": "videos/20231116_181941446.mp4",
+      "publicId": "aura/gallery/models/girls/alicia-vallecilla/videos/20231116_181941446",
+      "assetFolder": "aura/gallery/models/girls/alicia-vallecilla/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698512/aura/gallery/models/girls/alicia-vallecilla/videos/20231116_181941446.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Alicia Vallecilla\\videos\\20231116_181955521.mp4",
+      "relativePath": "videos/20231116_181955521.mp4",
+      "publicId": "aura/gallery/models/girls/alicia-vallecilla/videos/20231116_181955521",
+      "assetFolder": "aura/gallery/models/girls/alicia-vallecilla/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698514/aura/gallery/models/girls/alicia-vallecilla/videos/20231116_181955521.mp4",
+      "skipped": false
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

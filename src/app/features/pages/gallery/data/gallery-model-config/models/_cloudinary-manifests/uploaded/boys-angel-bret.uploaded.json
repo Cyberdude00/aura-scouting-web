@@ -1,0 +1,45 @@
+{
+  "modelQuery": "Angel Bret",
+  "gender": "boys",
+  "modelFolderName": "Angel Bret",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret",
+  "totalImages": 4,
+  "uploaded": true,
+  "generatedAt": "2026-03-05T08:14:02.563Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret\\videos\\ANGEL-BRETT-VIDEO-1.mp4",
+      "relativePath": "videos/ANGEL-BRETT-VIDEO-1.mp4",
+      "publicId": "aura/gallery/models/boys/angel-bret/videos/angel-brett-video-1",
+      "assetFolder": "aura/gallery/models/boys/angel-bret/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698437/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-1.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret\\videos\\ANGEL-BRETT-VIDEO-2.mp4",
+      "relativePath": "videos/ANGEL-BRETT-VIDEO-2.mp4",
+      "publicId": "aura/gallery/models/boys/angel-bret/videos/angel-brett-video-2",
+      "assetFolder": "aura/gallery/models/boys/angel-bret/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698438/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-2.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret\\videos\\ANGEL-BRETT-VIDEO-3.mp4",
+      "relativePath": "videos/ANGEL-BRETT-VIDEO-3.mp4",
+      "publicId": "aura/gallery/models/boys/angel-bret/videos/angel-brett-video-3",
+      "assetFolder": "aura/gallery/models/boys/angel-bret/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698440/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-3.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Angel Bret\\videos\\ANGEL-BRETT-VIDEO-4.mp4",
+      "relativePath": "videos/ANGEL-BRETT-VIDEO-4.mp4",
+      "publicId": "aura/gallery/models/boys/angel-bret/videos/angel-brett-video-4",
+      "assetFolder": "aura/gallery/models/boys/angel-bret/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698441/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-4.mp4",
+      "skipped": false
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

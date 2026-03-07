@@ -1,0 +1,25 @@
+{
+  "modelQuery": "Lucas Tarrago",
+  "gender": "boys",
+  "modelFolderName": "Lucas Tarrago",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Lucas Tarrago",
+  "totalImages": 2,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.848Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Lucas Tarrago\\videos\\Img 8133.mp4",
+      "relativePath": "videos/Img 8133.mp4",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/videos/img-8133",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Lucas Tarrago\\videos\\WhatsApp Video 2025-05-10 at 6.54.56 a.m..mp4",
+      "relativePath": "videos/WhatsApp Video 2025-05-10 at 6.54.56 a.m..mp4",
+      "publicId": "aura/gallery/models/boys/lucas-tarrago/videos/whatsapp-video-2025-05-10-at-6-54-56-a-m-",
+      "assetFolder": "aura/gallery/models/boys/lucas-tarrago/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

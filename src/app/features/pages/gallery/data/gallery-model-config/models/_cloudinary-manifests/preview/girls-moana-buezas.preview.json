@@ -1,0 +1,25 @@
+{
+  "modelQuery": "Moana Buezas",
+  "gender": "girls",
+  "modelFolderName": "Moana Buezas",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Moana Buezas",
+  "totalImages": 2,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.932Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Moana Buezas\\videos\\IMG_2776.mp4",
+      "relativePath": "videos/IMG_2776.mp4",
+      "publicId": "aura/gallery/models/girls/moana-buezas/videos/img_2776",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Moana Buezas\\videos\\IMG_2785.mp4",
+      "relativePath": "videos/IMG_2785.mp4",
+      "publicId": "aura/gallery/models/girls/moana-buezas/videos/img_2785",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

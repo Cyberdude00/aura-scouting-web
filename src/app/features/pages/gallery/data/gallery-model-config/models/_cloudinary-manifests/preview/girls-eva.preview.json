@@ -1,0 +1,25 @@
+{
+  "modelQuery": "Eva",
+  "gender": "girls",
+  "modelFolderName": "Eva",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eva",
+  "totalImages": 2,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.902Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eva\\videos\\IMG_3199.mp4",
+      "relativePath": "videos/IMG_3199.mp4",
+      "publicId": "aura/gallery/models/girls/eva/videos/img_3199",
+      "assetFolder": "aura/gallery/models/girls/eva/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Eva\\videos\\video-output-30C26863-215A-41CD-BCD7-10C762FD216E-1.mp4",
+      "relativePath": "videos/video-output-30C26863-215A-41CD-BCD7-10C762FD216E-1.mp4",
+      "publicId": "aura/gallery/models/girls/eva/videos/video-output-30c26863-215a-41cd-bcd7-10c762fd216e-1",
+      "assetFolder": "aura/gallery/models/girls/eva/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

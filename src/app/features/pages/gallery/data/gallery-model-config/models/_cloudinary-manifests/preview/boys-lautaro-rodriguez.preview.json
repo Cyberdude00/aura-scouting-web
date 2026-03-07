@@ -1,0 +1,19 @@
+{
+  "modelQuery": "Lautaro Rodriguez",
+  "gender": "boys",
+  "modelFolderName": "Lautaro Rodriguez",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Lautaro Rodriguez",
+  "totalImages": 1,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.843Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Lautaro Rodriguez\\videos\\IMG_2377.mp4",
+      "relativePath": "videos/IMG_2377.mp4",
+      "publicId": "aura/gallery/models/boys/lautaro-rodriguez/videos/img_2377",
+      "assetFolder": "aura/gallery/models/boys/lautaro-rodriguez/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

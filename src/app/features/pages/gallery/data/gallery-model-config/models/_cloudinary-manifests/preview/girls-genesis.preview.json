@@ -1,0 +1,25 @@
+{
+  "modelQuery": "Genesis",
+  "gender": "girls",
+  "modelFolderName": "Genesis",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Genesis",
+  "totalImages": 2,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.911Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Genesis\\videos\\20231013_181542565.mp4",
+      "relativePath": "videos/20231013_181542565.mp4",
+      "publicId": "aura/gallery/models/girls/genesis/videos/20231013_181542565",
+      "assetFolder": "aura/gallery/models/girls/genesis/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Genesis\\videos\\20231013_181549235.mp4",
+      "relativePath": "videos/20231013_181549235.mp4",
+      "publicId": "aura/gallery/models/girls/genesis/videos/20231013_181549235",
+      "assetFolder": "aura/gallery/models/girls/genesis/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

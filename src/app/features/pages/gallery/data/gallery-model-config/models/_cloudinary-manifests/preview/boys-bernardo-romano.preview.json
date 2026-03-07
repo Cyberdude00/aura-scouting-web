@@ -1,0 +1,25 @@
+{
+  "modelQuery": "Bernardo Romano",
+  "gender": "boys",
+  "modelFolderName": "Bernardo Romano",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Bernardo Romano",
+  "totalImages": 2,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.821Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Bernardo Romano\\videos\\intro berIMG_4163.mp4",
+      "relativePath": "videos/intro berIMG_4163.mp4",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/videos/intro-berimg_4163",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Bernardo Romano\\videos\\walkIMG_4161.mp4",
+      "relativePath": "videos/walkIMG_4161.mp4",
+      "publicId": "aura/gallery/models/boys/bernardo-romano/videos/walkimg_4161",
+      "assetFolder": "aura/gallery/models/boys/bernardo-romano/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

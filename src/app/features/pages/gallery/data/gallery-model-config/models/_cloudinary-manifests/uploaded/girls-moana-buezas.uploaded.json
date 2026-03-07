@@ -1,0 +1,29 @@
+{
+  "modelQuery": "Moana Buezas",
+  "gender": "girls",
+  "modelFolderName": "Moana Buezas",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Moana Buezas",
+  "totalImages": 2,
+  "uploaded": true,
+  "generatedAt": "2026-03-05T08:16:34.522Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Moana Buezas\\videos\\IMG_2776.mp4",
+      "relativePath": "videos/IMG_2776.mp4",
+      "publicId": "aura/gallery/models/girls/moana-buezas/videos/img_2776",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698590/aura/gallery/models/girls/moana-buezas/videos/img_2776.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Moana Buezas\\videos\\IMG_2785.mp4",
+      "relativePath": "videos/IMG_2785.mp4",
+      "publicId": "aura/gallery/models/girls/moana-buezas/videos/img_2785",
+      "assetFolder": "aura/gallery/models/girls/moana-buezas/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698593/aura/gallery/models/girls/moana-buezas/videos/img_2785.mp4",
+      "skipped": false
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

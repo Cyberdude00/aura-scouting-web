@@ -1,0 +1,29 @@
+{
+  "modelQuery": "Joaquin garcia",
+  "gender": "boys",
+  "modelFolderName": "Joaquin garcia",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Joaquin garcia",
+  "totalImages": 2,
+  "uploaded": true,
+  "generatedAt": "2026-03-05T08:14:20.136Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Joaquin garcia\\videos\\intro joaco garcia.mp4",
+      "relativePath": "videos/intro joaco garcia.mp4",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/videos/intro-joaco-garcia",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698457/aura/gallery/models/boys/joaquin-garcia/videos/intro-joaco-garcia.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Joaquin garcia\\videos\\intro JOAQUIN GARCIA IMG_2736.mp4",
+      "relativePath": "videos/intro JOAQUIN GARCIA IMG_2736.mp4",
+      "publicId": "aura/gallery/models/boys/joaquin-garcia/videos/intro-joaquin-garcia-img_2736",
+      "assetFolder": "aura/gallery/models/boys/joaquin-garcia/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698459/aura/gallery/models/boys/joaquin-garcia/videos/intro-joaquin-garcia-img_2736.mp4",
+      "skipped": false
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

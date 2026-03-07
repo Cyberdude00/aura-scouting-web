@@ -1,0 +1,31 @@
+{
+  "modelQuery": "Salih topcouglu",
+  "gender": "boys",
+  "modelFolderName": "Salih topcouglu",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Salih topcouglu",
+  "totalImages": 3,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.865Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Salih topcouglu\\videos\\salih_video1.mp4",
+      "relativePath": "videos/salih_video1.mp4",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/videos/salih_video1",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Salih topcouglu\\videos\\salih_video2.mp4",
+      "relativePath": "videos/salih_video2.mp4",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/videos/salih_video2",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Salih topcouglu\\videos\\salih_video3.mp4",
+      "relativePath": "videos/salih_video3.mp4",
+      "publicId": "aura/gallery/models/boys/salih-topcouglu/videos/salih_video3",
+      "assetFolder": "aura/gallery/models/boys/salih-topcouglu/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

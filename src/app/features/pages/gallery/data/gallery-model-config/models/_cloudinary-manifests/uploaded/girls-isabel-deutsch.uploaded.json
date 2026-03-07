@@ -1,0 +1,21 @@
+{
+  "modelQuery": "Isabel Deutsch",
+  "gender": "girls",
+  "modelFolderName": "Isabel Deutsch",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Isabel Deutsch",
+  "totalImages": 1,
+  "uploaded": true,
+  "generatedAt": "2026-03-05T08:15:53.244Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Isabel Deutsch\\videos\\ISABEL-DEUTSCH-VIDEO-2.mp4",
+      "relativePath": "videos/ISABEL-DEUTSCH-VIDEO-2.mp4",
+      "publicId": "aura/gallery/models/girls/isabel-deutsch/videos/isabel-deutsch-video-2",
+      "assetFolder": "aura/gallery/models/girls/isabel-deutsch/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698552/aura/gallery/models/girls/isabel-deutsch/videos/isabel-deutsch-video-2.mp4",
+      "skipped": false
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

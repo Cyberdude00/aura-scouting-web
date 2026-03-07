@@ -1,0 +1,37 @@
+{
+  "modelQuery": "Pilar Sampaio",
+  "gender": "girls",
+  "modelFolderName": "Pilar Sampaio",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Pilar Sampaio",
+  "totalImages": 4,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.936Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Pilar Sampaio\\videos\\IMG_3391.mp4",
+      "relativePath": "videos/IMG_3391.mp4",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/videos/img_3391",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Pilar Sampaio\\videos\\IMG_3393 2.mp4",
+      "relativePath": "videos/IMG_3393 2.mp4",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/videos/img_3393-2",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Pilar Sampaio\\videos\\IMG_3393 3.mp4",
+      "relativePath": "videos/IMG_3393 3.mp4",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/videos/img_3393-3",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Pilar Sampaio\\videos\\IMG_3393.mp4",
+      "relativePath": "videos/IMG_3393.mp4",
+      "publicId": "aura/gallery/models/girls/pilar-sampaio/videos/img_3393",
+      "assetFolder": "aura/gallery/models/girls/pilar-sampaio/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

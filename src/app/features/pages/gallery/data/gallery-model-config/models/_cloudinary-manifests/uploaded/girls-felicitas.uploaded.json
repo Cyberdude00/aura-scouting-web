@@ -1,0 +1,53 @@
+{
+  "modelQuery": "Felicitas",
+  "gender": "girls",
+  "modelFolderName": "Felicitas",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Felicitas",
+  "totalImages": 5,
+  "uploaded": true,
+  "generatedAt": "2026-03-05T08:15:47.185Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Felicitas\\videos\\4e82337250f146528ff3e6a067fa28ac.mp4",
+      "relativePath": "videos/4e82337250f146528ff3e6a067fa28ac.mp4",
+      "publicId": "aura/gallery/models/girls/felicitas/videos/4e82337250f146528ff3e6a067fa28ac",
+      "assetFolder": "aura/gallery/models/girls/felicitas/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698537/aura/gallery/models/girls/felicitas/videos/4e82337250f146528ff3e6a067fa28ac.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Felicitas\\videos\\7c684eadf03b42a2853d76d6fa86a3bb.mp4",
+      "relativePath": "videos/7c684eadf03b42a2853d76d6fa86a3bb.mp4",
+      "publicId": "aura/gallery/models/girls/felicitas/videos/7c684eadf03b42a2853d76d6fa86a3bb",
+      "assetFolder": "aura/gallery/models/girls/felicitas/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698539/aura/gallery/models/girls/felicitas/videos/7c684eadf03b42a2853d76d6fa86a3bb.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Felicitas\\videos\\9cdb37b2e5b846858545787220fbdb0a.mp4",
+      "relativePath": "videos/9cdb37b2e5b846858545787220fbdb0a.mp4",
+      "publicId": "aura/gallery/models/girls/felicitas/videos/9cdb37b2e5b846858545787220fbdb0a",
+      "assetFolder": "aura/gallery/models/girls/felicitas/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698541/aura/gallery/models/girls/felicitas/videos/9cdb37b2e5b846858545787220fbdb0a.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Felicitas\\videos\\186a2da6195d4082ad9fd12fabde4d0b.mp4",
+      "relativePath": "videos/186a2da6195d4082ad9fd12fabde4d0b.mp4",
+      "publicId": "aura/gallery/models/girls/felicitas/videos/186a2da6195d4082ad9fd12fabde4d0b",
+      "assetFolder": "aura/gallery/models/girls/felicitas/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698544/aura/gallery/models/girls/felicitas/videos/186a2da6195d4082ad9fd12fabde4d0b.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Felicitas\\videos\\VIDEO-2026-02-19-16-40-02.mp4",
+      "relativePath": "videos/VIDEO-2026-02-19-16-40-02.mp4",
+      "publicId": "aura/gallery/models/girls/felicitas/videos/video-2026-02-19-16-40-02",
+      "assetFolder": "aura/gallery/models/girls/felicitas/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698546/aura/gallery/models/girls/felicitas/videos/video-2026-02-19-16-40-02.mp4",
+      "skipped": false
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

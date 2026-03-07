@@ -1,0 +1,25 @@
+{
+  "modelQuery": "Agos Martinez",
+  "gender": "girls",
+  "modelFolderName": "Agos Martinez",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Agos Martinez",
+  "totalImages": 2,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.879Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Agos Martinez\\videos\\Intro.mp4",
+      "relativePath": "videos/Intro.mp4",
+      "publicId": "aura/gallery/models/girls/agos-martinez/videos/intro",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Agos Martinez\\videos\\Walk.mp4",
+      "relativePath": "videos/Walk.mp4",
+      "publicId": "aura/gallery/models/girls/agos-martinez/videos/walk",
+      "assetFolder": "aura/gallery/models/girls/agos-martinez/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

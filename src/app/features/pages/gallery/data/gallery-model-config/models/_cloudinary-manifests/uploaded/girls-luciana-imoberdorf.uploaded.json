@@ -1,0 +1,29 @@
+{
+  "modelQuery": "Luciana Imoberdorf",
+  "gender": "girls",
+  "modelFolderName": "Luciana Imoberdorf",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Luciana Imoberdorf",
+  "totalImages": 2,
+  "uploaded": true,
+  "generatedAt": "2026-03-05T08:15:56.271Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Luciana Imoberdorf\\videos\\luciana_book_extras_3.mp4",
+      "relativePath": "videos/luciana_book_extras_3.mp4",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/videos/luciana_book_extras_3",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698554/aura/gallery/models/girls/luciana-imoberdorf/videos/luciana_book_extras_3.mp4",
+      "skipped": false
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Luciana Imoberdorf\\videos\\luciana_book_extras_4.mp4",
+      "relativePath": "videos/luciana_book_extras_4.mp4",
+      "publicId": "aura/gallery/models/girls/luciana-imoberdorf/videos/luciana_book_extras_4",
+      "assetFolder": "aura/gallery/models/girls/luciana-imoberdorf/videos",
+      "secureUrl": "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698555/aura/gallery/models/girls/luciana-imoberdorf/videos/luciana_book_extras_4.mp4",
+      "skipped": false
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

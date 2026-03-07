@@ -1,0 +1,37 @@
+{
+  "modelQuery": "Santiago Poggi",
+  "gender": "boys",
+  "modelFolderName": "Santiago Poggi",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Santiago Poggi",
+  "totalImages": 4,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.870Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Santiago Poggi\\videos\\img-6257.mp4",
+      "relativePath": "videos/img-6257.mp4",
+      "publicId": "aura/gallery/models/boys/santiago-poggi/videos/img-6257",
+      "assetFolder": "aura/gallery/models/boys/santiago-poggi/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Santiago Poggi\\videos\\img-8587.mp4",
+      "relativePath": "videos/img-8587.mp4",
+      "publicId": "aura/gallery/models/boys/santiago-poggi/videos/img-8587",
+      "assetFolder": "aura/gallery/models/boys/santiago-poggi/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Santiago Poggi\\videos\\img-8760.mp4",
+      "relativePath": "videos/img-8760.mp4",
+      "publicId": "aura/gallery/models/boys/santiago-poggi/videos/img-8760",
+      "assetFolder": "aura/gallery/models/boys/santiago-poggi/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\Santiago Poggi\\videos\\img-8762.mp4",
+      "relativePath": "videos/img-8762.mp4",
+      "publicId": "aura/gallery/models/boys/santiago-poggi/videos/img-8762",
+      "assetFolder": "aura/gallery/models/boys/santiago-poggi/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

@@ -1,0 +1,19 @@
+{
+  "modelQuery": "juan toffalo",
+  "gender": "boys",
+  "modelFolderName": "juan toffalo",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\juan toffalo",
+  "totalImages": 1,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.836Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\boys\\juan toffalo\\videos\\video-output-5CA6604B-E751-4C94-B9F4-8C958CBBBD57-1.mp4",
+      "relativePath": "videos/video-output-5CA6604B-E751-4C94-B9F4-8C958CBBBD57-1.mp4",
+      "publicId": "aura/gallery/models/boys/juan-toffalo/videos/video-output-5ca6604b-e751-4c94-b9f4-8c958cbbbd57-1",
+      "assetFolder": "aura/gallery/models/boys/juan-toffalo/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

@@ -1,0 +1,31 @@
+{
+  "modelQuery": "Mariana Arias",
+  "gender": "girls",
+  "modelFolderName": "Mariana Arias",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mariana Arias",
+  "totalImages": 3,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.928Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mariana Arias\\videos\\mariana_arias_video_1.mp4",
+      "relativePath": "videos/mariana_arias_video_1.mp4",
+      "publicId": "aura/gallery/models/girls/mariana-arias/videos/mariana_arias_video_1",
+      "assetFolder": "aura/gallery/models/girls/mariana-arias/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mariana Arias\\videos\\mariana_arias_video_2.mp4",
+      "relativePath": "videos/mariana_arias_video_2.mp4",
+      "publicId": "aura/gallery/models/girls/mariana-arias/videos/mariana_arias_video_2",
+      "assetFolder": "aura/gallery/models/girls/mariana-arias/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mariana Arias\\videos\\mariana_arias_video_3.mp4",
+      "relativePath": "videos/mariana_arias_video_3.mp4",
+      "publicId": "aura/gallery/models/girls/mariana-arias/videos/mariana_arias_video_3",
+      "assetFolder": "aura/gallery/models/girls/mariana-arias/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

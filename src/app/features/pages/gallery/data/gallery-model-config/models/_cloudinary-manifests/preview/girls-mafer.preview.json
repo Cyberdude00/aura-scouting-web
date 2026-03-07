@@ -1,0 +1,43 @@
+{
+  "modelQuery": "Mafer",
+  "gender": "girls",
+  "modelFolderName": "Mafer",
+  "sourceFolder": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mafer",
+  "totalImages": 5,
+  "uploaded": false,
+  "generatedAt": "2026-03-05T08:13:16.923Z",
+  "items": [
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mafer\\videos\\MAFER  B_PASARELA_!.mp4",
+      "relativePath": "videos/MAFER  B_PASARELA_!.mp4",
+      "publicId": "aura/gallery/models/girls/mafer/videos/mafer-b_pasarela_-",
+      "assetFolder": "aura/gallery/models/girls/mafer/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mafer\\videos\\MAFER B_PASARELA_2.mp4",
+      "relativePath": "videos/MAFER B_PASARELA_2.mp4",
+      "publicId": "aura/gallery/models/girls/mafer/videos/mafer-b_pasarela_2",
+      "assetFolder": "aura/gallery/models/girls/mafer/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mafer\\videos\\MAFER B_PERSONALIDAD INGLES_2.mp4",
+      "relativePath": "videos/MAFER B_PERSONALIDAD INGLES_2.mp4",
+      "publicId": "aura/gallery/models/girls/mafer/videos/mafer-b_personalidad-ingles_2",
+      "assetFolder": "aura/gallery/models/girls/mafer/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mafer\\videos\\MAFER B_PRESENTACION INGLES_1.mp4",
+      "relativePath": "videos/MAFER B_PRESENTACION INGLES_1.mp4",
+      "publicId": "aura/gallery/models/girls/mafer/videos/mafer-b_presentacion-ingles_1",
+      "assetFolder": "aura/gallery/models/girls/mafer/videos"
+    },
+    {
+      "localPath": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized\\girls\\Mafer\\videos\\MAFER B_PRESENTACION INGLES_2.mp4",
+      "relativePath": "videos/MAFER B_PRESENTACION INGLES_2.mp4",
+      "publicId": "aura/gallery/models/girls/mafer/videos/mafer-b_presentacion-ingles_2",
+      "assetFolder": "aura/gallery/models/girls/mafer/videos"
+    }
+  ],
+  "completed": true,
+  "checkpointEvery": 1
+}

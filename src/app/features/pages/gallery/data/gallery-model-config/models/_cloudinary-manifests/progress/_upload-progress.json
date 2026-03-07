@@ -1,0 +1,144 @@
+{
+  "status": "done",
+  "mode": "upload",
+  "sourceRoot": "C:\\Users\\emman\\Desktop\\Aura\\Models media\\optimized",
+  "finishedAt": "2026-03-05T08:16:50.566Z",
+  "queueLength": 32,
+  "queue": [
+    {
+      "gender": "boys",
+      "model": "Adan"
+    },
+    {
+      "gender": "boys",
+      "model": "Alan Marquez"
+    },
+    {
+      "gender": "boys",
+      "model": "Angel Bret"
+    },
+    {
+      "gender": "boys",
+      "model": "Belisario"
+    },
+    {
+      "gender": "boys",
+      "model": "Bernardo Romano"
+    },
+    {
+      "gender": "boys",
+      "model": "Emmanuel"
+    },
+    {
+      "gender": "boys",
+      "model": "Joaquin garcia"
+    },
+    {
+      "gender": "boys",
+      "model": "juan toffalo"
+    },
+    {
+      "gender": "boys",
+      "model": "Laurencio Leal"
+    },
+    {
+      "gender": "boys",
+      "model": "Lautaro Rodriguez"
+    },
+    {
+      "gender": "boys",
+      "model": "Lucas Tarrago"
+    },
+    {
+      "gender": "boys",
+      "model": "Manu Llofrein"
+    },
+    {
+      "gender": "boys",
+      "model": "Salih topcouglu"
+    },
+    {
+      "gender": "boys",
+      "model": "Santiago Poggi"
+    },
+    {
+      "gender": "boys",
+      "model": "Santiago zezular"
+    },
+    {
+      "gender": "girls",
+      "model": "Agos Martinez"
+    },
+    {
+      "gender": "girls",
+      "model": "Alicia Vallecilla"
+    },
+    {
+      "gender": "girls",
+      "model": "Doga Bursali"
+    },
+    {
+      "gender": "girls",
+      "model": "Elina"
+    },
+    {
+      "gender": "girls",
+      "model": "Emilia Bryan"
+    },
+    {
+      "gender": "girls",
+      "model": "Eugenia Lagrenade"
+    },
+    {
+      "gender": "girls",
+      "model": "Eva"
+    },
+    {
+      "gender": "girls",
+      "model": "Felicitas"
+    },
+    {
+      "gender": "girls",
+      "model": "Genesis"
+    },
+    {
+      "gender": "girls",
+      "model": "Isabel Deutsch"
+    },
+    {
+      "gender": "girls",
+      "model": "Luciana Imoberdorf"
+    },
+    {
+      "gender": "girls",
+      "model": "Mafer"
+    },
+    {
+      "gender": "girls",
+      "model": "Mariana Arias"
+    },
+    {
+      "gender": "girls",
+      "model": "Moana Buezas"
+    },
+    {
+      "gender": "girls",
+      "model": "Pilar Sampaio"
+    },
+    {
+      "gender": "girls",
+      "model": "Victoria"
+    },
+    {
+      "gender": "girls",
+      "model": "Zoe"
+    }
+  ],
+  "completedModels": 32,
+  "totals": {
+    "uploaded": 66,
+    "skipped": 0,
+    "pruneCandidates": 0,
+    "pruned": 0
+  }
+}

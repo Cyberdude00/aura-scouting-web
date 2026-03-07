@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-03-05T18:13:11.084Z",
+  "source": {
+    "manifestsDir": "src\\app\\features\\pages\\gallery\\data\\gallery-model-config\\models\\_cloudinary-manifests",
+    "dataFiles": [
+      "src/app/features/pages/gallery/data/gallery-models-boys.data.ts",
+      "src/app/features/pages/gallery/data/gallery-models-girls.data.ts"
+    ]
+  },
+  "totals": {
+    "uploadedManifestFiles": 32,
+    "previewManifestFiles": 26,
+    "uploadedItems": 1511,
+    "previewItems": 429,
+    "codeUrls": 2325,
+    "modelsTracked": 32
+  },
+  "models": {
+    "boys/adan": {
+      "gender": "boys",
+      "modelSlug": "adan",
+      "cloudUploaded": 4,
+      "cloudPreview": 4,
+      "codeUrls": 33
+    },
+    "boys/alan-marquez": {
+      "gender": "boys",
+      "modelSlug": "alan-marquez",
+      "cloudUploaded": 5,
+      "cloudPreview": 5,
+      "codeUrls": 41
+    },
+    "boys/angel-bret": {
+      "gender": "boys",
+      "modelSlug": "angel-bret",
+      "cloudUploaded": 4,
+      "cloudPreview": 4,
+      "codeUrls": 42
+    },
+    "boys/belisario": {
+      "gender": "boys",
+      "modelSlug": "belisario",
+      "cloudUploaded": 56,
+      "cloudPreview": 0,
+      "codeUrls": 63
+    },
+    "boys/bernardo-romano": {
+      "gender": "boys",
+      "modelSlug": "bernardo-romano",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 39
+    },
+    "boys/emmanuel": {
+      "gender": "boys",
+      "modelSlug": "emmanuel",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 67
+    },
+    "boys/joaquin-garcia": {
+      "gender": "boys",
+      "modelSlug": "joaquin-garcia",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 9
+    },
+    "boys/juan-toffalo": {
+      "gender": "boys",
+      "modelSlug": "juan-toffalo",
+      "cloudUploaded": 1,
+      "cloudPreview": 1,
+      "codeUrls": 28
+    },
+    "boys/laurencio-leal": {
+      "gender": "boys",
+      "modelSlug": "laurencio-leal",
+      "cloudUploaded": 60,
+      "cloudPreview": 0,
+      "codeUrls": 67
+    },
+    "boys/lautaro-rodriguez": {
+      "gender": "boys",
+      "modelSlug": "lautaro-rodriguez",
+      "cloudUploaded": 1,
+      "cloudPreview": 1,
+      "codeUrls": 32
+    },
+    "boys/lucas-tarrago": {
+      "gender": "boys",
+      "modelSlug": "lucas-tarrago",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 43
+    },
+    "boys/manu-llofrein": {
+      "gender": "boys",
+      "modelSlug": "manu-llofrein",
+      "cloudUploaded": 640,
+      "cloudPreview": 0,
+      "codeUrls": 647
+    },
+    "boys/salih-topcouglu": {
+      "gender": "boys",
+      "modelSlug": "salih-topcouglu",
+      "cloudUploaded": 3,
+      "cloudPreview": 3,
+      "codeUrls": 33
+    },
+    "boys/santiago-poggi": {
+      "gender": "boys",
+      "modelSlug": "santiago-poggi",
+      "cloudUploaded": 4,
+      "cloudPreview": 4,
+      "codeUrls": 37
+    },
+    "boys/santiago-zezular": {
+      "gender": "boys",
+      "modelSlug": "santiago-zezular",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 28
+    },
+    "girls/agos-martinez": {
+      "gender": "girls",
+      "modelSlug": "agos-martinez",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 36
+    },
+    "girls/alicia-vallecilla": {
+      "gender": "girls",
+      "modelSlug": "alicia-vallecilla",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 30
+    },
+    "girls/doga-bursali": {
+      "gender": "girls",
+      "modelSlug": "doga-bursali",
+      "cloudUploaded": 65,
+      "cloudPreview": 0,
+      "codeUrls": 64
+    },
+    "girls/elina": {
+      "gender": "girls",
+      "modelSlug": "elina",
+      "cloudUploaded": 141,
+      "cloudPreview": 0,
+      "codeUrls": 148
+    },
+    "girls/emilia-bryan": {
+      "gender": "girls",
+      "modelSlug": "emilia-bryan",
+      "cloudUploaded": 4,
+      "cloudPreview": 4,
+      "codeUrls": 36
+    },
+    "girls/eugenia-lagrenade": {
+      "gender": "girls",
+      "modelSlug": "eugenia-lagrenade",
+      "cloudUploaded": 120,
+      "cloudPreview": 0,
+      "codeUrls": 124
+    },
+    "girls/eva": {
+      "gender": "girls",
+      "modelSlug": "eva",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 56
+    },
+    "girls/felicitas": {
+      "gender": "girls",
+      "modelSlug": "felicitas",
+      "cloudUploaded": 5,
+      "cloudPreview": 5,
+      "codeUrls": 40
+    },
+    "girls/genesis": {
+      "gender": "girls",
+      "modelSlug": "genesis",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 31
+    },
+    "girls/isabel-deutsch": {
+      "gender": "girls",
+      "modelSlug": "isabel-deutsch",
+      "cloudUploaded": 1,
+      "cloudPreview": 1,
+      "codeUrls": 10
+    },
+    "girls/luciana-imoberdorf": {
+      "gender": "girls",
+      "modelSlug": "luciana-imoberdorf",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 23
+    },
+    "girls/mafer": {
+      "gender": "girls",
+      "modelSlug": "mafer",
+      "cloudUploaded": 5,
+      "cloudPreview": 5,
+      "codeUrls": 40
+    },
+    "girls/mariana-arias": {
+      "gender": "girls",
+      "modelSlug": "mariana-arias",
+      "cloudUploaded": 3,
+      "cloudPreview": 3,
+      "codeUrls": 38
+    },
+    "girls/moana-buezas": {
+      "gender": "girls",
+      "modelSlug": "moana-buezas",
+      "cloudUploaded": 2,
+      "cloudPreview": 2,
+      "codeUrls": 25
+    },
+    "girls/pilar-sampaio": {
+      "gender": "girls",
+      "modelSlug": "pilar-sampaio",
+      "cloudUploaded": 4,
+      "cloudPreview": 4,
+      "codeUrls": 36
+    },
+    "girls/victoria": {
+      "gender": "girls",
+      "modelSlug": "victoria",
+      "cloudUploaded": 311,
+      "cloudPreview": 311,
+      "codeUrls": 319
+    },
+    "girls/zoe": {
+      "gender": "girls",
+      "modelSlug": "zoe",
+      "cloudUploaded": 52,
+      "cloudPreview": 52,
+      "codeUrls": 60
+    }
+  }
+}
