@@ -21,5 +21,11 @@ export const routes: Routes = [
             .then(m => m.GalleryGroupPageComponent)
       }
     ]
+  },
+  {
+    path: 'admin',
+    loadComponent: () =>
+      import('./features/admin-panel/admin-panel.component')
+        .then(m => m.GalleryAdminPanelComponent)
   }
 ];

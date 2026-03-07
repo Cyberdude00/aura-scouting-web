@@ -23,7 +23,15 @@ import { GalleryPageStateService } from './services/gallery-page-state.service';
   ],
   providers: [GalleryPageStateService, GalleryOverlayScrollService, GalleryPageSeoService, GalleryCoverPreloadService],
   templateUrl: './gallery-group-page.component.html',
-  styleUrl: './gallery-group-page.component.scss',
+  styles: [
+    `.gallery-page {
+      min-height: 100vh;
+      background: #181818;
+      color: #fff;
+      font-family: var(--font-main);
+      scroll-behavior: smooth;
+    }`
+  ],
 })
 export class GalleryGroupPageComponent implements OnDestroy {
   gallery: GalleryGroup | null = null;
