@@ -11,28 +11,6 @@
   gap: var(--space-2);
 }
 
-.unit-switch {
-  display: inline-flex;
-  align-self: center;
-  justify-self: center;
-  border: 1px solid #3b3b3b;
-  border-radius: var(--radius-pill);
-  overflow: hidden;
-}
-
-.unit-switch .btn-pill-muted {
-  border: 0;
-  border-radius: 0;
-}
-
-.unit-switch .btn-pill-muted.active {
-  background: var(--color-accent);
-  color: #fff;
-}
-
-.fullbook-download {
-  white-space: nowrap;
-}
 
 .model-meta {
   display: flex;
