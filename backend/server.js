@@ -91,11 +91,7 @@ const modelSubmissionValidation = [
     .isLength({ min: 10, max: 1000 })
     .withMessage('About me must be between 10 and 1000 characters'),
 
-  body('cellphone')
-    .trim()
-    .notEmpty().withMessage('Cellphone is required')
-    .matches(/^[0-9+\-\s()]{7,20}$/)
-    .withMessage('Invalid phone number format')
+  // Cellphone validation removed
 ];
 
 // Route
@@ -119,7 +115,7 @@ app.post(
         email,
         social_network,
         about_me,
-        cellphone
+        location
       } = req.body;
 
       const photo = req.file;
@@ -135,8 +131,8 @@ app.post(
           <p><strong>Height:</strong> ${height}cm</p>
           <p><strong>Email:</strong> ${email}</p>
           <p><strong>Social Network:</strong> ${social_network}</p>
+          <p><strong>Mother Agency:</strong> ${location}</p>
           <p><strong>About me:</strong> ${about_me}</p>
-          <p><strong>Cellphone:</strong> ${cellphone}</p>
         `,
         attachments: photo
           ? [
