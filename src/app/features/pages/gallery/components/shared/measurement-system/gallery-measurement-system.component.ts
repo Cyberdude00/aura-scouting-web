@@ -29,11 +29,11 @@ export class Measurements implements OnDestroy {
   }
 
   get canDownloadFullbook(): boolean {
-    return this.getFullbookMedia().length > 0 && !this.isDownloadingFullbook;
+    return !this.isDownloadingFullbook;
   }
 
   get hasFullbookMedia(): boolean {
-    return this.getFullbookMedia().length > 0;
+    return Boolean(this.model?.fullMaterial);
   }
 
   get showFullbookButton(): boolean {
@@ -45,16 +45,14 @@ export class Measurements implements OnDestroy {
       return;
     }
 
-    // Construir objeto con todas las secciones
     const material: ModelMaterialSections = {
-      book: this.model.portfolio ?? [],
-      extraMaterial: (this.model.fullMaterialMedia ?? []).filter((url) => url.includes('extraMaterial')),
-      polas: (this.model.fullMaterialMedia ?? []).filter((url) => url.includes('polas')),
-      extraSnaps: (this.model.fullMaterialMedia ?? []).filter((url) => url.includes('extraSnaps')),
-      videos: (this.model.fullMaterialMedia ?? []).filter((url) => url.match(/\.(mp4|webm|mov)$/)),
+      book: this.model.book ?? [],
+      extraMaterial: this.model.extraMaterial ?? [],
+      polas: this.model.polas ?? [],
+      extraSnaps: this.model.extraSnaps ?? [],
+      videos: this.model.videos ?? [],
     };
 
-    // Si no hay material, no descargar
     const totalMedia = Object.values(material).reduce((acc, arr) => acc + arr.length, 0);
     if (totalMedia === 0) {
       return;

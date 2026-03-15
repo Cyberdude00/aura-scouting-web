@@ -22,12 +22,14 @@
   place-items: center;
 }
 
+
 .viewer-media-wrap img,
 .viewer-media-wrap video {
+  aspect-ratio: 3 / 4;
   max-width: 100%;
   max-height: min(78vh, 680px);
   border-radius: 16px;
-  object-fit: contain;
+  object-fit: cover;
   background: var(--color-light);
   transition: transform 220ms ease;
 }

@@ -1,26 +1,12 @@
-
-declare global {
-  interface ImportMeta {
-    env: {
-      NG_APP_CACHE_BUSTER?: string;
-      [key: string]: any;
-    };
-  }
-}
-
-import { GalleryModel, ScoutingModel } from '../scouting-model.types';
-import { slugifyValue } from '../../utils';
+  import { GalleryModel, ScoutingModel } from '../scouting-model.types';
+  import { slugifyValue } from '../../utils';
 
 function resolveCacheBuster(): string {
-  // Acceso directo para SSR/Vite
-  return String((import.meta.env?.NG_APP_CACHE_BUSTER ?? '')).trim();
+  return String((import.meta as any).env?.NG_APP_CACHE_BUSTER ?? '').trim();
 }
 
 function applyCacheBuster(url: string, cacheBuster: string): string {
-  if (!cacheBuster || !url) {
-    return url;
-  }
-
+  if (!cacheBuster || !url) return url;
   try {
     const parsed = new URL(url);
     parsed.searchParams.set('v', cacheBuster);
@@ -30,16 +16,8 @@ function applyCacheBuster(url: string, cacheBuster: string): string {
   }
 }
 
-export function resolveOngoingTrip(status: 'on' | 'off', model: ScoutingModel): boolean {
-  if (status === 'off') {
-    return true;
-  }
-
-  if (status === 'on') {
-    return false;
-  }
-
-  return model.availability === 'off';
+export function resolveOngoingTrip(status: 'on' | 'off'): boolean {
+  return status === 'off';
 }
 
 type PortfolioSections = {
@@ -51,38 +29,17 @@ type PortfolioSections = {
   other: string[];
 };
 
-function normalizeMediaPath(mediaPath: string): string {
-  return mediaPath.toLowerCase();
-}
-
-function normalizeMediaKey(mediaPath: string): string {
-  return normalizeMediaPath(mediaPath).replace(/[^a-z]/g, '');
-}
+const normalizeMediaPath = (mediaPath: string) => mediaPath.toLowerCase();
+const normalizeMediaKey = (mediaPath: string) => normalizeMediaPath(mediaPath).replace(/[^a-z]/g, '');
 
 function detectSection(mediaPath: string): keyof PortfolioSections {
   const normalized = normalizeMediaPath(mediaPath);
   const key = normalizeMediaKey(mediaPath);
-
-  if (/\.(mp4|webm|mov)(?:\?|#|$)/i.test(normalized) || normalized.includes('/videos/')) {
-    return 'videos';
-  }
-
-  if (key.includes('extramaterial') || key.includes('extramateiral')) {
-    return 'extraMaterial';
-  }
-
-  if (key.includes('extrasnaps') || key.includes('extrasnas')) {
-    return 'extraSnaps';
-  }
-
-  if (/\/[^/]*book[^/]*\//.test(normalized) || key.includes('book')) {
-    return 'book';
-  }
-
-  if (/\/[^/]*(polas|pola|snaps|snap)[^/]*\//.test(normalized) || key.includes('polas') || key.includes('snaps')) {
-    return 'polas';
-  }
-
+  if (/\.(mp4|webm|mov)(?:\?|#|$)/i.test(normalized) || normalized.includes('/videos/')) return 'videos';
+  if (key.includes('extramaterial') || key.includes('extramateiral')) return 'extraMaterial';
+  if (key.includes('extrasnaps') || key.includes('extrasnas')) return 'extraSnaps';
+  if (/\/[^/]*book[^/]*\//.test(normalized) || key.includes('book')) return 'book';
+  if (/\/[^/]*(polas|pola|snaps|snap)[^/]*\//.test(normalized) || key.includes('polas') || key.includes('snaps')) return 'polas';
   return 'other';
 }
 
@@ -106,64 +63,40 @@ function splitPortfolioBySection(items: string[]): PortfolioSections {
 
 function collectBaseSections(model: ScoutingModel): PortfolioSections {
   const sections = emptySections();
-
   pushUnique(sections.book, model.book ?? []);
   pushUnique(sections.extraMaterial, model.extraMaterial ?? []);
   pushUnique(sections.polas, model.polas ?? []);
   pushUnique(sections.extraSnaps, model.extraSnaps ?? []);
   pushUnique(sections.videos, model.videos ?? []);
-
-  const legacyPortfolio = (model.portfolio ?? []).filter(
-    (item): item is string => typeof item === 'string' && item.trim().length > 0,
-  );
-
-  if (!legacyPortfolio.length) {
-    return sections;
+  const legacyPortfolio = (model.portfolio ?? []).filter((item): item is string => typeof item === 'string' && item.trim().length > 0);
+  if (legacyPortfolio.length) {
+    const splitLegacy = splitPortfolioBySection(legacyPortfolio);
+    pushUnique(sections.book, splitLegacy.book);
+    pushUnique(sections.extraMaterial, splitLegacy.extraMaterial);
+    pushUnique(sections.polas, splitLegacy.polas);
+    pushUnique(sections.extraSnaps, splitLegacy.extraSnaps);
+    pushUnique(sections.videos, splitLegacy.videos);
+    pushUnique(sections.other, splitLegacy.other);
   }
-
-  const splitLegacy = splitPortfolioBySection(legacyPortfolio);
-  pushUnique(sections.book, splitLegacy.book);
-  pushUnique(sections.extraMaterial, splitLegacy.extraMaterial);
-  pushUnique(sections.polas, splitLegacy.polas);
-  pushUnique(sections.extraSnaps, splitLegacy.extraSnaps);
-  pushUnique(sections.videos, splitLegacy.videos);
-  pushUnique(sections.other, splitLegacy.other);
-
   return sections;
 }
 
 function pushUnique(target: string[], items: string[]) {
-  for (const item of items) {
-    if (!target.includes(item)) {
-      target.push(item);
-    }
-  }
+  for (const item of items) if (!target.includes(item)) target.push(item);
 }
 
 function normalizeFullMaterial(model: ScoutingModel): PortfolioSections {
   const sections = emptySections();
   const full = model.fullMaterialData;
-
-  if (!full) {
-    return sections;
-  }
-
-  pushUnique(sections.extraMaterial, full.extraMaterial ?? []);
-  pushUnique(sections.polas, full.polas ?? []);
-  pushUnique(sections.extraSnaps, full.extraSnaps ?? []);
-  pushUnique(sections.videos, full.videos ?? []);
-
+  pushUnique(sections.extraMaterial, [...(model.extraMaterial ?? []), ...(full?.extraMaterial ?? [])]);
+  pushUnique(sections.polas, [...(model.polas ?? []), ...(full?.polas ?? [])]);
+  pushUnique(sections.extraSnaps, [...(model.extraSnaps ?? []), ...(full?.extraSnaps ?? [])]);
+  pushUnique(sections.videos, [...(model.videos ?? []), ...(full?.videos ?? [])]);
   return sections;
 }
 
 function buildOrderedPortfolio(base: PortfolioSections, full: PortfolioSections, fullbookOn: boolean): string[] {
-  if (!fullbookOn) {
-    return [
-      ...base.book,
-      ...base.polas,
-    ];
-  }
-
+  if (!fullbookOn) return [...base.book, ...base.polas];
   return [
     ...base.book,
     ...full.extraMaterial,
@@ -184,18 +117,21 @@ export function toGalleryModel(
   const normalizedFull = normalizeFullMaterial(model);
   const fullbookOn = fullbookStatus === 'on';
   const cacheBuster = resolveCacheBuster();
-  const portfolio = buildOrderedPortfolio(baseSections, normalizedFull, fullbookOn)
-    .map((media) => applyCacheBuster(media, cacheBuster));
-  const fullMaterialMedia = [
-    ...normalizedFull.extraMaterial,
-    ...normalizedFull.polas,
-    ...normalizedFull.extraSnaps,
-    ...normalizedFull.videos,
-  ].map((media) => applyCacheBuster(media, cacheBuster));
 
-  const instagram = (model.instagram ?? []).filter(
-    (item): item is string => typeof item === 'string' && item.trim().length > 0,
-  );
+  const book = (model.book ?? []).map(media => applyCacheBuster(media, cacheBuster));
+  const polas = (model.polas ?? []).map(media => applyCacheBuster(media, cacheBuster));
+  const extraMaterial = [...(model.extraMaterial ?? []), ...(model.fullMaterialData?.extraMaterial ?? [])].map(media => applyCacheBuster(media, cacheBuster));
+  const extraSnaps = [...(model.extraSnaps ?? []), ...(model.fullMaterialData?.extraSnaps ?? [])].map(media => applyCacheBuster(media, cacheBuster));
+  const videos = [...(model.videos ?? []), ...(model.fullMaterialData?.videos ?? [])].map(media => applyCacheBuster(media, cacheBuster));
+
+  const instagram = (model.instagram ?? []).filter((item): item is string => typeof item === 'string' && item.trim().length > 0);
+
+  const fullMaterialMedia = [
+    ...(model.fullMaterialData?.extraMaterial ?? []),
+    ...(model.fullMaterialData?.polas ?? []),
+    ...(model.fullMaterialData?.extraSnaps ?? []),
+    ...(model.fullMaterialData?.videos ?? [])
+  ].map(media => applyCacheBuster(media, cacheBuster));
 
   return {
     id,
@@ -204,17 +140,18 @@ export function toGalleryModel(
     cover: applyCacheBuster(model.photo, cacheBuster),
     height: model.height,
     measurements: model.measurements,
-    bust: model.bust,
-    waist: model.waist,
-    hips: model.hips,
     hair: model.hair,
     eyes: model.eyes,
     shoe: model.shoe,
-    ongoingTrip: resolveOngoingTrip(status, model),
+    ongoingTrip: resolveOngoingTrip(status),
     fullMaterial: fullbookOn,
     fullMaterialMedia,
-    portfolio,
+    book,
+    polas,
+    extraMaterial,
+    extraSnaps,
+    videos,
     instagram,
-    download: model.download,
+    portfolio: buildOrderedPortfolio(baseSections, normalizedFull, fullbookOn),
   };
 }

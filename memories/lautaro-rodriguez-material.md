@@ -1,0 +1,77 @@
+# Material real en Cloudinary
+
+## lautaro-rodriguez
+- videos:
+  - https://res.cloudinary.com/dcxaitngm/video/upload/v1772698466/aura/gallery/models/boys/lautaro-rodriguez/videos/img_2377.mp4
+- extra-polas:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772655004/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_10.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772655002/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_9.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772655001/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_8.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772655000/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_7.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772655000/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_6.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654999/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_5.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654998/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_4.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654997/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_3.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654996/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_2.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654995/aura/gallery/models/boys/lautaro-rodriguez/extra-polas/lautaro_snaps_extras_1.jpg
+- extra-material:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654994/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_27.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654993/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_26.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654992/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_25.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654991/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_24.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654989/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_23.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654987/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_22.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654986/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_21.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654985/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_20.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654983/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_19.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654982/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_18.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654981/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_17.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654980/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_16.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654979/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_15.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654978/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_14.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654977/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_13.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654976/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_12.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654975/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_11.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654974/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_10.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654972/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_9.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654971/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_8.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654970/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_7.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654969/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_6.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654966/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_5.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654965/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_4.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654964/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_3.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654963/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_2.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654961/aura/gallery/models/boys/lautaro-rodriguez/extra-material/lautaro_book_extras_1.jpg
+- polas:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658972/aura/gallery/models/boys/lautaro-rodriguez/polas/img_0120.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658972/aura/gallery/models/boys/lautaro-rodriguez/polas/img_0103.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658971/aura/gallery/models/boys/lautaro-rodriguez/polas/img_0091.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658970/aura/gallery/models/boys/lautaro-rodriguez/polas/img_0071.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658969/aura/gallery/models/boys/lautaro-rodriguez/polas/img_0050.jpg
+- book:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658968/aura/gallery/models/boys/lautaro-rodriguez/book/whatsapp-image-2026-01-27-at-11-13-48.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658968/aura/gallery/models/boys/lautaro-rodriguez/book/whatsapp-image-2026-01-27-at-11-13-48-2-.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658967/aura/gallery/models/boys/lautaro-rodriguez/book/whatsapp-image-2026-01-27-at-11-13-48-1-.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658966/aura/gallery/models/boys/lautaro-rodriguez/book/mar_6907.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658965/aura/gallery/models/boys/lautaro-rodriguez/book/mar_6229.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658964/aura/gallery/models/boys/lautaro-rodriguez/book/mar_6191.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658961/aura/gallery/models/boys/lautaro-rodriguez/book/mar_5947.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658960/aura/gallery/models/boys/lautaro-rodriguez/book/lautaro_rodriguez_book_14.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658959/aura/gallery/models/boys/lautaro-rodriguez/book/lautaro_rodriguez_book_08.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658958/aura/gallery/models/boys/lautaro-rodriguez/book/lautaro_rodriguez_book_03.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658957/aura/gallery/models/boys/lautaro-rodriguez/book/lautaro-by-karen-mortenson-test---january-2025-9.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658956/aura/gallery/models/boys/lautaro-rodriguez/book/lautaro-by-karen-mortenson-test---january-2025-2.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658955/aura/gallery/models/boys/lautaro-rodriguez/book/lautaro-by-karen-mortenson-test---january-2025-1.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658955/aura/gallery/models/boys/lautaro-rodriguez/book/img_e2801.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658954/aura/gallery/models/boys/lautaro-rodriguez/book/img_6286edit.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658953/aura/gallery/models/boys/lautaro-rodriguez/book/img_6183edit.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658953/aura/gallery/models/boys/lautaro-rodriguez/book/img_6156edit.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658952/aura/gallery/models/boys/lautaro-rodriguez/book/img_6134edit.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658951/aura/gallery/models/boys/lautaro-rodriguez/book/img_0378.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658950/aura/gallery/models/boys/lautaro-rodriguez/book/bafw2024_0906_162751_0416_-mr-1-.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658950/aura/gallery/models/boys/lautaro-rodriguez/book/0871-copy-2web.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658949/aura/gallery/models/boys/lautaro-rodriguez/book/0715-copy-22.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658948/aura/gallery/models/boys/lautaro-rodriguez/book/0497-copy-2eb.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658946/aura/gallery/models/boys/lautaro-rodriguez/book/0484-copy2.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658946/aura/gallery/models/boys/lautaro-rodriguez/book/0460-copyweb.jpg
+

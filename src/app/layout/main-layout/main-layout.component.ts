@@ -7,7 +7,7 @@ import { Router, RouterOutlet } from '@angular/router';
 @Component({
   selector: 'app-main-layout',
   imports: [CommonModule, Navigation, Footer, RouterOutlet],
-  templateUrl: './main-layout.component.html', // File name is correct for Angular convention
+  templateUrl: './main-layout.component.html',
 })
 export class MainLayout {
   constructor(private readonly router: Router) {}

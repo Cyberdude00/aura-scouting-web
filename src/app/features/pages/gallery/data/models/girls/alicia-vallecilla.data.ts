@@ -1,0 +1,81 @@
+import { ScoutingModel } from '../../scouting-model.types';
+
+export const aliciaVallecilla: ScoutingModel = {
+  name: "Alicia Vallecilla",
+  gender: "Girls",
+  photo: "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659163/aura/gallery/models/girls/alicia-vallecilla/polas/alicia_vallecilla_polas_1.jpg",
+  height: "1.75m",
+  measurements: "B 75cm W 59cm H 89cm",
+  hair: "Black",
+  eyes: "Brown",
+  shoe: "8.5/39",
+  book: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659149/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_1.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659149/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_2.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659150/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_3.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659151/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_4.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659151/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_5.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659152/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_6.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659153/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_7.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659153/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_8.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659154/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_9.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659155/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_10.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659155/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_11.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659156/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_12.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659157/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_13.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659157/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_14.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659158/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_15.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659158/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_16.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659159/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_17.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659160/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_18.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659160/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_19.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659161/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_20.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659161/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_21.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659162/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_22.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659163/aura/gallery/models/girls/alicia-vallecilla/book/alicia_book_23.jpg"
+  ],
+  extraMaterial: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683960/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_1.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683961/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_2.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683962/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_3.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683963/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_4.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683964/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_5.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683965/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_6.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683966/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_7.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683967/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_8.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683968/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_9.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683969/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_10.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683970/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_11.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683971/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_12.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683972/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_13.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683973/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_14.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683974/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_15.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683975/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_16.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683976/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_17.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683977/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_18.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683978/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_19.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683979/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_20.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683980/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_21.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683981/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_22.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683982/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_23.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772683983/aura/gallery/models/girls/alicia-vallecilla/extra-material/alicia_vallencilla_book_extras_24.jpg"
+  ],
+  polas: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659163/aura/gallery/models/girls/alicia-vallecilla/polas/alicia_vallecilla_polas_1.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659164/aura/gallery/models/girls/alicia-vallecilla/polas/alicia_vallecilla_polas_2.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659165/aura/gallery/models/girls/alicia-vallecilla/polas/alicia_vallecilla_polas_3.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659165/aura/gallery/models/girls/alicia-vallecilla/polas/alicia_vallecilla_polas_4.jpg"
+  ],
+  extraSnaps: [],
+  videos: [],
+  fullMaterialData: {
+    extraMaterial: [],
+    polas: [],
+    extraSnaps: [],
+    videos: [
+      "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698512/aura/gallery/models/girls/alicia-vallecilla/videos/20231116_181941446.mp4",
+      "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698514/aura/gallery/models/girls/alicia-vallecilla/videos/20231116_181955521.mp4"
+    ]
+  },
+  instagram: []
+};

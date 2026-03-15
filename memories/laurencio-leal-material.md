@@ -1,0 +1,67 @@
+# Material real en Cloudinary
+
+## laurencio-leal
+- extra-material:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654961/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_33.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654960/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_32.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654958/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_31.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654957/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_30.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654957/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_29.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654955/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_28.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654954/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_27.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654953/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_26.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654952/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_25.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654951/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_24.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654950/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_23.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654949/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_22.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654947/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_21.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654946/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_20.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654945/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_19.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654943/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_18.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654942/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_17.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654941/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_16.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654940/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_15.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654938/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_14.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654937/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_13.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654936/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_12.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654935/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_11.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654934/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_10.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654934/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_9.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654933/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_8.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654932/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_7.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654930/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_6.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654929/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_5.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654928/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_4.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654927/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_3.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654926/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_2.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654925/aura/gallery/models/boys/laurencio-leal/extra-material/laurencio_book_extras_1.jpg
+- polas:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658944/aura/gallery/models/boys/laurencio-leal/polas/22-laurencio-leal-polaroids-ceres.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658943/aura/gallery/models/boys/laurencio-leal/polas/16-laurencio-leal-polaroids-ceres.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658942/aura/gallery/models/boys/laurencio-leal/polas/7-laurencio-leal-polaroids-ceres.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658941/aura/gallery/models/boys/laurencio-leal/polas/3-laurencio-leal-polaroids-ceres.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658940/aura/gallery/models/boys/laurencio-leal/polas/2-laurencio-leal-polaroids-ceres.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658939/aura/gallery/models/boys/laurencio-leal/polas/1-laurencio-leal-polaroids-ceres.jpg
+- book:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658937/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_21.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658937/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_20.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658936/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_19.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658935/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_18.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658935/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_17.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658934/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_16.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658933/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_15.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658932/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_14.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658932/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_13.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658931/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_12.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658930/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_11.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658930/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_10.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658929/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_09.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658928/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_08.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658927/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_07.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658926/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_06.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658925/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_05.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658924/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_04.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658923/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_03.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658922/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_02.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658921/aura/gallery/models/boys/laurencio-leal/book/laurencio_leal_book_01.jpg
+

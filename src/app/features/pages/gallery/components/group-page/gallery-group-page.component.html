@@ -5,6 +5,7 @@
 
   <app-gallery-portfolio-modal
     [model]="selectedModel"
+    [initialIndex]="selectedMediaIndex ?? 0"
     (closed)="closeModel()"
     (mediaSelected)="openMedia($event)"
   ></app-gallery-portfolio-modal>

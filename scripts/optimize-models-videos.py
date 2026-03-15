@@ -8,13 +8,13 @@ VALID_EXTENSIONS = {".mp4", ".mov", ".m4v", ".avi", ".mkv", ".webm"}
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Optimiza videos recursivamente y conserva estructura de carpetas."
+           description="Optimize videos recursively while preserving folder structure."
     )
     parser.add_argument("--input", default=".", help="Carpeta raíz de entrada (default: carpeta actual)")
     parser.add_argument(
         "--output",
         default="./video-optimized",
-        help="Carpeta raíz de salida para videos optimizados (default: ./video-optimized)",
+           help="Root output folder for optimized videos (default: ./video-optimized)",
     )
     parser.add_argument("--crf", type=int, default=28, help="CRF H.264 (menor=mejor calidad, mayor peso)")
     parser.add_argument("--preset", default="medium", help="Preset x264: ultrafast, fast, medium, slow")
@@ -22,7 +22,7 @@ def parse_args() -> argparse.Namespace:
         "--max-height",
         type=int,
         default=1080,
-        help="Altura máxima. Si supera este valor, se escala manteniendo proporción.",
+           help="Maximum height. If it exceeds this value, it scales while maintaining aspect ratio.",
     )
     parser.add_argument("--overwrite", action="store_true", help="Sobrescribe salida si ya existe")
     return parser.parse_args()
@@ -45,7 +45,7 @@ def ensure_ffmpeg_available() -> None:
     try:
         subprocess.run(["ffmpeg", "-version"], check=True, capture_output=True, text=True)
     except Exception as error:
-        raise RuntimeError("ffmpeg no está instalado o no está en PATH") from error
+            raise RuntimeError("ffmpeg is not installed or not in PATH") from error
 
 
 def optimize_video(src: Path, dst: Path, crf: int, preset: str, max_height: int) -> None:

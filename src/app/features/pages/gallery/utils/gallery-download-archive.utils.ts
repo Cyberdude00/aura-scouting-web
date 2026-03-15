@@ -28,7 +28,6 @@ export interface ModelMaterialSections {
 }
 
 export async function downloadFullMaterialZip(modelName: string, material: ModelMaterialSections): Promise<void> {
-  // Unir todas las secciones en una sola lista
   const allMedia: string[] = [
     ...material.book,
     ...material.extraMaterial,
@@ -53,7 +52,6 @@ export async function downloadFullMaterialZip(modelName: string, material: Model
 
       const blob = await response.blob();
       const ext = extensionFromUrl(url);
-      // Nombre de archivo original (última parte de la URL)
       const originalName = url.split('/').pop()?.split('?')[0] || `${baseName}_${String(index + 1).padStart(2, '0')}.${ext}`;
       zip.file(originalName, blob);
     }),

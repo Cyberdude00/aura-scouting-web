@@ -1,12 +1,14 @@
 <main class="grid">
-  @for (model of models; track trackByModelId($index, model)) {
+  @for (model of models; track trackByModelId($index, model); let i = $index) {
     <article
       class="card gallery-media-card"
+      id="model-card-{{model.id}}"
       (click)="openModel(model)"
       (keydown.enter)="openModel(model)"
       tabindex="0"
       role="button"
       [attr.aria-label]="'Open portfolio for ' + model.name"
+      [style.--card-index]="i"
     >
       <div class="media-wrap">
         <img

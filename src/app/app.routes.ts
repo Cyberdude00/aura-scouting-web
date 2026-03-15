@@ -4,7 +4,7 @@ export const routes: Routes = [
   {
     path: '',
     loadComponent: () =>
-      import('./layout/main-layout/main-layout.component') // Path remains for file, but class is MainLayout
+      import('./layout/main-layout/main-layout.component')
         .then(m => m.MainLayout),
     children: [
       {

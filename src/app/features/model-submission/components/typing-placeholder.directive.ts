@@ -25,7 +25,7 @@ export class TypingPlaceholderDirective {
   }
 
   private animateTyping(text: string) {
-    // Old typing animation (not used)
+
     let i = 0;
     this.el.nativeElement.placeholder = '';
     if (this.typingInterval) {

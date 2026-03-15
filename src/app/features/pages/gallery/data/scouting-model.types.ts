@@ -4,13 +4,9 @@ export interface ScoutingModel {
   photo: string;
   height?: string;
   measurements?: string;
-  bust?: string;
-  waist?: string;
-  hips?: string;
   hair?: string;
   eyes?: string;
   shoe?: string;
-  availability?: 'on' | 'off' | string;
   book?: string[];
   extraMaterial?: string[];
   polas?: string[];
@@ -19,7 +15,6 @@ export interface ScoutingModel {
   fullMaterialData?: FullMaterialMedia;
   portfolio?: string[];
   instagram?: string[];
-  download?: string;
 }
 
 export interface FullMaterialMedia {
@@ -36,9 +31,6 @@ export interface GalleryModel {
   cover: string;
   height?: string;
   measurements?: string;
-  bust?: string;
-  waist?: string;
-  hips?: string;
   hair?: string;
   eyes?: string;
   shoe?: string;
@@ -47,7 +39,11 @@ export interface GalleryModel {
   fullMaterialMedia?: string[];
   portfolio: string[];
   instagram: string[];
-  download?: string;
+  book?: string[];
+  polas?: string[];
+  extraMaterial?: string[];
+  extraSnaps?: string[];
+  videos?: string[];
 }
 
 export interface GalleryGroup {

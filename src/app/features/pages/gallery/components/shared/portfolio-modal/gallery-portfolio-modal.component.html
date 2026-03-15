@@ -8,35 +8,109 @@
         <app-gallery-measurement-system [model]="model"></app-gallery-measurement-system>
       </div>
 
-      @if (model.portfolio.length) {
+
+      <!-- Book section -->
+      @if (model.book && model.book.length > 0) {
         <div class="portfolio-grid">
-          @for (media of model.portfolio; track trackByPortfolioItem($index, media); let i = $index) {
-            <div
-              class="portfolio-item gallery-media-card"
-              (click)="openMedia(i)"
-              (keydown.enter)="openMedia(i)"
-              tabindex="0"
-              role="button"
-              [attr.aria-label]="'Open media ' + (i + 1)"
-            >
+          @for (media of model.book; track trackByPortfolioItem($index, media); let i = $index) {
+            <div class="portfolio-item gallery-media-card"
+                 (click)="openMedia(model.portfolio.indexOf(media))"
+                 (keydown.enter)="openMedia(model.portfolio.indexOf(media))"
+                 tabindex="0" role="button" [attr.aria-label]="'Open book ' + (i + 1)"
+                 [style.--media-index]="i">
               @if (isVideo(media)) {
                 <video class="gallery-media-cover" [src]="media" muted playsinline preload="metadata"></video>
               } @else {
-                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' portfolio'" loading="lazy">
-                <button
-                  type="button"
-                  class="download-btn gallery-download-btn ui-smooth-transition"
-                  (click)="downloadMedia($event, media, i)"
-                  aria-label="Download photo"
-                  title="Download photo"
-                >
-                  ⬇
-                </button>
+                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' book'" loading="lazy">
+                <button type="button" class="download-btn gallery-download-btn ui-smooth-transition" (click)="downloadMedia($event, media, i)" aria-label="Download photo" title="Download photo">⬇</button>
               }
             </div>
           }
         </div>
       }
+
+
+      <!-- Extra Material section (fullMaterial only) -->
+      @if (model.fullMaterial && model.extraMaterial && model.extraMaterial.length > 0) {
+        <div class="portfolio-grid">
+          @for (media of model.extraMaterial; track trackByPortfolioItem($index, media); let i = $index) {
+            <div class="portfolio-item gallery-media-card"
+                 (click)="openMedia(model.portfolio.indexOf(media))"
+                 (keydown.enter)="openMedia(model.portfolio.indexOf(media))"
+                 tabindex="0" role="button" [attr.aria-label]="'Open extra material ' + (i + 1)"
+                 [style.--media-index]="i">
+              @if (isVideo(media)) {
+                <video class="gallery-media-cover" [src]="media" muted playsinline preload="metadata"></video>
+              } @else {
+                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' extra material'" loading="lazy">
+                <button type="button" class="download-btn gallery-download-btn ui-smooth-transition" (click)="downloadMedia($event, media, i)" aria-label="Download photo" title="Download photo">⬇</button>
+              }
+            </div>
+          }
+        </div>
+      }
+
+
+      <!-- Polas section -->
+      @if (model.polas && model.polas.length > 0) {
+        <div class="portfolio-grid">
+          @for (media of model.polas; track trackByPortfolioItem($index, media); let i = $index) {
+            <div class="portfolio-item gallery-media-card"
+                 (click)="openMedia(model.portfolio.indexOf(media))"
+                 (keydown.enter)="openMedia(model.portfolio.indexOf(media))"
+                 tabindex="0" role="button" [attr.aria-label]="'Open polas ' + (i + 1)"
+                 [style.--media-index]="i">
+              @if (isVideo(media)) {
+                <video class="gallery-media-cover" [src]="media" muted playsinline preload="metadata"></video>
+              } @else {
+                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' polas'" loading="lazy">
+                <button type="button" class="download-btn gallery-download-btn ui-smooth-transition" (click)="downloadMedia($event, media, i)" aria-label="Download photo" title="Download photo">⬇</button>
+              }
+            </div>
+          }
+        </div>
+      }
+
+
+      <!-- Extra Snaps section (fullMaterial only) -->
+      @if (model.fullMaterial && model.extraSnaps && model.extraSnaps.length > 0) {
+        <div class="portfolio-grid">
+          @for (media of model.extraSnaps; track trackByPortfolioItem($index, media); let i = $index) {
+            <div class="portfolio-item gallery-media-card"
+                 (click)="openMedia(model.portfolio.indexOf(media))"
+                 (keydown.enter)="openMedia(model.portfolio.indexOf(media))"
+                 tabindex="0" role="button" [attr.aria-label]="'Open extra snaps ' + (i + 1)"
+                 [style.--media-index]="i">
+              @if (isVideo(media)) {
+                <video class="gallery-media-cover" [src]="media" muted playsinline preload="metadata"></video>
+              } @else {
+                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' extra snaps'" loading="lazy">
+                <button type="button" class="download-btn gallery-download-btn ui-smooth-transition" (click)="downloadMedia($event, media, i)" aria-label="Download photo" title="Download photo">⬇</button>
+              }
+            </div>
+          }
+        </div>
+      }
+
+
+      <!-- Videos section (fullMaterial only) -->
+      @if (model.fullMaterial && model.videos && model.videos.length > 0) {
+        <div class="portfolio-grid">
+          @for (media of model.videos; track trackByPortfolioItem($index, media); let i = $index) {
+            <div class="portfolio-item gallery-media-card"
+                 (click)="openMedia(model.portfolio.indexOf(media))"
+                 (keydown.enter)="openMedia(model.portfolio.indexOf(media))"
+                 tabindex="0" role="button" [attr.aria-label]="'Open video ' + (i + 1)"
+                 [style.--media-index]="i">
+              <video class="gallery-media-cover" [src]="media" muted playsinline preload="metadata"></video>
+              <button type="button" class="download-btn gallery-download-btn ui-smooth-transition" (click)="downloadMedia($event, media, i)" aria-label="Download video" title="Download video">⬇</button>
+            </div>
+          }
+        </div>
+      }
+
+      <!-- Botón de descarga eliminado de aquí, se moverá junto a las medidas -->
+
     </div>
   </section>
 }

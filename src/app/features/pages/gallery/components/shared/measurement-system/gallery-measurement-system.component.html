@@ -13,10 +13,10 @@
           <button
             type="button"
             class="button-transparent btn-pill-muted"
-            [disabled]!="canDownloadFullbook"
+            [disabled]="!canDownloadFullbook"
             (click)="downloadModelFullbook()"
           >
-            {{ isDownloadingFullbook ? 'Downloading ZIP...' : (hasFullbookMedia ? 'Download Fullbook ZIP' : 'Fullbook Not Available') }}
+            {{ isDownloadingFullbook ? 'Descargando ZIP...' : 'Descargar Full Material ZIP' }}
           </button>
         }
       </div>

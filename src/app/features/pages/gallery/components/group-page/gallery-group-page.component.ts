@@ -79,14 +79,44 @@ export class GalleryGroupPage implements OnDestroy {
 
   }
 
-  openModel(model: GalleryModel): void {
-    this.pageState.openModel(model);
-    this.syncBodyScrollLock();
+  openModel(event: {model: GalleryModel, initialIndex: number}): void {
+    this.pageState.openModel(event.model);
+    if (event.model.portfolio && event.model.portfolio.length > 0) {
+      setTimeout(() => {
+        this.pageState.openMedia(event.initialIndex);
+      }, 0);
+    }
+
+    const scrollToModel = () => {
+      const el = document.getElementById('model-card-' + event.model.id);
+      if (el) {
+        el.scrollIntoView({ behavior: 'auto', block: 'center' });
+        return true;
+      }
+      return false;
+    };
+    if (!scrollToModel()) {
+      const observer = new MutationObserver(() => {
+        if (scrollToModel()) observer.disconnect();
+      });
+      observer.observe(document.body, { childList: true, subtree: true });
+      setTimeout(() => observer.disconnect(), 1000);
+    }
+    this.syncBodyScrollLock('model-card-' + event.model.id);
   }
 
   closeModel(): void {
+    const lastId = this.selectedModel?.id;
     this.pageState.closeModel();
-    this.syncBodyScrollLock();
+    if (lastId) {
+      setTimeout(() => {
+        const el = document.getElementById('model-card-' + lastId);
+        if (el) el.scrollIntoView({ behavior: 'auto', block: 'center' });
+      }, 0);
+      this.syncBodyScrollLock('model-card-' + lastId);
+    } else {
+      this.syncBodyScrollLock();
+    }
   }
 
   openMedia(index: number): void {
@@ -119,7 +149,7 @@ export class GalleryGroupPage implements OnDestroy {
     return this.pageState.selectedMediaPath;
   }
 
-  private syncBodyScrollLock(): void {
-    this.overlayScroll.sync(this.selectedModel !== null || this.selectedMediaIndex !== null);
+  private syncBodyScrollLock(scrollTargetId?: string): void {
+    this.overlayScroll.sync(this.selectedModel !== null || this.selectedMediaIndex !== null, scrollTargetId);
   }
 }

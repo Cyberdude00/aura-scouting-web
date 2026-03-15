@@ -12,7 +12,7 @@ export class ModelGrid {
   private readonly defaultCover = '/images/aura-scouting-logo.png';
 
   @Input() models: GalleryModel[] = [];
-  @Output() modelSelected = new EventEmitter<GalleryModel>();
+  @Output() modelSelected = new EventEmitter<{model: GalleryModel, initialIndex: number}>();
 
   resolveCover(model: GalleryModel): string {
     return model.cover || this.resolvePortfolioFallback(model) || this.defaultCover;
@@ -30,7 +30,14 @@ export class ModelGrid {
   }
 
   openModel(model: GalleryModel): void {
-    this.modelSelected.emit(model);
+
+    const cover = this.resolveCover(model);
+    let initialIndex = 0;
+    if (model.portfolio && model.portfolio.length > 0) {
+      initialIndex = model.portfolio.findIndex(item => item === cover);
+      if (initialIndex === -1) initialIndex = 0;
+    }
+    this.modelSelected.emit({ model, initialIndex });
   }
 
   trackByModelId(_: number, model: GalleryModel): string {

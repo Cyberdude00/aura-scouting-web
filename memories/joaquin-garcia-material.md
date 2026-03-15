@@ -1,0 +1,42 @@
+# Material real en Cloudinary
+
+## joaquin-garcia
+- videos:
+  - https://res.cloudinary.com/dcxaitngm/video/upload/v1772698459/aura/gallery/models/boys/joaquin-garcia/videos/intro-joaquin-garcia-img_2736.mp4
+  - https://res.cloudinary.com/dcxaitngm/video/upload/v1772698457/aura/gallery/models/boys/joaquin-garcia/videos/intro-joaco-garcia.mp4
+- extra-polas:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654886/aura/gallery/models/boys/joaquin-garcia/extra-polas/joaquin_garcia_snaps_extra_8.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654885/aura/gallery/models/boys/joaquin-garcia/extra-polas/joaquin_garcia_snaps_extra_7.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654884/aura/gallery/models/boys/joaquin-garcia/extra-polas/joaquin_garcia_snaps_extra_6.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654883/aura/gallery/models/boys/joaquin-garcia/extra-polas/joaquin_garcia_snaps_extra_5.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654882/aura/gallery/models/boys/joaquin-garcia/extra-polas/joaquin_garcia_snaps_extra_4.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654881/aura/gallery/models/boys/joaquin-garcia/extra-polas/joaquin_garcia_snaps_extra_3.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654880/aura/gallery/models/boys/joaquin-garcia/extra-polas/joaquin_garcia_snaps_extra_2.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654878/aura/gallery/models/boys/joaquin-garcia/extra-polas/joaquin_garcia_snaps_extra_1.jpg
+- book:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654878/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_17.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654877/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_16.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654875/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_15.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654875/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_14.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654873/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_13.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654872/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_12.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654872/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_11.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654871/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_10.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654870/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_09.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654869/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_08.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654868/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_07.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654867/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_06.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654866/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_05.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654865/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_04.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654864/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_03.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654863/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_02.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772654862/aura/gallery/models/boys/joaquin-garcia/book/joaquin_garcia_book_01.jpg
+- polas:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658898/aura/gallery/models/boys/joaquin-garcia/polas/img_4808.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658898/aura/gallery/models/boys/joaquin-garcia/polas/img_4799.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658897/aura/gallery/models/boys/joaquin-garcia/polas/img_4798.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658896/aura/gallery/models/boys/joaquin-garcia/polas/img_4760.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658896/aura/gallery/models/boys/joaquin-garcia/polas/img_4737.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658895/aura/gallery/models/boys/joaquin-garcia/polas/img_4733.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771658894/aura/gallery/models/boys/joaquin-garcia/polas/img_4720.jpg
+

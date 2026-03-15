@@ -1,0 +1,88 @@
+# Material real en Cloudinary
+
+## pilar-sampaio
+- videos:
+  - https://res.cloudinary.com/dcxaitngm/video/upload/v1772698609/aura/gallery/models/girls/pilar-sampaio/videos/img_3393.mp4
+  - https://res.cloudinary.com/dcxaitngm/video/upload/v1772698606/aura/gallery/models/girls/pilar-sampaio/videos/img_3393-3.mp4
+  - https://res.cloudinary.com/dcxaitngm/video/upload/v1772698604/aura/gallery/models/girls/pilar-sampaio/videos/img_3393-2.mp4
+  - https://res.cloudinary.com/dcxaitngm/video/upload/v1772698601/aura/gallery/models/girls/pilar-sampaio/videos/img_3391.mp4
+- extra-snaps:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695522/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_13.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695522/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_12.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695521/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_11.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695520/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_10.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695519/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_9.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695518/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_8.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695517/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_7.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695516/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_6.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695514/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_5.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695514/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_4.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695513/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_3.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695512/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_2.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695511/aura/gallery/models/girls/pilar-sampaio/extra-snaps/pilar_sampaio_snaps_extras_1.jpg
+- extra-material:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695510/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_31.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695509/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_30.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695508/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_29.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695507/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_28.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695506/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_27.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695505/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_26.webp
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695504/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_25.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695504/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_24.webp
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695503/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_23.webp
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695502/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_22.webp
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695501/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_21.webp
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695500/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_20.webp
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695499/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_19.webp
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695498/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_18.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695497/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_17.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695496/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_16.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695495/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_15.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695495/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_14.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695494/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_13.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695493/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_12.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695492/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_11.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695491/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_10.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695491/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_9.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695490/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_8.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695489/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_7.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695489/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_6.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695488/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_5.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695487/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_4.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695486/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_3.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695486/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_2.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1772695484/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_1.jpg
+- polas:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659511/aura/gallery/models/girls/pilar-sampaio/polas/img_2507.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659510/aura/gallery/models/girls/pilar-sampaio/polas/img_2503.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659509/aura/gallery/models/girls/pilar-sampaio/polas/img_2487.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659508/aura/gallery/models/girls/pilar-sampaio/polas/img_2483.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659508/aura/gallery/models/girls/pilar-sampaio/polas/img_2462.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659507/aura/gallery/models/girls/pilar-sampaio/polas/img_2456.jpg
+- book:
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659506/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_25.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659506/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_24.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659505/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_23.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659504/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_22.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659503/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_21.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659502/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_20.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659501/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_19.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659501/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_18.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659500/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_17.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659499/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_16.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659498/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_15.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659497/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_14.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659497/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_13.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659496/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_12.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659495/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_11.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659494/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_10.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659494/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_09.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659493/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_08.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659492/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_07.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659492/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_06.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659491/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_05.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659490/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_04.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659489/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_03.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659489/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_02.jpg
+  - https://res.cloudinary.com/dcxaitngm/image/upload/v1771659488/aura/gallery/models/girls/pilar-sampaio/book/pilar_sampaio_book_01.jpg
+

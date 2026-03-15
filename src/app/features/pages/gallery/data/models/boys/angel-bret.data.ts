@@ -1,0 +1,90 @@
+import { ScoutingModel } from '../../scouting-model.types';
+
+export const angelBret: ScoutingModel = {
+  name: "Angel Bret",
+  gender: "Boys",
+  photo: "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658774/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_1.jpg",
+  height: "1.85m",
+  measurements: "74cm",
+  hair: "Black",
+  eyes: "Brown",
+  shoe: "8.5/42",
+  book: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658751/aura/gallery/models/boys/angel-bret/book/angel_bret_book_1.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658752/aura/gallery/models/boys/angel-bret/book/angel_bret_book_2.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658753/aura/gallery/models/boys/angel-bret/book/angel_bret_book_3.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658753/aura/gallery/models/boys/angel-bret/book/angel_bret_book_4.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658754/aura/gallery/models/boys/angel-bret/book/angel_bret_book_5.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658755/aura/gallery/models/boys/angel-bret/book/angel_bret_book_6.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658755/aura/gallery/models/boys/angel-bret/book/angel_bret_book_7.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658756/aura/gallery/models/boys/angel-bret/book/angel_bret_book_8.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658757/aura/gallery/models/boys/angel-bret/book/angel_bret_book_9.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658758/aura/gallery/models/boys/angel-bret/book/angel_bret_book_10.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658758/aura/gallery/models/boys/angel-bret/book/angel_bret_book_11.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658759/aura/gallery/models/boys/angel-bret/book/angel_bret_book_12.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658760/aura/gallery/models/boys/angel-bret/book/angel_bret_book_13.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658761/aura/gallery/models/boys/angel-bret/book/angel_bret_book_14.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658762/aura/gallery/models/boys/angel-bret/book/angel_bret_book_15.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658762/aura/gallery/models/boys/angel-bret/book/angel_bret_book_16.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658763/aura/gallery/models/boys/angel-bret/book/angel_bret_book_17.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658764/aura/gallery/models/boys/angel-bret/book/angel_bret_book_18.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658764/aura/gallery/models/boys/angel-bret/book/angel_bret_book_19.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658765/aura/gallery/models/boys/angel-bret/book/angel_bret_book_20.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658766/aura/gallery/models/boys/angel-bret/book/angel_bret_book_21.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658766/aura/gallery/models/boys/angel-bret/book/angel_bret_book_22.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658767/aura/gallery/models/boys/angel-bret/book/angel_bret_book_23.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658768/aura/gallery/models/boys/angel-bret/book/angel_bret_book_24.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658769/aura/gallery/models/boys/angel-bret/book/angel_bret_book_25.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658770/aura/gallery/models/boys/angel-bret/book/angel_bret_book_26.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658770/aura/gallery/models/boys/angel-bret/book/angel_bret_book_27.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658771/aura/gallery/models/boys/angel-bret/book/angel_bret_book_28.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658772/aura/gallery/models/boys/angel-bret/book/angel_bret_book_29.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658772/aura/gallery/models/boys/angel-bret/book/angel_bret_book_30.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658773/aura/gallery/models/boys/angel-bret/book/angel_bret_book_31.jpg"
+  ],
+  extraMaterial: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654358/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_1.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654359/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_2.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654360/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_3.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654361/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_4.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654362/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_5.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654363/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_6.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654364/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_7.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654364/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_8.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654365/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_9.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654366/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_10.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654367/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_11.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654368/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_12.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654369/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_13.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654371/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_14.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654372/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_15.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654373/aura/gallery/models/boys/angel-bret/extra-material/angel_brett_book_extras_16.jpg"
+  ],
+  polas: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658774/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_1.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658774/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_2.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658775/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_3.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658776/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_4.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658777/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_5.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771658777/aura/gallery/models/boys/angel-bret/polas/angel_bret_polas_6.jpg"
+  ],
+  extraSnaps: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654374/aura/gallery/models/boys/angel-bret/extra-polas/angel_brett_snaps_extra_1.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654376/aura/gallery/models/boys/angel-bret/extra-polas/angel_brett_snaps_extra_2.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654376/aura/gallery/models/boys/angel-bret/extra-polas/angel_brett_snaps_extra_3.jpg",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654377/aura/gallery/models/boys/angel-bret/extra-polas/angel_brett_snaps_extra_4.jpg"
+  ],
+  videos: [],
+  fullMaterialData: {
+    extraMaterial: [],
+    polas: [],
+    extraSnaps: [],
+    videos: [
+      "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698437/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-1.mp4",
+      "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698438/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-2.mp4",
+      "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698440/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-3.mp4",
+      "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698441/aura/gallery/models/boys/angel-bret/videos/angel-brett-video-4.mp4"
+    ]
+  },
+  instagram: []
+};
