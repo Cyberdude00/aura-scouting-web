@@ -27,7 +27,6 @@ export const moana: ScoutingModel = {
     "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659480/aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_15.jpg",
     "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659481/aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_16.jpg",
     "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659481/aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_17.jpg",
-    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659729/aura/gallery/models/girls/moana-buezas/book/moana_buezas_book_265.jpg"
   ],
   extraMaterial: [
     "https://res.cloudinary.com/dcxaitngm/image/upload/v1772695460/aura/gallery/models/girls/moana-buezas/extra-material/moana_book_extras_1.jpg",
