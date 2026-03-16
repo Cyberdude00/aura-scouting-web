@@ -118,4 +118,12 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'pilar-sampaio', status: 'off', fullbook: 'off' },
     ],
   },
+  {
+    galleryKey: 'kin-agency',
+    galleryName: 'KIN AGENCY',
+    modelIds: [
+      { id: 'isabel-deutsch', status: 'on', fullbook: 'on' },
+      { id: 'luciana-imoberdorf', status: 'on', fullbook: 'on' }
+    ]
+  },
 ];

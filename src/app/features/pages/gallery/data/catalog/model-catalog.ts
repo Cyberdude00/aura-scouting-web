@@ -8,7 +8,6 @@ import { salihTopcouglu } from '../models/boys/salih-topcouglu.data';
 import { maximo } from '../models/boys/maximo.data';
 import { manuLlofrein } from '../models/boys/manu-llofrein.data';
 import { lucasTarrago } from '../models/boys/lucas-tarrago.data';
-import { lucasGarcia } from '../models/boys/lucas-garcia.data';
 import { emmanuel } from '../models/boys/emmanuel.data';
 import { bernardoRomano } from '../models/boys/bernardo-romano.data';
 import { lautaroRodriguez } from '../models/boys/lautaro-rodriguez.data';
@@ -46,7 +45,6 @@ const sourceModels: ScoutingModel[] = [
   maximo,
   manuLlofrein,
   lucasTarrago,
-  lucasGarcia,
   emmanuel,
   bernardoRomano,
   lautaroRodriguez,
