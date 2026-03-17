@@ -1,0 +1,84 @@
+# Material Cloudinary Juan Toffalo
+
+Este archivo contiene los links de todo el material encontrado en las subcarpetas de Juan Toffalo en Cloudinary. Para actualizarlo, ejecuta el script `fetch-juan-toffalo-cloudinary.js` y copia aquí el contenido generado en `juan-toffalo-cloudinary-links.txt`.
+
+---
+
+# book
+
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658915/aura/gallery/models/boys/juan-toffalo/book/36-juan-toffalo-gian-carassai-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658914/aura/gallery/models/boys/juan-toffalo/book/30-juan-toffalo-gian-carassai-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658913/aura/gallery/models/boys/juan-toffalo/book/24-juan-toffalo-gian-carassai-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658913/aura/gallery/models/boys/juan-toffalo/book/16-juan-toffalo-alessandro-palma-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658912/aura/gallery/models/boys/juan-toffalo/book/12-juan-toffalo-batuk-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658911/aura/gallery/models/boys/juan-toffalo/book/10-juan-toffalo-gianmarco-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658911/aura/gallery/models/boys/juan-toffalo/book/10-juan-toffalo-batuk-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658910/aura/gallery/models/boys/juan-toffalo/book/9-juan-toffalo-main-book-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658909/aura/gallery/models/boys/juan-toffalo/book/8-juan-toffalo-gianmarco-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658909/aura/gallery/models/boys/juan-toffalo/book/7-juan-toffalo-main-book-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658908/aura/gallery/models/boys/juan-toffalo/book/7-juan-toffalo-alessandro-palma-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658907/aura/gallery/models/boys/juan-toffalo/book/5-juan-toffalo-nik-voropaiev-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658906/aura/gallery/models/boys/juan-toffalo/book/5-juan-toffalo-alessandro-palma-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658905/aura/gallery/models/boys/juan-toffalo/book/4-juan-toffalo-revolver-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658904/aura/gallery/models/boys/juan-toffalo/book/4-juan-toffalo-main-book-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658904/aura/gallery/models/boys/juan-toffalo/book/4-juan-toffalo-alessandro-palma-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658903/aura/gallery/models/boys/juan-toffalo/book/3-juan-toffalo-revolver-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658902/aura/gallery/models/boys/juan-toffalo/book/3-juan-toffalo-cleiton-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658902/aura/gallery/models/boys/juan-toffalo/book/2-juan-toffalo-revolver-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658901/aura/gallery/models/boys/juan-toffalo/book/2-juan-toffalo-batuk-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658900/aura/gallery/models/boys/juan-toffalo/book/1-juan-toffalo-gianmarco-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658900/aura/gallery/models/boys/juan-toffalo/book/1-juan-toffalo-alessandro-palma-ceres.jpg
+
+# extra-material
+
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654908/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_22.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654907/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_21.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654906/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_20.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654905/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_19.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654904/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_18.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654903/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_17.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654903/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_16.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654902/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_15.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654901/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_14.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654900/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_13.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654899/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_12.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654898/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_11.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654897/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_10.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654896/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_9.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654895/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_8.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654894/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_7.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654893/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_6.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654892/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_5.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654892/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_4.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654889/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_3.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654888/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_2.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654887/aura/gallery/models/boys/juan-toffalo/extra-material/juan_toffalo_book_extras_1.jpg
+
+# extra-polas
+
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654924/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_15.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654923/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_14.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654921/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_13.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654920/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_12.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654919/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_11.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654918/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_10.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654917/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_9.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654916/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_8.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654915/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_7.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654914/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_6.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654913/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_5.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654912/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_4.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654911/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_3.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654910/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_2.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1772654909/aura/gallery/models/boys/juan-toffalo/extra-polas/juan_toffalo_snaps_extras_1.jpg
+
+# polas
+
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658919/aura/gallery/models/boys/juan-toffalo/polas/20-juan-toffalo-digitals-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658918/aura/gallery/models/boys/juan-toffalo/polas/19-juan-toffalo-digitals-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658916/aura/gallery/models/boys/juan-toffalo/polas/14-juan-toffalo-digitals-ceres.jpg
+https://res.cloudinary.com/dcxaitngm/image/upload/v1771658915/aura/gallery/models/boys/juan-toffalo/polas/9-juan-toffalo-digitals-ceres.jpg
+
+# videos
+
+https://res.cloudinary.com/dcxaitngm/video/upload/v1772698461/aura/gallery/models/boys/juan-toffalo/videos/video-output-5ca6604b-e751-4c94-b9f4-8c958cbbbd57-1.mp4
