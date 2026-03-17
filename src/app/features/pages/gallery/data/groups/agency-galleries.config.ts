@@ -115,7 +115,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'moana-buezas', status: 'on', fullbook: 'off' },
       { id: 'santiago-zezular', status: 'on', fullbook: 'off' },
       { id: 'lucas-tarrago', status: 'on', fullbook: 'off' },
-      { id: 'pilar', status: 'off', fullbook: 'off' },
+      { id: 'pilar', status: 'on', fullbook: 'off' },
     ],
   },
   {
