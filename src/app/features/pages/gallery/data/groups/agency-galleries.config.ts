@@ -84,9 +84,9 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     galleryKey: 'japan',
     galleryName: 'JAPAN',
     modelIds: [     
-      { id: 'adan', status: 'on', fullbook: 'on' },
-      { id: 'angel-bret', status: 'on', fullbook: 'on' },
-      { id: 'emmanuel', status: 'on', fullbook: 'on' },
+      { id: 'adan', status: 'on', fullbook: 'off' },
+      { id: 'angel-bret', status: 'on', fullbook: 'off' },
+      { id: 'emmanuel', status: 'on', fullbook: 'off' },
       { id: 'santiago-poggi', status: 'on', fullbook: 'off' },
       { id: 'alan-marquez', status: 'on', fullbook: 'on' },
       { id: 'belisario', status: 'on', fullbook: 'off' },
