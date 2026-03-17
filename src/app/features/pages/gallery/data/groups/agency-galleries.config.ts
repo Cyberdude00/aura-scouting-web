@@ -151,7 +151,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     galleryKey: 'asset',
     galleryName: 'ASSET',
     modelIds: [
-      { id: 'juan-toffalo', status: 'on', fullbook: 'on' }
+      { id: 'manu-llofrein', status: 'on', fullbook: 'on' }
     ]
   }
 ];
