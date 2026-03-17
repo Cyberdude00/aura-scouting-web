@@ -10,14 +10,13 @@
         }
 
         @if (showFullbookButton) {
-          <button
-            type="button"
-            class="button-red btn-pill-muted"
+          <gallery-download-button
             [disabled]="!canDownloadFullbook"
-            (click)="downloadModelFullbook()"
+            [loading]="isDownloadingFullbook"
+            [onClick]="downloadModelFullbook.bind(this)"
           >
             {{ isDownloadingFullbook ? 'Downloading ZIP...' : 'Download Full Material ZIP' }}
-          </button>
+          </gallery-download-button>
         }
       </div>
     }

@@ -4,9 +4,13 @@ import { downloadFullMaterialZip, ModelMaterialSections } from '../../../utils';
 
 type UnitSystem = 'metric' | 'imperial';
 
+
+import { GalleryDownloadButtonComponent } from '../download-button.component';
+
 @Component({
   selector: 'app-gallery-measurement-system',
   standalone: true,
+  imports: [GalleryDownloadButtonComponent],
   templateUrl: './gallery-measurement-system.component.html',
   styleUrl: './gallery-measurement-system.component.scss',
 })
