@@ -17,9 +17,8 @@ import { santiagoPoggi } from './models/boys/santiago-poggi.data';
 import { santiagoZezular } from './models/boys/santiago-zezular.data';
 import { agosMartinez } from './models/girls/agos-martinez.data';
 import { aliciaVallecilla } from './models/girls/alicia-vallecilla.data';
-import { alina } from './models/girls/alina.data';
-import { dogaBursali } from './models/girls/doga-bursali.data';
 import { elina } from './models/girls/elina.data';
+import { dogaBursali } from './models/girls/doga-bursali.data';
 import { emiliaBryan } from './models/girls/emilia-bryan.data';
 import { eugeniaLagrenade } from './models/girls/eugenia-lagrenade.data';
 import { eva } from './models/girls/eva.data';
@@ -53,9 +52,8 @@ export const galleryModels: ScoutingModel[] = [
   santiagoZezular,
   agosMartinez,
   aliciaVallecilla,
-  alina,
-  dogaBursali,
   elina,
+  dogaBursali,
   emiliaBryan,
   eugeniaLagrenade,
   eva,

@@ -37,7 +37,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       modelIds: [
         { id: 'agos-martinez', status: 'on', fullbook: 'on' },
         { id: 'alicia-vallecilla', status: 'on', fullbook: 'on' },
-        { id: 'alina', status: 'on', fullbook: 'on' },
+        { id: 'elina', status: 'on', fullbook: 'on' },
         { id: 'doga-bursali', status: 'on', fullbook: 'on' },
         { id: 'elina', status: 'on', fullbook: 'on' },
         { id: 'emilia-bryan', status: 'on', fullbook: 'on' },
@@ -219,7 +219,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
   },
   {
     galleryKey: 'hong-kong',
-    galleryName: 'hong kong',
+    galleryName: 'HONG KONG',
     modelIds: [
       // Girls
       { id: 'alicia-vallecilla', status: 'on', fullbook: 'off' },
@@ -246,7 +246,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
   },
   {
     galleryKey: 'tailand',
-    galleryName: 'tailand',
+    galleryName: 'TAILAND',
     modelIds: [
       // Girls
       { id: 'alicia-vallecilla', status: 'on', fullbook: 'off' },

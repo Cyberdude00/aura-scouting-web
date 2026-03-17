@@ -32,7 +32,6 @@ import { eugeniaLagrenade } from '../models/girls/eugenia-lagrenade.data';
 import { emiliaBryan } from '../models/girls/emilia-bryan.data';
 import { elina } from '../models/girls/elina.data';
 import { dogaBursali } from '../models/girls/doga-bursali.data';
-import { alina } from '../models/girls/alina.data';
 import { aliciaVallecilla } from '../models/girls/alicia-vallecilla.data';
 import { agosMartinez } from '../models/girls/agos-martinez.data';
 import { marianaArias } from '../models/girls/mariana-arias.data';
@@ -68,7 +67,6 @@ const sourceModels: ScoutingModel[] = [
   emiliaBryan,
   elina,
   dogaBursali,
-  alina,
   aliciaVallecilla,
   agosMartinez,
   marianaArias,

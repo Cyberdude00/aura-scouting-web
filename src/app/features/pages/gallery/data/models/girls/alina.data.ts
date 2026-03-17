@@ -1,7 +1,7 @@
 import { ScoutingModel } from '../../scouting-model.types';
 
-export const alina: ScoutingModel = {
-  name: "Alina",
+export const elina: ScoutingModel = {
+  name: "Elina",
   gender: "Girls",
   photo: "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659300/aura/gallery/models/girls/alina/polas/alina_polas_1.jpg",
   height: "1.76m",

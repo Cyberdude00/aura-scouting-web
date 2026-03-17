@@ -76,13 +76,15 @@ https://aurascouting.com/gallery/tailand
 3. Verifica en navegador.
 4. Commit.
 
+
 ## Scripts útiles
 
-- Optimizar imágenes: `npm run gallery:optimize`
-- Subir a Cloudinary: `npm run gallery:upload`
-- Sincronizar: `npm run gallery:sync`
-- Actualizar todo: `npm run gallery:update`
-- Prune preview/aplicar: `npm run gallery:prune:preview` / `npm run gallery:prune:apply`
+- Optimizar imágenes: `node scripts/gallery-optimize.js`
+- Subir a Cloudinary: `node scripts/gallery-upload.js`
+- Sincronizar: `node scripts/gallery-sync.js`
+- Actualizar todo: `node scripts/gallery-update.js`
+- Prune preview: `node scripts/gallery-prune-preview.js`
+- Prune aplicar: `node scripts/gallery-prune-apply.js`
 
 ## Checklist antes de commit
 
