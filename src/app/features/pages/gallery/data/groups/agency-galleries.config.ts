@@ -133,4 +133,11 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'agos-martinez', status: 'on', fullbook: 'on' }
     ]
   },
+  {
+    galleryKey: 'ever-models',
+    galleryName: 'EVER MODELS',
+    modelIds: [
+      { id: 'juan-toffalo', status: 'on', fullbook: 'on' }
+    ]
+  },
 ];
