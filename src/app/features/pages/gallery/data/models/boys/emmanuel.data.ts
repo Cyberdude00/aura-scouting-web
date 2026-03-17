@@ -159,7 +159,6 @@ export const emmanuel: ScoutingModel = {
         "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654841/aura/gallery/models/boys/emmanuel/extra-polas/emmanuel_echavarria_snaps_extra16.jpg",
         "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654840/aura/gallery/models/boys/emmanuel/extra-polas/emmanuel_echavarria_snaps_extra15.jpg",
         "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654836/aura/gallery/models/boys/emmanuel/extra-polas/emmanuel_echavarria_snaps_extra11.jpg",
-
         "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654834/aura/gallery/models/boys/emmanuel/extra-polas/emmanuel_echavarria_snaps_extra9.jpg",
         "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654833/aura/gallery/models/boys/emmanuel/extra-polas/emmanuel_echavarria_snaps_extra8.jpg",
         "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654832/aura/gallery/models/boys/emmanuel/extra-polas/emmanuel_echavarria_snaps_extra7.jpg",

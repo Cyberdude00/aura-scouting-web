@@ -9,6 +9,52 @@ export interface AgencyGalleryConfig {
 }
 
 export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
+    {
+      galleryKey: 'boys',
+      galleryName: 'Boys',
+      modelIds: [
+        { id: 'adan', status: 'on', fullbook: 'on' },
+        { id: 'alan-marquez', status: 'on', fullbook: 'on' },
+        { id: 'angel-bret', status: 'on', fullbook: 'on' },
+        { id: 'belisario', status: 'on', fullbook: 'on' },
+        { id: 'bernardo-romano', status: 'on', fullbook: 'on' },
+        { id: 'emmanuel', status: 'on', fullbook: 'on' },
+        { id: 'joaquin-garcia', status: 'on', fullbook: 'on' },
+        { id: 'juan-toffalo', status: 'on', fullbook: 'on' },
+        { id: 'laurencio-leal', status: 'on', fullbook: 'on' },
+        { id: 'lautaro-rodriguez', status: 'on', fullbook: 'on' },
+        { id: 'lucas-tarrago', status: 'on', fullbook: 'on' },
+        { id: 'manu-llofrein', status: 'on', fullbook: 'on' },
+        { id: 'maximo', status: 'on', fullbook: 'on' },
+        { id: 'salih-topcouglu', status: 'on', fullbook: 'on' },
+        { id: 'santiago-poggi', status: 'on', fullbook: 'on' },
+        { id: 'santiago-zezular', status: 'on', fullbook: 'on' }
+      ]
+    },
+    {
+      galleryKey: 'girls',
+      galleryName: 'Girls',
+      modelIds: [
+        { id: 'agos-martinez', status: 'on', fullbook: 'on' },
+        { id: 'alicia-vallecilla', status: 'on', fullbook: 'on' },
+        { id: 'alina', status: 'on', fullbook: 'on' },
+        { id: 'doga-bursali', status: 'on', fullbook: 'on' },
+        { id: 'elina', status: 'on', fullbook: 'on' },
+        { id: 'emilia-bryan', status: 'on', fullbook: 'on' },
+        { id: 'eugenia-lagrenade', status: 'on', fullbook: 'on' },
+        { id: 'eva', status: 'on', fullbook: 'on' },
+        { id: 'felicitas', status: 'on', fullbook: 'on' },
+        { id: 'genesis', status: 'on', fullbook: 'on' },
+        { id: 'isabel-deutsch', status: 'on', fullbook: 'on' },
+        { id: 'luciana-imoberdorf', status: 'on', fullbook: 'on' },
+        { id: 'mafer', status: 'on', fullbook: 'on' },
+        { id: 'mariana-arias', status: 'on', fullbook: 'on' },
+        { id: 'moana', status: 'on', fullbook: 'on' },
+        { id: 'pilar', status: 'on', fullbook: 'on' },
+        { id: 'victoria', status: 'on', fullbook: 'on' },
+        { id: 'zoe', status: 'on', fullbook: 'on' }
+      ]
+    },
   {
     galleryKey: 'korea',
     galleryName: 'KOREA',
@@ -113,9 +159,9 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'agos-martinez', status: 'on', fullbook: 'off' },
       { id: 'zoe', status: 'on', fullbook: 'off' },
       { id: 'moana-buezas', status: 'on', fullbook: 'off' },
+      { id: 'pilar', status: 'on', fullbook: 'off' },
       { id: 'santiago-zezular', status: 'on', fullbook: 'off' },
       { id: 'lucas-tarrago', status: 'on', fullbook: 'off' },
-      { id: 'pilar', status: 'on', fullbook: 'off' },
     ],
   },
   {
@@ -152,6 +198,78 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     galleryName: 'ASSET',
     modelIds: [
       { id: 'manu-llofrein', status: 'on', fullbook: 'on' }
+    ]
+  },
+  {
+    galleryKey: 'eli-models',
+    galleryName: 'Eli Models',
+    modelIds: [
+      { id: 'isabel-deutsch', status: 'on', fullbook: 'on' },
+      { id: 'salih-topcouglu', status: 'on', fullbook: 'on' },
+      { id: 'manu-llofrein', status: 'on', fullbook: 'on' }
+    ]
+  },
+  {
+    galleryKey: 'adm-models',
+    galleryName: 'ADM models',
+    modelIds: [
+      { id: 'isabel-deutsch', status: 'on', fullbook: 'off' },
+      { id: 'manu-llofrein', status: 'on', fullbook: 'off' }
+    ]
+  },
+  {
+    galleryKey: 'hong-kong',
+    galleryName: 'hong kong',
+    modelIds: [
+      // Girls
+      { id: 'alicia-vallecilla', status: 'on', fullbook: 'off' },
+      { id: 'elina', status: 'on', fullbook: 'off' },
+      { id: 'emilia-bryan', status: 'on', fullbook: 'off' },
+      { id: 'eugenia-lagrenade', status: 'on', fullbook: 'off' },
+      { id: 'eva', status: 'on', fullbook: 'off' },
+      { id: 'felicitas', status: 'on', fullbook: 'off' },
+      { id: 'mafer', status: 'on', fullbook: 'off' },
+      { id: 'victoria', status: 'on', fullbook: 'off' },
+      // Boys
+      { id: 'adan', status: 'on', fullbook: 'off' },
+      { id: 'alan-marquez', status: 'on', fullbook: 'off' },
+      { id: 'angel-bret', status: 'on', fullbook: 'off' },
+      { id: 'belisario', status: 'on', fullbook: 'off' },
+      { id: 'emmanuel', status: 'on', fullbook: 'off' },
+      { id: 'joaquin-garcia', status: 'on', fullbook: 'off' },
+      { id: 'laurencio-leal', status: 'on', fullbook: 'off' },
+      { id: 'lautaro-rodriguez', status: 'on', fullbook: 'off' },
+      { id: 'salih-topcouglu', status: 'on', fullbook: 'off' },
+      { id: 'santiago-poggi', status: 'on', fullbook: 'off' },
+      { id: 'santiago-zezular', status: 'on', fullbook: 'off' }
+    ]
+  },
+  {
+    galleryKey: 'tailandia',
+    galleryName: 'tailandia',
+    modelIds: [
+      // Girls
+      { id: 'alicia-vallecilla', status: 'on', fullbook: 'off' },
+      { id: 'elina', status: 'on', fullbook: 'off' },
+      { id: 'emilia-bryan', status: 'on', fullbook: 'off' },
+      { id: 'eugenia-lagrenade', status: 'on', fullbook: 'off' },
+      { id: 'eva', status: 'on', fullbook: 'off' },
+      { id: 'felicitas', status: 'on', fullbook: 'off' },
+      { id: 'mafer', status: 'on', fullbook: 'off' },
+      { id: 'victoria', status: 'on', fullbook: 'off' },
+      { id: 'genesis', status: 'on', fullbook: 'off' },
+      // Boys
+      { id: 'adan', status: 'on', fullbook: 'off' },
+      { id: 'alan-marquez', status: 'on', fullbook: 'off' },
+      { id: 'angel-bret', status: 'on', fullbook: 'off' },
+      { id: 'belisario', status: 'on', fullbook: 'off' },
+      { id: 'emmanuel', status: 'on', fullbook: 'off' },
+      { id: 'joaquin-garcia', status: 'on', fullbook: 'off' },
+      { id: 'laurencio-leal', status: 'on', fullbook: 'off' },
+      { id: 'lautaro-rodriguez', status: 'on', fullbook: 'off' },
+      { id: 'salih-topcouglu', status: 'on', fullbook: 'off' },
+      { id: 'santiago-poggi', status: 'on', fullbook: 'off' },
+      { id: 'santiago-zezular', status: 'on', fullbook: 'off' }
     ]
   }
 ];
