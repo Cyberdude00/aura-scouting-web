@@ -34,7 +34,7 @@ describe('GalleryGroupPage', () => {
     const model = component.gallery?.models[0];
     expect(model).toBeTruthy();
 
-    component.openModel(model!);
+    component.openModel({ model: model!, initialIndex: 0 });
     expect(component.selectedModel?.id).toBe(model!.id);
 
     component.closeModel();

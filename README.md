@@ -1,22 +1,21 @@
-# Project Components
-- MainLayout
-- Navigation
-- Footer
-- AboutUs
-- ScoutingServices
-- HowWeWork
-- Home
-- HomeIntro
-- Contact
-- ConnectInfo
-- GalleryGroup
-- PortfolioModal
-- ModelGrid
-- MediaViewer
-- GalleryHeader
-- Measurements
-- ModelSubmissionForm
----
+# Links de galerías
+
+https://aurascouting.com/gallery/boys
+https://aurascouting.com/gallery/girls
+https://aurascouting.com/gallery/korea
+https://aurascouting.com/gallery/china
+https://aurascouting.com/gallery/japan
+https://aurascouting.com/gallery/kin-agency
+https://aurascouting.com/gallery/lacoco-models
+https://aurascouting.com/gallery/ever-models
+https://aurascouting.com/gallery/nous
+https://aurascouting.com/gallery/asset
+https://aurascouting.com/gallery/eli-models
+https://aurascouting.com/gallery/adm-models
+https://aurascouting.com/gallery/hong-kong
+https://aurascouting.com/gallery/tailand
+
+
 ## Descripción breve de cada componente
 - **MainLayout**: Estructura principal de la app, incluye navegación y footer.
 - **Navigation**: Barra superior con enlaces a secciones.
@@ -48,7 +47,7 @@
    npm run start
    ```
    - Home: `http://localhost:4200/`
-   - Galería: `http://localhost:4200/gallery/korea`
+   - Galería: `http://localhost:4200/gallery/...`
 4. Build de validación:
    ```bash
    npm run build -- --configuration development
@@ -99,6 +98,8 @@
 - Si SEO no cambia: revisa servicios y rutas.
 
 ---
+
+---
 # aura-scouting-web
 ## 1) Cómo arrancar el proyecto
 
@@ -117,7 +118,7 @@ npm run start
 App local:
 
 - Home: `http://localhost:4200/`
-- Galería: `http://localhost:4200/gallery/korea`
+- Galería: `http://localhost:4200/gallery/...`
 
 ### Build de validación
 
@@ -230,7 +231,7 @@ Ahí se define por galería:
 4. Ejecuta:
    - `npm run build -- --configuration development`
 5. Verifica en browser:
-   - `http://localhost:4200/gallery/korea` (o la galería que cambiaste)
+   - `http://localhost:4200/gallery/...` (o la galería que cambiaste)
 
 ### Flujo diario sugerido (rápido)
 

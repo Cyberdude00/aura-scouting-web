@@ -245,8 +245,8 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     ]
   },
   {
-    galleryKey: 'tailandia',
-    galleryName: 'tailandia',
+    galleryKey: 'tailand',
+    galleryName: 'tailand',
     modelIds: [
       // Girls
       { id: 'alicia-vallecilla', status: 'on', fullbook: 'off' },
