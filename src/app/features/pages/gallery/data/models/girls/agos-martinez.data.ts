@@ -46,10 +46,6 @@ export const agosMartinez: ScoutingModel = {
     "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659143/aura/gallery/models/girls/agos-martinez/polas/img_5981.jpg",
     "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659144/aura/gallery/models/girls/agos-martinez/polas/img_6086.jpg"
   ],
-  videos: [
-    "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698507/aura/gallery/models/girls/agos-martinez/videos/intro.mp4",
-    "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698510/aura/gallery/models/girls/agos-martinez/videos/walk.mp4"
-  ],
   fullMaterialData: {
     extraMaterial: [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698237/aura/gallery/models/girls/agos-martinez/extra-material/agos_martinez_book_extras_1.jpg",

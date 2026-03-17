@@ -1,21 +1,47 @@
-/* Migrated button-transparent styles from gallery-measurement-system.component.scss */
-.button-transparent {
+.button-red,
+.button-red.btn-pill-muted,
+.btn-pill-muted.button-red {
   white-space: nowrap;
-  background: transparent;
+  background: var(--color-accent);
   border: 1px solid var(--color-accent);
-  color: var(--color-accent);
+  color: #fff;
   padding: var(--space-2) var(--space-4);
   border-radius: var(--radius-pill);
   transition: background 180ms, color 180ms;
+  font-size: var(--text-xs);
 }
-.button-transparent:disabled {
+.button-red:disabled,
+.button-red.btn-pill-muted:disabled,
+.btn-pill-muted.button-red:disabled {
   opacity: 0.5;
   cursor: not-allowed;
 }
-.button-transparent:hover:not(:disabled) {
+.button-red:hover:not(:disabled),
+.button-red.btn-pill-muted:hover:not(:disabled),
+.btn-pill-muted.button-red:hover:not(:disabled) {
+  background: transparent;
+  color: var(--color-accent);
+}
+
+.btn-pill-muted {
+  border: 1px solid #3b3b3b;
+  border-radius: var(--radius-pill);
+  padding: var(--space-2) var(--space-3);
+  background: transparent;
+  color: #ddd;
+  font-size: var(--text-xs);
+  cursor: pointer;
+  transition: background 180ms ease, color 180ms ease, opacity 180ms ease;
+}
+.btn-pill-muted:hover:not(:disabled) {
   background: var(--color-accent);
   color: #fff;
 }
+.btn-pill-muted:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
 .button-switch {
   display: inline-flex;
   align-self: center;
@@ -36,7 +62,6 @@
   --font-main: "IBM Plex Mono", monospace;
   --color-bg: #fff;
   --color-dark: #181a1b;
-  --color-light: #fff;
   --color-accent: #ff0000;
 
   --background-auras-america: url('/gifs/aura-scouting-video.gif');

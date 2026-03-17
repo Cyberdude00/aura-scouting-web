@@ -126,4 +126,11 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'luciana-imoberdorf', status: 'on', fullbook: 'on' }
     ]
   },
+  {
+    galleryKey: 'lacoco-models',
+    galleryName: 'LACOCO MODELS',
+    modelIds: [
+      { id: 'agos-martinez', status: 'on', fullbook: 'on' }
+    ]
+  },
 ];

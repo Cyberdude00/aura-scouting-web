@@ -29,14 +29,13 @@ export const lucianaImoberdorf: ScoutingModel = {
     extraMaterial: [
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698210/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_1.jpg",
       "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698211/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_2.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698212/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_3.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698213/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_4.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698214/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_5.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698215/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_6.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698216/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_7.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698217/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_8.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698218/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_9.jpg",
-      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698219/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_10.jpg"
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698212/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_10.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698213/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_11.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698214/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_12.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698215/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_13.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698216/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_14.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698217/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_15.jpg",
+      "https://res.cloudinary.com/dcxaitngm/image/upload/v1772698218/aura/gallery/models/girls/luciana-imoberdorf/extra-material/luciana_book_extras_16.jpg",
     ],
   polas: [
     "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659416/aura/gallery/models/girls/luciana-imoberdorf/polas/luciana_polas_1.jpg",

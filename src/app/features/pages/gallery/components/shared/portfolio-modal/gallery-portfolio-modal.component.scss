@@ -40,12 +40,11 @@
   height: 100%;
   min-height: 0;
   min-width: 0;
-  background: var(--color-light);
+  background: var(--color-bg);
   border-radius: 12px;
   display: block;
 }
 
-/* Asegura que los videos llenen el espacio igual que las imágenes */
 .gallery-media-cover[type="video"],
 .portfolio-item video.gallery-media-cover {
   aspect-ratio: 3 / 4;
@@ -54,12 +53,11 @@
   height: 100%;
   min-height: 0;
   min-width: 0;
-  background: var(--color-light);
+  background: var(--color-bg);
   border-radius: 12px;
   display: block;
 }
 
-/* Grid de media: máximo 4 columnas, centrado, sin margen entre secciones */
 .portfolio-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -92,12 +90,10 @@
   margin-right: auto;
 }
 
-/* Elimina el margen entre grids/secciones */
 .portfolio-grid + .portfolio-grid {
   margin-top: 0;
 }
 
-/* Espaciado uniforme entre secciones */
 .portfolio-grid + .portfolio-grid {
   margin-top: 24px;
 }

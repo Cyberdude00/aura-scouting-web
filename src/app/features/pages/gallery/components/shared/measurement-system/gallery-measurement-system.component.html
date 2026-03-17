@@ -12,11 +12,11 @@
         @if (showFullbookButton) {
           <button
             type="button"
-            class="button-transparent btn-pill-muted"
+            class="button-red btn-pill-muted"
             [disabled]="!canDownloadFullbook"
             (click)="downloadModelFullbook()"
           >
-            {{ isDownloadingFullbook ? 'Descargando ZIP...' : 'Descargar Full Material ZIP' }}
+            {{ isDownloadingFullbook ? 'Downloading ZIP...' : 'Download Full Material ZIP' }}
           </button>
         }
       </div>

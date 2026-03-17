@@ -43,8 +43,6 @@ export const galleryGroupRegistry: Record<string, GalleryGroup> = agencyGallerie
 export function getGalleryGroup(galleryKey: string): GalleryGroup | null {
   const normalizedKey = galleryKey.toLowerCase();
   const legacyAliases: Record<string, string> = {
-    corea: 'korea',
-    japon: 'japan',
   };
 
   const resolvedKey = legacyAliases[normalizedKey] ?? normalizedKey;
