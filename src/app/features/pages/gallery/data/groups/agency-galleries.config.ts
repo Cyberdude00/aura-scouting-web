@@ -140,4 +140,18 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'juan-toffalo', status: 'on', fullbook: 'on' }
     ]
   },
+  {
+    galleryKey: 'nous',
+    galleryName: 'NOUS',
+    modelIds: [
+      { id: 'juan-toffalo', status: 'on', fullbook: 'on' }
+    ]
+  },
+  {
+    galleryKey: 'asset',
+    galleryName: 'ASSET',
+    modelIds: [
+      { id: 'juan-toffalo', status: 'on', fullbook: 'on' }
+    ]
+  }
 ];
