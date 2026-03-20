@@ -1,0 +1,69 @@
+import { ScoutingModel } from '../../scouting-model.types';
+
+export const antonella: ScoutingModel = {
+  name: "Antonella",
+  gender: "Girls",
+  photo:     "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989835/aura/gallery/models/girls/Antonella/snaps/IMG_1882.webp",
+  height: "1.80m",
+  measurements: "B 82cm W62cm H 89cm",
+  hair: "Brown",
+  eyes: "Brown",
+  shoe: "40",
+  book: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989805/aura/gallery/models/girls/Antonella/book/antonella_book_01.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989805/aura/gallery/models/girls/Antonella/book/antonella_book_02.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989806/aura/gallery/models/girls/Antonella/book/antonella_book_03.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989806/aura/gallery/models/girls/Antonella/book/antonella_book_04.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989807/aura/gallery/models/girls/Antonella/book/antonella_book_05.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989807/aura/gallery/models/girls/Antonella/book/antonella_book_06.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989808/aura/gallery/models/girls/Antonella/book/antonella_book_07.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989808/aura/gallery/models/girls/Antonella/book/antonella_book_08.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989809/aura/gallery/models/girls/Antonella/book/antonella_book_09.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989810/aura/gallery/models/girls/Antonella/book/antonella_book_10.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989810/aura/gallery/models/girls/Antonella/book/antonella_book_11.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989811/aura/gallery/models/girls/Antonella/book/antonella_book_12.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989812/aura/gallery/models/girls/Antonella/book/antonella_book_13.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989812/aura/gallery/models/girls/Antonella/book/antonella_book_14.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989813/aura/gallery/models/girls/Antonella/book/antonella_book_15.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989813/aura/gallery/models/girls/Antonella/book/antonella_book_16.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989814/aura/gallery/models/girls/Antonella/book/antonella_book_17.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989815/aura/gallery/models/girls/Antonella/book/antonella_book_18.webp"
+  ],
+  extraMaterial: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989817/aura/gallery/models/girls/Antonella/extra%20book/antonella_book_19.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989818/aura/gallery/models/girls/Antonella/extra%20book/antonella_book_20.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989818/aura/gallery/models/girls/Antonella/extra%20book/antonella_book_21.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989819/aura/gallery/models/girls/Antonella/extra%20book/antonella_book_22.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989819/aura/gallery/models/girls/Antonella/extra%20book/antonella_book_23.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989820/aura/gallery/models/girls/Antonella/extra%20book/antonella_book_24.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989821/aura/gallery/models/girls/Antonella/extra%20book/antonella_book_25.webp"
+  ],
+  extraSnaps: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989825/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1649.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989825/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1653.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989826/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1660.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989826/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1665.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989827/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1666.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989827/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1669.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989827/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1671.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989828/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1677.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989828/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1681.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989829/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1686.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989829/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1688.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989830/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1689.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989831/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1880.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989832/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1884.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989832/aura/gallery/models/girls/Antonella/extra%20snaps/IMG_1931.webp"
+  ],
+  polas: [
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989835/aura/gallery/models/girls/Antonella/snaps/IMG_1627.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989835/aura/gallery/models/girls/Antonella/snaps/IMG_1882.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989836/aura/gallery/models/girls/Antonella/snaps/IMG_1889.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989837/aura/gallery/models/girls/Antonella/snaps/IMG_1895.webp",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1773989837/aura/gallery/models/girls/Antonella/snaps/IMG_1927.webp"
+  ],
+  videos: [
+    "https://res.cloudinary.com/dcxaitngm/video/upload/v1773989848/aura/gallery/models/girls/Antonella/video/IMG_2523.mp4",
+    "https://res.cloudinary.com/dcxaitngm/video/upload/v1773989851/aura/gallery/models/girls/Antonella/video/IMG_2730.mp4"
+  ]
+};

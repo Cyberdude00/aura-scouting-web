@@ -1,7 +1,7 @@
 .gallery-page {
   min-height: 100vh;
-  background: #181818;
-  color: #fff;
+  background: var(--color-dark);
+  color: var(--color-bg);
   font-family: var(--font-main);
   scroll-behavior: smooth;
 }

@@ -36,6 +36,7 @@ import { dogaBursali } from '../models/girls/doga-bursali.data';
 import { aliciaVallecilla } from '../models/girls/alicia-vallecilla.data';
 import { agosMartinez } from '../models/girls/agos-martinez.data';
 import { marianaArias } from '../models/girls/mariana-arias.data';
+import { antonella } from '../models/girls/antonella.data';
 
 const sourceModels: ScoutingModel[] = [
   franMazzei,
@@ -72,6 +73,7 @@ const sourceModels: ScoutingModel[] = [
   aliciaVallecilla,
   agosMartinez,
   marianaArias,
+  antonella,
 ];
 
 export const modelCatalog: Record<string, ScoutingModel> = sourceModels.reduce((acc, model) => {

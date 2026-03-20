@@ -12,6 +12,9 @@ cloudinary.config({
 });
 
 const MODEL_FOLDER = process.argv[2]; // Ejemplo: scripts/gallery-upload.js "./material-optimizado/maximo"
+
+// Archivos a ignorar (ocultos, de sistema, Mac, etc.)
+const IGNORE_PATTERNS = [/^\./, /^\._/, /.DS_Store$/, /.XnViewSort$/i];
 const BASE_CLOUDINARY = 'aura/gallery/models';
 const OUTPUT = 'links-subidos-cloudinary.txt';
 
@@ -23,6 +26,8 @@ if (!MODEL_FOLDER) {
 function getAllFiles(dirPath, arrayOfFiles = []) {
 	const files = fs.readdirSync(dirPath);
 	files.forEach(function(file) {
+		// Ignorar archivos ocultos y de sistema
+		if (IGNORE_PATTERNS.some((pat) => pat.test(file))) return;
 		const fullPath = path.join(dirPath, file);
 		if (fs.statSync(fullPath).isDirectory()) {
 			getAllFiles(fullPath, arrayOfFiles);

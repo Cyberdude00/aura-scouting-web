@@ -37,6 +37,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       galleryName: 'Girls',
       modelIds: [
         { id: 'agos-martinez', status: 'on', fullbook: 'on' },
+        { id: 'antonella', status: 'on', fullbook: 'on' },
         { id: 'alicia-vallecilla', status: 'on', fullbook: 'on' },
         { id: 'elina', status: 'on', fullbook: 'on' },
         { id: 'doga-bursali', status: 'on', fullbook: 'on' },
@@ -115,6 +116,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'belisario', status: 'on', fullbook: 'off' },
       { id: 'felicitas', status: 'on', fullbook: 'off' },
       { id: 'eva', status: 'on', fullbook: 'off' },
+      { id: 'antonella', status: 'on', fullbook: 'off' },
       { id: 'emilia-bryan', status: 'on', fullbook: 'off' },
       { id: 'eugenia-lagrenade', status: 'on', fullbook: 'off' },
       { id: 'mafer', status: 'on', fullbook: 'off' },
@@ -149,6 +151,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'salih-topcouglu', status: 'on', fullbook: 'off' },
       { id: 'fran-mazzei', status: 'on', fullbook: 'off' },
       { id: 'felicitas', status: 'on', fullbook: 'off' },
+      { id: 'antonella', status: 'on', fullbook: 'off' },
       { id: 'eva', status: 'on', fullbook: 'off' },
       { id: 'emilia-bryan', status: 'on', fullbook: 'off' },
       { id: 'alicia-vallecilla', status: 'on', fullbook: 'off' },
@@ -227,6 +230,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     modelIds: [
       // Girls
       { id: 'alicia-vallecilla', status: 'on', fullbook: 'off' },
+      { id: 'antonella', status: 'on', fullbook: 'off' },
       { id: 'elina', status: 'on', fullbook: 'off' },
       { id: 'emilia-bryan', status: 'on', fullbook: 'off' },
       { id: 'eugenia-lagrenade', status: 'on', fullbook: 'off' },
@@ -250,11 +254,12 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     ]
   },
   {
-    galleryKey: 'tailand',
-    galleryName: 'TAILAND',
+    galleryKey: 'thailand',
+    galleryName: 'THAILAND',
     modelIds: [
       // Girls
       { id: 'alicia-vallecilla', status: 'on', fullbook: 'off' },
+      { id: 'antonella', status: 'on', fullbook: 'off' },
       { id: 'elina', status: 'on', fullbook: 'off' },
       { id: 'emilia-bryan', status: 'on', fullbook: 'off' },
       { id: 'eugenia-lagrenade', status: 'on', fullbook: 'off' },
@@ -279,10 +284,11 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     ]
   },
   {
-    galleryKey: 'fran-mazzei',
-    galleryName: 'Fran Mazzei',
+    galleryKey: 'new',
+    galleryName: 'new',
     modelIds: [
-      { id: 'fran-mazzei', status: 'on', fullbook: 'off' }
+      { id: 'fran-mazzei', status: 'on', fullbook: 'off' },
+      { id: 'antonella', status: 'on', fullbook: 'off' }
     ]
-  }
+  },
 ];

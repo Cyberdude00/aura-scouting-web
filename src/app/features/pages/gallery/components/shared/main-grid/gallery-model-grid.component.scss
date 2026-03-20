@@ -12,8 +12,8 @@
 .card {
   --gallery-card-radius: 16px;
   --gallery-card-hover-y: -3px;
-  --gallery-card-shadow: 0 2px 12px #0002;
-  --gallery-card-shadow-hover: 0 8px 24px #0005;
+  --gallery-card-shadow: 0 2px 12px var(--color-black-2);
+  --gallery-card-shadow-hover: 0 8px 24px var(--color-black-5);
   width: 100%;
   max-width: 280px;
   opacity: 0;
@@ -52,7 +52,7 @@
   inset: 0;
   display: grid;
   place-items: center;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.5); /* TODO: add variable if needed */
   font-size: 0.9rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -65,7 +65,7 @@
 
 .card-body h2 {
   margin: 0;
-  color: #bababa;
+  color: var(--color-gray-claro);
   font-size: 1.05rem;
   font-weight: 200;
 }

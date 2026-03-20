@@ -32,6 +32,7 @@ import { moana } from './models/girls/moana.data';
 import { pilar } from './models/girls/pilar.data';
 import { victoria } from './models/girls/victoria.data';
 import { zoe } from './models/girls/zoe.data';
+import { antonella } from './models/girls/antonella.data';
 
 export const galleryModels: ScoutingModel[] = [
   adan,
@@ -67,4 +68,5 @@ export const galleryModels: ScoutingModel[] = [
   pilar,
   victoria,
   zoe,
+  antonella,
 ];

@@ -4,7 +4,7 @@
   white-space: nowrap;
   background: var(--color-accent);
   border: 1px solid var(--color-accent);
-  color: #fff;
+  color: var(--color-bg);
   padding: var(--space-2) var(--space-4);
   border-radius: var(--radius-pill);
   transition: background 180ms, color 180ms;
@@ -24,18 +24,18 @@
 }
 
 .btn-pill-muted {
-  border: 1px solid #3b3b3b;
+  border: 1px solid var(--color-dark);
   border-radius: var(--radius-pill);
   padding: var(--space-2) var(--space-3);
   background: transparent;
-  color: #ddd;
+  color: var(--color-gray-claro);
   font-size: var(--text-xs);
   cursor: pointer;
   transition: background 180ms ease, color 180ms ease, opacity 180ms ease;
 }
 .btn-pill-muted:hover:not(:disabled) {
   background: var(--color-accent);
-  color: #fff;
+  color: var(--color-bg);
 }
 .btn-pill-muted:disabled {
   opacity: 0.6;
@@ -46,7 +46,7 @@
   display: inline-flex;
   align-self: center;
   justify-self: center;
-  border: 1px solid #3b3b3b;
+  border: 1px solid var(--color-dark);
   border-radius: var(--radius-pill);
   overflow: hidden;
 }
@@ -56,13 +56,14 @@
 }
 .button-switch .btn-pill-muted.active {
   background: var(--color-accent);
-  color: #fff;
+  color: var(--color-bg);
 }
 :root {
   --font-main: "IBM Plex Mono", monospace;
-  --color-bg: #fff;
+  --color-bg: #f2f0ef;
+  --color-gray-claro: #D9D6D4;
   --color-dark: #181a1b;
-  --color-accent: #ff0000;
+  --color-accent: #FF0000;
 
   --background-auras-america: url('/gifs/aura-scouting-video.gif');
   --background-auras-europe: url('/images/aura-scouting-europa.webp');
@@ -184,37 +185,37 @@ main label {
 .overlay-panel {
   position: relative;
   border-radius: 18px;
-  background: rgba(0, 0, 0, 0.23);
-  box-shadow: 0 10px 60px #000a;
+  background: rgba(0, 0, 0, 0.23); /* TODO: add variable if needed */
+  box-shadow: 0 10px 60px var(--color-black-a);
 }
 
 .overlay-scroll-panel {
   overflow-y: auto;
   overflow-x: hidden;
   scrollbar-width: thin;
-  scrollbar-color: #232323 #181818;
+  scrollbar-color: var(--color-gray-232323) var(--color-dark);
 }
 
 .overlay-scroll-panel::-webkit-scrollbar {
   width: 10px;
-  background: #181818;
+  background: var(--color-dark);
 }
 
 .overlay-scroll-panel::-webkit-scrollbar-thumb {
-  background: #232323;
+  background: var(--color-gray-232323);
   border-radius: 8px;
-  border: 2px solid #181818;
+  border: 2px solid var(--color-dark);
 }
 
 .overlay-scroll-panel::-webkit-scrollbar-thumb:hover {
-  background: #333;
+  background: var(--color-gray-333);
 }
 
 .overlay-close-btn {
   width: 40px;
   height: 40px;
   background: var(--color-dark);
-  color: #fff;
+  color: var(--color-bg);
   font-size: 1.8rem;
 }
 
@@ -255,7 +256,7 @@ main label {
 
 .btn-outline-accent:hover:not(:disabled) {
   background: var(--color-accent);
-  color: #fff;
+  color: var(--color-bg);
 }
 
 .btn-outline-accent:disabled {
@@ -269,14 +270,14 @@ main label {
   border-radius: 50%;
   display: grid;
   place-items: center;
-  background: rgba(0, 0, 0, 0.5);
-  color: #fff;
+  background: rgba(0, 0, 0, 0.5); /* TODO: add variable if needed */
+  color: var(--color-bg);
   backdrop-filter: blur(4px);
   cursor: pointer;
 }
 
 .gallery-download-btn:hover {
-  background: rgba(0, 0, 0, 0.72);
+  background: rgba(0, 0, 0, 0.72); /* TODO: add variable if needed */
 }
 
 .link-accent {
@@ -288,15 +289,15 @@ main label {
 }
 
 .link-accent:hover {
-  color: #fff;
+  color: var(--color-bg);
 }
 
 .btn-pill-muted {
-  border: 1px solid #3b3b3b;
+  border: 1px solid var(--color-dark);
   border-radius: var(--radius-pill);
   padding: var(--space-2) var(--space-3);
   background: transparent;
-  color: #ddd;
+  color: var(--color-gray-claro);
   font-size: var(--text-xs);
   cursor: pointer;
   transition: background 180ms ease, color 180ms ease, opacity 180ms ease;
@@ -304,7 +305,7 @@ main label {
 
 .btn-pill-muted:hover:not(:disabled) {
   background: var(--color-accent);
-  color: #fff;
+  color: var(--color-bg);
 }
 
 .btn-pill-muted:disabled {
@@ -359,7 +360,7 @@ main label {
 }
 
 .home-content-panel {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.6); /* TODO: add variable if needed */
   padding: 40px;
   line-height: 1.8;
 }
