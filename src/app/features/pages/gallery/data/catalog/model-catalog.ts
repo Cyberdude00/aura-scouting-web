@@ -2,6 +2,7 @@ import { ScoutingModel } from '../scouting-model.types';
 import { slugifyValue } from '../../utils';
 
 import { adan } from '../models/boys/adan.data';
+import { franMazzei } from '../models/boys/fran-mazzei.data';
 import { santiagoZezular } from '../models/boys/santiago-zezular.data';
 import { santiagoPoggi } from '../models/boys/santiago-poggi.data';
 import { salihTopcouglu } from '../models/boys/salih-topcouglu.data';
@@ -37,6 +38,7 @@ import { agosMartinez } from '../models/girls/agos-martinez.data';
 import { marianaArias } from '../models/girls/mariana-arias.data';
 
 const sourceModels: ScoutingModel[] = [
+  franMazzei,
   adan,
   santiagoZezular,
   santiagoPoggi,

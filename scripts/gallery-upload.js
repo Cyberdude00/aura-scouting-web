@@ -34,31 +34,31 @@ function getAllFiles(dirPath, arrayOfFiles = []) {
 }
 
 async function uploadAll() {
-	const files = getAllFiles(MODEL_FOLDER);
-	const modelName = path.basename(MODEL_FOLDER);
-	let allLinks = [];
-	for (const file of files) {
-		// Determina subcarpeta (book, polas, videos, etc)
-		const rel = path.relative(MODEL_FOLDER, file);
-		const parts = rel.split(path.sep);
-		const subfolder = parts.length > 1 ? parts[0] : 'book';
-		const cloudFolder = `${BASE_CLOUDINARY}/${modelName}/${subfolder}`;
-		try {
-			const res = await cloudinary.uploader.upload(file, {
-				folder: cloudFolder,
-				resource_type: file.match(/\.(mp4|mov|avi|mkv|webm)$/i) ? 'video' : 'image',
-				use_filename: true,
-				unique_filename: false,
-				overwrite: true,
-			});
-			allLinks.push(`${subfolder}: ${res.secure_url}`);
-			console.log(`✔️  Subido: ${file} → ${res.secure_url}`);
-		} catch (err) {
-			console.error(`❌ Error subiendo ${file}:`, err.message);
-		}
-	}
-	fs.writeFileSync(OUTPUT, allLinks.join('\n'), 'utf8');
-	console.log(`\nListo! Links guardados en ${OUTPUT}`);
+	       const files = getAllFiles(MODEL_FOLDER);
+	       let allLinks = [];
+	       // Obtener la ruta absoluta de 'models' para calcular la ruta relativa correcta
+	       const MODELS_ROOT = path.resolve(MODEL_FOLDER.split(/models[\\\/]/i)[0] + 'models');
+	       for (const file of files) {
+		       // Ruta relativa desde 'models'
+		       const relFromModels = path.relative(MODELS_ROOT, file);
+		       // Carpeta cloudinary: aura/gallery/models/[relativa desde models]/(sin el nombre del archivo)
+		       const cloudFolder = `${BASE_CLOUDINARY}/${path.dirname(relFromModels).replace(/\\/g, '/')}`;
+		       try {
+			       const res = await cloudinary.uploader.upload(file, {
+				       folder: cloudFolder,
+				       resource_type: file.match(/\.(mp4|mov|avi|mkv|webm)$/i) ? 'video' : 'image',
+				       use_filename: true,
+				       unique_filename: false,
+				       overwrite: true,
+			       });
+			       allLinks.push(`${relFromModels}: ${res.secure_url}`);
+			       console.log(`✔️  Subido: ${file} → ${res.secure_url}`);
+		       } catch (err) {
+			       console.error(`❌ Error subiendo ${file}:`, err.message);
+		       }
+	       }
+	       fs.writeFileSync(OUTPUT, allLinks.join('\n'), 'utf8');
+	       console.log(`\nListo! Links guardados en ${OUTPUT}`);
 }
 
 uploadAll();

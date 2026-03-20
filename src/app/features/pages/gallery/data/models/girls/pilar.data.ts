@@ -3,7 +3,7 @@ import { ScoutingModel } from '../../scouting-model.types';
 export const pilar: ScoutingModel = {
   name: "Pilar",
   gender: "Girls",
-  photo: "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/pilar/polas/pilar_polas_1.jpg",
+  photo: "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/pilar-sampaio/polas/IMG_2503.JPG",
   height: "1.74m",
   measurements: "B 76cm W 63cm H 85cm",
   hair: "Blonde",
@@ -70,7 +70,12 @@ export const pilar: ScoutingModel = {
     "https://res.cloudinary.com/dcxaitngm/image/upload/v1772695510/aura/gallery/models/girls/pilar-sampaio/extra-material/pilar_sampaio_book_extras_31.jpg"
   ],
   polas: [
-    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/pilar/polas/pilar_polas_1.jpg"
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/pilar-sampaio/polas/IMG_2456.JPG",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/pilar-sampaio/polas/IMG_2462.JPG",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/pilar-sampaio/polas/IMG_2483.JPG",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/pilar-sampaio/polas/IMG_2487.JPG",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/pilar-sampaio/polas/IMG_2503.JPG",
+    "https://res.cloudinary.com/dcxaitngm/image/upload/v1771659530/aura/gallery/models/girls/pilar-sampaio/polas/IMG_2507.JPG"
   ],
   extraSnaps: [],
   videos: [

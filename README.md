@@ -59,6 +59,32 @@ https://aurascouting.com/gallery/tailand
 - Configuración de galerías: `src/app/features/pages/gallery/data/groups/agency-galleries.config.ts`
 - Material extra: `src/app/features/pages/gallery/data/catalog/full-material-catalog.ts`
 
+
+import { ScoutingModel } from '../../scouting-model.types';
+
+export const laurencioLeal: ScoutingModel = {
+  name: " ",
+  gender: "",
+  photo: "",
+  height: "",
+  measurements: "",
+  hair: "",
+  eyes: "",
+  shoe: "",
+  book: [],
+  extraMaterial: [],
+  polas: [],
+  extraSnaps: [],
+  videos: [],
+  fullMaterialData: {
+    extraMaterial: [],
+    polas: [,
+    extraSnaps: [],
+    videos: [],
+  },
+  instagram: []
+};
+
 ## Crear nueva galería
 
 1. Agrega bloque en `agency-galleries.config.ts` con `galleryKey`, `galleryName`, y modelos.
