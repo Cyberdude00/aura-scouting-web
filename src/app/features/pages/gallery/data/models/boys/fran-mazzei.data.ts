@@ -3,8 +3,8 @@ import { ScoutingModel } from '../../scouting-model.types';
 export const franMazzei: ScoutingModel = {
   name: "Fran Mazzei",
   gender: "Boys",
-  photo: "https:res.cloudinary.com/dcxaitngm/image/upload/v1773984464/aura/gallery/models/boys/Fran%20Mazzei/Snaps/franco_mazzei_snaps__6.webp",
-  height: "189",
+  photo: "https://res.cloudinary.com/dcxaitngm/image/upload/v1773984464/aura/gallery/models/boys/Fran%20Mazzei/Snaps/franco_mazzei_snaps__6.webp",
+  height: "1.89m",
   measurements: "W 30",
   hair: "Brown",
   eyes: "Blue",
