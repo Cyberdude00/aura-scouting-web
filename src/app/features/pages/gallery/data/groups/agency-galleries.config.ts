@@ -268,19 +268,20 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'mafer', status: 'on', fullbook: 'off' },
       { id: 'victoria', status: 'on', fullbook: 'off' },
       { id: 'genesis', status: 'on', fullbook: 'off' },
+      { id: 'doga-bursali', status: 'on', fullbook: 'off' },
       // Boys
       { id: 'adan', status: 'on', fullbook: 'off' },
       { id: 'alan-marquez', status: 'on', fullbook: 'off' },
       { id: 'angel-bret', status: 'on', fullbook: 'off' },
       { id: 'belisario', status: 'on', fullbook: 'off' },
+      { id: 'bernardo-romano', status: 'on', fullbook: 'off' },
       { id: 'emmanuel', status: 'on', fullbook: 'off' },
       { id: 'joaquin-garcia', status: 'on', fullbook: 'off' },
       { id: 'laurencio-leal', status: 'on', fullbook: 'off' },
       { id: 'lautaro-rodriguez', status: 'on', fullbook: 'off' },
       { id: 'salih-topcouglu', status: 'on', fullbook: 'off' },
       { id: 'santiago-poggi', status: 'on', fullbook: 'off' },
-      { id: 'santiago-zezular', status: 'on', fullbook: 'off' },
-      { id: 'fran-mazzei', status: 'on', fullbook: 'off' }
+      { id: 'santiago-zezular', status: 'on', fullbook: 'off' }
     ]
   },
   {
