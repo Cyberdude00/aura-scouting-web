@@ -293,4 +293,12 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'antonella', status: 'on', fullbook: 'off' }
     ]
   },
+    {
+      galleryKey: 'we-management',
+      galleryName: 'WE MANAGEMENT',
+      modelIds: [
+        { id: 'antonella', status: 'on', fullbook: 'on' },
+        { id: 'angel-bret', status: 'on', fullbook: 'on' }
+      ]
+    },
 ];
