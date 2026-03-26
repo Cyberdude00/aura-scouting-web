@@ -11,6 +11,7 @@ import { laurencioLeal } from './models/boys/laurencio-leal.data';
 import { lautaroRodriguez } from './models/boys/lautaro-rodriguez.data';
 import { lucasTarrago } from './models/boys/lucas-tarrago.data';
 import { manuLlofrein } from './models/boys/manu-llofrein.data';
+import { nachoPerez } from './models/boys/nacho-perez.data';
 import { maximo } from './models/boys/maximo.data';
 import { salihTopcouglu } from './models/boys/salih-topcouglu.data';
 import { santiagoPoggi } from './models/boys/santiago-poggi.data';
@@ -47,6 +48,7 @@ export const galleryModels: ScoutingModel[] = [
   lautaroRodriguez,
   lucasTarrago,
   manuLlofrein,
+  nachoPerez,
   maximo,
   salihTopcouglu,
   santiagoPoggi,
