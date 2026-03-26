@@ -12,6 +12,7 @@ import { lucasTarrago } from '../models/boys/lucas-tarrago.data';
 import { emmanuel } from '../models/boys/emmanuel.data';
 import { bernardoRomano } from '../models/boys/bernardo-romano.data';
 import { lautaroRodriguez } from '../models/boys/lautaro-rodriguez.data';
+import { nachoPerez } from '../models/boys/nacho-perez.data';
 import { belisario } from '../models/boys/belisario.data';
 import { laurencioLeal } from '../models/boys/laurencio-leal.data';
 import { angelBret } from '../models/boys/angel-bret.data';
@@ -20,9 +21,9 @@ import { joaquinGarcia } from '../models/boys/joaquin-garcia.data';
 import { juanToffalo } from '../models/boys/juan-toffalo.data';
 
 import { zoe } from '../models/girls/zoe.data';
+import { moana } from '../models/girls/moana.data';
 import { victoria } from '../models/girls/victoria.data';
 import { pilar } from '../models/girls/pilar.data';
-import { moana } from '../models/girls/moana.data';
 import { mafer } from '../models/girls/mafer.data';
 import { lucianaImoberdorf } from '../models/girls/luciana-imoberdorf.data';
 import { isabelDeutsch } from '../models/girls/isabel-deutsch.data';
@@ -56,6 +57,7 @@ const sourceModels: ScoutingModel[] = [
   alanMarquez,
   joaquinGarcia,
   juanToffalo,
+  nachoPerez,
   zoe,
   victoria,
   pilar,

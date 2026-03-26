@@ -21,7 +21,7 @@
               @if (isVideo(media)) {
                 <video class="gallery-media-cover" [src]="media" muted playsinline preload="metadata"></video>
               } @else {
-                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' book'" loading="lazy">
+                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' book'" loading="lazy" width="320" height="480">
                 <button type="button" class="download-btn gallery-download-btn ui-smooth-transition" (click)="downloadMedia($event, media, i)" aria-label="Download photo" title="Download photo">⬇</button>
               }
             </div>
@@ -42,7 +42,7 @@
               @if (isVideo(media)) {
                 <video class="gallery-media-cover" [src]="media" muted playsinline preload="metadata"></video>
               } @else {
-                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' extra material'" loading="lazy">
+                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' extra material'" loading="lazy" width="320" height="480">
                 <button type="button" class="download-btn gallery-download-btn ui-smooth-transition" (click)="downloadMedia($event, media, i)" aria-label="Download photo" title="Download photo">⬇</button>
               }
             </div>
@@ -63,7 +63,7 @@
               @if (isVideo(media)) {
                 <video class="gallery-media-cover" [src]="media" muted playsinline preload="metadata"></video>
               } @else {
-                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' polas'" loading="lazy">
+                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' polas'" loading="lazy" width="320" height="480">
                 <button type="button" class="download-btn gallery-download-btn ui-smooth-transition" (click)="downloadMedia($event, media, i)" aria-label="Download photo" title="Download photo">⬇</button>
               }
             </div>
@@ -84,7 +84,7 @@
               @if (isVideo(media)) {
                 <video class="gallery-media-cover" [src]="media" muted playsinline preload="metadata"></video>
               } @else {
-                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' extra snaps'" loading="lazy">
+                <img class="gallery-media-cover" [src]="media" [alt]="model.name + ' extra snaps'" loading="lazy" width="320" height="480">
                 <button type="button" class="download-btn gallery-download-btn ui-smooth-transition" (click)="downloadMedia($event, media, i)" aria-label="Download photo" title="Download photo">⬇</button>
               }
             </div>

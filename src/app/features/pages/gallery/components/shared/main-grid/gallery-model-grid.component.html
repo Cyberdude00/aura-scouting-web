@@ -15,7 +15,9 @@
           class="gallery-media-cover"
           [src]="resolveCover(model)"
           [alt]="model.name"
-          loading="lazy"
+          loading="eager"
+          width="320"
+          height="480"
           (error)="onCoverError($event, model)"
         >
         @if (model.ongoingTrip) {
