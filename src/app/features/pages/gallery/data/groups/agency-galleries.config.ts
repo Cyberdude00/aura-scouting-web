@@ -19,6 +19,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
         { id: 'belisario', status: 'on', fullbook: 'on' },
         { id: 'bernardo-romano', status: 'on', fullbook: 'on' },
         { id: 'emmanuel', status: 'on', fullbook: 'on' },
+        { id: 'nacho-perez', status: 'on', fullbook: 'off' },
         { id: 'joaquin-garcia', status: 'on', fullbook: 'on' },
         { id: 'juan-toffalo', status: 'on', fullbook: 'on' },
         { id: 'laurencio-leal', status: 'on', fullbook: 'on' },
@@ -111,6 +112,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'laurencio-leal', status: 'on', fullbook: 'off' },
       { id: 'lautaro-rodriguez', status: 'on', fullbook: 'off' },
       { id: 'maximo', status: 'on', fullbook: 'off' },
+      { id: 'nacho-perez', status: 'on', fullbook: 'off' },
       { id: 'fran-mazzei', status: 'on', fullbook: 'off' },
       { id: 'manu-llofrein', status: 'on', fullbook: 'off' },
       { id: 'belisario', status: 'on', fullbook: 'off' },
@@ -138,6 +140,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'adan', status: 'on', fullbook: 'off' },
       { id: 'angel-bret', status: 'on', fullbook: 'off' },
       { id: 'emmanuel', status: 'on', fullbook: 'off' },
+      { id: 'nacho-perez', status: 'on', fullbook: 'off' },
       { id: 'santiago-poggi', status: 'on', fullbook: 'off' },
       { id: 'alan-marquez', status: 'on', fullbook: 'on' },
       { id: 'belisario', status: 'on', fullbook: 'off' },
@@ -246,6 +249,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'belisario', status: 'on', fullbook: 'off' },
       { id: 'bernardo-romano', status: 'on', fullbook: 'off' },
       { id: 'emmanuel', status: 'on', fullbook: 'off' },
+      { id: 'nacho-perez', status: 'on', fullbook: 'off' },
       { id: 'joaquin-garcia', status: 'on', fullbook: 'off' },
       { id: 'laurencio-leal', status: 'on', fullbook: 'off' },
       { id: 'lautaro-rodriguez', status: 'on', fullbook: 'off' },
@@ -277,6 +281,7 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
       { id: 'belisario', status: 'on', fullbook: 'off' },
       { id: 'bernardo-romano', status: 'on', fullbook: 'off' },
       { id: 'emmanuel', status: 'on', fullbook: 'off' },
+      { id: 'nacho-perez', status: 'on', fullbook: 'off' },
       { id: 'joaquin-garcia', status: 'on', fullbook: 'off' },
       { id: 'laurencio-leal', status: 'on', fullbook: 'off' },
       { id: 'lautaro-rodriguez', status: 'on', fullbook: 'off' },
@@ -290,7 +295,8 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
     galleryName: 'new',
     modelIds: [
       { id: 'fran-mazzei', status: 'on', fullbook: 'off' },
-      { id: 'antonella', status: 'on', fullbook: 'off' }
+      { id: 'antonella', status: 'on', fullbook: 'off' },
+      { id: 'nacho-perez', status: 'on', fullbook: 'off' }
     ]
   },
     {

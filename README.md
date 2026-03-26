@@ -1,3 +1,23 @@
+## Agregar o actualizar material de un modelo
+
+1. Coloca el nuevo material (fotos, polas, videos, etc.) en la carpeta correspondiente del modelo dentro de:
+   `src/app/features/pages/gallery/data/gallery-model-config/models/<grupo>/<Nombre Modelo>`
+
+2. Ejecuta el siguiente comando para subir el material a Cloudinary:
+   ```bash
+   node scripts/gallery-upload.js "src/app/features/pages/gallery/data/gallery-model-config/models/<grupo>/<Nombre Modelo>"
+   ```
+   - Ejemplo para Fran Mazzei:
+     ```bash
+     node scripts/gallery-upload.js "src/app/features/pages/gallery/data/gallery-model-config/models/boys/Fran Mazzei"
+     ```
+
+3. Espera a que termine y revisa el archivo `links-subidos-cloudinary.txt` para obtener los nuevos links.
+
+4. Copia los links necesarios y pégalos en el archivo de datos del modelo correspondiente:
+   `src/app/features/pages/gallery/data/models/<grupo>/<nombre-modelo>.data.ts`
+
+5. Guarda y verifica los cambios en la galería.
 # Links de galerías
 
 https://aurascouting.com/gallery/boys

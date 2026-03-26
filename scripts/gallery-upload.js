@@ -1,5 +1,6 @@
 // Script para subir todo el material optimizado de un modelo a Cloudinary y guardar los links
-// Requiere: npm install cloudinary
+// Requiere: npm install cloudinary dotenv
+require('dotenv').config();
 const cloudinary = require('cloudinary').v2;
 const fs = require('fs');
 const path = require('path');
