@@ -170,8 +170,10 @@ export const emmanuel: ScoutingModel = {
         "https://res.cloudinary.com/dcxaitngm/image/upload/v1772654826/aura/gallery/models/boys/emmanuel/extra-polas/emmanuel_echavarria_snaps_extra1.jpg"
     ],
     videos: [
-        "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698453/aura/gallery/models/boys/emmanuel/videos/emmanuel-walk.mp4",
-        "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698449/aura/gallery/models/boys/emmanuel/videos/ed76ec1c-e233-4b28-8a72-2e57bf1a3f7a.mp4"
+       // "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698453/aura/gallery/models/boys/emmanuel/videos/emmanuel-walk.mp4",
+       // "https://res.cloudinary.com/dcxaitngm/video/upload/v1772698449/aura/gallery/models/boys/emmanuel/videos/ed76ec1c-e233-4b28-8a72-2e57bf1a3f7a.mp4"
+        "https://res.cloudinary.com/dcxaitngm/video/upload/v1774495783/IMG_3902_vipwjo.mov",
+        "https://res.cloudinary.com/dcxaitngm/video/upload/v1774495700/presentation_vid_rtsagf.mp4"
     ]
   },
   instagram: []
