@@ -301,4 +301,11 @@ export const agencyGalleriesConfig: AgencyGalleryConfig[] = [
         { id: 'angel-bret', status: 'on', fullbook: 'on' }
       ]
     },
+    {
+      galleryKey: 'm-and-p',
+      galleryName: 'M&P',
+      modelIds: [
+        { id: 'emmanuel', status: 'on', fullbook: 'on' }
+      ]
+    },
 ];
